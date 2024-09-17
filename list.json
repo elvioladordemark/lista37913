@@ -3,15 +3,7 @@
 	{
     "name": "🇵🇾TIGO EVENTOS",
     "samples": [
-{
-                "name": "EN VIVO TIGO",
-                "uri": "kzHF+dNIwIikV13X0BkewcYJ0Vs5Su+glceWAgN/y9SsvyRhkN9ttf+OKBvgSsl9o0Z4NsacsshgtwPA5I98IWOsVmseRy2+8t9a429ZGIw=",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDI+ntws9dC5xyh1enKiP79cxBizd9yL7GvXhEHIYsQWKde3879daJOX2KwV5R4Hces13Zv2FSAd9i1FgpysCn2usvJLVFnwEYXSF699T6LfUFNWTgKA03IA8FS3g7ImXzg==",
-                "icono": "https://i.postimg.cc/br6d3j2D/SDG.jpg" 
-	
-},
-       
+
 	    {
                 "name": "TIGO SPORTS SOLO EVENTOS 1",
                 "uri": "JR37QgRPtbHFikQ6u0C4Qi+FiZCkKFytDe1FnOWc0y21Kz1chRRZ7j2QLeG1r53ub0Hl7+eeVZ2j7RhhZRG0cDnwLIlZzpiBWS8kETOQS8ERAMWwWraRj72qgsxx6vT3",
@@ -53,7 +45,15 @@
                 "icono": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/2d/e9/bd/2de9bd19-2dc4-f593-25ea-12304bdf2258/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png"
 	
 	 },
-	   
+	   {
+                "name": "EN VIVO TIGO",
+                "uri": "kzHF+dNIwIikV13X0BkewcYJ0Vs5Su+glceWAgN/y9SsvyRhkN9ttf+OKBvgSsl9o0Z4NsacsshgtwPA5I98IWOsVmseRy2+8t9a429ZGIw=",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDI+ntws9dC5xyh1enKiP79cxBizd9yL7GvXhEHIYsQWKde3879daJOX2KwV5R4Hces13Zv2FSAd9i1FgpysCn2usvJLVFnwEYXSF699T6LfUFNWTgKA03IA8FS3g7ImXzg==",
+                "icono": "https://i.postimg.cc/br6d3j2D/SDG.jpg" 
+	
+},
+       
 	       {
                 "name": "EVENTOS DEPORTIVOS",
                 "uri": "pDCcjsLroFh0mqyxHqlwokUJglW8OIAcvdi65WubmySlag0ByzaoaCCVaTQR+Hj99y+zTSpobS62IR96cGPxaGOsVmseRy2+8t9a429ZGIw=",
