@@ -1190,14 +1190,10 @@
       },
       {
         "name": "GOLDEN EDGE",
-        "uri": "SFSaC4OcAs4ypHAgSgnkJkEaI+KXQdFBdMxnbbYwXutHgjbszlJzcjeckFAMQxBT",
+        "uri": "3+0nMP7ZyqmQLbb17jNt2LMBh5Zc+FJJODwVEzqwFefIwoV6bY2AoGQogK7yAi7y0h/ez1eitlW6ipIsYbrZEw==",
         "icono": "https://i.postimg.cc/NMw9hGm8/descarga-2.png"
       },
-	    {
-        "name": "GOLDEN PLUS",
-        "uri": "SFSaC4OcAs4ypHAgSgnkJkEaI+KXQdFBdMxnbbYwXuslBiwwHdROI0OkQyMG57+N",
-        "icono": "https://i.postimg.cc/fypSrWbN/descarga-1.png"
-      },
+
 
       {
         "name": "WARNER CHANNEL",
@@ -1799,136 +1795,40 @@
        }
 	           ]
   },
+
 {
-    "name": "🎥CINES 24/7",
+    "name": "🎥CANALES 24/7 VIP",
     "samples": [
-     {
-      "name": "CINE ACCION",
-        "uri": "xwQPvJyXmkuh98xfjF/vvfiD1GPKI9ub8hwZEtFjgXHDaKeiBk/0G2/DVVUciHSA0Af0a1QC0MYniOSLNznCWA==",
-        "icono": "https://i.postimg.cc/V6HKhMzB/CINEMA.jpg"
-      },
-	     {
-      "name": "CINE INFANTIL",
-        "uri": "xwQPvJyXmkuh98xfjF/vvfiD1GPKI9ub8hwZEtFjgXHaviPnQgzHY2qpEhHhvxvS0Af0a1QC0MYniOSLNznCWA==",
-        "icono": "https://i.postimg.cc/V6HKhMzB/CINEMA.jpg"
-      },
-	     {
-      "name": "CINE SAGAS HD",
-        "uri": "xwQPvJyXmkuh98xfjF/vvfiD1GPKI9ub8hwZEtFjgXEEuhu1+oMWOR9EiarrJosh0Af0a1QC0MYniOSLNznCWA==",
-        "icono": "https://i.postimg.cc/V6HKhMzB/CINEMA.jpg"
-      },
-	     {
-      "name": "CINE TERROR",
-        "uri": "xwQPvJyXmkuh98xfjF/vvfiD1GPKI9ub8hwZEtFjgXF+YtsnFq6Yo6uxAD0Onqn+0Af0a1QC0MYniOSLNznCWA==",
-        "icono": "https://i.postimg.cc/V6HKhMzB/CINEMA.jpg"
-      },
-	     {
-      "name": "CINE ACCION SAGAS",
-        "uri": "xwQPvJyXmkuh98xfjF/vvfiD1GPKI9ub8hwZEtFjgXFnpPZiMV4AV+yD9cJFS+Ry0Af0a1QC0MYniOSLNznCWA==",
-        "icono": "https://i.postimg.cc/V6HKhMzB/CINEMA.jpg"
-      },
-	     {
-      "name": "CINE ROMANCES",
-        "uri": "xwQPvJyXmkuh98xfjF/vvfiD1GPKI9ub8hwZEtFjgXFLPUkvfhRQNR1GKxpCriuy0Af0a1QC0MYniOSLNznCWA==",
-        "icono": "https://i.postimg.cc/V6HKhMzB/CINEMA.jpg"
-      },
-	     {
-      "name": "CINE FICCION/FANTASIA",
-        "uri": "14DmxH9lbHtFLnB+tSKtPXy6FiT+dytS3m4ip3D3/TKCuXk49ux5txNPEVdXExuKw7tboSwT0Tz/rNp0jzmEAg==",
-        "icono": "https://i.postimg.cc/V6HKhMzB/CINEMA.jpg"
-      },
-	     {
-      "name": "CINE INFANTIL SAGAS",
-        "uri": "14DmxH9lbHtFLnB+tSKtPXy6FiT+dytS3m4ip3D3/TKCuXk49ux5txNPEVdXExuKw7tboSwT0Tz/rNp0jzmEAg==",
-        "icono": "https://i.postimg.cc/V6HKhMzB/CINEMA.jpg"
-      },
-	     {
-      "name": "CINE FICCION/FANTASIA 2",
-        "uri": "14DmxH9lbHtFLnB+tSKtPXy6FiT+dytS3m4ip3D3/TKCuXk49ux5txNPEVdXExuKw7tboSwT0Tz/rNp0jzmEAg==",
-        "icono": "https://i.postimg.cc/V6HKhMzB/CINEMA.jpg"
-      },
-	     {
-      "name": "CINE COMEDIA",
-        "uri": "14DmxH9lbHtFLnB+tSKtPXy6FiT+dytS3m4ip3D3/TKCuXk49ux5txNPEVdXExuKw7tboSwT0Tz/rNp0jzmEAg==",
-        "icono": "https://i.postimg.cc/V6HKhMzB/CINEMA.jpg"
-      },
-	     {
-      "name": "CINE ZOMBIS",
-        "uri": "14DmxH9lbHtFLnB+tSKtPXy6FiT+dytS3m4ip3D3/TKCuXk49ux5txNPEVdXExuKw7tboSwT0Tz/rNp0jzmEAg==",
-        "icono": "https://i.postimg.cc/V6HKhMzB/CINEMA.jpg"
-      },
-	     {
-      "name": "CINE 2023/2024",
-        "uri": "14DmxH9lbHtFLnB+tSKtPXy6FiT+dytS3m4ip3D3/TKCuXk49ux5txNPEVdXExuKw7tboSwT0Tz/rNp0jzmEAg==",
-        "icono": "https://i.postimg.cc/V6HKhMzB/CINEMA.jpg"
-      },
-	 {
-      "name": "CINE COMEDIA 2",
-        "uri": "14DmxH9lbHtFLnB+tSKtPXy6FiT+dytS3m4ip3D3/TKCuXk49ux5txNPEVdXExuKw7tboSwT0Tz/rNp0jzmEAg==",
-        "icono": "https://i.postimg.cc/V6HKhMzB/CINEMA.jpg"
-      },
-	     {
-      "name": "CINE TERROR SAGAS",
-        "uri": "14DmxH9lbHtFLnB+tSKtPXy6FiT+dytS3m4ip3D3/TKCuXk49ux5txNPEVdXExuKw7tboSwT0Tz/rNp0jzmEAg==",
-        "icono": "https://i.postimg.cc/V6HKhMzB/CINEMA.jpg"
-      }
-	
-          ]
-  },
-{
-    "name": "🎥CANALES 24/7",
-    "samples": [
-     {
-      "name": "LOS SIMPSONS",
-        "uri": "14DmxH9lbHtFLnB+tSKtPXy6FiT+dytS3m4ip3D3/TKCuXk49ux5txNPEVdXExuKw7tboSwT0Tz/rNp0jzmEAg==",
-        "icono": "http://imgfz.com/i/MbfHth4.jpeg"
-      },  
-	 {
-      "name": "TOM Y JERRY",
-        "uri": "xwQPvJyXmkuh98xfjF/vvfiD1GPKI9ub8hwZEtFjgXHA3jSeXSN3QzOyZJuW4KmO0Af0a1QC0MYniOSLNznCWA==",
-        "icono": "https://i.postimg.cc/ZnGQg3wH/TOMYJERRY.jpg"
-      },
+
+
 	    {
-      "name": "CORAJE EL PERRO",
-        "uri": "xwQPvJyXmkuh98xfjF/vvfiD1GPKI9ub8hwZEtFjgXFyFexbrA+8ew2ud8xiRg0h0Af0a1QC0MYniOSLNznCWA==",
+      "name": "CORAJE EL PERRO COBARDE",
+        "uri": "3+0nMP7ZyqmQLbb17jNt2LMBh5Zc+FJJODwVEzqwFefIwoV6bY2AoGQogK7yAi7y6LdvMGijbze70DtCjS6bKw==",
         "icono": "https://i.postimg.cc/FKxVXcHp/CORAJE.jpg"
       }, 
-   {
-      "name": "BOB ESPONJA",
-        "uri": "xwQPvJyXmkuh98xfjF/vvfiD1GPKI9ub8hwZEtFjgXGa9X0ToYuTJNaDzxF2nA6Utj0VhoFjG61dLDlAvv98BA==",
-        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7sPeKteaVXWrhljJH5dAGqIX7pmeheWllWcJKGYAcxgCfIO5d"
-      },
+
     {
-      "name": "DRGON BALL",
-        "uri": "xwQPvJyXmkuh98xfjF/vvfiD1GPKI9ub8hwZEtFjgXHbXBVZ1MeGP7HAjZ14fBs50Af0a1QC0MYniOSLNznCWA==",
+      "name": "DRAGON BALL",
+        "uri": "3+0nMP7ZyqmQLbb17jNt2LMBh5Zc+FJJODwVEzqwFefIwoV6bY2AoGQogK7yAi7yFknZmySgphrzIMk1c+SS0Q==",
         "icono": "https://i.postimg.cc/dQrmPcZV/dragonball.jpg"
       },
   {
       "name": "DRGON BALL GT",
-        "uri": "xwQPvJyXmkuh98xfjF/vvfiD1GPKI9ub8hwZEtFjgXEz6MZoUQgAd1NQNfpzarWo0Af0a1QC0MYniOSLNznCWA==",
+        "uri": "3+0nMP7ZyqmQLbb17jNt2LMBh5Zc+FJJODwVEzqwFefIwoV6bY2AoGQogK7yAi7yjfBqYEMd4qmsaKkkW0a/gA==",
         "icono": "https://i.postimg.cc/RF6F5mPC/dragonball-GT.jpg"
       },
           
 {
       "name": "DRGON BALL SUPER",
-        "uri": "xwQPvJyXmkuh98xfjF/vvfiD1GPKI9ub8hwZEtFjgXGIkMUe/6UURh6H4XauAkSA0Af0a1QC0MYniOSLNznCWA==",
+        "uri": "3+0nMP7ZyqmQLbb17jNt2LMBh5Zc+FJJODwVEzqwFefIwoV6bY2AoGQogK7yAi7yg4ztshrNlaHi4KHHrsRlWA==",
         "icono": "http://imgfz.com/i/36uZ9fb.jpeg"
       },
-{
-      "name": "EL SEÑOR DE LOS CIELOS",
-        "uri": "xwQPvJyXmkuh98xfjF/vvfiD1GPKI9ub8hwZEtFjgXEZOEY7036vPdAP8HKukLGI0Af0a1QC0MYniOSLNznCWA==",
-        "icono": "https://i.postimg.cc/4x0qrDnw/se-or-de-los-cielos.jpg"
-      },   
-	{
-      "name": "PABLO ESCOBAR",
-        "uri": "14DmxH9lbHtFLnB+tSKtPTxX9X1FG97GHbxreXeG0cQhXGVG8MWV92peUpo+2FsLkp2L1Hc4TkPDXuuSMdxh50ErqNF7Rf2zkwfEE/XBq8s=",
-        "icono": "https://i.postimg.cc/MZLWR572/images-12.jpg"
-      },     
+
 
 
       {
       "name": "EL CHAPULIN COLORADO",
-        "uri": "xwQPvJyXmkuh98xfjF/vvfiD1GPKI9ub8hwZEtFjgXEY/J2b22jrjoIL0qsBbVdl0Af0a1QC0MYniOSLNznCWA==",
+        "uri": "3+0nMP7ZyqmQLbb17jNt2LMBh5Zc+FJJODwVEzqwFefIwoV6bY2AoGQogK7yAi7yitHb81BPMlgQUN1XVaqVww==",
         "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjR78mrOm9s_hg-PsixcSJ1Rcxa28xvUdiY7sa-AoIru7d6AM4"
       },
 
@@ -1936,32 +1836,64 @@
   
       {
       "name": "EL CHAVO DEL 8",
-        "uri": "xwQPvJyXmkuh98xfjF/vvfiD1GPKI9ub8hwZEtFjgXHICPG6PWEcUo5q53X/Til50Af0a1QC0MYniOSLNznCWA==",
+        "uri": "3+0nMP7ZyqmQLbb17jNt2LMBh5Zc+FJJODwVEzqwFefIwoV6bY2AoGQogK7yAi7yKmpIQALNnupA9Q10/J/hOA==",
         "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8aBSvwA5eGpzwrB2elmFM9zsUWUyG1RImLV9sl0c8rqSf0PRx"
       },
 
      {
       "name": "CHESPIRITO",
-        "uri": "xwQPvJyXmkuh98xfjF/vvfiD1GPKI9ub8hwZEtFjgXGlxbymO30BJDoyGixTTu6o0Af0a1QC0MYniOSLNznCWA==",
+        "uri": "3+0nMP7ZyqmQLbb17jNt2LMBh5Zc+FJJODwVEzqwFefIwoV6bY2AoGQogK7yAi7yMgfPLl+WFL86wXi8ZaFHiA==",
         "icono": "https://www.telegratishd.com/imge/chespirito.png"
       },
      
      {
-      "name": "CORRE CAMINOS",
-        "uri": "xwQPvJyXmkuh98xfjF/vvfiD1GPKI9ub8hwZEtFjgXFdMXy3mo2rPiaRRVMbOWjh0Af0a1QC0MYniOSLNznCWA==",
-        "icono": "https://www.telegratishd.com/imge/correcaminos.png"
+      "name": "MICKEY MOUSE",
+        "uri": "3+0nMP7ZyqmQLbb17jNt2LMBh5Zc+FJJODwVEzqwFefIwoV6bY2AoGQogK7yAi7y3yaVKsuKfCOh9Lzu7YeDBw==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Mickey_Mouse_%28poster_version%29.svg/1200px-Mickey_Mouse_%28poster_version%29.svg.png"
       },
- 
+     
+    {
+      "name": "LOS PITUFOS",
+        "uri": "3+0nMP7ZyqmQLbb17jNt2LMBh5Zc+FJJODwVEzqwFefIwoV6bY2AoGQogK7yAi7ymK0jS79+C9ZBkla50qxaeQ==",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRU7EGChd7I3rtAbkKLXXU6LhhFASubx_rj0SF8sjiQNyO9M5hH83F1RXkhAnN5SfwgrA3mv_YAIRvFVyPGA1XfaekOEAVJiCXiN73DGA"
+      },
+	        {
+      "name": "BEN 10",
+        "uri": "3+0nMP7ZyqmQLbb17jNt2LMBh5Zc+FJJODwVEzqwFefIwoV6bY2AoGQogK7yAi7ysjplJ6Yy6C/Q+6cyxYPdnw==",
+        "icono": "https://yt3.googleusercontent.com/ytc/AIdro_mXNcils4UctEBPfyRrLMYmRDHhzQG-AFUjB9mckVomflI=s900-c-k-c0x00ffffff-no-rj"
+      },
+	        {
+      "name": "PEPPA PIG",
+        "uri": "3+0nMP7ZyqmQLbb17jNt2LMBh5Zc+FJJODwVEzqwFefIwoV6bY2AoGQogK7yAi7ypR/TJscM2LCH46f1qpUzJA==",
+        "icono": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/13FD/production/_99171150_peppapigpa.jpg.webp"
+      },
+	        {
+      "name": "PATRULLA CANINA",
+        "uri": "3+0nMP7ZyqmQLbb17jNt2LMBh5Zc+FJJODwVEzqwFefIwoV6bY2AoGQogK7yAi7yhZI1W9FQz1ff5GN6CvBFZQ==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR16yuKF-mmkLodLGbqLzAT5vzMU0IFgYucbmXEfJWmie3HvgX1vx1y9Ullx_4daeEUrW31QXRTwzpXJsNbSm4JrTl0t51Xbkuqy0rrA1A"
+      },
+	        {
+      "name": "JHONNY BRAVO",
+        "uri": "3+0nMP7ZyqmQLbb17jNt2LMBh5Zc+FJJODwVEzqwFefIwoV6bY2AoGQogK7yAi7yFxb0ZZFtofyZ8na27Gn3Ow==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzyE2u6lKrMtXVElKBINfafGN5efLgCghXAYetaKaH5K0_u4ChSI6JlG2dYNX6dqNkx8upCJznBvpxlUDiSJE61rLFPgOL2WWqCt7l-oU"
+      },
+	        {
+      "name": "KUNG FU PANDA",
+        "uri": "3+0nMP7ZyqmQLbb17jNt2LMBh5Zc+FJJODwVEzqwFefIwoV6bY2AoGQogK7yAi7yKAJK5RAp+qS89hSoT9JQ/A==",
+        "icono": "https://m.media-amazon.com/images/S/pv-target-images/cb0c3a998c4e5a5454efbda8cb13c21ecb98a9de697b2d980fd33dbeecfc9ab9.jpg"
+      },
+	        {
+      "name": "DORA LA EXPLORADORA",
+        "uri": "3+0nMP7ZyqmQLbb17jNt2LMBh5Zc+FJJODwVEzqwFefIwoV6bY2AoGQogK7yAi7yfoDqyz+gBz21hKR9cTJRkw==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRiyf-8ZeH4XvBpS3GvQzx4jwEn-rgqED7_L5COiDJ9WZsYROUGKLkjkymSvrkmsaZo7-LQ3VkocYipH8dkbmVZH7fsPhr4omdmON7Qg"
+      },
+	
 	     {
       "name": "LONEY TOONS",
-        "uri": "xwQPvJyXmkuh98xfjF/vvfiD1GPKI9ub8hwZEtFjgXGmoGn2fQBcyxWNkcXq6N7ctj0VhoFjG61dLDlAvv98BA==",
+        "uri": "3+0nMP7ZyqmQLbb17jNt2LMBh5Zc+FJJODwVEzqwFefIwoV6bY2AoGQogK7yAi7yTa86C4/W4CBFgvMSyYYL5A==",
         "icono": "https://www.telegratishd.com/imge/looneytoons.png"
-      },
-	     {
-      "name": "ALF",
-        "uri": "xwQPvJyXmkuh98xfjF/vvfiD1GPKI9ub8hwZEtFjgXECZsJn/AI6Yrixk6UsJQyztj0VhoFjG61dLDlAvv98BA==",
-        "icono": "https://www.telegratishd.com/imge/alf.png"
       }
+	
 
     ]
   },
