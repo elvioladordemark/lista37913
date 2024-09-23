@@ -703,22 +703,15 @@
 	{
       
         "name": "DIRECTV SPORTS 1",
-        "uri": "xwQPvJyXmkuh98xfjF/vvfiD1GPKI9ub8hwZEtFjgXHz6T0f2dndEDN/wV2Xvu/T0Af0a1QC0MYniOSLNznCWA==",
+        "uri": "c8dznZikVfQgSCCQfde+2u1yM09Zlih8lt0hzHRASmWI//sWr+g4URsoxkm6n2U25ZLXrp9xJ/qV7DGQYU54qg==",
         "icono": "https://i.postimg.cc/L5MrJsXQ/images-4.jpg"
       }, 
       {
       
         "name": "DIRECTV SPORTS 2",
-        "uri": "Aa6WojsK/da8AcBh+LpuqWx6okPjJJG2f33UaEntvlQUJMUByRFSR6RQw7AssmFN",
+        "uri": "c8dznZikVfQgSCCQfde+2u1yM09Zlih8lt0hzHRASmWI//sWr+g4URsoxkm6n2U2S/zyCktkWAGgsDwAdT4SHg==",
         "icono": "https://i.postimg.cc/L5MrJsXQ/images-4.jpg"
-      },
-	    {
-      
-        "name": "DIRECTV SPORTS PLUS",
-        "uri": "Aa6WojsK/da8AcBh+LpuqRkCho5JuR3ovpvjCIvM/7j77TISYbLBTz4N0jQUrTx8",
-        "icono": "https://i.postimg.cc/0QP93xRS/Direc-TV-Sports-Plus-fotor-bg-remover-2024072811554.png"
       }
-	
    
     ]
   },
@@ -1799,6 +1792,11 @@
 {
     "name": "🎥CANALES 24/7 VIP",
     "samples": [
+	    {
+      "name": "LOS SIMPSONS",
+        "uri": "c8dznZikVfQgSCCQfde+2u1yM09Zlih8lt0hzHRASmWI//sWr+g4URsoxkm6n2U2oQbP6APao/fjENg8f/YN3Q==",
+        "icono": "https://m.media-amazon.com/images/S/pv-target-images/16af05e8c93d21a9e8999206d8371a929c3348d6509907b7b18b982732bb748e._SX1080_FMjpg_.jpg"
+      }, 
 
 
 	    {
