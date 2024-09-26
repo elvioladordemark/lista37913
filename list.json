@@ -621,15 +621,10 @@
 	    {
       
         "name": "MOVISTAR DEPORTES",
-        "uri": "SXtLXtMFO8JMwzlXpElji4OoUWRa7knyJxris8hebtWz3HP/9nH54l1e3leGUiQvY6xWax5HLb7y31rjb1kYjA==",
+        "uri": "c8dznZikVfQgSCCQfde+2u1yM09Zlih8lt0hzHRASmWI//sWr+g4URsoxkm6n2U2ABqjatQHBH+Gb2qQRF1ROA==",
         "icono": "https://i.postimg.cc/Hnj9P4Dn/movistardeportes.jpg"
       },
-	       {
-      
-        "name": "MOVISTAR LIGA DE CAMPEONES",
-        "uri": "SXtLXtMFO8JMwzlXpElji0gM2EKIOdX2d5wPh6EOmtEOAgQjjFXXeaX4Mzy+08OeY6xWax5HLb7y31rjb1kYjA==",
-        "icono": "https://i.postimg.cc/x8cMffd1/descarga-6.png"
-      },
+
 	    {
       
         "name": "MOVISTR LA LIGA",
@@ -704,6 +699,12 @@
         "name": "DIRECTV SPORTS 2",
         "uri": "c8dznZikVfQgSCCQfde+2u1yM09Zlih8lt0hzHRASmWI//sWr+g4URsoxkm6n2U2S/zyCktkWAGgsDwAdT4SHg==",
         "icono": "https://i.postimg.cc/L5MrJsXQ/images-4.jpg"
+      },
+	       {
+      
+        "name": "DIRECTV SPORTS PLUS",
+        "uri": "3+0nMP7ZyqmQLbb17jNt2LMBh5Zc+FJJODwVEzqwFefIwoV6bY2AoGQogK7yAi7ytA/t6bAvXprBPTlVLSVVsg==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png"
       }
    
     ]
