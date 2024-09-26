@@ -713,19 +713,7 @@
     "name": "⚽ BRASIL DEPORTES",
     "samples": [
      
-     {
-                "name": "ESPN BRASIL",
-                "uri": "14DmxH9lbHtFLnB+tSKtPXy6FiT+dytS3m4ip3D3/TKCuXk49ux5txNPEVdXExuKgEWqq55Iuj9skdS8xmeqqA==",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
-                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
-            },
-        {
-      
-        "name": "SPORTV 1",
-        "uri": "ClWhyLATjj5UEXxxNN46aJS2BNTZRF9cp6oY2YArWkAEKILh6lpQcsVDMDlqGYAnJUE4bKDa6k6/sp00dCcDKl+NCnQCJn/BKH/hqOf87/E=",
-        "icono": "https://i.postimg.cc/gkn3SNHN/SPORTV.png"
-      },
+
 	      {
         "name": "PREMIERE",
         "uri": "L0h+CqzxHHvc8VQ6fnRHXABXZps3JYhEo1saSVpdCIVZnwc+ZY70qM9tOhSNITQFplX69jlk7vxvpsqRn6vBc57x4mTW3WHMDQSflZ/3d9oXQUc/vf5HjYHJmLt+MX000bhTVAYNfkYGMT3S61WR4vEg6wDXZ0soHgXouE5BK/U=",
