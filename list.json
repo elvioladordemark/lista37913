@@ -1,12 +1,12 @@
 [
   {
 
-    "name": "🏆 EVENTOS TIGO, APP ORIGINAL",
+    "name": "🏆 TIGO SPORTS EVENTOS",
     "samples": [
    
 
 	    {
-                "name": "TIGO SPORTS SOLO EVENTOS 1",
+                "name": "TIGO EVENTOS 1",
                 "uri": "JR37QgRPtbHFikQ6u0C4Qi+FiZCkKFytDe1FnOWc0y21Kz1chRRZ7j2QLeG1r53ub0Hl7+eeVZ2j7RhhZRG0cDnwLIlZzpiBWS8kETOQS8ERAMWwWraRj72qgsxx6vT3",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDMm+z+hs9olrBeUNdtUkMNnun4goYZ8JicI85QJRJwNcJeNdTCquHimO6zGFZYjNWI4YNlr+7Tp2QGrivwasc5VDnr/DwDnoTyzc8xUEf3CWnMyw+y+TkjmaRY12FuKFuQ==",
@@ -15,7 +15,7 @@
 	    
                  
          {
-                "name": "TIGO SPORTS SOLO EVENTOS 2",
+                "name": "TIGO EVENTOS 2",
                 "uri": "5YuRrH8HYuN6v8YTnXztzFy9OcUl5M/1mfftcx4NnbyXteoYbyuavT4uiReRXqjhoK5tBelqOOpVhygi7XXC8EbAdNArSouZciDhajG/tYQRAMWwWraRj72qgsxx6vT3",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDI+ntws9dC5xyh1enKiP79cxBizd9yL7GvXhEHIYsQWKde3879daJOX2KwV5R4Hces13Zv2FSAd9i1FgpysCn2usvJLVFnwEYXSF699T6LfUFNWTgKA03IA8FS3g7ImXzg==",
@@ -23,53 +23,13 @@
 	
 	 },
 	    {
-                "name": "TIGO SPORTS SOLO EVENTOS 3",
+                "name": "TIGO EVENTOS 3",
                 "uri": "+3xkNmCMQArXiQ5Op1rZks2mjWrHcEs8BuI+c4t7J4tc5Z2DGtUOQTCoHyiIf/m/ULjVbjpnm8tAiXLI7IbvLdEJXa8Lla0y0gahALPze+ARAMWwWraRj72qgsxx6vT3",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDHlvdsvhmLJevI32Zt9GoAZSIm180eFTMClABP8/a9gpCJ//zWGQq7RCECCM+DuOBC+iCVAsKMo6Sw8iGetIFRFp5+jazDK5COs79r96RCwpidfbpcR44IWWQch3JEWdYw==",
                 "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
-            },
-	       {
-                "name": "TIGO SPORTS 24/7 E INTERMEDIA",
-                "uri": "Nzr0f3c/F/3kCktfUazDEf8lBUIaYhfRF/N/nOw3lmpk4tedhIsBYOy35KVKZJkTq5bpadN6GyUbZGXf1eVEJOxSr9GrOGcPZBSCDd5F7Pf5HC9PiD0U2ARG3WKrvTaAM+lFGui8GOBI5HmttLEKg1RyklUSNx3dYr4VTJNvQ1Frp7szYVNWKUOvB5rbBtokkQwnCOaf4rsNV3beA6Zqs5hPsSI4U58p3zRbo0UXBXsF0vf+OsCpS3lcCieQ8pQv",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDI+ntws9dC5xyh1enKiP79cxBizd9yL7GvXhEHIYsQWKde3879daJOX2KwV5R4Hces13Zv2FSAd9i1FgpysCn2usvJLVFnwEYXSF699T6LfUFNWTgKA03IA8FS3g7ImXzg==",
-                "icono": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/2d/e9/bd/2de9bd19-2dc4-f593-25ea-12304bdf2258/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png"
-	
-	 },
-	          
-	    {
-                "name": "TIGO PLUS 24/7 E INTERMEDIA",
-                "uri": "tmOM/3z8Xm9VPdC7bO9SnnXagFrO4rPFjKTkOwH2IxrqpZ7fkCC4iHiIAIoqLO6enfIIaDSLYNVJBto7tvAluqGlxZBbjPwA1CHRy5fecL5kVayTlijFsn6kvX4FGr28TFo8LWvW71i2Ma8D0EEMJpAw7V4qhHZHrhkFHTjXgARigFC3fvuwoOUMPhInSp5RKThnqtOu9uVBFvwdIjee/RWlTHFxxlBN+AAAVg3NcabDqNQekyHpFfkqaYCibu/1",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDI+ntws9dC5xyh1enKiP79cxBizd9yL7GvXhEHIYsQWKde3879daJOX2KwV5R4Hces13Zv2FSAd9i1FgpysCn2usvJLVFnwEYXSF699T6LfUFNWTgKA03IA8FS3g7ImXzg==",
-                "icono": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/2d/e9/bd/2de9bd19-2dc4-f593-25ea-12304bdf2258/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png"
-	
-	 },
-	   {
-                "name": "EN VIVO TIGO",
-                "uri": "kzHF+dNIwIikV13X0BkewcYJ0Vs5Su+glceWAgN/y9SsvyRhkN9ttf+OKBvgSsl9o0Z4NsacsshgtwPA5I98IWOsVmseRy2+8t9a429ZGIw=",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDI+ntws9dC5xyh1enKiP79cxBizd9yL7GvXhEHIYsQWKde3879daJOX2KwV5R4Hces13Zv2FSAd9i1FgpysCn2usvJLVFnwEYXSF699T6LfUFNWTgKA03IA8FS3g7ImXzg==",
-                "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png" 
-	
-},
-	     {
-                "name": "EN VIVO TIGO 2",
-                "uri": "pDCcjsLroFh0mqyxHqlwokUJglW8OIAcvdi65WubmySlag0ByzaoaCCVaTQR+Hj99y+zTSpobS62IR96cGPxaGOsVmseRy2+8t9a429ZGIw=",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDI+ntws9dC5xyh1enKiP79cxBizd9yL7GvXhEHIYsQWKde3879daJOX2KwV5R4Hces13Zv2FSAd9i1FgpysCn2usvJLVFnwEYXSF699T6LfUFNWTgKA03IA8FS3g7ImXzg==",
-                "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png" 
-	
-},
-       
-	       {
-                "name": "EVENTOS DEPORTIVOS NACIONAL B",
-                "uri": "6JSLnsyzZwv1qAX7+RxU8uzPYoFabtpOh/Y33Zt/yotkptSV3NVbnIsyLYlEaINk",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDI+ntws9dC5xyh1enKiP79cxBizd9yL7GvXhEHIYsQWKde3879daJOX2KwV5R4Hces13Zv2FSAd9i1FgpysCn2usvJLVFnwEYXSF699T6LfUFNWTgKA03IA8FS3g7ImXzg==",
-                "icono": "https://i.postimg.cc/br6d3j2D/SDG.jpg"
-	 }
+	    }
+
 	    ]
   },
 	    {
