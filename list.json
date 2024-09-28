@@ -36,14 +36,14 @@
     "samples": [
 {
                 "name": "TIGO EN VIVO 1",
-                "uri": "6JSLnsyzZwv1qAX7+RxU8uzPYoFabtpOh/Y33Zt/yotkptSV3NVbnIsyLYlEaINk",
+                "uri": "gazA9ChBDCpK5xyW34LkhOVY5i6eZBBUn7YHuU/Bkoae5iu/bQ5ThWcG41KS7OqLDJbBxaBq7rC/cXs6s+P2ivxQ1XTw9h23wSkCI9YNnD3CWi1qQs7F1qS6NLTx2Wff1pQ+BP7gLwtd2iyiEl97E+rnJM2+De1ZBKSQ0pqeNOcUQ2jkXrB18Nb6TW4jOwkW7Uj0t5sOCwjfAoT9eVOeBWwiy0j4rWRMikCQnfI7OGCibBEEqca8Lc/Ftm8W44WS",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDI+ntws9dC5xyh1enKiP79cxBizd9yL7GvXhEHIYsQWKde3879daJOX2KwV5R4Hces13Zv2FSAd9i1FgpysCn2usvJLVFnwEYXSF699T6LfUFNWTgKA03IA8FS3g7ImXzg==",
                 "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
 },
 	    {
                 "name": "TIGO EN VIVO PLUS",
-                "uri": "gazA9ChBDCpK5xyW34LkhOVY5i6eZBBUn7YHuU/Bkoae5iu/bQ5ThWcG41KS7OqLDJbBxaBq7rC/cXs6s+P2ivxQ1XTw9h23wSkCI9YNnD3CWi1qQs7F1qS6NLTx2Wff1pQ+BP7gLwtd2iyiEl97E+rnJM2+De1ZBKSQ0pqeNOcUQ2jkXrB18Nb6TW4jOwkW7Uj0t5sOCwjfAoT9eVOeBWwiy0j4rWRMikCQnfI7OGCibBEEqca8Lc/Ftm8W44WS",
+                "uri": "4R+Pt+p1vnO9Ebni4YBk7KPxWo00fZlkficdtxhpTQW+AgL7skx9qUzPo6DccHl6",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDI+ntws9dC5xyh1enKiP79cxBizd9yL7GvXhEHIYsQWKde3879daJOX2KwV5R4Hces13Zv2FSAd9i1FgpysCn2usvJLVFnwEYXSF699T6LfUFNWTgKA03IA8FS3g7ImXzg==",
                 "icono": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/2d/e9/bd/2de9bd19-2dc4-f593-25ea-12304bdf2258/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png"
