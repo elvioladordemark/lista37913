@@ -148,55 +148,7 @@
     
         "name": "🇵🇾CANALES DE PARAGUAY",
     "samples": [
-	 {
-        "name": "MISION TV DIGITAL",
-        "uri": "kzHF+dNIwIikV13X0BkewSdIE5g0Kzd3oq9jILgWznJb+rrD0Y8vhDS7nfcywdUi+y5jGUuhw6hl06XY7NGzng==",
-     "icono": "https://i.postimg.cc/x1gwws1Q/misiontv.jpg"
-      },
-	    	 {
-        "name": "SALTOS TV DIGITAL",
-        "uri": "yBPHClUP75K/mGkOPkixqSdIE5g0Kzd3oq9jILgWznLghPe4RCd608XGSdkd8bvsvrMstMSj6pZXMXjSA4V09g==",
-     "icono": "https://i.postimg.cc/5yCHGY5c/saltostv.jpg"
-      },
-	    {
-        "name": "HEI TV ",
-        "uri": "c7k5uaT3gNR+3hqnpWyPh888n2LscVlSSTav0Hb2Tt2zg+4XKTrK7eXYP3ms/tn9KMoy6AAZ94jqTWgSKYlJUC6R2O0kNbPoqZ5+prxOqqiIYj5/y3G0EOhbxx6tcc/l",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHE9lMHyyjwYkEZ/yFvqyMEHC54puD9piVQ8M7xDAcneBYCY59OMNlgPSPNxhAQKobwJk++jLtD/YUGXfQZcYUDFLsbHuneIVHGnsn6IZWmNtZKm3R4K2y9Tjm5DHXU1I4w==",
-        "icono": "https://i.postimg.cc/QMQDq5RL/HEI.png"
-      },
-	    {
-        "name": "TVS ENCARNACIÓN",
-        "uri": "+74PNJ3U8Lqm7Imo7qDE8LvSmoqIbC2HyXFBNQ+xMOCXeLyZQeqHco9VqAUwNJIC7fNIctXQzdjrd2oCEF4sLkqbgmrmnMnQDOfC8Jo5UFc=",
-     "icono": "https://i.postimg.cc/tg57vW0V/tvs-encarnacion-en-vivo-online-funciona.jpg"
-      },  
-	 {
-        "name": "MI TV",
-        "uri": "Q83934fKWJzmOJ2WbM47xIQP1hm4YUrMeAXFULGWexhkZ+ywb+gw0PgrCNY8x4ZoP2qZl/NUzlMgCAIvYZcbRBwrU+CxoiyeQ50ApX4NGRE=",
-     "icono": "https://i.postimg.cc/qvvgzQzD/1200px-LOGO-MITV-ALTA-DEFINICION-2020-PNG.png"
-      },    
-	    {
-        "name": "TV CAMARA",
-        "uri": "0AtXxerwmnD9BKAjpiEwdZV30Zop/kjyz2jwXsTV1EOizTJVmIU9Gq1qp53IzZ4wwYttq6UBYYMcrh3QFW4nWlpegJpqr1bgZDmR84hTGQBPOc8AsbFwZRNbDOMLwoZC",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFJtR/nbHAeILEXld5wob13S5zGX77u2x85gHCDxYBxdLWhQWLn5NALiUXjDz2UV9F1AmzCj2nvfSoJ97/cjoa6cIG3fX+iPI1UkEQuztHLbsROGDm0zLa9TCDNc7xe7gCH6avWbuExXj+sK+Yb0YE0=",
-        "icono": "http://imgfz.com/i/QTcoH5d.jpeg"
-      },
-    {
-        "name": "SUR TV",
-        "uri": "0AtXxerwmnD9BKAjpiEwdZV30Zop/kjyz2jwXsTV1EOizTJVmIU9Gq1qp53IzZ4wYfMSpaiJo9xB4MyvypsXxxowj5pdbo4qHj9WXMwUlGL+unuDPDBdlxca0z/5Cca9",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDCr3qSNBjpy1bCxAEXjjVXnCKwezOCRrQOtRmjueR3bgdhTILeu8BsxJfoNZRWnhESmVtAj39nG1HdSCbE7Ln0RHsszhox3NfyCE9oF4DpbgNW/itmWAw3SErajbdmFf8A==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png"
-      },
 	         {
-        "name": "UNIVERSO TV",
-        "uri": "0AtXxerwmnD9BKAjpiEwdSMxRTkf1Wv8myQNEetEs1GdiJL5EooXB8VV10ZVYtQXlgexRXAseL19sgR48hYiz3wXbOdN29BqOxZHDIMdZ5+yWfDVhgzCEFTejiiY2lm6",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHKthlL8m2uMVkI+48GYYfdrsUmsQF9STuHVIlKd6JjsoLbLzUr2/d0c20l2lnl4KCKW/iSRpbBIS27+1DbE3vZNgSiQU92cJhaMgsx0LYS6mSiaYtyouDgMU8ARnxrBrBw==",
-        "icono": "https://i.postimg.cc/nrSXkZnY/descarga-2.png"
-      },
-     {
         "name": "PARAVISION",
         "uri": "zlZeeg/ENWzgVMeKl3ZJpXPEpoLYLiWQaT4HlyDdEiVwB50lsbGjoY110KNQTJZTHseM9mD0HF78QC2yWRm5oZE6ecQVXgYESQfbeyCMBuu6KJ5FbI6K5+W9Ds7oh9ycfl8biWJSgTS5SxHRHzZddg==",
         "drm_scheme": "clearkey",
@@ -253,6 +205,59 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDO8Hz2s2X0FVQjodPRkHKXaO23LGxFXF6psxjDb/ZvQBvY7VWbwjvvR05X6Ut5CvKRsEcP01N+6pOsAMOOLos4qQkFfkJf5+YqkI9dBMp74xxRJ0mRLrN1HU23ppngKH86ewpdARTiC4qpNFVsEM+Us=",
         "icono": "https://i.ibb.co/3zrDZgx/unnamed-1.jpg"
+      },
+      {
+        "name": "ÑANDUTI TV",
+        "uri": "j0goye5n/uRLsbrZK8ZLYBrppDTD8dRG5mXYNLJ6swt8zumtIt0sZmuLcn4O5fst6/ZFQVIEg2KSBk3MsFF/Bus6oDr4d5fdx96uZ6mnrls=",
+     "icono": "https://i0.wp.com/logoroga.com/wp-content/uploads/2017/10/nanduti-previa.png?w=1000&ssl=1"
+      },
+	 {
+        "name": "MISION TV DIGITAL",
+        "uri": "kzHF+dNIwIikV13X0BkewSdIE5g0Kzd3oq9jILgWznJb+rrD0Y8vhDS7nfcywdUi+y5jGUuhw6hl06XY7NGzng==",
+     "icono": "https://i.postimg.cc/x1gwws1Q/misiontv.jpg"
+      },
+	    	 {
+        "name": "SALTOS TV DIGITAL",
+        "uri": "yBPHClUP75K/mGkOPkixqSdIE5g0Kzd3oq9jILgWznLghPe4RCd608XGSdkd8bvsvrMstMSj6pZXMXjSA4V09g==",
+     "icono": "https://i.postimg.cc/5yCHGY5c/saltostv.jpg"
+      },
+	    {
+        "name": "HEI TV ",
+        "uri": "c7k5uaT3gNR+3hqnpWyPh888n2LscVlSSTav0Hb2Tt2zg+4XKTrK7eXYP3ms/tn9KMoy6AAZ94jqTWgSKYlJUC6R2O0kNbPoqZ5+prxOqqiIYj5/y3G0EOhbxx6tcc/l",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHE9lMHyyjwYkEZ/yFvqyMEHC54puD9piVQ8M7xDAcneBYCY59OMNlgPSPNxhAQKobwJk++jLtD/YUGXfQZcYUDFLsbHuneIVHGnsn6IZWmNtZKm3R4K2y9Tjm5DHXU1I4w==",
+        "icono": "https://i.postimg.cc/QMQDq5RL/HEI.png"
+      },
+	    {
+        "name": "TVS ENCARNACIÓN",
+        "uri": "+74PNJ3U8Lqm7Imo7qDE8LvSmoqIbC2HyXFBNQ+xMOCXeLyZQeqHco9VqAUwNJIC7fNIctXQzdjrd2oCEF4sLkqbgmrmnMnQDOfC8Jo5UFc=",
+     "icono": "https://i.postimg.cc/tg57vW0V/tvs-encarnacion-en-vivo-online-funciona.jpg"
+      },  
+	 {
+        "name": "MI TV",
+        "uri": "Q83934fKWJzmOJ2WbM47xIQP1hm4YUrMeAXFULGWexhkZ+ywb+gw0PgrCNY8x4ZoP2qZl/NUzlMgCAIvYZcbRBwrU+CxoiyeQ50ApX4NGRE=",
+     "icono": "https://i.postimg.cc/qvvgzQzD/1200px-LOGO-MITV-ALTA-DEFINICION-2020-PNG.png"
+      },    
+	    {
+        "name": "TV CAMARA",
+        "uri": "0AtXxerwmnD9BKAjpiEwdZV30Zop/kjyz2jwXsTV1EOizTJVmIU9Gq1qp53IzZ4wwYttq6UBYYMcrh3QFW4nWlpegJpqr1bgZDmR84hTGQBPOc8AsbFwZRNbDOMLwoZC",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFJtR/nbHAeILEXld5wob13S5zGX77u2x85gHCDxYBxdLWhQWLn5NALiUXjDz2UV9F1AmzCj2nvfSoJ97/cjoa6cIG3fX+iPI1UkEQuztHLbsROGDm0zLa9TCDNc7xe7gCH6avWbuExXj+sK+Yb0YE0=",
+        "icono": "http://imgfz.com/i/QTcoH5d.jpeg"
+      },
+    {
+        "name": "SUR TV",
+        "uri": "0AtXxerwmnD9BKAjpiEwdZV30Zop/kjyz2jwXsTV1EOizTJVmIU9Gq1qp53IzZ4wYfMSpaiJo9xB4MyvypsXxxowj5pdbo4qHj9WXMwUlGL+unuDPDBdlxca0z/5Cca9",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDCr3qSNBjpy1bCxAEXjjVXnCKwezOCRrQOtRmjueR3bgdhTILeu8BsxJfoNZRWnhESmVtAj39nG1HdSCbE7Ln0RHsszhox3NfyCE9oF4DpbgNW/itmWAw3SErajbdmFf8A==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png"
+      },
+	         {
+        "name": "UNIVERSO TV",
+        "uri": "0AtXxerwmnD9BKAjpiEwdSMxRTkf1Wv8myQNEetEs1GdiJL5EooXB8VV10ZVYtQXlgexRXAseL19sgR48hYiz3wXbOdN29BqOxZHDIMdZ5+yWfDVhgzCEFTejiiY2lm6",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHKthlL8m2uMVkI+48GYYfdrsUmsQF9STuHVIlKd6JjsoLbLzUr2/d0c20l2lnl4KCKW/iSRpbBIS27+1DbE3vZNgSiQU92cJhaMgsx0LYS6mSiaYtyouDgMU8ARnxrBrBw==",
+        "icono": "https://i.postimg.cc/nrSXkZnY/descarga-2.png"
       },
 
    {
