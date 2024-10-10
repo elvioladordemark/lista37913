@@ -1,4 +1,37 @@
 [
+		    {
+    "name": "⚽ELIMINATORIAS SUDAMERICANAS, ACA ENCONTRARAS LOS EVENTOS DE LAS ELIMINATORIAS DE HOY CADA UNO POR SU NOMBRE",
+    "samples": [
+        {
+        "name": "BOLIVIA VS COLOMBIA",
+        "uri": "c8dznZikVfQgSCCQfde+2u1yM09Zlih8lt0hzHRASmWI//sWr+g4URsoxkm6n2U2pqXcerr+yNU4puXgvakgkQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDJHHXxUNLOiHtcGKz6J+5j7AiUI85eKWhIwfKlLIKbtWXFEaNmZNdq+7AA29jXNXDH4GjxalZy7ZvXYga+A6OCgFQFd3IZ0e/jjvdtSXnOd/amWZhaybBq3/rOL0DlpkeQ==",
+        "icono": "https://media.tycsports.com/files/2024/10/09/774504/bolivia-vs-colombia-por-eliminatorias-sudamericanas_416x234.webp"
+      },
+    {
+        "name": "VENEZUELA VS ARGENTINA",
+       "uri": "0AtXxerwmnD9BKAjpiEwdcvlWGENTO1PQx8UTE+307WdiJL5EooXB8VV10ZVYtQXr45f3xEmDMPVbVWjOv3O54cG3E4Q1Xo5JQQOpT3NZIND4jVBz3QVXMdsa+7O79Ad",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDD8qp3fuvvRch1G6XcKB8w6ArRz5Nn1LKR2QZEJVJbTg/m7hmy7f6U6/ysk6Csi9GicFWzq5QKqbofQyrufmYgEGQLwJp+s1LGZ8O3mCU7sHdiQEKEnkEPVFLUaxMthglc6DJEKeI1HmOKGcCHZwf7E=",
+         "icono": "https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.bolavip.com%2Fwebp%2Fmx%2Ffull%2FBMX_20241009_BMX_189240_VEN-v-ARG.webp&width=740&height=416"
+      },
+	        {
+        "name": "ECUADOR VS PARAGUAY",
+        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3ph0VOc59ACvp/OxAiTMjAGoGHO2SmaBMKeG/tBfqxiFuFSMCk79WpqNt4E3q75GkE=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDJHHXxUNLOiHtcGKz6J+5j7AiUI85eKWhIwfKlLIKbtWXFEaNmZNdq+7AA29jXNXDH4GjxalZy7ZvXYga+A6OCgFQFd3IZ0e/jjvdtSXnOd/amWZhaybBq3/rOL0DlpkeQ==",
+        "icono": "https://files.antena2.com/antena2/public/styles/imagen_despliegue/public/2024-10/EcuadorvsParaguay.jpg.webp?VersionId=qCyT4kjHn9AzzX3wSG3m8mX.Pj20OpwL&itok=SbHi96yQ"
+      },
+    {
+        "name": "CHILE VS BRASIL",
+       "uri": "0AtXxerwmnD9BKAjpiEwdcvlWGENTO1PQx8UTE+307WdiJL5EooXB8VV10ZVYtQXr45f3xEmDMPVbVWjOv3O54cG3E4Q1Xo5JQQOpT3NZIND4jVBz3QVXMdsa+7O79Ad",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDD8qp3fuvvRch1G6XcKB8w6ArRz5Nn1LKR2QZEJVJbTg/m7hmy7f6U6/ysk6Csi9GicFWzq5QKqbofQyrufmYgEGQLwJp+s1LGZ8O3mCU7sHdiQEKEnkEPVFLUaxMthglc6DJEKeI1HmOKGcCHZwf7E=",
+         "icono": "https://www.elrancaguino.cl/wp-content/uploads/2024/10/691480_0-1024x576.png"
+      }
+	     ]
+  },
   {
 
     "name": "🏆 TIGO SPORTS EVENTOS",
@@ -100,57 +133,7 @@
 
   ]
   },
-	    {
-    "name": "⚽ELIMINATORIAS SUDAMERICANA",
-    "samples": [
-        {
-        "name": "GEN TV ",
-        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3ph0VOc59ACvp/OxAiTMjAGoGHO2SmaBMKeG/tBfqxiFuFSMCk79WpqNt4E3q75GkE=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDJHHXxUNLOiHtcGKz6J+5j7AiUI85eKWhIwfKlLIKbtWXFEaNmZNdq+7AA29jXNXDH4GjxalZy7ZvXYga+A6OCgFQFd3IZ0e/jjvdtSXnOd/amWZhaybBq3/rOL0DlpkeQ==",
-        "icono": "https://i.ibb.co/k2XNPqR/channels4-profile.jpg"
-      },
-	    {
-        "name": "HEI TV ",
-        "uri": "c7k5uaT3gNR+3hqnpWyPh888n2LscVlSSTav0Hb2Tt2zg+4XKTrK7eXYP3ms/tn9KMoy6AAZ94jqTWgSKYlJUC6R2O0kNbPoqZ5+prxOqqiIYj5/y3G0EOhbxx6tcc/l",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHE9lMHyyjwYkEZ/yFvqyMEHC54puD9piVQ8M7xDAcneBYCY59OMNlgPSPNxhAQKobwJk++jLtD/YUGXfQZcYUDFLsbHuneIVHGnsn6IZWmNtZKm3R4K2y9Tjm5DHXU1I4w==",
-        "icono": "https://i.postimg.cc/QMQDq5RL/HEI.png"
-      },
-	          {
-        "name": "UNIVERSO TV",
-        "uri": "0AtXxerwmnD9BKAjpiEwdSMxRTkf1Wv8myQNEetEs1GdiJL5EooXB8VV10ZVYtQXlgexRXAseL19sgR48hYiz3wXbOdN29BqOxZHDIMdZ5+yWfDVhgzCEFTejiiY2lm6",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHKthlL8m2uMVkI+48GYYfdrsUmsQF9STuHVIlKd6JjsoLbLzUr2/d0c20l2lnl4KCKW/iSRpbBIS27+1DbE3vZNgSiQU92cJhaMgsx0LYS6mSiaYtyouDgMU8ARnxrBrBw==",
-        "icono": "https://i.postimg.cc/nrSXkZnY/descarga-2.png"
-      },
-	      {
-        "name": "TYC SPORTS",
-        "uri": "0AtXxerwmnD9BKAjpiEwdcvlWGENTO1PQx8UTE+307WdiJL5EooXB8VV10ZVYtQXr45f3xEmDMPVbVWjOv3O54cG3E4Q1Xo5JQQOpT3NZIND4jVBz3QVXMdsa+7O79Ad",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDD8qp3fuvvRch1G6XcKB8w6ArRz5Nn1LKR2QZEJVJbTg/m7hmy7f6U6/ysk6Csi9GicFWzq5QKqbofQyrufmYgEGQLwJp+s1LGZ8O3mCU7sHdiQEKEnkEPVFLUaxMthglc6DJEKeI1HmOKGcCHZwf7E=",
-        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
-      },
-	    {
-      
-        "name": "EVENTOS 1",
-        "uri": "sdx8f8xdgrsBz9hqSlWCdYFm+pjKTx+A2If8UgW/xF3Hvyrm9jCk7ppBJnWDVMsY",
-        "icono": "https://i.postimg.cc/dtJJkwn1/ELIMINtoria.jpg"
-      },
-	       {
-      
-        "name": "EVENTOS 2",
-        "uri": "SXtLXtMFO8JMwzlXpElji1DolNimLCjBwlartrZ4BqOh453+pX8tzlwtq+artXUWY6xWax5HLb7y31rjb1kYjA==",
-        "icono": "https://i.postimg.cc/fLZBWfCV/ECUAVSPERU.jpg"
-      },
-	 {
-      
-        "name": "EVENTOS 3",
-        "uri": "3+0nMP7ZyqmQLbb17jNt2LMBh5Zc+FJJODwVEzqwFefIwoV6bY2AoGQogK7yAi7yzvMg3gdSqOIai9cjcE4AkQ==",
-        "icono": "https://i.postimg.cc/fLZBWfCV/ECUAVSPERU.jpg"
-      }
-	     ]
-  },
+
  {
     
         "name": "🇵🇾CANALES DE PARAGUAY",
