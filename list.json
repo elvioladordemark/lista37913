@@ -100,7 +100,12 @@
     
         "name": "🇵🇾CANALES DE PARAGUAY",
     "samples": [
-	         {
+	        {
+        "name": "TELEPORTAL TV",
+        "uri": "j0goye5n/uRLsbrZK8ZLYBrppDTD8dRG5mXYNLJ6swt8zumtIt0sZmuLcn4O5fst6/ZFQVIEg2KSBk3MsFF/Bus6oDr4d5fdx96uZ6mnrls=",
+     "icono": "https://i0.wp.com/logoroga.com/wp-content/uploads/2017/10/nanduti-previa.png?w=1000&ssl=1"
+      },     
+	    {
         "name": "PARAVISION",
         "uri": "zlZeeg/ENWzgVMeKl3ZJpXPEpoLYLiWQaT4HlyDdEiVwB50lsbGjoY110KNQTJZTHseM9mD0HF78QC2yWRm5oZE6ecQVXgYESQfbeyCMBuu6KJ5FbI6K5+W9Ds7oh9ycfl8biWJSgTS5SxHRHzZddg==",
         "drm_scheme": "clearkey",
