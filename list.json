@@ -147,7 +147,12 @@
     
         "name": "🇵🇾CANALES DE PARAGUAY",
     "samples": [
-	        {
+	             {
+        "name": "NUEVA ERA TV",
+        "uri": "XF0zBHbgN2030Mc3nFM67QtIUDkgszesea4rkTf/+1rT15GivzAssUCdbGckeDC//oS1F3tZ7xQSrGskW4AU3g==",
+     "icono": "https://i.postimg.cc/Vvy3Xch5/NUEVA-ERA.jpg"
+      },    
+	    {
         "name": "TELEPORTAL TV",
         "uri": "gYJdGyLBq+HHI8Q+WyNbZofxfLOdUp6UEuVI7dqBk4A+/FgfU/C2nmhzufll/PwJ",
      "icono": "https://i.postimg.cc/fTZ8nyvG/IMG-20241014-WA0354.jpg"
