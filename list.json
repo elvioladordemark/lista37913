@@ -1,52 +1,6 @@
 [
 
-  {
-
-    "name": "🏆EVENTOS ELIMINATORIAS SUDAMERICANAS HOY",
-    "samples": [
-   
-
-	    {
-                "name": "COLOMBIA VS CHILE",
-                   "uri": "0AtXxerwmnD9BKAjpiEwdcvlWGENTO1PQx8UTE+307WdiJL5EooXB8VV10ZVYtQXr45f3xEmDMPVbVWjOv3O54cG3E4Q1Xo5JQQOpT3NZIND4jVBz3QVXMdsa+7O79Ad",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDD8qp3fuvvRch1G6XcKB8w6ArRz5Nn1LKR2QZEJVJbTg/m7hmy7f6U6/ysk6Csi9GicFWzq5QKqbofQyrufmYgEGQLwJp+s1LGZ8O3mCU7sHdiQEKEnkEPVFLUaxMthglc6DJEKeI1HmOKGcCHZwf7E=",
-       "icono": "https://phantom-marca.unidadeditorial.es/6663dea3daa3b46734cea0801a494059/resize/828/f/jpg/assets/multimedia/imagenes/2023/09/11/16944249085951.jpg"
-            },
-	    
-                 
-         {
-                "name": "PARAGUAY VS VENEZUELA",
-              "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3ph0VOc59ACvp/OxAiTMjAGoGHO2SmaBMKeG/tBfqxiFuFSMCk79WpqNt4E3q75GkE=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDJHHXxUNLOiHtcGKz6J+5j7AiUI85eKWhIwfKlLIKbtWXFEaNmZNdq+7AA29jXNXDH4GjxalZy7ZvXYga+A6OCgFQFd3IZ0e/jjvdtSXnOd/amWZhaybBq3/rOL0DlpkeQ==",
-        "icono": "https://tn.com.ar/resizer/v2/paraguay-y-venezuela-se-enfrentan-por-las-eliminatorias-sudamericanas-imagen-de-fondo-adobe-stock-57DK2F4EGFDLJMXKUCDTE77BWE.png?auth=816e60852d39e4fe50cfcbb0d0614b32cfd21b280a5f9c2e7183ad8a95f277ed&width=767"
-	
-	 },
-	    {
-                "name": "URUGUAY VS ECUADOR",
-                "uri": "c8dznZikVfQgSCCQfde+2u1yM09Zlih8lt0hzHRASmWI//sWr+g4URsoxkm6n2U2TRHFfvXqfqnFjsRFwWXkCQ==",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDHlvdsvhmLJevI32Zt9GoAZSIm180eFTMClABP8/a9gpCJ//zWGQq7RCECCM+DuOBC+iCVAsKMo6Sw8iGetIFRFp5+jazDK5COs79r96RCwpidfbpcR44IWWQch3JEWdYw==",
-                "icono": "https://elcomercio.pe/resizer/v2/GOSUCYAIUZB2VJAWMIW7RH4CWE.jpg?auth=608aa1617b2770febd81043fb64800e4c689a11ea34a2cec7898aecfd7e4e8e7&width=787&height=442&quality=75&smart=true"
-	    },
-	    	    {
-                "name": "ARGENTINA VS BOLIVIA",
-                "uri": "0AtXxerwmnD9BKAjpiEwdcvlWGENTO1PQx8UTE+307WdiJL5EooXB8VV10ZVYtQXr45f3xEmDMPVbVWjOv3O54cG3E4Q1Xo5JQQOpT3NZIND4jVBz3QVXMdsa+7O79Ad",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDD8qp3fuvvRch1G6XcKB8w6ArRz5Nn1LKR2QZEJVJbTg/m7hmy7f6U6/ysk6Csi9GicFWzq5QKqbofQyrufmYgEGQLwJp+s1LGZ8O3mCU7sHdiQEKEnkEPVFLUaxMthglc6DJEKeI1HmOKGcCHZwf7E=",
-        "icono": "https://elcomercio.pe/resizer/v2/SJTETIFJMZEQBEALYGXI3VEH7E.jpg?auth=f5f102e1d021605241042dfea4b31c452094d2c55bf38ed99e703e14619fa3e1&width=787&height=442&quality=75&smart=true"
-            },
-
-	    	    {
-                "name": "BRASIL VS PERU",
-                       "uri": "2D4UxSdoBokAW/X61dz9bBfeWLOjuigJV8/lGlmvsD8fsNss9iH6XOCQ6lRZczutYyGPUWFGD1sLsVYfLAzll2FK7QdiovEqqEI+yJDm01oZzuCFBy5U3DH4wuaRdz8S/v934HrE+EjQubaUipYMh9AH9GtUAtDGJ4jkizc5wlg=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDJHHXxUNLOiHtcGKz6J+5j7AiUI85eKWhIwfKlLIKbtWXFEaNmZNdq+7AA29jXNXDH4GjxalZy7ZvXYga+A6OCgFQFd3IZ0e/jjvdtSXnOd/amWZhaybBq3/rOL0DlpkeQ==",
-          "icono": "https://cdn.conmebol.com/wp-content/uploads/2020/10/000_8t278g_0.jpg"
-            }
-	    	    ]
-  },
+ 
   {
 
     "name": "🏆 TIGO SPORTS SOLO EVENTOS DE PRIMERA",
