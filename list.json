@@ -1,5 +1,17 @@
 [
+  {
 
+    "name": "LISTA DE EVENTOS DEPORTIVOS DEL DIA",
+    "samples": [
+	        {
+                "name": "EVENTOS DEL DIA",
+                "uri": "CzAAOkDzg3m7xjJSOTVm8yqYv/ytUiqMkT3p6MGLhwwJUtjIipoGzzm4EJJeJRRoSyiEHhh7sxejMSq5U8uEpgfjm+UUXjR/HiiY8/xvRWqQM0e5FNqXAIgAPufkogU5",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDHlvdsvhmLJevI32Zt9GoAZSIm180eFTMClABP8/a9gpCJ//zWGQq7RCECCM+DuOBC+iCVAsKMo6Sw8iGetIFRFp5+jazDK5COs79r96RCwpidfbpcR44IWWQch3JEWdYw==",
+                "icono": "https://img.freepik.com/vector-premium/logo-evento-deportivo-hombre-corriendo_695276-3031.jpg"
+	    }
+	    	    ]
+  },
  
   {
 
