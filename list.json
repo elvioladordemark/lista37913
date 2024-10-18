@@ -55,7 +55,7 @@
 	    
 	    {
                 "name": "ÑANDEPORTEPE TV",
-                "uri": "nAcIumOtBgpP7p7904QsBO6g6N+tI5XaHAJs0C3JUUXuShu9gUfDKQ9GnrLr6WzDasadbLGYB4ouR0HZzjSc38sLTlrdy+ThveorSdIDrO4=",
+                "uri": "nAcIumOtBgpP7p7904QsBO6g6N+tI5XaHAJs0C3JUUXuShu9gUfDKQ9GnrLr6WzDZmaRMgP6u+/ok2xeL3nelDJRSZw9+TX+UyKbB+BPSIA=",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDI+ntws9dC5xyh1enKiP79cxBizd9yL7GvXhEHIYsQWKde3879daJOX2KwV5R4Hces13Zv2FSAd9i1FgpysCn2usvJLVFnwEYXSF699T6LfUFNWTgKA03IA8FS3g7ImXzg==",
                 "icono": "https://i.postimg.cc/zf4Dq7GT/IMG-20241006-WA0374.jpg"
@@ -101,7 +101,15 @@
     
         "name": "🇵🇾CANALES DE PARAGUAY",
     "samples": [
-	             {
+	    {
+                "name": "ÑANDEPORTEPE TV",
+                "uri": "nAcIumOtBgpP7p7904QsBO6g6N+tI5XaHAJs0C3JUUXuShu9gUfDKQ9GnrLr6WzDZmaRMgP6u+/ok2xeL3nelDJRSZw9+TX+UyKbB+BPSIA=",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDI+ntws9dC5xyh1enKiP79cxBizd9yL7GvXhEHIYsQWKde3879daJOX2KwV5R4Hces13Zv2FSAd9i1FgpysCn2usvJLVFnwEYXSF699T6LfUFNWTgKA03IA8FS3g7ImXzg==",
+                "icono": "https://i.postimg.cc/zf4Dq7GT/IMG-20241006-WA0374.jpg"
+	
+	    },        
+	    {
         "name": "NUEVA ERA TV",
         "uri": "gYJdGyLBq+HHI8Q+WyNbZjBHdV7JgINEodi5itGuK8L8/KS1r6vp/MxT1vXp9tQO",
      "icono": "https://i.postimg.cc/Vvy3Xch5/NUEVA-ERA.jpg"
