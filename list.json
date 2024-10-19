@@ -3,13 +3,13 @@
 
     "name": "LISTA DE EVENTOS DEPORTIVOS DEL DIA",
     "samples": [
-	        {
-                "name": "EVENTOS DEL DIA",
+	            {
+                "name": "TIGO EVENTOS 1",
                 "uri": "JR37QgRPtbHFikQ6u0C4Qi+FiZCkKFytDe1FnOWc0y21Kz1chRRZ7j2QLeG1r53ub0Hl7+eeVZ2j7RhhZRG0cDnwLIlZzpiBWS8kETOQS8ERAMWwWraRj72qgsxx6vT3",
                 "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDHlvdsvhmLJevI32Zt9GoAZSIm180eFTMClABP8/a9gpCJ//zWGQq7RCECCM+DuOBC+iCVAsKMo6Sw8iGetIFRFp5+jazDK5COs79r96RCwpidfbpcR44IWWQch3JEWdYw==",
-                "icono": "https://img.freepik.com/vector-premium/logo-evento-deportivo-hombre-corriendo_695276-3031.jpg"
-	    }
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDMm+z+hs9olrBeUNdtUkMNnun4goYZ8JicI85QJRJwNcJeNdTCquHimO6zGFZYjNWI4YNlr+7Tp2QGrivwasc5VDnr/DwDnoTyzc8xUEf3CWnMyw+y+TkjmaRY12FuKFuQ==",
+                "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
+		    }
 	    	    ]
   },
  
