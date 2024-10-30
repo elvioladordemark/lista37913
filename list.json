@@ -18,7 +18,13 @@
     "name": "🏆 TIGO SPORTS SOLO EVENTOS DE PRIMERA",
     "samples": [
    
-
+{
+                "name": "TIGO EN VIVO 1",
+                "uri": "4R+Pt+p1vnO9Ebni4YBk7KPxWo00fZlkficdtxhpTQXEY/HRTrBgCpbS6ESSrlSM",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDI+ntws9dC5xyh1enKiP79cxBizd9yL7GvXhEHIYsQWKde3879daJOX2KwV5R4Hces13Zv2FSAd9i1FgpysCn2usvJLVFnwEYXSF699T6LfUFNWTgKA03IA8FS3g7ImXzg==",
+                "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
+},
 	    {
                 "name": "TIGO EVENTOS 1",
                 "uri": "JR37QgRPtbHFikQ6u0C4Qi+FiZCkKFytDe1FnOWc0y21Kz1chRRZ7j2QLeG1r53ub0Hl7+eeVZ2j7RhhZRG0cDnwLIlZzpiBWS8kETOQS8ERAMWwWraRj72qgsxx6vT3",
