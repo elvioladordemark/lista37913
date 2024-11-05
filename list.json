@@ -364,7 +364,13 @@
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDCmypJiydMAVcDyQkg8TQ1zT2dPgeX8mNbGCsw9w09Tjq2eldpnl5tYScpcYT+MY5H/B0Q303jK6P4BBRF6WZKuzvQLfOlvYCY9FZ02mDIsXGi4jyKs0TQJCjPQZ/aT7XA==",
                 "icono": "https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png"
             },
-	
+	{
+                "name": "ESPN DEPORTES",
+                "uri": "nsl9QdEPpnzQ2Cx4DUqQ/jatAoiE7T3ZVgEZmu8T6bOPzc75qnOh80q7ArpV2A2dEdxJwtmeSIMGNd3+otxUMA==",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "fEAjQNbXcbmjAeM/DD9pGwvCWgartbkBXdVYJO6o90fb/AoBfJBYA5B2siBH5TXL40DhZT9Blj2qabsjcJ/Nrg==",
+                "icono": "https://i.postimg.cc/Kj81gVnv/Espndeportes.png"
+            },
 	    {
                 "name": "ESPN MEXICO",
                 "uri": "xw6hYHzN05gDtNwbQQ8/T5Qb+d/sBYNL2ymWALfgLqZid6fJMUu8mCeJ2t5fgRV8T6Oi6vZkGNuH54NbwGPCaQ==",
