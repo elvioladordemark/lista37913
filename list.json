@@ -589,41 +589,7 @@
         "uri": "HJm7W/hSLlLAFwcWSLumhrwxoX3ysyc3caFToqmk+lXw5v7AZ358N+S+oZMZ51ZY11XgmJ0vuDf3VZNu0LVSI2RnVOdP58AXOJAamDw2z0w=",
         "icono": "https://i.postimg.cc/J0MJ59XC/TIGOBO2.jpg"
       }
-       ]
-  },
-	    {
-    "name": "⚽PERU DEPORTES LIGAS",
-    "samples": [
-           {
-      
-        "name": "MOVISTAR DEPORTES",
-        "uri": "3+0nMP7ZyqmQLbb17jNt2LMBh5Zc+FJJODwVEzqwFefIwoV6bY2AoGQogK7yAi7yzvMg3gdSqOIai9cjcE4AkQ==",
-        "icono": "https://i.postimg.cc/Hnj9P4Dn/movistardeportes.jpg"
-      },
-	   {
-      
-        "name": "MOVISTAR PLUS",
-        "uri": "3+0nMP7ZyqmQLbb17jNt2LMBh5Zc+FJJODwVEzqwFefIwoV6bY2AoGQogK7yAi7ywPSlrDf4FSFK/gTJh8Cy4A==",
-        "icono": "https://i.postimg.cc/K8ydsnPq/mplus.png"
-      },  
-	    {
-      
-        "name": "LIGA 2 PERÚ",
-        "uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BcGS0aqMQnA6NMFxkQhKaJsp0sRp9VffcnyKSfm9H6qsu5Djs7TmOSJ9MWVE5DCGdxe7Qj33MsWcnESA8B6LdI6ugMdAMSuWukvmh2uDgBUpvk4uph6rM2aOgzSvRupRAk=",
-        "icono": "https://i.postimg.cc/4d5d8Q0c/images-8.jpg"
-      },
-	       {
-      
-        "name": "LIGA MAX PERÚ",
-        "uri": "3+0nMP7ZyqmQLbb17jNt2LMBh5Zc+FJJODwVEzqwFefIwoV6bY2AoGQogK7yAi7y9y1YdMg+0CEjayjg8OJX/w==",
-        "icono": "https://i.postimg.cc/65v1sb9C/descarga-3.png"
-      },
-	      {
-      
-        "name": "GOL PERU",
-        "uri": "q0cMgAzy4xzksb8NmUefPKa5UEXtfMnZyxmVR+6j0ndzCTNsXZEp7oXLdfHGo7SrlgC7GX2/gYxpjpMxbtc1y9TwKoyHr/axkxcII1v7bSo+1Ub4g+QWFPVpHmjYyndGqw2lHMruOW0UEzjz5Yp/VhHxchcqYA0SEU0vf5uS16Yyac9yM3uPQ+tDoY8NyWk5QEY5I9MtuGbZenpv+/EHOPzMJtfY6MRjoUm5jNSqy5IXcngMLK8t1S2gZIXIU6upc7K5qb3t/esBMm5c8wsosgUlufPcrICrUeiQXk1Fa/CckQ86qULF80ls2alccNa+UTuyOKRgZd5eaKwNI/v6cJDXXIfCVCekGedHzXWTSU3zN5pHE9cGLg1zGYv29/RYfDNr9bcFMBceIoiKctqNRktvPBZpIUadEZN/ynxFqoZHtx2HoUqUUATHwkYP4vqP4Z/lBlEQEnBw/T2+1AFtu24xU+9nRwW8QugvPLXZctg1ktRkH8v5JJdxAoukcu4+PIokq9+sF4EDwgfemNHZ5QaP0pcEGYI8WIZeW1+WTcdvgyYoYtaz2ceIEl9U7BV7",
-        "icono": "https://i.postimg.cc/856xyn9K/descarga-8.jpg"
-      }
+       
       ]
   },
 	    {
@@ -733,8 +699,55 @@
       {
     "name": "⚽ BRASIL DEPORTES",
     "samples": [
-     
+           {
+        "name": "ESPN BR 1",
+        "uri": "L0h+CqzxHHvc8VQ6fnRHXABXZps3JYhEo1saSVpdCIVZnwc+ZY70qM9tOhSNITQFplX69jlk7vxvpsqRn6vBc57x4mTW3WHMDQSflZ/3d9oXQUc/vf5HjYHJmLt+MX000bhTVAYNfkYGMT3S61WR4vEg6wDXZ0soHgXouE5BK/U=",
+	       "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHLAshoAvjdKNyS/VzZCj2qYCj63VyB3Gk5T0eiRQURMK9bS8lOdtFHf9Gp6wBPYgOqCX2WqvXBl7eqvw5bN1EZkd/WQvJGZPS+m/KM0qIY5rTDtVBBbom5bGRvdQAQ8ayA==",
+       
+        "icono": "https://cdn.mitvstatic.com/channels/mx_espn-2_m.png"
+	   },
+{
+        "name": "ESPN BR 2",
+        "uri": "L0h+CqzxHHvc8VQ6fnRHXABXZps3JYhEo1saSVpdCIVZnwc+ZY70qM9tOhSNITQFplX69jlk7vxvpsqRn6vBc57x4mTW3WHMDQSflZ/3d9oXQUc/vf5HjYHJmLt+MX000bhTVAYNfkYGMT3S61WR4vEg6wDXZ0soHgXouE5BK/U=",
+	       "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHLAshoAvjdKNyS/VzZCj2qYCj63VyB3Gk5T0eiRQURMK9bS8lOdtFHf9Gp6wBPYgOqCX2WqvXBl7eqvw5bN1EZkd/WQvJGZPS+m/KM0qIY5rTDtVBBbom5bGRvdQAQ8ayA==",
+       
+        "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg"
+	   },
+	   {
+        "name": "ESPN BR 3",
+        "uri": "L0h+CqzxHHvc8VQ6fnRHXABXZps3JYhEo1saSVpdCIVZnwc+ZY70qM9tOhSNITQFplX69jlk7vxvpsqRn6vBc57x4mTW3WHMDQSflZ/3d9oXQUc/vf5HjYHJmLt+MX000bhTVAYNfkYGMT3S61WR4vEg6wDXZ0soHgXouE5BK/U=",
+	       "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHLAshoAvjdKNyS/VzZCj2qYCj63VyB3Gk5T0eiRQURMK9bS8lOdtFHf9Gp6wBPYgOqCX2WqvXBl7eqvw5bN1EZkd/WQvJGZPS+m/KM0qIY5rTDtVBBbom5bGRvdQAQ8ayA==",
+       
+        "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg"
+	   },
 
+	  {
+        "name": "ESPN BR 4",
+        "uri": "L0h+CqzxHHvc8VQ6fnRHXABXZps3JYhEo1saSVpdCIVZnwc+ZY70qM9tOhSNITQFplX69jlk7vxvpsqRn6vBc57x4mTW3WHMDQSflZ/3d9oXQUc/vf5HjYHJmLt+MX000bhTVAYNfkYGMT3S61WR4vEg6wDXZ0soHgXouE5BK/U=",
+	       "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHLAshoAvjdKNyS/VzZCj2qYCj63VyB3Gk5T0eiRQURMK9bS8lOdtFHf9Gp6wBPYgOqCX2WqvXBl7eqvw5bN1EZkd/WQvJGZPS+m/KM0qIY5rTDtVBBbom5bGRvdQAQ8ayA==",
+       
+        "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg"
+	   },
+	{
+        "name": "ESPN BR 5",
+        "uri": "L0h+CqzxHHvc8VQ6fnRHXABXZps3JYhEo1saSVpdCIVZnwc+ZY70qM9tOhSNITQFplX69jlk7vxvpsqRn6vBc57x4mTW3WHMDQSflZ/3d9oXQUc/vf5HjYHJmLt+MX000bhTVAYNfkYGMT3S61WR4vEg6wDXZ0soHgXouE5BK/U=",
+	       "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHLAshoAvjdKNyS/VzZCj2qYCj63VyB3Gk5T0eiRQURMK9bS8lOdtFHf9Gp6wBPYgOqCX2WqvXBl7eqvw5bN1EZkd/WQvJGZPS+m/KM0qIY5rTDtVBBbom5bGRvdQAQ8ayA==",
+       
+        "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg"
+	   },
+	   {
+        "name": "ESPN BR 6",
+        "uri": "L0h+CqzxHHvc8VQ6fnRHXABXZps3JYhEo1saSVpdCIVZnwc+ZY70qM9tOhSNITQFplX69jlk7vxvpsqRn6vBc57x4mTW3WHMDQSflZ/3d9oXQUc/vf5HjYHJmLt+MX000bhTVAYNfkYGMT3S61WR4vEg6wDXZ0soHgXouE5BK/U=",
+	       "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHLAshoAvjdKNyS/VzZCj2qYCj63VyB3Gk5T0eiRQURMK9bS8lOdtFHf9Gp6wBPYgOqCX2WqvXBl7eqvw5bN1EZkd/WQvJGZPS+m/KM0qIY5rTDtVBBbom5bGRvdQAQ8ayA==",
+       
+        "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg"
+	   }, 
 	      {
         "name": "PREMIERE",
         "uri": "L0h+CqzxHHvc8VQ6fnRHXABXZps3JYhEo1saSVpdCIVZnwc+ZY70qM9tOhSNITQFplX69jlk7vxvpsqRn6vBc57x4mTW3WHMDQSflZ/3d9oXQUc/vf5HjYHJmLt+MX000bhTVAYNfkYGMT3S61WR4vEg6wDXZ0soHgXouE5BK/U=",
