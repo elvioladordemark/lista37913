@@ -50,14 +50,7 @@
     "name": "🏆NACIONAL B EVENTOS",
     "samples": [
 
-      {
-                "name": "ÑANDEPORTETEPE SPORTS",
-                "uri": "nAcIumOtBgpP7p7904QsBO6g6N+tI5XaHAJs0C3JUUXuShu9gUfDKQ9GnrLr6WzDPjJ0M9gh+IAsBf9xvWnXMcsLTlrdy+ThveorSdIDrO4=",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDI+ntws9dC5xyh1enKiP79cxBizd9yL7GvXhEHIYsQWKde3879daJOX2KwV5R4Hces13Zv2FSAd9i1FgpysCn2usvJLVFnwEYXSF699T6LfUFNWTgKA03IA8FS3g7ImXzg==",
-                "icono": "https://i.postimg.cc/651RDPgc/IMG-20241104-WA0000-1.jpg"
-	
-	    },
+      
 	    
 	    {
                 "name": "EVENTOS NACIONAL B 1",
@@ -73,7 +66,29 @@
                 "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDnuHFrmukKs6mMX0YzZpjktDvMQ8Ac3kUDk8mxmS4ZrK/jBD8zgdo5skNOE38sUJ2sF8S2gEhpBOHNQNosMh+dUhr+EpUAC1y2/Fl1Ot2O9",
                 "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
 		}
+	]
+  },
+  {
+
+    "name": "🏆 ÑANDEPORTETEPE TV Y SPORTS",
+    "samples": [
+
+      {
+                "name": "ÑANDEPORTETEPE TV",
+                "uri": "nAcIumOtBgpP7p7904QsBO6g6N+tI5XaHAJs0C3JUUXuShu9gUfDKQ9GnrLr6WzDZmaRMgP6u+/ok2xeL3nelDJRSZw9+TX+UyKbB+BPSIA=",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDI+ntws9dC5xyh1enKiP79cxBizd9yL7GvXhEHIYsQWKde3879daJOX2KwV5R4Hces13Zv2FSAd9i1FgpysCn2usvJLVFnwEYXSF699T6LfUFNWTgKA03IA8FS3g7ImXzg==",
+                "icono": "https://i.postimg.cc/ZR7dNkYs/9e9862bf-1756-463a-886e-0979e88c88f7.jpg"
 	
+	    },
+	    {
+                "name": "ÑANDEPORTETEPE SPORTS",
+                "uri": "nAcIumOtBgpP7p7904QsBO6g6N+tI5XaHAJs0C3JUUXuShu9gUfDKQ9GnrLr6WzDPjJ0M9gh+IAsBf9xvWnXMcsLTlrdy+ThveorSdIDrO4=",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDI+ntws9dC5xyh1enKiP79cxBizd9yL7GvXhEHIYsQWKde3879daJOX2KwV5R4Hces13Zv2FSAd9i1FgpysCn2usvJLVFnwEYXSF699T6LfUFNWTgKA03IA8FS3g7ImXzg==",
+                "icono": "https://i.postimg.cc/651RDPgc/IMG-20241104-WA0000-1.jpg"
+	
+}
                  
 ]
   },
@@ -240,14 +255,7 @@
     
         "name": "🇵🇾CANALES DE PARAGUAY",
     "samples": [
-	      {
-                "name": "ÑANDEPORTETEPE TV",
-                "uri": "nAcIumOtBgpP7p7904QsBO6g6N+tI5XaHAJs0C3JUUXuShu9gUfDKQ9GnrLr6WzDZmaRMgP6u+/ok2xeL3nelDJRSZw9+TX+UyKbB+BPSIA=",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDI+ntws9dC5xyh1enKiP79cxBizd9yL7GvXhEHIYsQWKde3879daJOX2KwV5R4Hces13Zv2FSAd9i1FgpysCn2usvJLVFnwEYXSF699T6LfUFNWTgKA03IA8FS3g7ImXzg==",
-                "icono": "https://i.postimg.cc/ZR7dNkYs/9e9862bf-1756-463a-886e-0979e88c88f7.jpg"
-	
-	    },  
+	  
 	    {
         "name": "NUEVA ERA TV",
         "uri": "gYJdGyLBq+HHI8Q+WyNbZjBHdV7JgINEodi5itGuK8L8/KS1r6vp/MxT1vXp9tQO",
