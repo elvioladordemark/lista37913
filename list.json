@@ -233,7 +233,14 @@
     
         "name": "🇵🇾CANALES DE PARAGUAY",
     "samples": [
-	    
+	      {
+                "name": "ÑANDEPORTETEPE TV",
+                "uri": "nAcIumOtBgpP7p7904QsBO6g6N+tI5XaHAJs0C3JUUXuShu9gUfDKQ9GnrLr6WzDZmaRMgP6u+/ok2xeL3nelDJRSZw9+TX+UyKbB+BPSIA=",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDI+ntws9dC5xyh1enKiP79cxBizd9yL7GvXhEHIYsQWKde3879daJOX2KwV5R4Hces13Zv2FSAd9i1FgpysCn2usvJLVFnwEYXSF699T6LfUFNWTgKA03IA8FS3g7ImXzg==",
+                "icono": "https://i.postimg.cc/ZR7dNkYs/9e9862bf-1756-463a-886e-0979e88c88f7.jpg"
+	
+	    },  
 	    {
         "name": "NUEVA ERA TV",
         "uri": "gYJdGyLBq+HHI8Q+WyNbZjBHdV7JgINEodi5itGuK8L8/KS1r6vp/MxT1vXp9tQO",
@@ -288,14 +295,7 @@
                 "icono": "https://yt3.googleusercontent.com/o1juQh7EOWuWghEcnuIJsMD5zUI0q6-Wx9vSJGpLmkiUEGY6KVQWch6ygzUqx8a18nTkf2aV=s900-c-k-c0x00ffffff-no-rj"
 	
 	    },    
-	    {
-                "name": "ÑANDEPORTETEPE TV",
-                "uri": "nAcIumOtBgpP7p7904QsBO6g6N+tI5XaHAJs0C3JUUXuShu9gUfDKQ9GnrLr6WzDGma6qdlIHjgLFONra1AXP8sLTlrdy+ThveorSdIDrO4=",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDI+ntws9dC5xyh1enKiP79cxBizd9yL7GvXhEHIYsQWKde3879daJOX2KwV5R4Hces13Zv2FSAd9i1FgpysCn2usvJLVFnwEYXSF699T6LfUFNWTgKA03IA8FS3g7ImXzg==",
-                "icono": "https://i.postimg.cc/ZR7dNkYs/9e9862bf-1756-463a-886e-0979e88c88f7.jpg"
-	
-	    },        
+	        
       {
         "name": "UNICANAL",
         "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3psEdN6+0F6THItKZKaYurpNti3tGFtIuhTYsIn8baunxLuZkOihEijf0KhFRsU6Us6vxLg3BaJK+MQFmB7fAze",
