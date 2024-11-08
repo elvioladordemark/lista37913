@@ -165,13 +165,13 @@
                 "icono": "https://i.postimg.cc/ZKmSTsSF/descarga-8.jpg"
 	    },
 	        {
-	        "name": "NBA",
+	    "name": "NBA",
                 "uri": "rAGrAMiIaH8ocGAte5Dt413U2NSZHb6Pxodxi9VstV/EHDR7khUkUUjcSsCLh6A8",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDnuHFrmukKs6mMX0YzZpjktDvMQ8Ac3kUDk8mxmS4ZrK/jBD8zgdo5skNOE38sUJ2sF8S2gEhpBOHNQNosMh+dUhr+EpUAC1y2/Fl1Ot2O9",
                 "icono": "https://i.ibb.co/TRLZBWm/nba-logo-3y3no8zce1x03miz.jpg"
-	     },
-	    	{
+	    },
+	       {
 	        "name": "EUROSPORTS 1",
                 "uri": "sC1+r3P6fwUKL95xTplweFnVacXkiDVn20+yJ/gDZ1KCLK+MvNvimVJTPUTMGieM",
                 "drm_scheme": "clearkey",
