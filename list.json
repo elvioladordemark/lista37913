@@ -754,7 +754,13 @@
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHO0kn1GnjM64SrqMKkMHcri43Pij75Gtv2i+px40sDyHqF24DJPOYigp7A/tD8g4dKVe+clYFsrClSlepoK/SMe50HozVxSJXguoCQ2/BNtD+Y1CjwSqYn2igu8tSJVApw==",
         "icono": "https://i.ibb.co/Jq8BrD8/daznlaliga.png"
       },
-          
+            {
+      
+        "name": "LA LIGA HYPERMOTION",
+        "uri": "GLJlKsXoUW2AnWfeOfudqLm1FES/I7172ETytyMtWXD8o0rYeCq1mB/y+RPYfXeRR7+V2ISyBX9NChFF0vI45g==",
+        "icono": "https://i.ibb.co/tbwDdc0/laliga-hypermotion-1o01jm81734gk1q7d95m42ejth.jpg"
+      },
+	    
 	    {
       
         "name": "MOVISTAR DEPORTES",
@@ -768,12 +774,7 @@
         "uri": "/HufUfgxALOa7vslgChk5aigkFdkfNUhm3F2qmrwdV/+nwHL8cJCv3ROnrzol+GovY8JF5OgfATR7HsBSA2qvg==",
         "icono": "https://i.postimg.cc/9QKSsTQM/16956744640203.jpg"
       }
-	    {
-      
-        "name": "LA LIGA HYPERMOTION",
-        "uri": "GLJlKsXoUW2AnWfeOfudqLm1FES/I7172ETytyMtWXD8o0rYeCq1mB/y+RPYfXeRR7+V2ISyBX9NChFF0vI45g==",
-        "icono": "https://i.ibb.co/tbwDdc0/laliga-hypermotion-1o01jm81734gk1q7d95m42ejth.jpg"
-      },
+	  
 	   ]
   },
 
