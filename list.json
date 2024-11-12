@@ -2455,7 +2455,12 @@
 {
     "name": "🎥PELICULAS ESTRENOS 2024",
     "samples": [
-       {
+        {
+              "name": "LA IDEA DE TENERTE",
+        "uri": "N4N5Ks28wfZRSftMkmWKHT9nAfj8Dq+wV8geO078/7JewRLYmqfSqRuvj8yJzUiq1IzxzrAOa2XN3VJ/PWGvo3qTWnLo9lYUXyxS+eDhBAWsY++oHaSMP4pxRYFlg1QwbfIoH2M4KV1NbIk+/mxiaWOsVmseRy2+8t9a429ZGIw=",
+        "icono": "https://i.postimg.cc/d3WZMPH4/descarga-9.jpg"   
+            },
+	    {
               "name": "NO ENTRES 2024",
         "uri": "gdGWpefEER5JBPKUqIyNhvHNaHnCYKFF8KoYARFkOmmz9T7N8862qpMvnamtOxT1HEGpKaNFNVx6eoViMGF6Elj4G069SeJXRaCJ5SmP8AnKYg2UwJ0ila2xMZjZUUSO+qqhDHAMAX2x7m9HdcxMTZWwuUgrxLevSoRSHveOwt0=",
         "icono": "https://i.postimg.cc/d0kqTDzC/IMG-20241103-WA1150.jpg"   
