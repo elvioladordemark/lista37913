@@ -587,6 +587,14 @@
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
                 "icono": "https://cdn.mitvstatic.com/channels/mx_espn-2_m.png"
             },
+	    
+	    	    {
+                "name": "ESPN 3 MEXICO",
+                "uri": "xw6hYHzN05gDtNwbQQ8/T5Qb+d/sBYNL2ymWALfgLqaPxO8pRxmA8HmL28YPaBiedR56/a5aLWozlV6bUlIVAA==",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
+                "icono": "https://i.ibb.co/0QvsR5D/images-1.png"
+            },
   {
         "name": "DEPORTV",
         "uri": "zlZeeg/ENWzgVMeKl3ZJpYILzeTFWLjWY99fMN+pXrDRYmF6d1dcbb6IRkZzmItojJh0KDm2MwFByxuS3KyoppFkbcEzt+V8fcjHzgFyJ4Iw9Kt3boAf4+v7In6NM5C6",
