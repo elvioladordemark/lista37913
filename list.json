@@ -1,7 +1,7 @@
 [
   {
 
-    "name": "AGENDA DEPORTIVA - VIERNES 15 DE NOVIEMBRE",
+    "name": "AGENDA DEPORTIVA - SABADO 16 DE NOVIEMBRE",
     "samples": [
 	            {
                 "name": "AGENDA DEPORTIVA (AL ENTRAR ESPERE UNOS SEGUNDOS)",
@@ -12,69 +12,7 @@
 		    }
 	    	    ]
   },
-	 {
-
-    "name": "EVENTOS ELIMINATORIAS USA 2026",
-    "samples": [
-
-	           {
-        "name": "URUGUAY VS COLOMBIA",
-         "uri": "0AtXxerwmnD9BKAjpiEwdcvlWGENTO1PQx8UTE+307WdiJL5EooXB8VV10ZVYtQXr45f3xEmDMPVbVWjOv3O54cG3E4Q1Xo5JQQOpT3NZIND4jVBz3QVXMdsa+7O79Ad",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDJHHXxUNLOiHtcGKz6J+5j7AiUI85eKWhIwfKlLIKbtWXFEaNmZNdq+7AA29jXNXDH4GjxalZy7ZvXYga+A6OCgFQFd3IZ0e/jjvdtSXnOd/amWZhaybBq3/rOL0DlpkeQ==",
-         "icono": "https://i.ibb.co/5c9yQYM/OIF.jpg"
-      },
-	               {
-        "name": "PERÚ VS CHILE",
-         "uri": "DKLhQNGfKt3MwglDLL8VLT4CHwl4XrB7REOpf29qAwmkugnu6PSvaTpTPY1VHtuHPmvSaguf65d/tGnvak2MtepS1dYMseKkPFgdjxQUB2A=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHO0kn1GnjM64SrqMKkMHcri43Pij75Gtv2i+px40sDyHqF24DJPOYigp7A/tD8g4dKVe+clYFsrClSlepoK/SMe50HozVxSJXguoCQ2/BNtD+Y1CjwSqYn2igu8tSJVApw==",
-        "icono": "https://i.ibb.co/RNYM8fD/OIP-4.jpg"
-      }
-	    	    ]
-  },
-  
-	 {
-
-    "name": "EVENTO MIKE TYSON vs JAKE PAUL",
-    "samples": [
-
-	           {
-        "name": "MIKE TYSON VS JAKE PAUL",
-         "uri": "SPa9/8ewTfG164ZCTJDcETN3wjudDk1jm7VC4WvRbM3bya6u1GYpnpPFP4ocRlQ2AjWPOtRspZKittBri4ulNQ==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDJHHXxUNLOiHtcGKz6J+5j7AiUI85eKWhIwfKlLIKbtWXFEaNmZNdq+7AA29jXNXDH4GjxalZy7ZvXYga+A6OCgFQFd3IZ0e/jjvdtSXnOd/amWZhaybBq3/rOL0DlpkeQ==",
-         "icono": "https://i.ibb.co/TqGtRBW/paul-vs-tyson-streaming-flyer-design-template-928418c3b920ee0281c9db65fb597709-screen.jpg"
-      
-      },
-	    {
-        "name": "MIKE TYSON VS JAKE PAUL OPC. 2",
-         "uri": "u49M0/FIFqO8jwK7iiHvOkQ+iRmqhcvP3cA6dH7es2ppcUI+H92y/mTUM9SImWZsBTQcz8ojuqj9TUoUGE0GIg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDJHHXxUNLOiHtcGKz6J+5j7AiUI85eKWhIwfKlLIKbtWXFEaNmZNdq+7AA29jXNXDH4GjxalZy7ZvXYga+A6OCgFQFd3IZ0e/jjvdtSXnOd/amWZhaybBq3/rOL0DlpkeQ==",
-         "icono": "https://i.ibb.co/TqGtRBW/paul-vs-tyson-streaming-flyer-design-template-928418c3b920ee0281c9db65fb597709-screen.jpg"
-      
-	    },
-	        
-	    {
-        "name": "MIKE TYSON VS JAKE PAUL OPC. 3",
-         "uri": "+aqOh1MLmWhtFGKMyK+FwdiCLbIzLoFTVe2+MQPGnWpLGpMwK36froiXLdWvgghb0Af0a1QC0MYniOSLNznCWA==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDJHHXxUNLOiHtcGKz6J+5j7AiUI85eKWhIwfKlLIKbtWXFEaNmZNdq+7AA29jXNXDH4GjxalZy7ZvXYga+A6OCgFQFd3IZ0e/jjvdtSXnOd/amWZhaybBq3/rOL0DlpkeQ==",
-         "icono": "https://i.ibb.co/TqGtRBW/paul-vs-tyson-streaming-flyer-design-template-928418c3b920ee0281c9db65fb597709-screen.jpg"
-      
-	    },
-	    {
-        "name": "MIKE TYSON VS JAKE PAUL OPC. 4",
-         "uri": "N3c2y6uLQZCkIm5502y5NnrKMrw9aWwAaK/4M2kXPRTtJvrB08qVRfRGogTZ+rroXMdNlmUQArEfB7pzjZLr0w==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDJHHXxUNLOiHtcGKz6J+5j7AiUI85eKWhIwfKlLIKbtWXFEaNmZNdq+7AA29jXNXDH4GjxalZy7ZvXYga+A6OCgFQFd3IZ0e/jjvdtSXnOd/amWZhaybBq3/rOL0DlpkeQ==",
-         "icono": "https://i.ibb.co/TqGtRBW/paul-vs-tyson-streaming-flyer-design-template-928418c3b920ee0281c9db65fb597709-screen.jpg"
-      
-	    }
-    ]
-	 },
-  {
+	   {
 
     "name": "🏆 TIGO SPORTS SOLO EVENTOS",
     "samples": [
