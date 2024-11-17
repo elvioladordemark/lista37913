@@ -1,11 +1,11 @@
 [
   {
 
-    "name": "AGENDA DEPORTIVA - SABADO 16 DE NOVIEMBRE",
+    "name": "AGENDA DEPORTIVA - DOMINGO 17 DE NOVIEMBRE",
     "samples": [
 	            {
                 "name": "AGENDA DEPORTIVA (AL ENTRAR ESPERE UNOS SEGUNDOS)",
-                "uri": "AMwwhPFWixjRidFdhw6qtNt60Stzah4ITezZjS4U3HNvMmcp/cgdS3edpXTJFYQLlsYanfW3XSbE6l5ZPKiHwXdjmmtUu3D8jfaQLVXvSlBpZz8kz1duoAA8ctJ877TqY6xWax5HLb7y31rjb1kYjA==",
+                "uri": "AMwwhPFWixjRidFdhw6qtNt60Stzah4ITezZjS4U3HNvMmcp/cgdS3edpXTJFYQLfbY9EvEp7CWuAlPsHzWpMIAMM7xuszHI2NNPWKgiN0hpZz8kz1duoAA8ctJ877TqY6xWax5HLb7y31rjb1kYjA==",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDMm+z+hs9olrBeUNdtUkMNnun4goYZ8JicI85QJRJwNcJeNdTCquHimO6zGFZYjNWI4YNlr+7Tp2QGrivwasc5VDnr/DwDnoTyzc8xUEf3CWnMyw+y+TkjmaRY12FuKFuQ==",
                 "icono": "https://img.freepik.com/vector-premium/logo-evento-deportivo-hombre-corriendo_695276-3031.jpg"
@@ -269,13 +269,6 @@
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDnuHFrmukKs6mMX0YzZpjktDvMQ8Ac3kUDk8mxmS4ZrK/jBD8zgdo5skNOE38sUJ2sF8S2gEhpBOHNQNosMh+dUhr+EpUAC1y2/Fl1Ot2O9",
                 "icono": "https://i.postimg.cc/Yq5RQ1h3/IMG-20241108-WA0894.jpg"
-	     },
-	    {
-                "name": "GOL TV",
-                "uri": "dsPS81TDtFRmKMILnE0W50J142P9A9zZci/BDTWO2zP72zLKZrsX5qRe7NUnusEMUHdJBRRAAmV9UIKW0GQVjGcILIl+G3tB5AaFPXuYp88=",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDnuHFrmukKs6mMX0YzZpjktDvMQ8Ac3kUDk8mxmS4ZrK/jBD8zgdo5skNOE38sUJ2sF8S2gEhpBOHNQNosMh+dUhr+EpUAC1y2/Fl1Ot2O9",
-                "icono": "https://i.ibb.co/k3Kd7gg/OIP.jpg"
 	     },
 		{
                 "name": "EVENTO MLS",
