@@ -747,9 +747,13 @@
     "name": "⚽BOLIVIA DEPORTES",
     "samples": [
        {
-      
         "name": "TIGO SPORTS 1",
         "uri": "HJm7W/hSLlLAFwcWSLumhrwxoX3ysyc3caFToqmk+lXw5v7AZ358N+S+oZMZ51ZY11XgmJ0vuDf3VZNu0LVSI8975wAAgKZcFCGx/LzP/EY=",
+        "icono": "https://i.postimg.cc/J0MJ59XC/TIGOBO2.jpg"
+      },
+	    {
+        "name": "TIGO SPORTS OPC. 2",
+        "uri": "dsPS81TDtFRmKMILnE0W50J142P9A9zZci/BDTWO2zNmS6GbXYjKgtbgbe5FOZApUHdJBRRAAmV9UIKW0GQVjGcILIl+G3tB5AaFPXuYp88=",
         "icono": "https://i.postimg.cc/J0MJ59XC/TIGOBO2.jpg"
       },
 	      {
