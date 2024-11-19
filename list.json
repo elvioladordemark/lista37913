@@ -18,6 +18,13 @@
     "samples": [
 
        {
+        "name": "BOLIVIA vs PARAGUAY", 
+	"uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3ph0VOc59ACvp/OxAiTMjAGoGHO2SmaBMKeG/tBfqxiFuFSMCk79WpqNt4E3q75GkE=", 
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDJHHXxUNLOiHtcGKz6J+5j7AiUI85eKWhIwfKlLIKbtWXFEaNmZNdq+7AA29jXNXDH4GjxalZy7ZvXYga+A6OCgFQFd3IZ0e/jjvdtSXnOd/amWZhaybBq3/rOL0DlpkeQ==",
+        "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1"
+      },
+	    {
                 "name": "EVENTOS NACIONAL B 1",
                 "uri": "ff3xrtP175aOztrBvXxwbcs91Ab3zmF//WIleVOcjNr4/ncjQegHTfZFF5Mex9zLYtEETio6Vx3cTVwwy/7NPwv+2VNYn5zEObFZy2ze9L08uT0fL0dlPeeS2qD0FFHibV2SAR9rsgF7H1FlvJkL1ZD6hwWRtR1zJGHrYcBWiNUaYLa0I5I91mL2a0qpcNBn6Wg5jo7iMqHY28c5hdKHfd3jxojqNN7VsBcr5MyGteF2+Mk6uz8LSkdlViDmjivuFgByqKVYm1zWymxfnpYhCTMLrKnMotFAW7C6cApuZNY=",
                 "drm_scheme": "clearkey",
