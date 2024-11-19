@@ -29,7 +29,14 @@
         "uri": "F4laFQPlw0GjFTIqECtC7Yq165IXd9JLiivC6mzV6K364Nm51ja4fhuUiROBk74P",
         "icono": "https://i.ibb.co/xqVZKyH/logo.png"
       }, 
-	   {
+	    {
+        "name": "ARGENTINA vs PERÚ",
+        "uri": "0AtXxerwmnD9BKAjpiEwdcvlWGENTO1PQx8UTE+307WdiJL5EooXB8VV10ZVYtQXr45f3xEmDMPVbVWjOv3O54cG3E4Q1Xo5JQQOpT3NZIND4jVBz3QVXMdsa+7O79Ad",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDD8qp3fuvvRch1G6XcKB8w6ArRz5Nn1LKR2QZEJVJbTg/m7hmy7f6U6/ysk6Csi9GicFWzq5QKqbofQyrufmYgEGQLwJp+s1LGZ8O3mCU7sHdiQEKEnkEPVFLUaxMthglc6DJEKeI1HmOKGcCHZwf7E=",
+        "icono": "https://i.ibb.co/sHr5n6k/maxresdefault.jpg"
+      },
+	    {
                 "name": "EVENTOS NACIONAL B 2",
                 "uri": "8yQbU+hbh9DDiLurUg9CWz5xqrhBvQS20qx+nSqkkdAUOovgMHoOfrj3yhofvER6J5YauPuqTW7brNd0M6ED1tKSCHvogfBvx/v3zH69Jr68IBUNHXqbb1bqw6B0Ff/BEakHL/EOzQ0/8wlnnstFC+RnIVkyZkszKQ3DuUneknovNGVYDlr5Qj4m1xwAqCXGi8lgXXh76M0xSIezpBR0E0ekYp7CVQCZsT15VMsW1qlR3DOv+GfYOQaNjUWA8l5G9dBdhhQO4+rqLm6bfXkrXLMu8MjQS1ZPX+JnIa0wRC9B3xXQcN0m7YZPRoW7qJubdJo0X1IV+rTA5/alOXrIxo4WEHSY46LgfEbByT9b2aXLBB6VUjKIy8NkYmDrTC5Q",
                 "drm_scheme": "clearkey",
