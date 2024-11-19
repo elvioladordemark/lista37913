@@ -26,10 +26,17 @@
       },
 	    {
         "name": "BOLIVIA vs PARAGUAY OPC. 2", 
-	"uri": "Mp+HU1F+rFasmjKrF/ME1lKA3PSYMHdKFwY2Bwnx+BAheeqFvY9y5GfeHatxFudr", 
+	"uri": "/dAOhDUg4/jcWxKRDrffDXQR7qtg30np4cY4E6uSVabwaD8BtL606CEhjjPvtn7J", 
         "drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDJHHXxUNLOiHtcGKz6J+5j7AiUI85eKWhIwfKlLIKbtWXFEaNmZNdq+7AA29jXNXDH4GjxalZy7ZvXYga+A6OCgFQFd3IZ0e/jjvdtSXnOd/amWZhaybBq3/rOL0DlpkeQ==",
         "icono": "https://i.ibb.co/wJ4qDXH/673b40bc7adcee4fe9414170.jpg"
+      },
+	     {
+        "name": "BOLIVIA vs PARAGUAY OPC. 3",
+        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3psEdN6+0F6THItKZKaYurpNti3tGFtIuhTYsIn8baunxLuZkOihEijf0KhFRsU6Us6vxLg3BaJK+MQFmB7fAze",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDMAoTOEpWNza9j9LPQeRZOLYv0AKsBa/FL6LVrQB+pC6uucqSUAoE+9HXm42+aJw+GmzGrYYUSIz1/cIzC47FV5jf6YzyJqRKTapEFpKcJXmgiFBEhQqQToG8Ahphhn4YCH6avWbuExXj+sK+Yb0YE0=",
+        "icono": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg"
       },
 	    {
         "name": "COLOMBIA vs ECUADOR",
