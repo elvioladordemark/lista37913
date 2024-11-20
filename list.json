@@ -1532,9 +1532,23 @@
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDPAe0CzHOj0vmcz40NNPhHz0rP/Pz10jnWeopj3UcB7h6Dwy41ofgS3tN4tumm4JnMEOJWTPHXEwYzhFMJ0qI2M6+ch3ZaS2geIsDb6O2m7tMkhwM5V+8aGVEWMxmxXmDs6DJEKeI1HmOKGcCHZwf7E=",
         "icono": "https://i.ibb.co/DMn0KSH/descarga-2.png"
       },
+	     {
+        "name": "HBO FAMILY OPCIONAL",
+        "uri": "v1h9zS5Dt1Gk/t4V00sfsUsa9JcXde+es5lsVVbaw+D9uLrqlrbRiqefM6LxBnXsM0yCcoTDPW0FFuuZlHsuG2OsVmseRy2+8t9a429ZGIw=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDPAe0CzHOj0vmcz40NNPhHz0rP/Pz10jnWeopj3UcB7h6Dwy41ofgS3tN4tumm4JnMEOJWTPHXEwYzhFMJ0qI2M6+ch3ZaS2geIsDb6O2m7tMkhwM5V+8aGVEWMxmxXmDs6DJEKeI1HmOKGcCHZwf7E=",
+        "icono": "https://i.ibb.co/DMn0KSH/descarga-2.png"
+      },
       {
         "name": "HBO SIGNATURE",
         "uri": "c8dznZikVfQgSCCQfde+2u1yM09Zlih8lt0hzHRASmWI//sWr+g4URsoxkm6n2U2vmJ9ChVjPLU9N84rUKf1OQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDBeKqrXfOikoCbtG09NWgctPYabIg1YIlGOpoGRTITnV+abm+lR4GpIYSw7iBDycgvSm1uhvyslHE1aiET7AiWs0WGmj6q00+qr038Zdpa61voGRlzKzbBfvxbedF20VJs5hQb6qV5Omwvl1edurSxs=",
+        "icono": "https://i.ibb.co/FYgrpMP/ar-hbo-signature-m.png"
+      },
+	    {
+        "name": "HBO SIGNATURE OPCIONAL",
+        "uri": "v1h9zS5Dt1Gk/t4V00sfsUsa9JcXde+es5lsVVbaw+D9uLrqlrbRiqefM6LxBnXsB4IaN1Cg1gTfgqy4sJyQDGOsVmseRy2+8t9a429ZGIw=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDBeKqrXfOikoCbtG09NWgctPYabIg1YIlGOpoGRTITnV+abm+lR4GpIYSw7iBDycgvSm1uhvyslHE1aiET7AiWs0WGmj6q00+qr038Zdpa61voGRlzKzbBfvxbedF20VJs5hQb6qV5Omwvl1edurSxs=",
         "icono": "https://i.ibb.co/FYgrpMP/ar-hbo-signature-m.png"
@@ -1563,6 +1577,13 @@
       {
         "name": "HBO POP",
         "uri": "c8dznZikVfQgSCCQfde+2u1yM09Zlih8lt0hzHRASmWI//sWr+g4URsoxkm6n2U2jJ11Umqftv3Z4b8yG/SPcQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDPuHF60qkTJTA6WcaSEpspf+Nj/nyim2OamGK9r7AL/XVm/pyyNB8V84zxF+NLQlFebaGUMDBZ+hHaB4KzdqL5eq/EqqCVmCtJif3n/em4KjrAFSk62x2sF90zN9Dl6g7WOsVmseRy2+8t9a429ZGIw=",
+        "icono": "https://i.ibb.co/VmTj2tv/ar-max-up-m.png"
+        },
+	      {
+        "name": "HBO POP OPCIONAL",
+        "uri": "v1h9zS5Dt1Gk/t4V00sfsUsa9JcXde+es5lsVVbaw+D9uLrqlrbRiqefM6LxBnXsVKjLlB+jnBShrFfQc+g3ymOsVmseRy2+8t9a429ZGIw=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDPuHF60qkTJTA6WcaSEpspf+Nj/nyim2OamGK9r7AL/XVm/pyyNB8V84zxF+NLQlFebaGUMDBZ+hHaB4KzdqL5eq/EqqCVmCtJif3n/em4KjrAFSk62x2sF90zN9Dl6g7WOsVmseRy2+8t9a429ZGIw=",
         "icono": "https://i.ibb.co/VmTj2tv/ar-max-up-m.png"
@@ -1765,53 +1786,8 @@
         "name": "PLUTO TV COMBATE",
         "uri": "f2rytGl+Tdzm+q+mDyPlvFRj5ftpzZvtRzkLHJkNuzTBh0rhm14T3x8LeDMgsiP0/N0tWgkPgilKD7iwFwdT4jsjRoxnwDCyqH7AnrpzyXJwwrsxJfl7zYhfbMQkWU58KVLRga33LMpdm5kzGGZYZcbawwud7Pb4+U4AabzOCjBtbe1N5dQbYpSNrgKT1Vw54GROHXZSg67wwBV4mgCMIelmUhVnzIGdpy3sp9waR/Nd3ZyZuKYrklm6yV8T5e14UemccarpZq8dD5ufoVN7w66oy/E0f3UeL0sGsuEm5OD8hkxVR2eQfXRg8DL5U7hGqIkI3FcCIJQoWDWFjZ1cCha/1qtmDjrf4IM+R3i/3ot4NOnyD+NFes5S5Vo1kC+Ob9qi+2TqdhhbMr5M4ptQubw9IqOh36djOcKKCnk0bVsC3J9dJXPZ3M/pGk5X+EFW",
         "icono": "https://i.ibb.co/f4ghZQF/IMG-20241109-WA0033.jpg"
-      },
-	           {
-        "name": "RUNTIME ESPAÑOL",
-        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI9kbLGXBKPhCqC9S2hEKMxVg==",
-        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
-      },
-	           {
-        "name": "RUNTIME CINE Y SERIES",
-        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI9YJwtD+e7C2MpCN/wrMZakA==",
-        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
-      },
-	           {
-        "name": "RUNTIME FAMILIA",
-        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI9bDXAOKulbLa2NVD8kiT7AA==",
-        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
-      },
-	           {
-        "name": "RUNTIME TERROR",
-        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI92N4Zqrn1Kh3U5M4LC5FpFg==",
-        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
-      },
-	           {
-        "name": "RUNTIME ROMANCE",
-        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI9OtoPmWHYhBd+O4U5OKEITg==",
-        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
-      },
-	           {
-        "name": "RUNTIME CRIMEN",
-        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI9arF8BgnsjS9SBFiGf7K+PQ==",
-        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
-      },
-	           {
-        "name": "RUNTIME COMEDIA",
-        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI9NBSGDtC6boO2IKEDjkH/Yw==",
-        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
-      },
-	           {
-        "name": "RUNTIME ACCION",
-        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI91tTK354cehMzYkFLfMqyQQ==",
-        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
-      },
-	           {
-        "name": "RUNTIME BRASIL",
-        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI9gLxVUBR3FweN1A4MuRPT6g==",
-        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
-		   }
-
+      }
+	        
     ]
   },
 	   {
@@ -1873,7 +1849,53 @@
         "name": "RUNTIME BRASIL",
         "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI9gLxVUBR3FweN1A4MuRPT6g==",
         "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
-      }
+      },
+	   {
+        "name": "RUNTIME ESPAÑOL",
+        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI9kbLGXBKPhCqC9S2hEKMxVg==",
+        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
+      },
+	           {
+        "name": "RUNTIME CINE Y SERIES",
+        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI9YJwtD+e7C2MpCN/wrMZakA==",
+        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
+      },
+	           {
+        "name": "RUNTIME FAMILIA",
+        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI9bDXAOKulbLa2NVD8kiT7AA==",
+        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
+      },
+	           {
+        "name": "RUNTIME TERROR",
+        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI92N4Zqrn1Kh3U5M4LC5FpFg==",
+        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
+      },
+	           {
+        "name": "RUNTIME ROMANCE",
+        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI9OtoPmWHYhBd+O4U5OKEITg==",
+        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
+      },
+	           {
+        "name": "RUNTIME CRIMEN",
+        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI9arF8BgnsjS9SBFiGf7K+PQ==",
+        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
+      },
+	           {
+        "name": "RUNTIME COMEDIA",
+        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI9NBSGDtC6boO2IKEDjkH/Yw==",
+        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
+      },
+	           {
+        "name": "RUNTIME ACCION",
+        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI91tTK354cehMzYkFLfMqyQQ==",
+        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
+      },
+	           {
+        "name": "RUNTIME BRASIL",
+        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI9gLxVUBR3FweN1A4MuRPT6g==",
+        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
+		   }
+    
     
      ]
   },
@@ -2524,7 +2546,11 @@
         "icono": "https://m.media-amazon.com/images/S/pv-target-images/16af05e8c93d21a9e8999206d8371a929c3348d6509907b7b18b982732bb748e._SX1080_FMjpg_.jpg"
       }, 
 
-
+    {
+      "name": "STRANGER THINGS",
+        "uri": "v1h9zS5Dt1Gk/t4V00sfsUsa9JcXde+es5lsVVbaw+D9uLrqlrbRiqefM6LxBnXsxn4pHu7zVdu3byGcpEieGA==",
+        "icono": "https://i.postimg.cc/Jn204wGW/2190fbe3-ebce-4399-854f-b51d5db41323.jpg"
+      },
 	 
     {
       "name": "DRAGON BALL",
