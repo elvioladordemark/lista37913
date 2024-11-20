@@ -55,6 +55,13 @@
         "uri": "DKLhQNGfKt3MwglDLL8VLT4CHwl4XrB7REOpf29qAwmkugnu6PSvaTpTPY1VHtuHPmvSaguf65d/tGnvak2MtepS1dYMseKkPFgdjxQUB2A=",
         "icono": "https://i.ibb.co/4jSQdMN/673a9ab4ed32151aa55d9c0b.jpg"
       },
+	        {
+        "name": "ARGENTINA VS PERÚ 3",
+        "uri": "v1h9zS5Dt1Gk/t4V00sfsUsa9JcXde+es5lsVVbaw+D9uLrqlrbRiqefM6LxBnXs/Af+VNKVS1Bcq4U39cxvdA==",
+	"drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHHXy545al+lQgmRI9PaVG8kOc1Sao5RE/V5KoQnU9ktVlWxgFdgrsSx+zdmd2qcLgmi2iVl7qUqlJ9D2GCHkPnQnyar6TPsj0Nb6TxjdxHCufUR/ksVrYkzpDVVyYpmQ/Q==",
+        "icono": "https://i.ibb.co/4jSQdMN/673a9ab4ed32151aa55d9c0b.jpg"
+      },
 	    {
         "name": "CHILE vs VENEZUELA",
         "uri": "I3nb/FutNFW/D2m3FQ9rvVY9/48f19VOiUf3PJl5kcNdmj7jfGEhK2d6vuFfPmab",
@@ -2421,6 +2428,13 @@
       {
         "name": "TELEFE",
         "uri": "+PufswE1TaZPHIaqiTQV39eRBTOJOO4zrW+yyItSGhTb1r/QrYIV62qIxHn3V1/kT+hDrxYoNyuvBvPhNb1WGo5/6Y/IzpQS1fQ418OYP5JGI17R0adJfl2aLwLauZaG",
+	"drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHHXy545al+lQgmRI9PaVG8kOc1Sao5RE/V5KoQnU9ktVlWxgFdgrsSx+zdmd2qcLgmi2iVl7qUqlJ9D2GCHkPnQnyar6TPsj0Nb6TxjdxHCufUR/ksVrYkzpDVVyYpmQ/Q==",
+        "icono": "https://i.ibb.co/JHHx4HH/e1dc8733904ec35e5d081ebbf0eb2d64-750x400.gif"
+      },
+	    {
+        "name": "TELEFE OPCIÓN 2",
+        "uri": "v1h9zS5Dt1Gk/t4V00sfsUsa9JcXde+es5lsVVbaw+D9uLrqlrbRiqefM6LxBnXs/Af+VNKVS1Bcq4U39cxvdA==",
 	"drm_scheme": "clearkey",
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHHXy545al+lQgmRI9PaVG8kOc1Sao5RE/V5KoQnU9ktVlWxgFdgrsSx+zdmd2qcLgmi2iVl7qUqlJ9D2GCHkPnQnyar6TPsj0Nb6TxjdxHCufUR/ksVrYkzpDVVyYpmQ/Q==",
         "icono": "https://i.ibb.co/JHHx4HH/e1dc8733904ec35e5d081ebbf0eb2d64-750x400.gif"
