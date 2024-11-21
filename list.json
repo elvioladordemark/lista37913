@@ -705,7 +705,7 @@
       {
     "name": "⚽DEPORTES ESPN",
     "samples": [
-     {
+           {
                 "name": "ESPN",
                 "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3pmAv2OcwwV9m6FvoSPb8JCM0k+uIpKMokLH5KGMemxAhxbEcjHIu+p8nsrXowsR2xjrFZrHkctvvLfWuNvWRiM",
                 "drm_scheme": "clearkey",
@@ -823,6 +823,13 @@
          {
         "name": "ESPN PREMIUM",
         "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3r2ZDCNrHicsoabKSE3TyC4/QGVTzm+a8RmpCJ46X0d2f/3h0ua6QjIehBK3TBmkMwN5N6/Zjqu53o11/4bjgTnXsOP5zbi4mtVAJRejLh7Sg==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDPzXW3ye8LgJ8F1BH3vT16oqBBg0HlBZHePMUTTKkrmwwrb8ojV+dhRmOIyFQSd00Bk3MC80QTSOr3/VrxK0DNYQDPvg7AhbtQ3pXcfknPYMzoMkQp4jUeY4oZwIdnB/sQ==",
+        "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg"
+      },
+	    {
+        "name": "ESPN PREMIUM Opc. 2",
+        "uri": "6wQ6KNLJsb7142S6ZOJRRZKZVdpRmtSHOh7B5/mawFZJJ5ZbZ896X1sPJIvvlsl/",
         "drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDPzXW3ye8LgJ8F1BH3vT16oqBBg0HlBZHePMUTTKkrmwwrb8ojV+dhRmOIyFQSd00Bk3MC80QTSOr3/VrxK0DNYQDPvg7AhbtQ3pXcfknPYMzoMkQp4jUeY4oZwIdnB/sQ==",
         "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg"
