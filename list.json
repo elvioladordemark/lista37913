@@ -1468,9 +1468,7 @@
       },
 
 	    {
-        "name": "HBO XTREME FLOW",
-        "uri": "zlZeeg/ENWzgVMeKl3ZJpWa1n6he6JJ0gqEsdOpJ9FL7SOs2s6p+DQnSa4qEanYXxcY9sDtpUO8UMps1nYwBDHI6rKyBDd1aMudAZ/4O2tzM08DJioqBjSJ6bOaG/oXh",
-        "drm_scheme": "clearkey",
+"name": "HBO EXTREME", "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3qZ8J5It4JGdt1n2+/MIKbPASBWoMuciNbNDnCruFcN/PZLpzWLK8iOZmOnasOvcj5m0PzL0GqhJKedyT9Vigma", "drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDLt51RwXMCRiBe5QWoc7S9hvw4qlMwIgbWDOhpL1dNJnqUwzW5lpW3tSMDKXju5/n3UXtzwIRcfIT46mETl0keDBHKVTNt5CC8V7+90M/bh/0lVLRj09SyV4UoVNXyfR1aewpdARTiC4qpNFVsEM+Us=",
         "icono": "https://i.ibb.co/Qm692z1/ar-max-prime-panamericano-hd-m.png"
       },
@@ -1483,16 +1481,12 @@
         "icono": "https://i.ibb.co/DMn0KSH/descarga-2.png"
       },
       {
-        "name": "HBO SIGNATURE FLOW",
-        "uri": "zlZeeg/ENWzgVMeKl3ZJpY6CLkwsxzxCUmiln8UWu1JhJBNFG1dSJgMnAEu7ZdbsZO1VfTaWaCAi9T0r37zO1VQrqL4/LvVGQf0/WZe4Cs26NWQB1lAZlGc6bILm8XdEY6xWax5HLb7y31rjb1kYjA==",
-        "drm_scheme": "clearkey",
+ "name": "HBO SIGNATURE", "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3qZ8J5It4JGdt1n2+/MIKbPMghJ2OUY/k3Ox8CQ79EkuJqCxex2KLvPhas7q6Y2/6zfCvElFh7AtwDgUEtk4MMR",  "drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDBeKqrXfOikoCbtG09NWgctPYabIg1YIlGOpoGRTITnV+abm+lR4GpIYSw7iBDycgvSm1uhvyslHE1aiET7AiWs0WGmj6q00+qr038Zdpa61voGRlzKzbBfvxbedF20VJs5hQb6qV5Omwvl1edurSxs=",
         "icono": "https://i.ibb.co/FYgrpMP/ar-hbo-signature-m.png"
       },
       {
-        "name": "HBO MUNDI FLOW",
-        "uri": "eQIZwW03FaaJzqF0oYbVM/W3fpdZO4AIthdUmgtKVnRA64Cv/vB7VHnrQ/TONevaHBbalEIS9SQi4vhMZKFJ5VPjtak/ycMPO9gWsCNsFBrXa8oKb7QwtHOL1+qAPllz",
-        "drm_scheme": "clearkey",
+"name": "HBO MUNDI", "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3qZ8J5It4JGdt1n2+/MIKbPJ5FULFr/G8RqjrTwEXNaZ89U+UUG5mWNJUHHxYo2hMXFCwt7LwNKS+tkzV01UREj",  "drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDJ3nV8ifBJ1LJMwqIW31e1jFMjyXayTXBZTTyhH1yiWqaEbw7rZFcsKKJ6g9562vvcy/khnHk+8534arIsWU0fgUgPdDxW+qeZK6Jte4C4FkayWyCvd5CohScWoipotvQSH6avWbuExXj+sK+Yb0YE0=",
         "icono": "https://i.ibb.co/dJjRPzB/ar-max-m.png"
       },
