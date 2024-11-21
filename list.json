@@ -1252,10 +1252,8 @@
   {
     "name": "🎥CANALES DE PELICULAS Y SERIES",
     "samples": [      
-           {
-        "name": "GOLDEN",
-        "uri": "c7k5uaT3gNR+3hqnpWyPh888n2LscVlSSTav0Hb2Tt26G15l/OG8FiSoBd+cA3zMK7T6W3bVEr/SF8t9ne3rlP8qV/QqmZhTLRO8wJemkuI=",
-        "drm_scheme": "clearkey",
+                 {
+  "name": "GOLDEN", "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3oLlBXo+O0hTGj553ImDe91CgdlYUiH771fwaHFy0j4pba+RlYWQGUuZ662sHTxXTA=",   "drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDVhlejVg2RMFAXWbEdE2+uqAsH5jqueBD2LOfPy64W1WyOVoTC+UPCL1+3rIqRCMqyWldxoWAObbKgk0P/4wmveS+t3ToNva48NRFK0ISsXcN77Ilb5OO16M0/Fn1rEU2OsVmseRy2+8t9a429ZGIw=",
         "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png"
       },
@@ -1333,9 +1331,7 @@
         "icono": "https://image.xumo.com/v1/channels/channel/99991748/600x337.webp?type=color_onBlack"
       },
       {
-        "name": "CINEMAX",
-        "uri": "zlZeeg/ENWzgVMeKl3ZJpcRLjmGVdp5a5vBcXmID0pNhJBNFG1dSJgMnAEu7ZdbsxuQ8vpKjEE2KF0i/zfjHpQt1w8c9ON1YwEBcmNlpn/BowQjNzxxFd4z9+2SVZUP7",
-        "drm_scheme": "clearkey",
+  "name": "CINEMAX", "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3qb7Ksg7m05sZ2QRC0+lAkXmXIJfEoy6JRrPh+ud4bMj4dfYsTqrOrTLUISBgcxtDNyP6EODtz6ssMEfy7LPHS9", "drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDEcAUeRejMWn8PtEgjmcCVMWaNMMiITho2LcXqWiHtwJ/AEmj5quskQTCmDkrvduNyiyA+VAW5FQwXx0J64xBlnzIxam6OH4aYSbkDHN53iFr2N9AoFQ5ORe+tlVG/WzKx0OYhwf+qgDgITn/03iKSo=",
         "icono": "https://i.ibb.co/MZYTrkg/descarga-9.png"
       },
@@ -1361,16 +1357,12 @@
         "icono": "https://i.ibb.co/vqF1RTN/co-space-hd-m.png"
       },
       {
-        "name": "STAR CHANNEL",
-        "uri": "zlZeeg/ENWzgVMeKl3ZJpejIbBcOBTVpTWYdTU9Qq68VrD+aIrV0EceN51DnPYuEspgaG8FNLj6C3keMIYD7MPTjh8Cl2+gmcoQl6oahippjrFZrHkctvvLfWuNvWRiM",
-        "drm_scheme": "clearkey",
+ "name": "STAR CHANNEL", "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3o/JJvCBcPFDzeIsGI+WBkX//eHS5rpCMh6EErdMGaQzDZsLyJeThmFx3uu6J2VTV0=",   "drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDGmKwjeFjj6otG/CLfgJMxsMFeaqgdULj/nHttNH1Kdr3g/ilczsg+X1r+pU4KXNiy9/qqiSd/E179zm+Qwps5j6+DfgtiCQuz7FXUOQDyiaqFlpjcuJB96kzmmmyxlsW46jAEjhsg8fHIiu1P7qi2M=",
         "icono": "https://i.ibb.co/c8ngzK0/T6-Xtj-Jp-V-400x400.jpg"
       },
       {
-        "name": "SONY CHANNEL",
-        "uri": "eQIZwW03FaaJzqF0oYbVM8F00XbOT01QH7jZcC54xScRGtYDz/1Qyts+MBbATOkasuOJJlepAz3Ov5KTzGamXyZCpgsGHDP36PNUY5OiKFyTUBPX+efIfqqbUT7aYC1s",
-        "drm_scheme": "clearkey",
+"name": "SONY CHANNEL", "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3oPuGmoYAOGgtkc9CWq00i9BjXTMH1q6sEywTzz8V+7W+x+J8x5Mtb7yIbb3ctlQ9g=",    "drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNsxjpK24QSE5M/cOGBa3A0ZG76wiSpGgQ4CkBLsWG6u8RF7brZHhdXrCf7SK/xZSz6JDtR5m4YiykwguKG50tMwHkrB9jvxR6FBJbstwAI1ZXQarQcFUEeOxPE8y1qleHx1/xdfXMktsUBnUUZQk4Y=",
         "icono": "https://i.ibb.co/XD3Fc9t/Sony-Channel-Logo.png"
       },
@@ -1440,13 +1432,11 @@
         "icono": "https://i.ibb.co/0ChD6Hg/IMG-20241109-WA0034-1.jpg"
       },
       {
-        "name": "A3CINE",
-        "uri": "c7k5uaT3gNR+3hqnpWyPh888n2LscVlSSTav0Hb2Tt3Kt9rpmAFyqECNII5IXgkt2tTDAMJPn8mGyJOGbh9Hej7xwcoiBSuboIGqvClpjd8=",
-        "drm_scheme": "clearkey",
+ 
+"name": "A3CINE", "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3puIRgtICcs3+TXjpg/0rpPPkn7rsRTyVlrt59YRbOKI7U0URFXjmzedjVR06klsapjrFZrHkctvvLfWuNvWRiM",  "drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDJbiBc8sCaON6DX7I0JCvPGv+VbDPqFZSNJxaDbfpqeR4vLBnqanGxkWGyeLCrKJTV9s9q4E8Y0HUYJoxfN1fTDXgnEnl4i1utf1ih5lhImEpovc4W1waUWNxYZtOf6902OsVmseRy2+8t9a429ZGIw=",
         "icono": "https://i.ibb.co/RgWH92w/720x540-1.jpg"
       }
-      
     ]
   },
 
