@@ -494,6 +494,11 @@
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDE7Yd9ZPJ6rAhfzDSlwxgE5Nc6rQiVfUpgAnenhOpkcUeEzhcGdamJ7ABIn33HAqqTovJuFyYGo5vRh66Y92kgTVTgI8vBlhct2beu6HD3AEGGJGAEoDG8jclvbi4S/Egg==",
         "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg"
       },
+	    {
+ "name": "PY | SNT Opc. 2 🇵🇾", "uri": "Mp+HU1F+rFasmjKrF/ME1lKA3PSYMHdKFwY2Bwnx+BDQuPxhMRnnA1C2y6o4yjJ8",   "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDE7Yd9ZPJ6rAhfzDSlwxgE5Nc6rQiVfUpgAnenhOpkcUeEzhcGdamJ7ABIn33HAqqTovJuFyYGo5vRh66Y92kgTVTgI8vBlhct2beu6HD3AEGGJGAEoDG8jclvbi4S/Egg==",
+        "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg"
+      },
        {
         "name": "LA TELE",
         "uri": "MSMTzOn7Irq+cyISGiha4hAAmB3ougfKrNRl19XWLqXOjmWuE/ti29LCfywn4TkoJ1GrmVPjiIbtuArFNfpehlftJzYZewN+yDumY9o/Uo2dwhmah/QPjWu6uLxuyt6H",
@@ -524,6 +529,13 @@
       {
         "name": "UNICANAL",
         "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3psEdN6+0F6THItKZKaYurpNti3tGFtIuhTYsIn8baunxLuZkOihEijf0KhFRsU6Us6vxLg3BaJK+MQFmB7fAze",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDMAoTOEpWNza9j9LPQeRZOLYv0AKsBa/FL6LVrQB+pC6uucqSUAoE+9HXm42+aJw+GmzGrYYUSIz1/cIzC47FV5jf6YzyJqRKTapEFpKcJXmgiFBEhQqQToG8Ahphhn4YCH6avWbuExXj+sK+Yb0YE0=",
+        "icono": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg"
+      },
+	    {
+        "name": "UNICANAL Opc. 2",
+        "uri": "svYnf1tOSNM7703YskeocNHzAxb3uL/VtFunT0kJGyoyeopipe+YyAuIk/q4spbMSOGxcPBGOePJ+m5akSyjst1HZ8kTBVt7TY0IH8CDMTU=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDMAoTOEpWNza9j9LPQeRZOLYv0AKsBa/FL6LVrQB+pC6uucqSUAoE+9HXm42+aJw+GmzGrYYUSIz1/cIzC47FV5jf6YzyJqRKTapEFpKcJXmgiFBEhQqQToG8Ahphhn4YCH6avWbuExXj+sK+Yb0YE0=",
         "icono": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg"
@@ -585,11 +597,15 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png"
       },
 	         {
-   "name": "UNIVERSO TV", "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3qq8aLCFv1uOJ2BpgemLhqx07otpLbjjokMIwKnH1lHjF0uRLOu85qUshfH9XOPV0TzO1e43wx1s+5Zk/0KF0WF", "drm_scheme": "clearkey",
+   "name": "UNIVERSO TV", "uri": "svYnf1tOSNM7703YskeocNHzAxb3uL/VtFunT0kJGypt7ll8RX4UM7bNjncdCybZY31WQ1fbiF5Pm+RB+Uc6rTxRbl/ajoYrMsOBfKdHUvD9TPj2TZ4OF0aRRFeWPoJqS7gbZuK8gc2TnnCveF7zSpW/E/DcTi0O56at9kHOGtRVVi0AOGpXpEOzRya7WMB5idwlsdGDVpKUXlbQAhN8vj/bdoOv18zW6sPDRvqBuZ1+cSc9u/BrQmsrd5JCoNZS", "drm_scheme": "clearkey",
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHKthlL8m2uMVkI+48GYYfdrsUmsQF9STuHVIlKd6JjsoLbLzUr2/d0c20l2lnl4KCKW/iSRpbBIS27+1DbE3vZNgSiQU92cJhaMgsx0LYS6mSiaYtyouDgMU8ARnxrBrBw==",
         "icono": "https://i.postimg.cc/nrSXkZnY/descarga-2.png"
       },
-
+{
+   "name": "UNIVERSO TV Opc. 2", "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3qq8aLCFv1uOJ2BpgemLhqx07otpLbjjokMIwKnH1lHjF0uRLOu85qUshfH9XOPV0TzO1e43wx1s+5Zk/0KF0WF", "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHKthlL8m2uMVkI+48GYYfdrsUmsQF9STuHVIlKd6JjsoLbLzUr2/d0c20l2lnl4KCKW/iSRpbBIS27+1DbE3vZNgSiQU92cJhaMgsx0LYS6mSiaYtyouDgMU8ARnxrBrBw==",
+        "icono": "https://i.postimg.cc/nrSXkZnY/descarga-2.png"
+      },
    {
         "name": "REPÚBLICA TV",
         "uri": "svYnf1tOSNM7703YskeocGa66vnDXJk5RcbaJd7EG5D6dbqA1j3OF0YU6k89bkwtWZG7ZC/JGWJnNYqUpe09cKkl0b4QE8s2DvuqW3nR+YI=",
@@ -646,6 +662,11 @@
   
       {
 "name": "GEN_TV 🇵🇾", "uri": "c7k5uaT3gNR+3hqnpWyPh888n2LscVlSSTav0Hb2Tt3WeudWvAbwGeaOQoTC+ZhXWbStfZt1WjwlVi4pgT4daNtY9J/bnX1oSevxQ5D2VOM=","drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDJHHXxUNLOiHtcGKz6J+5j7AiUI85eKWhIwfKlLIKbtWXFEaNmZNdq+7AA29jXNXDH4GjxalZy7ZvXYga+A6OCgFQFd3IZ0e/jjvdtSXnOd/amWZhaybBq3/rOL0DlpkeQ==",
+        "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1"
+      },
+	    {
+"name": "GEN_TV Opc. 2 🇵🇾", "uri": "Mp+HU1F+rFasmjKrF/ME1lKA3PSYMHdKFwY2Bwnx+BAheeqFvY9y5GfeHatxFudr","drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDJHHXxUNLOiHtcGKz6J+5j7AiUI85eKWhIwfKlLIKbtWXFEaNmZNdq+7AA29jXNXDH4GjxalZy7ZvXYga+A6OCgFQFd3IZ0e/jjvdtSXnOd/amWZhaybBq3/rOL0DlpkeQ==",
         "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1"
       },
