@@ -260,7 +260,7 @@
 	    },
 	   {
                 "name": "EVENTOS 2 HD",
-                "uri": "AGIPOlGjl8MY4avAsLg+mv8CjVip2j3H1Hzs81iFy2iEFoSYDC1DFJECuj1pE7baWeVeYylUylwXg1SIwfTpIxn9SQWMGj7Fbl2xCw+nh+k=",
+                "uri": "xw6hYHzN05gDtNwbQQ8/TzZ7+eFnO1XTHCWz713qyHfo6OoR5xSmet+BsfvPyQJpdR56/a5aLWozlV6bUlIVAA==",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHC3eSRlObt8YPnHu9mc8BZNx0+IPv5rdU4W16kpwGVNuaHilewx3zCA2ilzvWLwZRfGfrLL8BcgfQrZpnSEiSbOKsb4k87l/wfACkk4B8ybAIXnqhb2PcuRn3h2rcRbnaw==",
                 "icono": "https://i.postimg.cc/qqpQrCXQ/descarga-5.jpg"
@@ -274,32 +274,32 @@
 	   },
 	    {
                 "name": "EVENTOS 4",
-                "uri": "Y4WwEOiPL6iCZ60Sap2AXc8mcQ2K7GBTO1Ri0BWO2TtzMnQ5Gsql9adqptNU1div",
+                "uri": "uYYG4E7vAZ2mutSCVGGLUuRAvGcW5qEq4AJKGtoHDdfBwbGnP9d6WI6lcYa3KOJx",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDnuHFrmukKs6mMX0YzZpjktDvMQ8Ac3kUDk8mxmS4ZrK/jBD8zgdo5skNOE38sUJ2sF8S2gEhpBOHNQNosMh+dUhr+EpUAC1y2/Fl1Ot2O9",
                 "icono": "https://i.postimg.cc/qqpQrCXQ/descarga-5.jpg"
 	   },
 	{
                 "name": "EVENTOS 5",
-                "uri": "Y4WwEOiPL6iCZ60Sap2AXc8mcQ2K7GBTO1Ri0BWO2TsIz/BUqhlcyrBvK+fkYX1N",
+                "uri": "uYYG4E7vAZ2mutSCVGGLUuRAvGcW5qEq4AJKGtoHDddz/+PGAF5A49L5mjuCazkv",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDnuHFrmukKs6mMX0YzZpjktDvMQ8Ac3kUDk8mxmS4ZrK/jBD8zgdo5skNOE38sUJ2sF8S2gEhpBOHNQNosMh+dUhr+EpUAC1y2/Fl1Ot2O9",
                 "icono": "https://i.postimg.cc/qqpQrCXQ/descarga-5.jpg"
 	   },
 	    {
                 "name": "EVENTOS 6",
-                "uri": "Y4WwEOiPL6iCZ60Sap2AXc8mcQ2K7GBTO1Ri0BWO2TuaBuhpgm7wenqI1Hv9xXaF",
+                "uri": "uYYG4E7vAZ2mutSCVGGLUuRAvGcW5qEq4AJKGtoHDdeoLOHIZau63EPGrxDtX7Br",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDnuHFrmukKs6mMX0YzZpjktDvMQ8Ac3kUDk8mxmS4ZrK/jBD8zgdo5skNOE38sUJ2sF8S2gEhpBOHNQNosMh+dUhr+EpUAC1y2/Fl1Ot2O9",
                 "icono": "https://i.postimg.cc/qqpQrCXQ/descarga-5.jpg"
 	   },
 	    {
-                "name": "EVENTOS 7",
-                "uri": "dw1W926oVMHTGvrxy7of+bn/KdFoTnb8Qw4goZjv0wi7K1LfU7WSuFncg9oSYvWB",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDnuHFrmukKs6mMX0YzZpjktDvMQ8Ac3kUDk8mxmS4ZrK/jBD8zgdo5skNOE38sUJ2sF8S2gEhpBOHNQNosMh+dUhr+EpUAC1y2/Fl1Ot2O9",
-                "icono": "https://i.postimg.cc/qqpQrCXQ/descarga-5.jpg"
-	   }
+      "name": "EVENTOS 7",
+		"uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3q7Yg0I/NDQjf0hzl46zNk4kGQJ3CYXW7beGJnUcCu0O2MFBxl3b5M7bZDDNnFdwFlFcEGxEyyjCA56pPg8XrWB",     
+		 "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDCmypJiydMAVcDyQkg8TQ1zT2dPgeX8mNbGCsw9w09Tjq2eldpnl5tYScpcYT+MY5H/B0Q303jK6P4BBRF6WZKuzvQLfOlvYCY9FZ02mDIsXGi4jyKs0TQJCjPQZ/aT7XA==",
+                "icono": "https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png"
+            }
    ]
 	    },
   {
