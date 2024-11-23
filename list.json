@@ -1017,7 +1017,7 @@
 	    {
         "name": "MOVISTAR LIGA DE CAMPEONES",
         "uri": "tD7OETOuAS12QOVWDAhhtYH/7sSBEWkfJz/6za7o3GIrl06oaA4zGQ59TpM7Khfl",
-        "icono": "https://ibhttps://i.ibb.co/S7YzDj9/xmovistar-liga-campeones-jpg-pagespeed-ic-w-Vl-LVAp-zp.jpg"
+        "icono": "https://i.ibb.co/S7YzDj9/xmovistar-liga-campeones-jpg-pagespeed-ic-w-Vl-LVAp-zp.jpg"
       },
 	    {
         "name": "MOVISTAR LIGA DE CAMPEONES 2",
@@ -2759,6 +2759,11 @@
       "name": "HARRY POTTER",
         "uri": "6p78SAc0hSxOyYOYWzmHvLPgZm4LUxh1HhzgBDE+sBHsipbNYDG5UD6nLXo+KSqBnAW52NAQxc23IcTrpeEheg==",
         "icono": "https://i.ibb.co/ZGtWtjV/OIP.jpg"
+	},
+	    {
+      "name": "CINEMA MARVEL",
+        "uri": "6p78SAc0hSxOyYOYWzmHvLPgZm4LUxh1HhzgBDE+sBH3BalbF25oIQbbtGbBzuedL1Katu+7xxrLzkzznPmxwA==",
+        "icono": "https://i.ibb.co/KzwzM4z/Marvel-Entertainment-Logo-29.webp"
 	}
 
     ]
