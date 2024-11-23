@@ -132,9 +132,7 @@
     "name": "🏆VIX CINES",
     "samples": [
 
-
-	    
-	    {
+            {
                 "name": "VIX CINE NARCOS",
                 "uri": "50ft7N505N+DsXDgvg/huO6hR9fw6rVZ6DIdxcVdX32iWTl42rdvOfwiXPoC/5RchdHwn4e9rwYV6OJ3N68DxGOsVmseRy2+8t9a429ZGIw=",
                 "drm_scheme": "clearkey",
@@ -183,9 +181,7 @@
     "name": "🏆VIX NOVELAS",
     "samples": [
 
-
-	    
-	    {
+             {
                 "name": "VIX LA ROSA DE GUADALUPE",
                 "uri": "v1h9zS5Dt1Gk/t4V00sfsUsa9JcXde+es5lsVVbaw+D9uLrqlrbRiqefM6LxBnXsDzLlYCRZTbaFwo11xjVh6WOsVmseRy2+8t9a429ZGIw=",
                 "drm_scheme": "clearkey",
@@ -257,10 +253,16 @@
     "samples": [
 
 
-	    
 	    {
                 "name": "EVENTOS 1",
                 "uri": "xw6hYHzN05gDtNwbQQ8/T5Qb+d/sBYNL2ymWALfgLqZid6fJMUu8mCeJ2t5fgRV8T6Oi6vZkGNuH54NbwGPCaQ==",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDnuHFrmukKs6mMX0YzZpjktDvMQ8Ac3kUDk8mxmS4ZrK/jBD8zgdo5skNOE38sUJ2sF8S2gEhpBOHNQNosMh+dUhr+EpUAC1y2/Fl1Ot2O9",
+                "icono": "https://i.postimg.cc/qqpQrCXQ/descarga-5.jpg"
+	    },
+	    {
+                "name": "EVENTOS 1 OPC. 2",
+                "uri": "6p78SAc0hSxOyYOYWzmHvLPgZm4LUxh1HhzgBDE+sBFKaAgRMe4UJx8zkDUAlOTgd2RCY6+tuymJ1JoGyuTHUQ==",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDnuHFrmukKs6mMX0YzZpjktDvMQ8Ac3kUDk8mxmS4ZrK/jBD8zgdo5skNOE38sUJ2sF8S2gEhpBOHNQNosMh+dUhr+EpUAC1y2/Fl1Ot2O9",
                 "icono": "https://i.postimg.cc/qqpQrCXQ/descarga-5.jpg"
@@ -273,19 +275,49 @@
                 "icono": "https://i.postimg.cc/qqpQrCXQ/descarga-5.jpg"
 	   },
 	    {
+                "name": "EVENTOS 2 OPC. 2",
+                "uri": "6p78SAc0hSxOyYOYWzmHvLPgZm4LUxh1HhzgBDE+sBFKaAgRMe4UJx8zkDUAlOTgClevNM5oWZsx3K0182Tnqg==",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHC3eSRlObt8YPnHu9mc8BZNx0+IPv5rdU4W16kpwGVNuaHilewx3zCA2ilzvWLwZRfGfrLL8BcgfQrZpnSEiSbOKsb4k87l/wfACkk4B8ybAIXnqhb2PcuRn3h2rcRbnaw==",
+                "icono": "https://i.postimg.cc/qqpQrCXQ/descarga-5.jpg"
+	   },
+	    {
                 "name": "EVENTOS 3",
                 "uri": "xw6hYHzN05gDtNwbQQ8/T5Qb+d/sBYNL2ymWALfgLqaPxO8pRxmA8HmL28YPaBiedR56/a5aLWozlV6bUlIVAA==",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDnuHFrmukKs6mMX0YzZpjktDvMQ8Ac3kUDk8mxmS4ZrK/jBD8zgdo5skNOE38sUJ2sF8S2gEhpBOHNQNosMh+dUhr+EpUAC1y2/Fl1Ot2O9",
                 "icono": "https://i.postimg.cc/qqpQrCXQ/descarga-5.jpg"
 	   },
+	    {
+                "name": "EVENTOS 3 OPC. 2",
+                "uri": "6p78SAc0hSxOyYOYWzmHvLPgZm4LUxh1HhzgBDE+sBFKaAgRMe4UJx8zkDUAlOTg/oS1F3tZ7xQSrGskW4AU3g==",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDnuHFrmukKs6mMX0YzZpjktDvMQ8Ac3kUDk8mxmS4ZrK/jBD8zgdo5skNOE38sUJ2sF8S2gEhpBOHNQNosMh+dUhr+EpUAC1y2/Fl1Ot2O9",
+                "icono": "https://i.postimg.cc/qqpQrCXQ/descarga-5.jpg"
+	   },
 	     {
-  "name": "EVENTOS 4", "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3pmAv2OcwwV9m6FvoSPb8JCBjXTMH1q6sEywTzz8V+7Wzc426K7tURFYgZHGadC8W0=",        "drm_scheme": "clearkey",
+                "name": "EVENTOS 4", 
+		"uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3pmAv2OcwwV9m6FvoSPb8JCBjXTMH1q6sEywTzz8V+7Wzc426K7tURFYgZHGadC8W0=",        "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDVhlejVg2RMFAXWbEdE2+uXhCd40mALf435hL5dhsHd1reJ+mnvqvVOK99SehCbvLgZXLmyCjdvzfwweQjYujIeWIpW8IxT1YpnxpTJ8ZytnTqXjHo8NNf/IStjdGh9jQ==",
+                "icono": "https://i.postimg.cc/qqpQrCXQ/descarga-5.jpg"
+            },
+	    {
+  "name": "EVENTOS 4 OPC. 2", 
+		"uri": "6p78SAc0hSxOyYOYWzmHvLPgZm4LUxh1HhzgBDE+sBHBNRfYJG6nmYiOEAC6TseE/oS1F3tZ7xQSrGskW4AU3g==",        
+	        "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDVhlejVg2RMFAXWbEdE2+uXhCd40mALf435hL5dhsHd1reJ+mnvqvVOK99SehCbvLgZXLmyCjdvzfwweQjYujIeWIpW8IxT1YpnxpTJ8ZytnTqXjHo8NNf/IStjdGh9jQ==",
                 "icono": "https://i.postimg.cc/qqpQrCXQ/descarga-5.jpg"
             },
             {
-   "name": "EVENTOS 5", "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3rptKQdmlXOpKBXGX08LW5j9GfEKugzqiP95xR6SJjuWVQnBofinGRY+ebHXjXeqx8=",    "drm_scheme": "clearkey",
+                "name": "EVENTOS 5", 
+		"uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3rptKQdmlXOpKBXGX08LW5j9GfEKugzqiP95xR6SJjuWVQnBofinGRY+ebHXjXeqx8=",    "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDJAru96twQ97P4HqH+iSMJDGHdRy13NVhTxU8EshMuGUd0CmrAT4aqFp26Cijc0dMbCqsqTCrJwsytMcLj/SUORV1cyrCZh1lPXjladkRrgfHv5uzISyK6uNkYovxzXDw==",
+                "icono": "https://i.postimg.cc/qqpQrCXQ/descarga-5.jpg"
+            },
+	    {
+                "name": "EVENTOS 5 OPC. 2", 
+		"uri": "6p78SAc0hSxOyYOYWzmHvLPgZm4LUxh1HhzgBDE+sBEq3h079x1gZmLNXmXFGhKfqfV0cb/OF2ZE+LdA8Pxt8Q==",    
+		"drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDJAru96twQ97P4HqH+iSMJDGHdRy13NVhTxU8EshMuGUd0CmrAT4aqFp26Cijc0dMbCqsqTCrJwsytMcLj/SUORV1cyrCZh1lPXjladkRrgfHv5uzISyK6uNkYovxzXDw==",
                 "icono": "https://i.postimg.cc/qqpQrCXQ/descarga-5.jpg"
             },
