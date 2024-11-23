@@ -1010,10 +1010,14 @@
       },
 
 	    {
-      
         "name": "MOVISTAR LA LIGA",
         "uri": "tD7OETOuAS12QOVWDAhhtYH/7sSBEWkfJz/6za7o3GIrl06oaA4zGQ59TpM7Khfl",
         "icono": "https://i.postimg.cc/9QKSsTQM/16956744640203.jpg"
+      },
+	    {
+        "name": "MOVISTAR LIGA DE CAMPEONES",
+        "uri": "tD7OETOuAS12QOVWDAhhtYH/7sSBEWkfJz/6za7o3GIrl06oaA4zGQ59TpM7Khfl",
+        "icono": "tD7OETOuAS12QOVWDAhhtYH/7sSBEWkfJz/6za7o3GIScFaKPEZoR1urfU08IfbS"
       }
 	  
 	   ]
