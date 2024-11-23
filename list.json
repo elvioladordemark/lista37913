@@ -927,28 +927,27 @@
       {
     "name": "⚽DEPORTES FOX SPORTS",
     "samples": [
-       {
+        {
         "name": "FOX SPORTS 1",
-        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3o3h4R/C3YFqo37ZdNZ/ChVNyrZYEBOp2g7gQ00BzST+Uzb1VxYP4CyiUGJN8TcENjFCwt7LwNKS+tkzV01UREj",
+        "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMTHaCfDUK4q/gw0/j+XrKETBwuHUXLbyuohjR6Do4xy3Hvw+SxS69+cocXsQVKHPP0=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDPU7Iz65hMJ/eU+U7caCDFG8Hf51do3bcjTN+p/gtNrd+uiDpuv4rtAZmcE39dCsxCnwgEwl+Z5MmHPeKDZgmChhLVqLXM8VpHXYRd9Qj1fzSbqWmYrtAtPLvGDeJzwKJg==",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDP3pgCbpMyXF1Bv1WdtHMzaIcU3YMJY5Tku13vJ35csGDchXR+YI5VdlhZ/3+XlAIlQeaWDhlLmhSWpnuwobtrggNb5GiHN1Ns2X1+yCdQ75xMslQnIq8ckJ3sWVFPnUgaewpdARTiC4qpNFVsEM+Us=",
         "icono": "https://i.ibb.co/x1NKkps/SDASFDSFSD.png"
-      },
-     
-      {
+    },
+    {
         "name": "FOX SPORTS 2 ",
-        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3o3h4R/C3YFqo37ZdNZ/ChVIcZyAJUFwM4DG477NwGjdX71AHodly1g+0cuvK8tjFZbjL8LsTQ12KTmBm1DDOmN",
+        "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMTHaCfDUK4q/gw0/j+XrKETO6qHYG1qZ4MU2NmuxHz1rYhnX9Qolq/x05rf4/9G0ItjrFZrHkctvvLfWuNvWRiM",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDG+LDqagXoJibdiTk7mwRiXL5n6BRMOmNhMHVQoFTMarW33zyJz7bxDr4nhFGHllEv3SBnv8Sk+1YuOTH3LqHeIhrVXsnldzOozRX9Kw80ukah9XKOrj9FTRu6p5sh8fgQ==",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDO6bjFI6plGdDqbc2+Ta2CIfEEpe2rdD6Bn6STW82dqDIzwfxMicRTd8wFooi18kj3TN2naZydbNYoSmV7N3Akanqr5BzgHkxAc3CzFSXcaO/50XTTyIaaX441sRbPtey2Nbj1ztV9KQHbTIRRLLhw0=",
         "icono": "https://i.ibb.co/b1TmtjS/ar-fox-sports-2-m.png"
-      },
-      {
+    },
+    {
         "name": "FOX SPORTS 3",
-        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3o3h4R/C3YFqo37ZdNZ/ChVrW8zjebRAlvmH8g4PTxAMn71AHodly1g+0cuvK8tjFZGdJbz4bue7slSELdg9WaM",
+        "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMTHaCfDUK4q/gw0/j+XrKETgdTHik938tJ6S9P+g3uUztNATHNNt7Q2QXV8PjzV0UhjrFZrHkctvvLfWuNvWRiM",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDqOXkDe1PRH2c6LYbCk8nuVqMi95F5BUBU5gmVDLRsvBD9z0KHUjuLgDxrbUKwGp42oGpnCFGfsxfsyxND38iIynr9vbPZruVgQieH64dmXYtLuElOViFYThTfZsRTwfw==",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDLko/X4W1Vj9nOBzpb7lVS434HaDuyPegUwPOWp5RgOu+BMREEDW79e6aBxvfCVOa7m+H5jpOkvabd0UFF6q9gxDu005qwOe9RDeX87FDkwCtfFEUu0Nv72fQGKxkaO9O5eb7v/rZBFf0rSuzVG81BA=",
         "icono": "https://i.ibb.co/2W84yn1/ar-fox-sports-3-m.png"
-      },
+    },
 	      {
         "name": "FOX SPORTS 1 MX",
         "uri": "L0h+CqzxHHvc8VQ6fnRHXABXZps3JYhEo1saSVpdCIVZnwc+ZY70qM9tOhSNITQFplX69jlk7vxvpsqRn6vBczYS+kOO7+eWWlDwC93AXTf01s5lbEmxT0bcq6Wlh7vVx5c5/h73Zvlc0y0WPop4NEmdVnlvJ9RdxVppvZEH25c=",
