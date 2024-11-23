@@ -12,6 +12,32 @@
 		    }
 	    	    ]
           },
+	[
+  {
+
+    "name": "FINAL COPA SUDAMERICANA",
+    "samples": [
+	        {
+                "name": "RACING vs CRUZEIRO - TIGO SPORTS",
+                "uri": "pmQeZWPCRBEPucPqqpBPakbnV0yUSg8mUZKZ5/OCB+nk/QpURs8UTcbOPsNj2bFpy2VVFJZDXyQU8pmmIaYLE0QfVR1u+nlK1S3kTtxWQpl51/sQNh59srPpNzykb2JbYzcm72T1iRG5l4Uqno6aZKFaJGAzquSTKLT+wXpBkHAlABJHcwarfPSS6dS/HmoCsOo6sRKjVVT3mmOWoFMxmmKBNV0pWP3FvrdN/FsmIwpfxaJs9kKrAj4tApuyvxorlvqY8LAYWczwKo8kaoGWXP6EtRd7We8UEqxrJFuAFN4=",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDIrwhNdaOJoX7bygWONAkRPIuEwrWOiFVzML9djQ7rqaDG+jCdUzdMWeDP5HbuvAVykMkCR2dphMy92bgCp+OcINh/wF15mhI4/JEKzKyHiSioUp22TUFxHelE2FrPB4Gw==",
+                "icono": "https://i.ibb.co/WkTZzqy/Racing-Club-vs-Cruzeiro-final-inedita-de-la-Copa-Sudamericana.jpg"
+	        },
+	    {
+        "name": "RACING vs CRUZEIRO - DIRECTV",
+        "uri": "6p78SAc0hSxOyYOYWzmHvLPgZm4LUxh1HhzgBDE+sBHt/nbAu7Y7zl3605j/MCbvHQ5iHB/6qAOAhOf/TeIpKg==",
+        "icono": "https://i.ibb.co/WkTZzqy/Racing-Club-vs-Cruzeiro-final-inedita-de-la-Copa-Sudamericana.jpg"
+      }, 
+	    {
+                "name": "RACING vs CRUZEIRO - ESPN", 
+		"uri": "6wQ6KNLJsb7142S6ZOJRRZKZVdpRmtSHOh7B5/mawFZG5MFGYNeJ9y9FcaC0rWaH",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
+                "icono": "https://i.ibb.co/WkTZzqy/Racing-Club-vs-Cruzeiro-final-inedita-de-la-Copa-Sudamericana.jpg"
+            }
+	    	    ]
+          },
 	   {
 
     "name": "🏆 TIGO SPORTS SOLO EVENTOS",
@@ -1212,7 +1238,6 @@
     "samples": [
      
 	{
-      
         "name": "DIRECTV SPORTS 1",
         "uri": "6p78SAc0hSxOyYOYWzmHvLPgZm4LUxh1HhzgBDE+sBHt/nbAu7Y7zl3605j/MCbvHQ5iHB/6qAOAhOf/TeIpKg==",
         "icono": "https://i.postimg.cc/L5MrJsXQ/images-4.jpg"
