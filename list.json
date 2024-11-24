@@ -1822,88 +1822,76 @@
  {
     "name": "🐢CULTURA",
     "samples": [
-      {
+   {
         "name": "HISTORY",
-        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3piml3h6tCaZVC60sm1GEp2UdAmXpDubhgwmC/9TDtJJMDSDa2JlSrGlo9m7AM2AIqTUBPX+efIfqqbUT7aYC1s",
+        "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMStVX0fldkmdgM+8rV1Wp/L5ludII3xyDDQI86vDvvR3QICi/dt0KdcufG515ZkYjU=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHNW0JxsgG1cWHpnHoyZykzn8jQ6uQopYgpMtSsrV0ccMZe4A5cMXT4ujaZEbstxjXySXBqRc8zj2HlhyPW2YQm3eeErf25g/KuGyodjrPk4GRI5GWhNvXUmzICkuXtUbBQ==",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5An4KrDa5LUrIoWKFKH/xe6ABR6/ncfucWjG/K2jWrt31aK5jiOCo0kOLG2YmQfZZXFwAsIAGqzzgvWgDV+KDjqWHBEDRncMAwpM3GvCKHUk=",
         "icono": "https://i.postimg.cc/hjx19JJb/history.png"
-      },
-      {
+    },
+    {
         "name": "HISTORY 2",
-        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3opnaOLoUVV5vGPqCXkgnEhEo86ObIasDn6e8dMciBUlsDSDa2JlSrGlo9m7AM2AIp6Vjy9TtwfIcpgV3v6NoOn",
+        "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMT1smpcdJ1wfXaGoShQrq4Y5aVaQC7SCIwpJR94rDRhNw==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHJrx/FVr2MklmaQcYsD55GWBXudm1Q4mpaA568hW8q8xYaXs/Dm+SyH85Y8nxGZhalfYHM46Trdw+4uIdPILzast9hXF81obLgBMvusI+BF9DyYdYDN899s+BJtCvR5d2w==",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5P2feI3D4Ibq+MYOorariv+8wlWOi9v+lHWzJBRcT2otPSLYoWny1DqJGwU5UsNbL+5xBYPFe0Y82SXSMzpRR7ZjdOFrBhTggW68H2yN4Q5c=",
         "icono": "https://i.ibb.co/jkfB4HH/H2-logo.webp"
-      },
-      {
+    },
+    {
         "name": "DISCOVERY",
-        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3p6lrU97ZS233Myy73ybrSBsXWBlJ/VIAmLSSGxps4U47Xhd+Yk3Xafi/HBz866mG7SFsdI1TWmZynMGT6afuy/",
+        "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMSdDizmewU+D1t2IKisrsE1+i/sQfYpimsab0jh0lRdpuYthD2zBCxnYhr+kiA4HN527jF8tVsJMEh9j/NlcER1",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHJH4OluySIc9O1ThFp8IJB+VO9BYC0SGGP8kEAvfG5BGFG8g4s5YCgnCOept59xGxnX5cmQJxs3MsjPR9DXwS9xE9fLhxJBwnw5elDg9aKcoxcrcCyl27d7MosIqKnjgpA==",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5jt2Xit1H6QpI2H7VCf/LIAF+qcnEpKXXwih+lol6HUMl5Gz/xwMi8I3SllNvOocpizlUEjMZBRH7lamM+yXL63fBHMwtYhDWO2jMZ7pJnv4=",
         "icono": "https://i.postimg.cc/CxP7YpTD/discovery-channel.png"
-      },
-      {
-        "name": "DISCOVERY H&H",
-        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3p6lrU97ZS233Myy73ybrSBvVZNmwJorEioryHdeyLfNP/3h0ua6QjIehBK3TBmkMz4ivQSujtKda865vj4WtESaweNkEzOa+w3uyb0VrFNGg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHO+GX9ddpUqDFqGyNvhmoGYejeF3yuiBEIs031yYXqolplgdCazyCRC90C7xf8uFPcpvhVk8PKgTrKGyULjxoYr7ndSvwCqiDNibe0aDlQOVWTaAn/WaRF2TcKQD00wE6Q==",
-        "icono": "https://i.postimg.cc/cCKGrGXQ/ver-discovery-h-h-en-vivo.png"
-      },
-      {
+    },
+    {
         "name": "DISCOVERY ID",
-        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3qeg/8NM/QcQ0rhoXqkXkL5u329Pr6/fW7JyMbBoVahBXJh5393myRjqWa6tJ5hU+Q=",
+        "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMQx85LTLq8XiHGdVbHjra88YrJtZeRYaii4d8YaUGzqDg==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDIv713hqwGOejFgYNLk2sRszo49gQpVw23EbnTHtQ5iKGtiUnZD0CmpXmQTGG8Mb3/vUIGScW3SAbvn7wh8swHizYSIex0tUqBW4GXgQOJSqx4tiPTUsUSlE05sh/3Ltg==",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5Mx5OqpJgsk8Lw2++7helD/UT4hS5pA3IgGFU34kw+d25zdqJ0DObrgWJzHkMmIYidof3R0Ih9vBUCqWZsIvsLV10aOcRsHj7k1mOFoAcjuQ=",
         "icono": "https://dl.dropbox.com/scl/fi/brd4qtgk2223gmobtj0ui/DCX.jpg?rlkey=e4qy94y6huevaihwyo0rspzn0&dl=0"
-      },
-      {
+    },
+    {
         "name": "DISCOVERY SCIENCE",
-        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3rZwUNyJHg7z1burokFWWpCdnPCKjgqivfZ5d5I5D9U2PPCwhk/qp4dw84bM2IoQEC2MVxhgd0P7RZYDMhZv8vaW9qT0a6wYzpssZnUjYJALg==",
+        "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMTK3mRCYG2tIyO6vjjNEExIo5lwfMMC/bwiek1bt1raWuTuN2eAlhyzH+jiCRfJ0P4=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHBMf4fFUbYR1zj8wO2xOvETJMIUFppM5G2O3YKVqkM17fI8zJFapK2094TzfFgBz4C2dJZTQB12r9XRfvGl1yw8nlbCXbeZOP9yvTGir6FhpoExq1j2RG35pDSQfFabdlw==",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL57bAm/717PfNwr/RW6GZlYymhJiq1GGW4gnHG+ltofsawSvmkmc3tg/9a6P2CFqVWMM8ZayVJ/dureQnHFr3rod1lUbbHnDluvgDw1uBy6RM=",
         "icono": "https://i.postimg.cc/7Lg6Z0fx/ver-discovery-science-en-vivo.jpg"
-      },
-      {
+    },
+    {
         "name": "DISCOVERY TURBO",
-        "uri": "+PufswE1TaZPHIaqiTQV39DFakrMWG55eishYAlFRcdZHXXwiF6xlTM9Pc36ExQzZc9/v1dTgd7U2nnj/9jUAPPCwhk/qp4dw84bM2IoQEDuL2SxlT0YugN+d5GHMr1dxQsLey8DSkvrZM1dNVERIw==",
+        "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMQPcbG1BpWTaIPQuyZNRKkX6p9EtKDhGWPneqpRH/oKkfM7V7jfDHWz7lmT/QoXRYU=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHGv0ThhqoUqNXsp9MTDgwvJ+IRdZFuNIUEiCeOHfueBK6c6xTOBCUVIWyk+DMw4A2VJ4uGhSxHJ8YBxbCbGYCkRhFljMuBtyTQD1xONTo9e2TDtVBBbom5bGRvdQAQ8ayA==",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5gdEU//Wsc1wDa/VDrqPlLamA7T3zeoKieJfrXeoeypvT2Z6WRQMM51jBccMVihfMLq0phEjkq4Kz4MLqSUywk0Hm+vIZ4S5tVJw5rB/2KC0=",
         "icono": "https://i.postimg.cc/sxtdWHNb/ver-discovery-turbo-en-vivo.jpg"
-      },
-
-
-      {
+    },
+    {
         "name": "DISCOVERY TEATER",
-        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3q93/tLUo9sjFHhtCl9uShrTvK0BzDTH+7gdxbM6+N8JyGOFt5tISxsxeAfjt87vOYe8LWhlNPUNE5nTpQxADGM",
+        "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMQRczMRIa7gpOx9UzpUC2GZn+wP2FPmBR2SWkb6UE/ohr9zDfhhAke0FTbqYuU1OYc=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHA31GzYa8GYSf8HA1PifWJXXpU4bX8g2KLdV8O8REI1KKurlkjVM5mIFmiXkFP+rqg8RBYEM6duGJBnFIjAjjHD19Cc6MSRck9fY1s3r1WRjqfV0cb/OF2ZE+LdA8Pxt8Q==",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5lTafgHD9ZJAFdr+g0MUhmQRVFPGR10TMn7Iee0DovTCWipO06D+gRgO7NHHKPcHmGH5Bv0NOsRgQJ5ho3VS5CMnFgF3r1fUAwlrYSfrgIb8=",
         "icono": "https://i.postimg.cc/cHFdvmZN/ver-discovery-theater-en-vivo.jpg"
-      },
-
-	
-      {
+    },
+    {
         "name": "DISCOVERY TLC",
-        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3pECsKtZVa+hCbhphSOwg6SKMoy6AAZ94jqTWgSKYlJUA2w9ZML+e932zBIdLA6QGM=",
+        "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMS02Wyl0HuWvdmV2KA4+09n6ntsb8PIdoy8oxnAimCcnQ==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHF2J0JkkN2LXFEor7Zi+C7ehWd9eI/IViDtDi/HN5HlSx9SGj8UZu4vms68VvGczxGRFaOiZWaxjXb8Be+bYRm6gSfkJRhTHZEggV5pJ5mhsocClfYyiED13Oyky7MsatQ==",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5oaezj5jQ0EEtC+IatUVdvsdcqV8qHUbDvU+LQdUl11uPnurgaIat3Js+wImjjWGXiuv6CSYj5WoeKK86WHhXQ82l8d8/jGid7t32y8XBpFs=",
         "icono": "https://i.postimg.cc/cHFdvmZN/ver-discovery-theater-en-vivo.jpg"
-      },
-	
-      {
+    },
+    {
         "name": "DISCOVERY WORL",
-        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3rZwUNyJHg7z1burokFWWpCVNyDnQAB5BTGNuNHlvz8D7t9vT6+v31uycjGwaFWoQVvFuQwEKeo423qGv1sV7sf/pi+UKJycSR/hUnNvo8RxA==",
+        "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMSv/YXFmLx4M+RgbzMyBKIK5tRSXx4sLWitLgTY9/gxD/M7V7jfDHWz7lmT/QoXRYU=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHAUDtFOLYfFcz6LKolDu4noQqEMnnr9HP4VBSyfP17VbgcE4EzUen/fgYmV30on1gkD2c3iqtwnjlLo0ePJK/ZU0rBce/bxwPnTFgMBpD63jk6whTy2qvzaZ+m6/MjMWiw==",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5pwyu8Np713tulF1ZBRm9fgXndnhUQiOctrC7zP0oVV96t+S7slzJte4CVKEDqJNHb0PP0MH67w8XbjEQCo3VKHYSyzJt7FNkUV0QOeoZUU4=",
         "icono": "https://i.postimg.cc/B6SqZzrg/ver-discovery-world-en-vivo.jpg"
-      },
-      {
+    },
+    {
         "name": "ANIMALPLANET",
-        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3qvMcebQpgV2Ego4n2rWhB4U/NKeG4LiodbLZdfkhK+KYiDBQJQyceeYvClLMVW5B9r06k9TZi5ztniAuTE+Sj7",
+        "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMTZej3GxxiDGXLDuet7Z0DeAfVgnkq1OympLLmjFkMsgO2lxr/4FQiPACzUQFjEYt/zO1e43wx1s+5Zk/0KF0WF",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHFVD3XqauqF9tx9bZVaP4tQfX3ne74LyRQDQTDVcs1X9LGBa5sTulV4qqCPXK0PGu9SpTar5g2X5Xc35czI1ddKrRhO0ib+UNtAH+v2eVe0Ij5xRpINECCMEVqLT4yAs/Q==",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5X8hQWEt2hC+VNm07cAhLBatBVPlesokHdV3cQAaj3W+LLuZojR60tCx7z9hCEFlQuo3szw/tAZHlDiizQTVURJleVqRLApoK0y8O4tYiyDs=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png"
-       }
+    }
 	           ]
   },
     {
