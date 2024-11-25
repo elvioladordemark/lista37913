@@ -1256,6 +1256,13 @@
         "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5oYDrhOmONHnEutA4eWn97FTHFCNzq+M5TzquXn/4CT8G9Xkw+ccadGhTOlNPmjRDZRkEwgsNt/D5QhitQLfakTYJqzej0gcH3FKP7zV/nNQ=",
         "icono": "https://i.ibb.co/0Fb9ncz/descarga-7.png"
     },
+	    {
+        "name": "TNT SERIES OPCIÓN 2",
+        "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwCn3qysmF4++RjH54jZQYv+A==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5oYDrhOmONHnEutA4eWn97FTHFCNzq+M5TzquXn/4CT8G9Xkw+ccadGhTOlNPmjRDZRkEwgsNt/D5QhitQLfakTYJqzej0gcH3FKP7zV/nNQ=",
+        "icono": "https://i.ibb.co/0Fb9ncz/descarga-7.png"
+    },
     {
         "name": "TNT NOVELAS",
         "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMQqegKsJQVnTZqBAkSvh4FeGiDTo6iWA399muvO/iurqiWVFOM4js5zMdkkkOqzBt4=",
@@ -1301,6 +1308,13 @@
     {
         "name": "SONY CHANNEL",
         "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMQTrU6Cgk8U4azdRsvYJUNxmGEHQknDBtrLbAeVVnunZWOsVmseRy2+8t9a429ZGIw=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5ZsbGpBAyCSZPlDDeS77b3NqZeoHxbks+lQuhL3hXIVEWkh8WyE0xBXHHiSDlTxexg6Y9+Ysmd5sPXEbIdP0ZX1GLR9/9eGbrbHYsWcdyEOQ=",
+        "icono": "https://i.ibb.co/XD3Fc9t/Sony-Channel-Logo.png"
+    },
+	    {
+        "name": "SONY CHANNEL OPCIÓN 2",
+        "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwCEDBCjz9y3GMxvt1vo6F13w==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5ZsbGpBAyCSZPlDDeS77b3NqZeoHxbks+lQuhL3hXIVEWkh8WyE0xBXHHiSDlTxexg6Y9+Ysmd5sPXEbIdP0ZX1GLR9/9eGbrbHYsWcdyEOQ=",
         "icono": "https://i.ibb.co/XD3Fc9t/Sony-Channel-Logo.png"
