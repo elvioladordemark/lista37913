@@ -1284,6 +1284,20 @@
         "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5S2+fmgiRj3ic5HGlQUPjjdAye0KGe+Pofs9RCW6Fmq4uMfS6HNNF8Zg3pA9UQhL8z1dujZ2jmEtAKtaJA4mitZvuY5nKijkRpx4Uiul9gD4=",
         "icono": "https://i.ibb.co/MZYTrkg/descarga-9.png"
     },
+	     {
+        "name": "CINE LATINO",
+        "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwCZaXVb9FtytdonCAdtrjsFw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5S2+fmgiRj3ic5HGlQUPjjdAye0KGe+Pofs9RCW6Fmq4uMfS6HNNF8Zg3pA9UQhL8z1dujZ2jmEtAKtaJA4mitZvuY5nKijkRpx4Uiul9gD4=",
+        "icono": "https://i.ibb.co/yqHgKjW/unnamed-1.jpg"
+    },
+	    {
+        "name": "DE PELÍCULA",
+        "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwCdWQDQKM5zNoI4N1y+FkEKw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5S2+fmgiRj3ic5HGlQUPjjdAye0KGe+Pofs9RCW6Fmq4uMfS6HNNF8Zg3pA9UQhL8z1dujZ2jmEtAKtaJA4mitZvuY5nKijkRpx4Uiul9gD4=",
+        "icono": "https://i.ibb.co/qn0gXwL/d-pelicula-20212825-logowik-com.webp"
+    },
     {
         "name": "FX HD",
         "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMQY3xc7lmO6gfxzfUdvvLHGVDmkw77+59rVybdprOJgSQ==",
@@ -1364,6 +1378,13 @@
     {
         "name": "PARAMOUNT",
         "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMRA6a4EkNcGpoGiyuw2o10X5p7I8INIRCJ3dcY/k6rntkxF3bP39jCFoVGBcg7K8Qg=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5rrY7GwLir6aSY8/kKCvWaftblKY6muaH+psyCmUh7Fc1Hgw8UbN80z3v1pB8svbCmmOz0yRkRmeZWhnsR1n5Hl488PpeZoZBSw4y7puTFaE=",
+        "icono": "https://i.ibb.co/zr8Cbvm/Tr1bp-Stg-400x400.jpg"
+    },
+	    {
+        "name": "PARAMOUNT OPCIÓN 2",
+        "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwCBmUnLykv+7slWvLQlOFt/w==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5rrY7GwLir6aSY8/kKCvWaftblKY6muaH+psyCmUh7Fc1Hgw8UbN80z3v1pB8svbCmmOz0yRkRmeZWhnsR1n5Hl488PpeZoZBSw4y7puTFaE=",
         "icono": "https://i.ibb.co/zr8Cbvm/Tr1bp-Stg-400x400.jpg"
