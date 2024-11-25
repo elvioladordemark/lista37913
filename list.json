@@ -982,8 +982,19 @@
         "name": "DIRECTV SPORTS PLUS",
         "uri": "6p78SAc0hSxOyYOYWzmHvLPgZm4LUxh1HhzgBDE+sBHw+iDiigbtRv6sa/tt4a8VHQ5iHB/6qAOAhOf/TeIpKg==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png"
-      }
-	    
+      },
+	  {
+      
+        "name": "DIRECTV SPORTS MOTOR",
+        "uri": "20HHjX3AdLKndGVBP7u9NRxrwBtMUbMOk3/+a95R9wylwwZEJN+gHAy3oxxSnlWABf/POXMcWEAOQDcnlV31UJUMBEQKk8f0YJzNFsKL3q0=",
+        "icono": "https://i.postimg.cc/JhwpzXSs/DIRECTV-MOTOR.png"
+      },
+	    {
+      
+        "name": "DIRECTV SPORTS PELEA",
+        "uri": "20HHjX3AdLKndGVBP7u9NRxrwBtMUbMOk3/+a95R9wylwwZEJN+gHAy3oxxSnlWA3ocdRU6AyfblViCjraUV+zZOB9KA6GyEj03WR7WZHpA=",
+        "icono": "https://i.postimg.cc/zvrCmm2v/directv-pelea.jpg"
+      }    
    
     ]
   },
