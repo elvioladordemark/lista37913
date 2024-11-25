@@ -2929,11 +2929,19 @@
         "uri": "sqBs/ZxHpi7I00S25KriZxq3j7g3wA5TCe8gVEeH8xbKrtPHdLehu2+X6tGPn1AsXXB0DsKmTgrn4ZFvmZN/w8uH64toJiomsan2mOGf0v4/WEr2gJ3E/ZXnaARdn3E4Ii+2rz0iz8fi0OWxpTiLEbJO3DXbeGVhtIAyI2S+B0DY0Ixid9O/2UZMln7QFLkvQHc+HmGiBqEyt3eGAqhZRQdZd9iIjFlpeXofcxMGfQF6FwXEBrRQYlN9f7STIZXdT/dlMA4ORXuZl1kQo0ufkGpud0O1Y8BlNWh/nGCSGKT/WB80BW/vQxtWwME9JYpe",
         "icono": "https://i.ibb.co/5WjhfQT/TO-Deadpool-Wolverine-Thumb-01.png"   
             }
-	   
-    ]
-    
-  },
-
+	   ]
+    },
+{
+    "name": "🎥PELICULAS ESTRENOS 2024",
+    "samples": [
+        
+	    {
+              "name": "NO ENTRES 2024",
+        "uri": "gdGWpefEER5JBPKUqIyNhvHNaHnCYKFF8KoYARFkOmmz9T7N8862qpMvnamtOxT1HEGpKaNFNVx6eoViMGF6Elj4G069SeJXRaCJ5SmP8AnKYg2UwJ0ila2xMZjZUUSO+qqhDHAMAX2x7m9HdcxMTZWwuUgrxLevSoRSHveOwt0=,",
+        "icono": "https://i.postimg.cc/d0kqTDzC/IMG-20241103-WA1150.jpg"   
+            }
+	    ]
+	},
 {
     "name": "🎥POPULARES EN NETFLIX",
     "samples": [
@@ -2978,16 +2986,6 @@
         "uri": "8uwSKM7/wHjpJ2UcnA6gd/Pmks5d1AN5Rf1f3F2SUoBwbUn0ICCF9xX9GAlWWlSdY6xWax5HLb7y31rjb1kYjA==",
         "icono": "https://m.media-amazon.com/images/M/MV5BYTE4ZDE5ZTktZWZkMC00MGY4LWFkZDUtZTc5YWU3NzM2YmM3XkEyXkFqcGc@._V1_QL75_UY148_CR9,0,100,148_.jpg"   
                        }
-    ]
-    },
-	{
-    "name": "🎥 PELÍCULAS VARIADAS",
-    "samples": [
-        
-	    {
-              "name": "NO ENTRES 2024",
-        "uri": "gdGWpefEER5JBPKUqIyNhvHNaHnCYKFF8KoYARFkOmmz9T7N8862qpMvnamtOxT1HEGpKaNFNVx6eoViMGF6Elj4G069SeJXRaCJ5SmP8AnKYg2UwJ0ila2xMZjZUUSO+qqhDHAMAX2x7m9HdcxMTZWwuUgrxLevSoRSHveOwt0=,",
-        "icono": "https://i.postimg.cc/d0kqTDzC/IMG-20241103-WA1150.jpg"   
-            }
+    
 
 ]
