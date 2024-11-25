@@ -2352,7 +2352,7 @@
     },
     {
         "name": "AMERICA TV",
-        "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMQyzxE8+sHEtCvaH6KJr2Cb6f5N46YzpzuiX0hg5kv+TJ2ucYAbgY183JxAbJtw+Y0=",
+        "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwC/ZzFCIdjRqkTkTFHljqABQ==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5znISjuS7slfmtBCCd9477Nz6Ta8rnEvg1pjtuwg2ezv1JkIngD0N+7LF7PRosC4KT/N5gNLyYJ5oAAK8K51AvaEZNmg56Bfn114Y+ZAN9CE=",
         "icono": "https://i.ibb.co/BrzJD0D/Logotipo-de-America.jpg"
@@ -2986,6 +2986,11 @@
               "name": "HISTORY",
         "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwC2MglgwhHi0/l8YTL67BX7Q==",
         "icono": "https://i.ibb.co/YNFTTmp/R-3.jpg"   
+            },
+	    {
+              "name": "HISTORY 2",
+        "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwC2MglgwhHi0/l8YTL67BX7Q==",
+        "icono": "https://i.ibb.co/fF2w2C2/History2-Logo2019.png"   
             },
 	    {
               "name": "HISTORY 2",
