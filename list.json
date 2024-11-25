@@ -1210,6 +1210,11 @@
         "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5PejlI7TT/BH1pvE6rVDciHFjeAAByXdINr08I+0qjZ2Z+M69av+2lOaUsJ2MO8WEkw2uuzRDHYjg3M6aMEHSQnoJbH1kyUtBT2aoWN9xrUI=",
         "icono": "https://i.ibb.co/0FRTL4r/channels4-profile-3.jpg"
     },
+	    {
+              "name": "WARNER CHANNEL OPCIÓN 2",
+        "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwCGk0SMcpkPy0rGjs9E123BA==",
+        "icono": "https://i.ibb.co/FsTCGFb/Warner2018-LA.png"   
+            },
         {
         "name": "UNIVERSAL CHANNEL",
         "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3qIeZGKSB1Ycn3Sh4BE9FxBLaz8dNNnJXH7/8EVTsJK/IB/GIwcsioBVgBC1p7Xz2VO3ycs3nmwS3yFr8SVczytslCTr5aVP989+0eM0GHlJA==",
@@ -1231,6 +1236,7 @@
         "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5GzFXkMOtWPsIXYgOJvVACWIoaB94XkCf0QbYfUucynfOcu+okuekKtlmeXjUfqKu4Jg9DueR2syU/lUdTKL3kxYXHfsvHlKZMsnjwRajGVc=",
         "icono": "https://i.ibb.co/9hpbZW7/ar-cinecanal-1-m.png"
     },
+	    
     {
         "name": "TNT HD",
         "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMQaA+1k6s5VtbE678bxD0VfnAQiJLdYLm+IEyLb/q9tkw==",
@@ -1238,6 +1244,11 @@
         "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5Iv8FjknBCp4dER01NdqlRJrIweZYBp2uyEaj618jiBYC4nfgwzXXsPiSOFXv9LN181rSxICDX4G15Ny6/p8o4Pi2ccTSSLlYUYWZ+yHWL0M=",
         "icono": "https://i.ibb.co/hV2MwGM/tnthd.jpg"
     },
+	    {
+              "name": "TNT OPCIÓN 2",
+        "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwC8Y7cPFX6KTNV1BoDhCbhGw==",
+        "icono": "https://i.ibb.co/wKMGzJj/OIP-10.jpg"   
+            },
     {
         "name": "TNT SERIES",
         "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMSA1wjuTnKwKq9lbnxVbyJY5BJcDdQRdQzmKRdbUTHtdlVrqNeVzpwc0EnA/diuFcw=",
@@ -1830,6 +1841,11 @@
         "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5An4KrDa5LUrIoWKFKH/xe6ABR6/ncfucWjG/K2jWrt31aK5jiOCo0kOLG2YmQfZZXFwAsIAGqzzgvWgDV+KDjqWHBEDRncMAwpM3GvCKHUk=",
         "icono": "https://a-qiio.onrender.com/webp/logos/history.webp"
     },
+	    {
+              "name": "HISTORY OPCIÓN 2",
+        "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwC2MglgwhHi0/l8YTL67BX7Q==",
+        "icono": "https://i.ibb.co/YNFTTmp/R-3.jpg"   
+            },
     {
         "name": "HISTORY 2",
         "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMT1smpcdJ1wfXaGoShQrq4Y5aVaQC7SCIwpJR94rDRhNw==",
@@ -1837,6 +1853,11 @@
         "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5P2feI3D4Ibq+MYOorariv+8wlWOi9v+lHWzJBRcT2otPSLYoWny1DqJGwU5UsNbL+5xBYPFe0Y82SXSMzpRR7ZjdOFrBhTggW68H2yN4Q5c=",
         "icono": "https://a-qiio.onrender.com/webp/logos/history2.webp"
     },
+	    {
+              "name": "HISTORY 2 OPCIÓN 2",
+        "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwC2MglgwhHi0/l8YTL67BX7Q==",
+        "icono": "https://i.ibb.co/fF2w2C2/History2-Logo2019.png"   
+            },
     {
         "name": "DISCOVERY",
         "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMSdDizmewU+D1t2IKisrsE1+i/sQfYpimsab0jh0lRdpuYthD2zBCxnYhr+kiA4HN527jF8tVsJMEh9j/NlcER1",
@@ -2933,72 +2954,6 @@
             }
 	   ]
     },
-{
-    "name": "🎥 CANALES VARIADOS",
-    "samples": [
-        
-	    {
-              "name": "HBO",
-        "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwCaC/obKaso44JoxC+cnEI2w==",
-        "icono": "https://i.ibb.co/L6NjyxM/R-4.png"   
-            },
-	     {
-              "name": "HBO2 ",
-        "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwCw9W/NATtjCPcGI5Qm+1wHA==",
-        "icono": "https://i.ibb.co/McpDMdG/hbo-2-4096.png"   
-            },
-	    {
-              "name": "HBO +",
-        "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwCEDbzmFcUDdqdhWwDVp9OGQ==",
-        "icono": "https://i.ibb.co/fdJ19kP/OIP-9.jpg"   
-            },
-	    {
-              "name": "HBO POP",
-        "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwCrWbIEKubMl+T0GAzK6GxDg==",
-        "icono": "https://i.ibb.co/3fpYYdv/hbo-pop-logo-concept-2023-by-wbblackofficial-dgfmxu5-fullview.png"   
-            },
-	    {
-              "name": "HBO FAMILY",
-        "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwCPf/p4lkKz5IXJQyyka3cAg==",
-        "icono": "https://i.ibb.co/tPyDQzC/R-2.jpg"   
-            },
-	    {
-              "name": "WARNER TV",
-        "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwCGk0SMcpkPy0rGjs9E123BA==",
-        "icono": "https://i.ibb.co/FsTCGFb/Warner2018-LA.png"   
-            },
-	    {
-              "name": "TNT",
-        "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwC8Y7cPFX6KTNV1BoDhCbhGw==",
-        "icono": "https://i.ibb.co/wKMGzJj/OIP-10.jpg"   
-            },
-	    {
-              "name": "CINECANAL",
-        "uri": "oIJFrHziG1KLxig60XCk7d+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwC2E8/6foMLJvstZysG8hkwA==",
-        "icono": "https://i.ibb.co/nc3PNCz/OIP-11.jpg"   
-            },
-	    {
-              "name": "TELEFE",
-        "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwCn/FTKn9LhZA7QZTtDRJ0PA==",
-        "icono": "https://i.ibb.co/4Zqhh71/OIP-12.jpg"   
-            },
-	    {
-              "name": "HISTORY",
-        "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwC2MglgwhHi0/l8YTL67BX7Q==",
-        "icono": "https://i.ibb.co/YNFTTmp/R-3.jpg"   
-            },
-	    {
-              "name": "HISTORY 2",
-        "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwC2MglgwhHi0/l8YTL67BX7Q==",
-        "icono": "https://i.ibb.co/fF2w2C2/History2-Logo2019.png"   
-            },
-	    {
-              "name": "HISTORY 2",
-        "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwC2MglgwhHi0/l8YTL67BX7Q==",
-        "icono": "https://i.ibb.co/fF2w2C2/History2-Logo2019.png"   
-            }
-    ]
-},
 {
     "name": "🎥POPULARES EN NETFLIX",
     "samples": [
