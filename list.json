@@ -1185,7 +1185,7 @@
     "name": "🎥CANALES DE PELICULAS Y SERIES",
     "samples": [      
       {
-  "name": "GOLDEN", "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3oLlBXo+O0hTGj553ImDe91CgdlYUiH771fwaHFy0j4pba+RlYWQGUuZ662sHTxXTA=",   "drm_scheme": "clearkey",
+        "name": "GOLDEN", "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3oLlBXo+O0hTGj553ImDe91CgdlYUiH771fwaHFy0j4pba+RlYWQGUuZ662sHTxXTA=",   "drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDVhlejVg2RMFAXWbEdE2+uqAsH5jqueBD2LOfPy64W1WyOVoTC+UPCL1+3rIqRCMqyWldxoWAObbKgk0P/4wmveS+t3ToNva48NRFK0ISsXcN77Ilb5OO16M0/Fn1rEU2OsVmseRy2+8t9a429ZGIw=",
         "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png"
       },
@@ -1194,7 +1194,13 @@
         "uri": "3+0nMP7ZyqmQLbb17jNt2LMBh5Zc+FJJODwVEzqwFefIwoV6bY2AoGQogK7yAi7y0h/ez1eitlW6ipIsYbrZEw==",
         "icono": "https://i.postimg.cc/NMw9hGm8/descarga-2.png"
       },
-
+{
+        "name": "GOLDEN PLUS", 
+	"uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwC+PVRf+D/BDr3I/++G/WmVg==",   
+	"drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDVhlejVg2RMFAXWbEdE2+uqAsH5jqueBD2LOfPy64W1WyOVoTC+UPCL1+3rIqRCMqyWldxoWAObbKgk0P/4wmveS+t3ToNva48NRFK0ISsXcN77Ilb5OO16M0/Fn1rEU2OsVmseRy2+8t9a429ZGIw=",
+        "icono": "https://i.ibb.co/4fjnXXt/Dise-o-sin-t-tulo-3.png"
+      },
  {
         "name": "WARNER CHANNEL",
         "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMSM/CeoQySTZHUgQPnMCOaXMIkoUVwT1hdxP1+T5pFvP8ULC3svA0pL62TNXTVRESM=",
