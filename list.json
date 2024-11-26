@@ -1432,7 +1432,13 @@
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDPY+lANW20AGG6O67jRSPhX8bCkmAu7hF/DZhVZj5Qo99wXbswXJBXQX3KiveMLgI5EY4cFi8N9SzHVGKbK3cEWjAaUTw/LsGdImLg6yMKs32pwMojo89EuLXGmM60EWJw==",
         "icono": "https://i.ibb.co/tHxcPv7/channels4-profile-1.jpg"
       },
-
+ {
+        "name": "HBO 1 OPC.2",
+        "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLYjbbUHHKlTGK1zwapqVCXFtj0VhoFjG61dLDlAvv98BA==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDPY+lANW20AGG6O67jRSPhX8bCkmAu7hF/DZhVZj5Qo99wXbswXJBXQX3KiveMLgI5EY4cFi8N9SzHVGKbK3cEWjAaUTw/LsGdImLg6yMKs32pwMojo89EuLXGmM60EWJw==",
+        "icono": "https://i.ibb.co/tHxcPv7/channels4-profile-1.jpg"
+      },
 	    {
         "name": "HBO 2 FLOW",
         "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3qZ8J5It4JGdt1n2+/MIKbP4mifwgylob5u1guQdYq1rJONFmboJKbrycsQOIg4Pek=",
@@ -1441,6 +1447,13 @@
         "icono": "https://i.ibb.co/KsX2ZS9/ar-hbo-2-m.png"
       },
 
+	    {
+        "name": "HBO 2 OPC.2",
+        "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLYbaoNYbG59d/t3vJsVWveftj0VhoFjG61dLDlAvv98BA==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDGc21Tdt7LpGvUFedAYTde3n0ysJjcIVIhZ56zfiXuCny5JKamZzOryzDBCtqxmSQ+ayLddsAqNGmP1UFcy7lUj9J9ykUoXH5p+6CuS40h8sV1pwPH47o0jSpA2UiezDdg==",
+        "icono": "https://i.ibb.co/KsX2ZS9/ar-hbo-2-m.png"
+      },
 	    {
 "name": "HBO EXTREME", "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3qZ8J5It4JGdt1n2+/MIKbPASBWoMuciNbNDnCruFcN/PZLpzWLK8iOZmOnasOvcj5m0PzL0GqhJKedyT9Vigma", "drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDLt51RwXMCRiBe5QWoc7S9hvw4qlMwIgbWDOhpL1dNJnqUwzW5lpW3tSMDKXju5/n3UXtzwIRcfIT46mETl0keDBHKVTNt5CC8V7+90M/bh/0lVLRj09SyV4UoVNXyfR1aewpdARTiC4qpNFVsEM+Us=",
