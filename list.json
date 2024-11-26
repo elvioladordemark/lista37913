@@ -662,13 +662,7 @@
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
                 "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
             },
-	   {
-                "name": "ESPN1 OPC.2", 
-		"uri": "Y4WwEOiPL6iCZ60Sap2AXYl9tqWZvFquGo5SomqteaHn3fy9yds3Ax+jhfgbykE2tPwO/8Dcidz3lc7+8QDqqw==",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
-                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
-            },
+	
             {
                 "name": "ESPN 2 🇦🇷", 
 		"uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3r2O3Do0gaNogMD7zqiqKYW1gU5NwyMNMmvcgdmqlitCqc3Ju6ZqfFZNONCSvus36TFCwt7LwNKS+tkzV01UREj", 
@@ -676,13 +670,7 @@
                 "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHEUKJrCH8ZRQmVVv5w4B2RH/fpgRU1LG/TPqrq1bxSIZrz07seVWR1kh0rvmivHwPnoDNTGrHC+K4beuWceU/PFEra8G7Ce1f4FxqZsbLfx+xcrcCyl27d7MosIqKnjgpA==",
                 "icono": "https://i.ibb.co/GTx4Bhw/espn2-1-1.jpg"
             },
-               {
-                "name": "ESPN2 OPC.2", 
-		"uri": "Y4WwEOiPL6iCZ60Sap2AXYl9tqWZvFquGo5SomqteaHn3fy9yds3Ax+jhfgbykE2+SUHZZJlmWEir8n/qajYLg==",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
-                "icono": "https://i.ibb.co/GTx4Bhw/espn2-1-1.jpg"
-            },
+              
             {
                 "name": "ESPN 3 🇦🇷", 
 		"uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3pmAv2OcwwV9m6FvoSPb8JCt86ye7kZnq2lKOAr1uuFFNpgO9lSt5CkuF+YsCNgCA8=", 
