@@ -793,20 +793,8 @@
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
                 "icono": "https://static.flow.com.ar/images/8897/CH_LOGO/60/40/0/0/5522598607348.png"
             },
-	        {
-                "name": "ESPN COLOMBIA",
-                "uri": "Q4zkclQgM1Hazeb+uROym8vcEJgZ4zr7Ic2iWVU/Hciz8HTHbvLaM1mM+9tJ1qWFzauS0iHcb4VSC2+INjAnOg==",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
-                "icono": "https://i.postimg.cc/Cx3XmBgN/ESPN-CHILE.png"
-            },
-	    {
-                "name": "ESPN 2 CHILE",
-                "uri": "Q4zkclQgM1Hazeb+uROym8vcEJgZ4zr7Ic2iWVU/Hciz8HTHbvLaM1mM+9tJ1qWF5Y6svvZk6aRWSUcOTbo/nw==",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
-                "icono": "https://i.postimg.cc/Cx3XmBgN/ESPN-CHILE.png"
-            },
+	       
+	    
   {
         "name": "DEPORTV",
         "uri": "zlZeeg/ENWzgVMeKl3ZJpYILzeTFWLjWY99fMN+pXrDRYmF6d1dcbb6IRkZzmItojJh0KDm2MwFByxuS3KyoppFkbcEzt+V8fcjHzgFyJ4Iw9Kt3boAf4+v7In6NM5C6",
