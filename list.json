@@ -3151,6 +3151,22 @@
             }
 	   ]
     },
+
+	 {
+
+    "name": "🎤 CONCIERTOS PLAY TV",
+    "samples": [
+
+
+	    {
+                "name": "EVENTOS PLAY TV PY ACTUALIZADO FULL HD",
+                "uri": "Y4WwEOiPL6iCZ60Sap2AXSu5Q4w6Hk0235u8KVvMwrCEXE3MMLY6+sAO5SPhXaW6CDmGNqb4d+3NYKFr/h06dw==",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
+                "icono": "https://i.ibb.co/k5PgF02/IMG-20241127-WA0055.jpg"
+	     }
+	   ]
+    },
 {
     "name": "🎥POPULARES EN NETFLIX",
     "samples": [
