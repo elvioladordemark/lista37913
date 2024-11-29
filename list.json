@@ -2605,65 +2605,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHOON+vn/AmkFs/p3ojMGvm/eX7QqLCppqHxgBkCYVAsp+2k2Nz/vJZPlWtKsbVZMZnB3XV+6dyEfwoAjcbZfAfi9php9V1hjxHeJy/gh1u6JM+EgQCQM1WRPn4a8y8f7iw==",
         "icono": "https://i.ibb.co/1Tnfy2J/5909cf1f851d6-838x390.jpg"
-    },
-	    {
-        "name": "BAYERS TV ARG",
-        "uri": "JmIeJw+GncS2swaPyQ9qB+CSKinmarkUOFIzj8afnAqpijARXFYLT1DkKV/IThY3QTl7LAHZP8MfbeVj4f+Prg==",
-        "icono": "https://i.postimg.cc/HkY2dV4P/descarga-2.jpg"
-    },
-    {
-        "name": "NET TV CINE",
-        "uri": "XoegEu5WMHaJYVyFmtIkAXFuO8o7jbZgsXmDb7WMFLQ0DurFUbEUAyvBLW7hTXcvkNzOl9U2KIx5areh60+t0meLexigdvPAQsApFjXBvO0=",
-        "icono": "https://i.postimg.cc/WzVbFDnQ/unnamed.png"
-    },
-    {
-        "name": "AIRE SANTA FE",
-        "uri": "XoegEu5WMHaJYVyFmtIkAXFuO8o7jbZgsXmDb7WMFLQd3K+NA+Vns8zy6KzLmkYGh5q/tPwoPOqKPveYxWlrzzEhRTpV8Ft/G1zze07foNynW5IPun5yTTHZ6QcoGEmY",
-        "icono": "https://i.postimg.cc/90tyNDRv/AIRESF.png"
-    },
-    {
-        "name": "CANAL LUZ",
-        "uri": "JFOK2AEG8DcOz+5GU7IG4/W140UwlwWaO3i95MVh261kEhlC5O1AsfGmoXgPcQs4onej059jcTpcvRc0r3ak6fUJil0jtOO4ancgFbiG+0ClKinQhHk1y9r+27at9WhR",
-        "icono": "https://i.ibb.co/jvJwYdR/eltrestv.png"
-    },
-    {
-        "name": "ELTRES TV ROSARIO",
-        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3oDCvkfLv7LS9hXdh8++9S6MsH7vHuq1sSlvExdNG5TSxTKiHKFSGRnc61qXL4dWff0tiCKvooSqYntVqjYWu46Y6xWax5HLb7y31rjb1kYjA==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5FY46z+D2k1zLAd85umT5fJA5f0G+uYYSKSKwVMaW4zg4lugpM7G0iqSBgv8k0ZXujPFq3PlwEZVPSrab8T8dqepY153obhzWDxheuxw8CL4=",
-        "icono": "https://i.ibb.co/jvJwYdR/eltrestv.png"
-    },
-    {
-        "name": "NUEVE LITORAL",
-        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3oMR807bzhhS6h/zMcOTjGzdjmXMhbDk7brxBZUWO5aUOLwDuFZGSimNlzk/SDXO4POU9eIi3peWJp6YFn262j5",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5KRsg0cnJg0nOSyTIWCUyOSuaPpwJ3WZ5v5LCMP9HTQN2f8oM1qIoSfL+AfRDP/Og9wFcJnZaAbpJn65GK/AU3XI2uQBS1PfB05NBfkmdtng=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png"
-    },
-    {
-        "name": "TELEFE",
-        "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwCn/FTKn9LhZA7QZTtDRJ0PA==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5I4gyeRq9OG0Z6r966qKHeW68FbVKOyojMbzD4/8znRcDLYBpnTJLqBNacxR8elNiCJaee0iU03PeJmE8S3RwRtyFTE1utDzvphAX7ljvi3s=",
-        "icono": "https://i.ibb.co/JHHx4HH/e1dc8733904ec35e5d081ebbf0eb2d64-750x400.gif"
-    },
-	  
-    {
-        "name": "EL TRECE",
-        "uri": "a7P8IBf0wSXd6Yq2E9VWd/t5TFrLr9ESN588HBfkKp1epwGSRFSWhDJzVffPA559QEEN21LYFC5n3yJaZX5jztAH9GtUAtDGJ4jkizc5wlg=",
-        "icono": "https://i.ibb.co/Tv2dWPq/descarga-8.jpg"
-    },
-    {
-        "name": "CANAL 9",
-        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3oDCvkfLv7LS9hXdh8++9S6/VAAgRF1fE+jG9wdxAmVG8hBs+f2ZGlggf8BWKW4Ksl+XxuJYlKBNLlLEdEfNl12",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL57McWY/MQu2LmrF2sfjaWBAYIXOhxkyLGM++DMUTuH72ejlv8hVfNM5smuOyrkQqPA7xKzNYu17dL+RPdyu6zWKEHVDepUIeR6u3C+38je2k=",
-        "icono": "https://i.ibb.co/cvLm0JB/canal9.jpg"
-    },
-    {
-        "name": "AMERICA TV",
-        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3pm9grlLWRQObEJiBmkn7nZxiRW+voM+IvbYYYpzCJ5XUBd6WMulP/M8ibPGUAtii/cSvi9+J8HP1E1uGbK8kY+",
-        "icono": "https://i.ibb.co/BrzJD0D/Logotipo-de-America.jpg"
     }
    
     ]
