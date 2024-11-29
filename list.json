@@ -2761,43 +2761,45 @@
       "name": "LONEY TOONS",
         "uri": "c8dznZikVfQgSCCQfde+2u1yM09Zlih8lt0hzHRASmWI//sWr+g4URsoxkm6n2U2C9oormAtGNSmHSQjPmLltw==",
         "icono": "https://www.telegratishd.com/imge/looneytoons.png"
-      },
-	    {
-      "name": "PABLO ESCOBAR: EL PATRÓN DEL MAL",
-        "uri": "6p78SAc0hSxOyYOYWzmHvLPgZm4LUxh1HhzgBDE+sBEXY5GlLUoXB4ebdnYtDpfGd2RCY6+tuymJ1JoGyuTHUQ==",
-        "icono": "https://i.ibb.co/tzcQ5d4/artworks-000029063085-x4qk1o-t500x500.jpg"
-      },
-	    {
-      "name": "LA CASA DE PAPEL - 1°RA PARTE",
-        "uri": "6p78SAc0hSxOyYOYWzmHvLPgZm4LUxh1HhzgBDE+sBH6DKeZ4+9E0wjsROZITLYg0Lj8YTEZ5wNQtsuqOMoyfA==",
-        "icono": "https://i.ibb.co/BfyMBhg/bella-ciao-guitarra.jpg"
-	},
-	    {
-      "name": "LA CASA DE PAPEL - 2°DA PARTE",
-        "uri": "6p78SAc0hSxOyYOYWzmHvLPgZm4LUxh1HhzgBDE+sBHsipbNYDG5UD6nLXo+KSqB+GHgFORh+FWvtj3ZkZKh3A==",
-        "icono": "https://i.ibb.co/BfyMBhg/bella-ciao-guitarra.jpg"
-	},
-	    {
-      "name": "GAME OF THRONES",
-        "uri": "6p78SAc0hSxOyYOYWzmHvLPgZm4LUxh1HhzgBDE+sBGSfiBBkKoe+R9wuKbv9Q4iqfV0cb/OF2ZE+LdA8Pxt8Q==",
-        "icono": "https://i.ibb.co/hKXy07q/wallpapersden-com-daenerys-targaryen-game-of-thrones-season-8-poster-1920x1200.jpg"
-	},
-	    {
-      "name": "HARRY POTTER",
-        "uri": "6p78SAc0hSxOyYOYWzmHvLPgZm4LUxh1HhzgBDE+sBHsipbNYDG5UD6nLXo+KSqBnAW52NAQxc23IcTrpeEheg==",
-        "icono": "https://i.ibb.co/ZGtWtjV/OIP.jpg"
-	},
-	    {
-      "name": "CINEMA MARVEL",
-        "uri": "6p78SAc0hSxOyYOYWzmHvLPgZm4LUxh1HhzgBDE+sBH3BalbF25oIQbbtGbBzuedL1Katu+7xxrLzkzznPmxwA==",
-        "icono": "https://i.ibb.co/KzwzM4z/Marvel-Entertainment-Logo-29.webp"
-	},
-	    {
-      "name": "STAR WARS",
-        "uri": "6p78SAc0hSxOyYOYWzmHvLPgZm4LUxh1HhzgBDE+sBGPR6+n7xD0RudShSuofL3NL1Katu+7xxrLzkzznPmxwA==",
-        "icono": "https://i.ibb.co/KmrvvFH/R.jpg"
-	}
+      }
+ ]
+  },
 
+{
+    "name": "🎥ESPECIAL 24/7",
+    "samples": [
+	    {
+      "name": "PASION DE GAVILANES",
+        "uri": "kKcYRM62Y1wQnBxCXBNfK04NbUIhAdAE4sBCdojZeiYJX0PB96uUIL5cxoBE0vKAQjKxK/+v99anvZkOPfIHCESBI+ycKWD0gGpnkZ27wgA=",
+        "icono": "https://i.postimg.cc/5txC4DvL/descarga.jpg"
+      }, 
+  {
+      "name": "PASION DE GAVILANES 2",
+        "uri": "kKcYRM62Y1wQnBxCXBNfK04NbUIhAdAE4sBCdojZeiYJX0PB96uUIL5cxoBE0vKAQjKxK/+v99anvZkOPfIHCCWSMO53Jo7njc1p/y7tpwk=",
+        "icono": "https://i.postimg.cc/d3Hh002y/images-1.jpg"
+      }, 
+    {
+      "name": "SIN CENOS NO HAY PARAISO",
+        "uri": "kKcYRM62Y1wQnBxCXBNfK04NbUIhAdAE4sBCdojZeiYJX0PB96uUIL5cxoBE0vKAQjKxK/+v99anvZkOPfIHCIBx7Zja6PBPg+BaMvb1XQk=",
+        "icono": "https://i.postimg.cc/TYnjTzhY/images-2.jpg"
+      },
+	 
+   {
+      "name": "SIN CENOS NO HAY PARAISO 2",
+        "uri": "kKcYRM62Y1wQnBxCXBNfK04NbUIhAdAE4sBCdojZeiYJX0PB96uUIL5cxoBE0vKAQjKxK/+v99anvZkOPfIHCMj4hjbV56VRG9JyrvCkiKc=",
+        "icono": "https://i.postimg.cc/TYnjTzhY/images-2.jpg"
+      },
+            {
+      "name": "SEÑORA DE ACERO",
+        "uri": "wUxY6bwb/yeFONeUvGRvkQuVRxvkIhZKDVQU/csXROjqkbkaFwN5PPQG117p10xB/hQrstmo5GzCQgTWemwXymJgYUkMCIwvQeNjsZRMAhQ=",
+        "icono": "https://i.postimg.cc/T200mMf7/images-3.jpg"
+      },
+	             {
+      "name": "EL CHAPO",
+        "uri": "wUxY6bwb/yeFONeUvGRvkQuVRxvkIhZKDVQU/csXROjqkbkaFwN5PPQG117p10xBihtahYzRZNliXVpBjbpodP6EtRd7We8UEqxrJFuAFN4=",
+        "icono": "https://i.postimg.cc/FRmqryV7/images-4.jpg"
+      },
+{
     ]
   },
 {
