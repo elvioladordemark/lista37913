@@ -2768,6 +2768,27 @@
 {
     "name": "🎥ESPECIAL 24/7",
     "samples": [
+	       {
+      "name": "CREPUSCULO",
+        "uri": "kKcYRM62Y1wQnBxCXBNfK04NbUIhAdAE4sBCdojZeiYJX0PB96uUIL5cxoBE0vKAQjKxK/+v99anvZkOPfIHCP8JeNAM2YXYHdDoKrYx/j8=",
+        "icono": "https://i.postimg.cc/xqD9nsgB/images-6.jpg"
+      }, 
+	          {
+      "name": "EL CONJURO",
+        "uri": "kKcYRM62Y1wQnBxCXBNfK04NbUIhAdAE4sBCdojZeiYJX0PB96uUIL5cxoBE0vKAQjKxK/+v99anvZkOPfIHCA8mHWAzfPfbPgSbQr0eXds=",
+        "icono": "https://i.postimg.cc/RhCDfwhq/images-7.jpg"
+      }, 
+	             {
+      "name": "RESIDENT EVIL",
+        "uri": "kKcYRM62Y1wQnBxCXBNfK04NbUIhAdAE4sBCdojZeiYJX0PB96uUIL5cxoBE0vKAQjKxK/+v99anvZkOPfIHCGgtmRqsmniev1aWUQsJpO4=",
+        "icono": "https://i.postimg.cc/85qnXs1m/images-8.jpg"
+      }, 
+	    
+	{
+      "name": "RAPIDOS Y FURIOSOS",
+        "uri": "kKcYRM62Y1wQnBxCXBNfK04NbUIhAdAE4sBCdojZeiYJX0PB96uUIL5cxoBE0vKAQjKxK/+v99anvZkOPfIHCEtpyk7DvYAsBspXicVoICM=",
+        "icono": "https://i.postimg.cc/xdY21xMS/images-9.jpg"
+      }, 
 	    {
       "name": "PASION DE GAVILANES",
         "uri": "kKcYRM62Y1wQnBxCXBNfK04NbUIhAdAE4sBCdojZeiYJX0PB96uUIL5cxoBE0vKAQjKxK/+v99anvZkOPfIHCESBI+ycKWD0gGpnkZ27wgA=",
@@ -2793,6 +2814,11 @@
       "name": "SEÑORA DE ACERO",
         "uri": "wUxY6bwb/yeFONeUvGRvkQuVRxvkIhZKDVQU/csXROjqkbkaFwN5PPQG117p10xB/hQrstmo5GzCQgTWemwXymJgYUkMCIwvQeNjsZRMAhQ=",
         "icono": "https://i.postimg.cc/T200mMf7/images-3.jpg"
+      },
+	             {
+      "name": "PABLO ESCOBAR",
+        "uri": "kKcYRM62Y1wQnBxCXBNfK04NbUIhAdAE4sBCdojZeiYJX0PB96uUIL5cxoBE0vKAQjKxK/+v99anvZkOPfIHCKtHUcv0cOtvQrXuBcCiano=",
+        "icono": "https://i.postimg.cc/0j7Ld9dH/images-5.jpg"
       },
 	             {
       "name": "EL CHAPO",
