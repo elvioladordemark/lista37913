@@ -1425,7 +1425,14 @@
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDPY+lANW20AGG6O67jRSPhX8bCkmAu7hF/DZhVZj5Qo99wXbswXJBXQX3KiveMLgI5EY4cFi8N9SzHVGKbK3cEWjAaUTw/LsGdImLg6yMKs32pwMojo89EuLXGmM60EWJw==",
         "icono": "https://i.ibb.co/tHxcPv7/channels4-profile-1.jpg"
       },
- {
+  {
+        "name": "HBO 1 PRUEBA",
+        "uri": "iwOQjo7PSkPyVkQBUyIXqhTHL8+1FTt7ZGMsW5phs1fUENNKdz3NaorwnDkpQaKJ",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHKcl8lsGREYYEqNC1tzx1HPB0LOjCrwSeyHa1MgzdvWokKVuJujC7KWqpPV2JOWSBg51qA+oUBa7xWIf3twuDvv/izjc9yHeIAXrgLNQ31msZKm3R4K2y9Tjm5DHXU1I4w==",
+        "icono": "https://i.ibb.co/tHxcPv7/channels4-profile-1.jpg"
+      },
+	    {
         "name": "HBO 1 AMAZON",
         "uri": "QPC1lzlP9AJJpGdP1DOe+vMvoiDu921xY6RV1rMzCslIrtPfh988n9Mlhh1J12y9plX69jlk7vxvpsqRn6vBcwzO+hnyjoEPjuPIFGskMCiCCF4HvDO3AsR5OdJojhpOZlrTdo+TlQn40aI8pbhMnGySWDRg/thID4CGeuHuh4U=",
         "drm_scheme": "clearkey",
