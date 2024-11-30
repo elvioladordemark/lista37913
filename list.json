@@ -1137,56 +1137,10 @@
     ]
   },
 
-      {
+       {
     "name": "⚽ BRASIL DEPORTES",
     "samples": [
-           {
-        "name": "ESPN BR 1",
-        "uri": "XSyjdElvRJC0HTP+IhGqtiw3rHlr+eZSjcxKUp+WcwoSrdYPrequEvL9tBv2IjPOQSuo0XtF/bOTB8QT9cGryw==",
-	       "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHLAshoAvjdKNyS/VzZCj2qYCj63VyB3Gk5T0eiRQURMK9bS8lOdtFHf9Gp6wBPYgOqCX2WqvXBl7eqvw5bN1EZkd/WQvJGZPS+m/KM0qIY5rTDtVBBbom5bGRvdQAQ8ayA==",
-       
-        "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
-	   },
-{
-        "name": "ESPN BR 2",
-        "uri": "XSyjdElvRJC0HTP+IhGqttIMs+w/dvV2095xTRc+miHopGV680UIKNhqwTCT2p9mSzJtGSQETHGAbxTHS7/xDw==",
-	       "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHLAshoAvjdKNyS/VzZCj2qYCj63VyB3Gk5T0eiRQURMK9bS8lOdtFHf9Gp6wBPYgOqCX2WqvXBl7eqvw5bN1EZkd/WQvJGZPS+m/KM0qIY5rTDtVBBbom5bGRvdQAQ8ayA==",
-       
-        "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
-	   },
-	   {
-        "name": "ESPN BR 3",
-        "uri": "XSyjdElvRJC0HTP+IhGqttIMs+w/dvV2095xTRc+miFdIRXws6R5YwVntLCzeNoPSzJtGSQETHGAbxTHS7/xDw==",
-	       "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHLAshoAvjdKNyS/VzZCj2qYCj63VyB3Gk5T0eiRQURMK9bS8lOdtFHf9Gp6wBPYgOqCX2WqvXBl7eqvw5bN1EZkd/WQvJGZPS+m/KM0qIY5rTDtVBBbom5bGRvdQAQ8ayA==",
-       
-        "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
-	   },
-
-	  {
-        "name": "ESPN BR 4",
-        "uri": "XSyjdElvRJC0HTP+IhGqttIMs+w/dvV2095xTRc+miHBYv9JWg1xAoQ2jcJEScW1SzJtGSQETHGAbxTHS7/xDw==",
-	       "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHLAshoAvjdKNyS/VzZCj2qYCj63VyB3Gk5T0eiRQURMK9bS8lOdtFHf9Gp6wBPYgOqCX2WqvXBl7eqvw5bN1EZkd/WQvJGZPS+m/KM0qIY5rTDtVBBbom5bGRvdQAQ8ayA==",
-       
-        "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
-	   },
-	{
-        "name": "ESPN BR 5",
-        "uri": "Q4zkclQgM1Hazeb+uROym7yErDyQherZRUBVzaCF1xnLG096KyU/LpWtdRdbhOUZLhE5dtP6YHXfqq2aGe9XEA==",
-	 "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHLAshoAvjdKNyS/VzZCj2qYCj63VyB3Gk5T0eiRQURMK9bS8lOdtFHf9Gp6wBPYgOqCX2WqvXBl7eqvw5bN1EZkd/WQvJGZPS+m/KM0qIY5rTDtVBBbom5bGRvdQAQ8ayA==",
-         "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
-	   },
-	   {
-        "name": "ESPN BR 6",
-        "uri": "Q4zkclQgM1Hazeb+uROym7yErDyQherZRUBVzaCF1xnLG096KyU/LpWtdRdbhOUZl266LXkqqpusnBAWkCJNNw==",
-	"drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHLAshoAvjdKNyS/VzZCj2qYCj63VyB3Gk5T0eiRQURMK9bS8lOdtFHf9Gp6wBPYgOqCX2WqvXBl7eqvw5bN1EZkd/WQvJGZPS+m/KM0qIY5rTDtVBBbom5bGRvdQAQ8ayA==",
-        "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
-	   }, 
+    
 	    {
         "name": "SPORT TV 1",
         "uri": "OcriGgK+cqHbcdzTYRsxVFgCJIkbH+0Wke9V69Dv1WEBNdjpdb5PAOrl3/WdCyBvSzJtGSQETHGAbxTHS7/xDw==",
