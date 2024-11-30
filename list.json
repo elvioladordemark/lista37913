@@ -71,11 +71,11 @@
 	    },
 	    {
         "name": "ATL. MINEIRO vs BOTAFOGO Op. 5 - (PORTUGUÉS)",
-        "uri": "L0h+CqzxHHvc8VQ6fnRHXABXZps3JYhEo1saSVpdCIVZnwc+ZY70qM9tOhSNITQFplX69jlk7vxvpsqRn6vBc7dK2ZWQZAnl5TNUOwLed304c0p77ssNUjtJzMkQgPD0ZZEPx+gTSefgA9Je5YjuyXCnI8ZplN9pD4zriZiTt38=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5yZEjzmjag4nPn2dTcDk/NLUlpbtCDsWW2B1TUkz9FgHVd8XUy15SoSTxvjqLf9WRb46FzMRfkszIvnGOWZPt9KCjawTVWyaQsCj1dF3ueqw=",
-        "icono": "https://i.ibb.co/MDp8M1k/artworks-5sl0l-YHJVQCy-0-t500x500.jpg"
-	    }
+        "uri": "OcriGgK+cqHbcdzTYRsxVFgCJIkbH+0Wke9V69Dv1WEBNdjpdb5PAOrl3/WdCyBvSzJtGSQETHGAbxTHS7/xDw==",
+	 "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHLAshoAvjdKNyS/VzZCj2qYCj63VyB3Gk5T0eiRQURMK9bS8lOdtFHf9Gp6wBPYgOqCX2WqvXBl7eqvw5bN1EZkd/WQvJGZPS+m/KM0qIY5rTDtVBBbom5bGRvdQAQ8ayA==",
+       "icono": "https://i.ibb.co/MDp8M1k/artworks-5sl0l-YHJVQCy-0-t500x500.jpg"
+	   }
          ]
 	    },
 	{
@@ -1196,10 +1196,9 @@
 	    {
         "name": "SPORT TV 1",
         "uri": "OcriGgK+cqHbcdzTYRsxVFgCJIkbH+0Wke9V69Dv1WEBNdjpdb5PAOrl3/WdCyBvSzJtGSQETHGAbxTHS7/xDw==",
-	       "drm_scheme": "clearkey",
+	 "drm_scheme": "clearkey",
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHLAshoAvjdKNyS/VzZCj2qYCj63VyB3Gk5T0eiRQURMK9bS8lOdtFHf9Gp6wBPYgOqCX2WqvXBl7eqvw5bN1EZkd/WQvJGZPS+m/KM0qIY5rTDtVBBbom5bGRvdQAQ8ayA==",
-       
-        "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg"
+       "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg"
 	   },
 	        {
         "name": "SPORT TV 2",
