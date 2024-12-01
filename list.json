@@ -3050,7 +3050,11 @@
 {
     "name": "🎥PELICULAS ESTRENOS 2024",
     "samples": [
-        
+            {
+              "name": "QUERIDO SANTA 2024",
+        "uri": "RnP992cWNsCXAg9yxKdLi6J2XPfnfFZrcM4jM5G4twbLuwhxqptgUMkvvh/YUT4KEwv/oNpH1vfYYyjj56tze+7IFpP6LHch3UuWauy9/l7OFJ6ZxBGM+hdUcaEJvk5xg6vmXHGQE/TtIVmKJi6TrajFKPRmoyU1hsyK7RHWgkY=",
+        "icono": "https://i.postimg.cc/C15RJpdp/IMG-20241130-WA0608.jpg"   
+            },
 	    {
               "name": "NO ENTRES 2024",
         "uri": "gdGWpefEER5JBPKUqIyNhvHNaHnCYKFF8KoYARFkOmmz9T7N8862qpMvnamtOxT1HEGpKaNFNVx6eoViMGF6Elj4G069SeJXRaCJ5SmP8AnKYg2UwJ0ila2xMZjZUUSO+qqhDHAMAX2x7m9HdcxMTZWwuUgrxLevSoRSHveOwt0=,",
