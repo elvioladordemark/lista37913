@@ -2441,121 +2441,6 @@
 	    }
      ]
   },
- {
-    "name": "🇦🇷CANALES DE ARGENTINA",
-    "samples": [
-             {
-        "name": "BAYERS TV ARG",
-        "uri": "JmIeJw+GncS2swaPyQ9qB+CSKinmarkUOFIzj8afnAqpijARXFYLT1DkKV/IThY3QTl7LAHZP8MfbeVj4f+Prg==",
-        "icono": "https://i.postimg.cc/HkY2dV4P/descarga-2.jpg"
-    },
-    {
-        "name": "NET TV CINE",
-        "uri": "XoegEu5WMHaJYVyFmtIkAXFuO8o7jbZgsXmDb7WMFLQ0DurFUbEUAyvBLW7hTXcvkNzOl9U2KIx5areh60+t0meLexigdvPAQsApFjXBvO0=",
-        "icono": "https://i.postimg.cc/WzVbFDnQ/unnamed.png"
-    },
-    {
-        "name": "FIVE TV",
-        "uri": "qGI5dv1lsVFT3hYSh6hDnJ6ZIlLOGUFuAiAG+pOTHmYsEnmOoSdWNHBoGrt2DaYW0TqrbNDOkuXu6st4U6oBJQ==",
-        "icono": "https://i.ibb.co/wQh2NL3/fivetv-fondo.png"
-    },
-    {
-        "name": "CANAL LUZ",
-        "uri": "psOtAuC6cSWds0dbJrMAUc2FlR4aDA8eqPCKRlCskiT9lpYMGDZOM4WjdD08LXYuTu9f/wCE3eyFQv85UDxnrjo6lPJsJQk3LPOFUcYwV48vTyQ2HdwI67jlmS6xWQJWfEP08EYdlfrofObJJyJKNfsuYxlLocOoZdOl2OzRs54=",
-        "icono": "https://i.ibb.co/jvJwYdR/eltrestv.png"
-    },
-    {
-        "name": "TELEMAX",
-        "uri": "Vm5Gp0L11M5+mEN4+8Q/3AU34o9HnOuxmckuBIVnSxErJ1dbMOZ3aSgHhZDZT9CauEjqIooHDs4EElQ6IyoC8MvpQdpRnvwVCO7QLapCsxc=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHH0jr/BbJrSlDUdf8DBO9xDM/eSXBt6wNg3JggS3Ztgk1zb30UnQJrZolpklnMT4t6CAynl+A2Zcuip43f2Jh5aRQgG+w/PGIPhvsA5NNkDo+nq8cqeSwiucbg2A6wlmNQ==",
-        "icono": "https://i.ibb.co/dGC9pwN/4e30d1851fdedbc3cc9d3b438ee48c3b.jpg"
-    },
-    {
-        "name": "CANAL 9 HD",
-        "uri": "8SQS7lloawhHz60rFK9i9L83yjIPGKwYcy61gS5lxMBjn0JMhaH5DI8Vs/VLVQIA",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5uNQS6HsYYxI/KFNJduGOitcYJhENPoFxelO2wBoLxSfwUI6PsUckG1+izkQ8CM85/92Tpz/IigTLVAIUfBG0ZmMX4R1zVp/1JGJuWpn59lc=",
-        "icono": "https://i.ibb.co/0VJR2J8/el-nueve.png"
-    },
-    {
-        "name": "TELEFE",
-        "uri": "4R+Pt+p1vnO9Ebni4YBk7KPxWo00fZlkficdtxhpTQXtlDRl7L6k1n87LJ5bdbWz",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5yZEjzmjag4nPn2dTcDk/NLUlpbtCDsWW2B1TUkz9FgHVd8XUy15SoSTxvjqLf9WRb46FzMRfkszIvnGOWZPt9KCjawTVWyaQsCj1dF3ueqw=",
-        "icono": "https://i.ibb.co/gj3D2b4/Telefe.png"
-    },
-	    {
-        "name": "EL TRECE",
-        "uri": "a7P8IBf0wSXd6Yq2E9VWd/t5TFrLr9ESN588HBfkKp3oGaxyLTDYuWfVRUy9QLz6k8n7GscMXQuXMVnYl+2kbg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5yZEjzmjag4nPn2dTcDk/NLUlpbtCDsWW2B1TUkz9FgHVd8XUy15SoSTxvjqLf9WRb46FzMRfkszIvnGOWZPt9KCjawTVWyaQsCj1dF3ueqw=",
-        "icono": "https://i.ibb.co/fnP1xZM/el-trece-1.png"
-    },
-
-    {
-        "name": "LN+ - LA NACION",
-        "uri": "uGV/P8HpN6ank2owMczn3u9xQfPXRWPcaaI0A46EH2sW+3rvQwhbiTVmlCpctDat1wCgsNoZ16Jx9HEEQ8Vsuw==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5h61d/IqBBNmKepF2tWXURHMwGZB4RhqCjvSMJsAD4N4r45mXwKBSFqHmdEAwR7tSoYWFTJ4G7VFYd7mR98JY+eYYD3bmZ3mah3O2P+PfFz0=",
-        "icono": "https://i.ibb.co/zG4YLk0/LN-1.png"
-    },
-    {
-        "name": "CRONICA TV",
-        "uri": "4QcY7pPFsYdEPJCl80yaYj10d2hbAufv2wQY2hHyCxmMMnKx5XQXzctwyoHQY+D+tajPNzp4JPpeiaHQKC0nyKw==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5S0ro5GCTMQ6yKTe0VUSPLlpHLRpXa3sdl8cRr40dXX0qRwAcIH1VA0c/U8bPEYUsCv5YhrCDQZQUoteokRtF7xT9y0XhPnl2fTEkhF0Jiqg=",
-        "icono": "https://i.ibb.co/0ydVnDP/channels4-profile.jpg"
-    },
-    {
-        "name": "A24 HD",
-        "uri": "uGV/P8HpN6ank2owMczn3u9xQfPXRWPcaaI0A46EH2uuqVjJbUFO50wn29XfNqQ2+yd7zQOOX9ZzZPqXNXygcw==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5S8A8dDu87mx80FJoaLcdDzu6KR+PfgufusaEn138xkaadNxnxESHo/UmmOvgc1zo57J+JkeIxFaMWd9n9Ak+0yohEtCKwkrrBPfMvBVwALw=",
-        "icono": "https://i.ibb.co/gwqB79X/a24-1.png"
-    },
-	    {
-        "name": "BRAVO TV",
-        "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMQS01QhuSFnU6X9POR3JnXPqsmD6r3hQaffHky7aW1dbxLMN9I8dwvmjoeyRJFS2wY=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5cdua5Z1C+kWseecBtjo3cnRKOTIvzCY6YyLjgD605TNDfECVUO3GH3EwKIHtz111guv6x2+EYcGHIMRU1lCCvfIA9Q0D4/NpHIHHxs1XQB0=",
-        "icono": "https://i.ibb.co/LJkXmnV/bravo-tv.png"
-    },
-    {
-        "name": "ARGENTINISIMA SATELITAL",
-        "uri": "zlZeeg/ENWzgVMeKl3ZJpdKuacLYNY/54d6LTRtbc3RhJBNFG1dSJgMnAEu7Zdbs615H3CfJllozZW7lxNVNc4y0vNxCbckGTflZQtZzRns4O/UhD7ye/0ZRZ12QwL0LY6xWax5HLb7y31rjb1kYjA==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHCOumanVJO1ov0NCYl8PpXv3ZHCmKIJwnPj0mG4GCXZeOYD8BT3PXXAvoRHmpg1DmwNi4Lg712+PWnUofCO76ZAJayTiygDcjkVt7gZetpIzM+EgQCQM1WRPn4a8y8f7iw==",
-        "icono": "https://i.ibb.co/G0zCDL0/descarga-1.png"
-    },
-    {
-        "name": "CANAL 26",
-        "uri": "9Mh5pCZtg63C/2Q54M/QoxRIvOkjRv0wapKCq3RnnxgbMre57jcK/emgoTu/4NcpPx3yduAH628pPN9qGq2Y+/Ei4GbaBui56umqXTbn9dVs2B3CcVTYJ/Y+A75mmT7EKg9zwmT7QPgVHvrnpa1MXWF2Pr24eMCAPpDNjrzm+l4/Gwq16Vb398jOOcF9uXRYs4Sk58fZlnAU332YDSebjcYuR3ZLLm5eOZqRP4Yz1oSzzaTqbpMv2iVVE4zkPY15WQSLKTcO3DMIKOUBYXyhsEd7lC9ZN0ncrWj1oHX7suVKF6+ytXgwr8lFR3Z4Jb0uOW0ukmTG0YB5K4L5n1TDuE4EGzBKgMeJVp4gLS454ALdVz/sf9F2Pz+BwHGBBvddBy9XAS7e7uf61rqSAuxl5f+Q9Hloi4jnsLKyPeDV3rL5Mn6abWKxoBXg8NnR13SmIEBlBOJmqX5wvjw/3viJ+gajC0h1qBEZfWLToBkPb/uAgL39OfvaDBdMphM5we+6cNHAGktZd+bwc3erbfEww3TWMRQtASL3fFqwckEmWCSCOGGuOShga/GhmCkmt2Vg2cTeM7rmS8JbjT3XagS6HS1PasfX95cq9zFPr4aWp2uLKyVlDoSuWGb5iF0iQL+RIotANXTVmPe2MsvGHGCgEw/RNIhOqRoiQB9lClJ2KSC4lQ0joZm2L3agwmLLiT4uVBNWSaXW8V00XRr/TSvbSSWS28tuTpYnVsyqVJbGzZmBvK1RlreM3yYt/vNwfAyQdu/gEl7b9GwXLJ4Cq/BWnG1s1H2CYiNgDmoqyFR70gsPhAHLoJHQfVBL1GpEokiZJ2xmRclY1k6VPHgLZjERTjVDUOvH5m8l6Mv3ef2wv7PApK4G1U8FfksXfeNS3qqhqD2ZXNjbWAE/bVZVgkJ7CJnHdEsXwMRfAN0/OeaoOT6G4iGy61KGAADF2cRnRPQWc+0Xi1D+am9KwlL5JfnLtQRsMKSHtQ2qBeaqDwwkBbwOuHGxH8cB9SXJw2HkyvOjRf7TM3CsNihfoY57bPrXYtAH9GtUAtDGJ4jkizc5wlg=",
-        "icono": "https://i.ibb.co/TM0dyCR/canal26-logo.png"
-    },
-    {
-        "name": "CANAL 12 CORDOBA",
-        "uri": "s5sEXMmseHzVuHCYB83XLXriORzPU1ZjD7Bc8cEi4OHVOTNsEW/HXWzDDCxBC6ooeXBM0LEv7kDTg3VVY5gCZqLwpg0pnxNplHSX6V/tLBxjrFZrHkctvvLfWuNvWRiM",
-        "icono": "https://i.ibb.co/60sFBfY/og-image.jpg"
-    },
-    {
-        "name": "VOLVER",
-        "uri": "eQIZwW03FaaJzqF0oYbVM/VLIDctN4BIUyoTeexG7oFTNW1aLg0Rz+W1zXNjiFiSmSbAtIuyibCSqPPVW5DgOm3TdBtrQRAi5f6hVmpZaOB+XxuJYlKBNLlLEdEfNl12",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHHrvBHNYYY7b79IsssKzMNbkqhBOVSthPBkR58MwIuj+X98LY3W3rdM+WJTNlL+xzmibTWWlxLrHW1igFmamXFwyJx3gad9QgyA8F85iKVSxCb3xgjBeCRa0w8xxdhWsAw==",
-        "icono": "https://i.ibb.co/ZNRV2BF/descarga-3.jpg"
-    },
-    {
-        "name": "CIUDAD MAGAZINE",
-        "uri": "zlZeeg/ENWzgVMeKl3ZJpfqWUg2tmgiGGI9IPeevN08VrD+aIrV0EceN51DnPYuEHzVDBfMdMpXElJxfcBsld0jcYDaA5EBneSNFMIpumRcOK7DJ/Heu29aSx+6r5BkX",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHOON+vn/AmkFs/p3ojMGvm/eX7QqLCppqHxgBkCYVAsp+2k2Nz/vJZPlWtKsbVZMZnB3XV+6dyEfwoAjcbZfAfi9php9V1hjxHeJy/gh1u6JM+EgQCQM1WRPn4a8y8f7iw==",
-        "icono": "https://i.ibb.co/1Tnfy2J/5909cf1f851d6-838x390.jpg"
-    }
-   
-    ]
-  },
-
 {
     "name": "🎥CANALES 24/7 VIP",
     "samples": [
@@ -3338,6 +3223,121 @@
         "icono": "url=https://ibb.co/syd3WDL][img]https://i.ibb.co/syd3WDL/e1eede8e44ba70ec8751cb7f5c33447f.webp"   
                                          }
     ]
+    },
+	{
+    "name": "🇦🇷CANALES DE ARGENTINA",
+    "samples": [
+             {
+        "name": "BAYERS TV ARG",
+        "uri": "JmIeJw+GncS2swaPyQ9qB+CSKinmarkUOFIzj8afnAqpijARXFYLT1DkKV/IThY3QTl7LAHZP8MfbeVj4f+Prg==",
+        "icono": "https://i.postimg.cc/HkY2dV4P/descarga-2.jpg"
+    },
+    {
+        "name": "NET TV CINE",
+        "uri": "XoegEu5WMHaJYVyFmtIkAXFuO8o7jbZgsXmDb7WMFLQ0DurFUbEUAyvBLW7hTXcvkNzOl9U2KIx5areh60+t0meLexigdvPAQsApFjXBvO0=",
+        "icono": "https://i.postimg.cc/WzVbFDnQ/unnamed.png"
+    },
+    {
+        "name": "FIVE TV",
+        "uri": "qGI5dv1lsVFT3hYSh6hDnJ6ZIlLOGUFuAiAG+pOTHmYsEnmOoSdWNHBoGrt2DaYW0TqrbNDOkuXu6st4U6oBJQ==",
+        "icono": "https://i.ibb.co/wQh2NL3/fivetv-fondo.png"
+    },
+    {
+        "name": "CANAL LUZ",
+        "uri": "psOtAuC6cSWds0dbJrMAUc2FlR4aDA8eqPCKRlCskiT9lpYMGDZOM4WjdD08LXYuTu9f/wCE3eyFQv85UDxnrjo6lPJsJQk3LPOFUcYwV48vTyQ2HdwI67jlmS6xWQJWfEP08EYdlfrofObJJyJKNfsuYxlLocOoZdOl2OzRs54=",
+        "icono": "https://i.ibb.co/jvJwYdR/eltrestv.png"
+    },
+    {
+        "name": "TELEMAX",
+        "uri": "Vm5Gp0L11M5+mEN4+8Q/3AU34o9HnOuxmckuBIVnSxErJ1dbMOZ3aSgHhZDZT9CauEjqIooHDs4EElQ6IyoC8MvpQdpRnvwVCO7QLapCsxc=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHH0jr/BbJrSlDUdf8DBO9xDM/eSXBt6wNg3JggS3Ztgk1zb30UnQJrZolpklnMT4t6CAynl+A2Zcuip43f2Jh5aRQgG+w/PGIPhvsA5NNkDo+nq8cqeSwiucbg2A6wlmNQ==",
+        "icono": "https://i.ibb.co/dGC9pwN/4e30d1851fdedbc3cc9d3b438ee48c3b.jpg"
+    },
+    {
+        "name": "CANAL 9 HD",
+        "uri": "8SQS7lloawhHz60rFK9i9L83yjIPGKwYcy61gS5lxMBjn0JMhaH5DI8Vs/VLVQIA",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5uNQS6HsYYxI/KFNJduGOitcYJhENPoFxelO2wBoLxSfwUI6PsUckG1+izkQ8CM85/92Tpz/IigTLVAIUfBG0ZmMX4R1zVp/1JGJuWpn59lc=",
+        "icono": "https://i.ibb.co/0VJR2J8/el-nueve.png"
+    },
+    {
+        "name": "TELEFE",
+        "uri": "4R+Pt+p1vnO9Ebni4YBk7KPxWo00fZlkficdtxhpTQXtlDRl7L6k1n87LJ5bdbWz",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5yZEjzmjag4nPn2dTcDk/NLUlpbtCDsWW2B1TUkz9FgHVd8XUy15SoSTxvjqLf9WRb46FzMRfkszIvnGOWZPt9KCjawTVWyaQsCj1dF3ueqw=",
+        "icono": "https://i.ibb.co/gj3D2b4/Telefe.png"
+    },
+	    {
+        "name": "EL TRECE",
+        "uri": "a7P8IBf0wSXd6Yq2E9VWd/t5TFrLr9ESN588HBfkKp3oGaxyLTDYuWfVRUy9QLz6k8n7GscMXQuXMVnYl+2kbg==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5yZEjzmjag4nPn2dTcDk/NLUlpbtCDsWW2B1TUkz9FgHVd8XUy15SoSTxvjqLf9WRb46FzMRfkszIvnGOWZPt9KCjawTVWyaQsCj1dF3ueqw=",
+        "icono": "https://i.ibb.co/fnP1xZM/el-trece-1.png"
+    },
+
+    {
+        "name": "LN+ - LA NACION",
+        "uri": "uGV/P8HpN6ank2owMczn3u9xQfPXRWPcaaI0A46EH2sW+3rvQwhbiTVmlCpctDat1wCgsNoZ16Jx9HEEQ8Vsuw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5h61d/IqBBNmKepF2tWXURHMwGZB4RhqCjvSMJsAD4N4r45mXwKBSFqHmdEAwR7tSoYWFTJ4G7VFYd7mR98JY+eYYD3bmZ3mah3O2P+PfFz0=",
+        "icono": "https://i.ibb.co/zG4YLk0/LN-1.png"
+    },
+    {
+        "name": "CRONICA TV",
+        "uri": "4QcY7pPFsYdEPJCl80yaYj10d2hbAufv2wQY2hHyCxmMMnKx5XQXzctwyoHQY+D+tajPNzp4JPpeiaHQKC0nyKw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5S0ro5GCTMQ6yKTe0VUSPLlpHLRpXa3sdl8cRr40dXX0qRwAcIH1VA0c/U8bPEYUsCv5YhrCDQZQUoteokRtF7xT9y0XhPnl2fTEkhF0Jiqg=",
+        "icono": "https://i.ibb.co/0ydVnDP/channels4-profile.jpg"
+    },
+    {
+        "name": "A24 HD",
+        "uri": "uGV/P8HpN6ank2owMczn3u9xQfPXRWPcaaI0A46EH2uuqVjJbUFO50wn29XfNqQ2+yd7zQOOX9ZzZPqXNXygcw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5S8A8dDu87mx80FJoaLcdDzu6KR+PfgufusaEn138xkaadNxnxESHo/UmmOvgc1zo57J+JkeIxFaMWd9n9Ak+0yohEtCKwkrrBPfMvBVwALw=",
+        "icono": "https://i.ibb.co/gwqB79X/a24-1.png"
+    },
+	    {
+        "name": "BRAVO TV",
+        "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMQS01QhuSFnU6X9POR3JnXPqsmD6r3hQaffHky7aW1dbxLMN9I8dwvmjoeyRJFS2wY=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5cdua5Z1C+kWseecBtjo3cnRKOTIvzCY6YyLjgD605TNDfECVUO3GH3EwKIHtz111guv6x2+EYcGHIMRU1lCCvfIA9Q0D4/NpHIHHxs1XQB0=",
+        "icono": "https://i.ibb.co/LJkXmnV/bravo-tv.png"
+    },
+    {
+        "name": "ARGENTINISIMA SATELITAL",
+        "uri": "zlZeeg/ENWzgVMeKl3ZJpdKuacLYNY/54d6LTRtbc3RhJBNFG1dSJgMnAEu7Zdbs615H3CfJllozZW7lxNVNc4y0vNxCbckGTflZQtZzRns4O/UhD7ye/0ZRZ12QwL0LY6xWax5HLb7y31rjb1kYjA==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHCOumanVJO1ov0NCYl8PpXv3ZHCmKIJwnPj0mG4GCXZeOYD8BT3PXXAvoRHmpg1DmwNi4Lg712+PWnUofCO76ZAJayTiygDcjkVt7gZetpIzM+EgQCQM1WRPn4a8y8f7iw==",
+        "icono": "https://i.ibb.co/G0zCDL0/descarga-1.png"
+    },
+    {
+        "name": "CANAL 26",
+        "uri": "9Mh5pCZtg63C/2Q54M/QoxRIvOkjRv0wapKCq3RnnxgbMre57jcK/emgoTu/4NcpPx3yduAH628pPN9qGq2Y+/Ei4GbaBui56umqXTbn9dVs2B3CcVTYJ/Y+A75mmT7EKg9zwmT7QPgVHvrnpa1MXWF2Pr24eMCAPpDNjrzm+l4/Gwq16Vb398jOOcF9uXRYs4Sk58fZlnAU332YDSebjcYuR3ZLLm5eOZqRP4Yz1oSzzaTqbpMv2iVVE4zkPY15WQSLKTcO3DMIKOUBYXyhsEd7lC9ZN0ncrWj1oHX7suVKF6+ytXgwr8lFR3Z4Jb0uOW0ukmTG0YB5K4L5n1TDuE4EGzBKgMeJVp4gLS454ALdVz/sf9F2Pz+BwHGBBvddBy9XAS7e7uf61rqSAuxl5f+Q9Hloi4jnsLKyPeDV3rL5Mn6abWKxoBXg8NnR13SmIEBlBOJmqX5wvjw/3viJ+gajC0h1qBEZfWLToBkPb/uAgL39OfvaDBdMphM5we+6cNHAGktZd+bwc3erbfEww3TWMRQtASL3fFqwckEmWCSCOGGuOShga/GhmCkmt2Vg2cTeM7rmS8JbjT3XagS6HS1PasfX95cq9zFPr4aWp2uLKyVlDoSuWGb5iF0iQL+RIotANXTVmPe2MsvGHGCgEw/RNIhOqRoiQB9lClJ2KSC4lQ0joZm2L3agwmLLiT4uVBNWSaXW8V00XRr/TSvbSSWS28tuTpYnVsyqVJbGzZmBvK1RlreM3yYt/vNwfAyQdu/gEl7b9GwXLJ4Cq/BWnG1s1H2CYiNgDmoqyFR70gsPhAHLoJHQfVBL1GpEokiZJ2xmRclY1k6VPHgLZjERTjVDUOvH5m8l6Mv3ef2wv7PApK4G1U8FfksXfeNS3qqhqD2ZXNjbWAE/bVZVgkJ7CJnHdEsXwMRfAN0/OeaoOT6G4iGy61KGAADF2cRnRPQWc+0Xi1D+am9KwlL5JfnLtQRsMKSHtQ2qBeaqDwwkBbwOuHGxH8cB9SXJw2HkyvOjRf7TM3CsNihfoY57bPrXYtAH9GtUAtDGJ4jkizc5wlg=",
+        "icono": "https://i.ibb.co/TM0dyCR/canal26-logo.png"
+    },
+    {
+        "name": "CANAL 12 CORDOBA",
+        "uri": "s5sEXMmseHzVuHCYB83XLXriORzPU1ZjD7Bc8cEi4OHVOTNsEW/HXWzDDCxBC6ooeXBM0LEv7kDTg3VVY5gCZqLwpg0pnxNplHSX6V/tLBxjrFZrHkctvvLfWuNvWRiM",
+        "icono": "https://i.ibb.co/60sFBfY/og-image.jpg"
+    },
+    {
+        "name": "VOLVER",
+        "uri": "eQIZwW03FaaJzqF0oYbVM/VLIDctN4BIUyoTeexG7oFTNW1aLg0Rz+W1zXNjiFiSmSbAtIuyibCSqPPVW5DgOm3TdBtrQRAi5f6hVmpZaOB+XxuJYlKBNLlLEdEfNl12",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHHrvBHNYYY7b79IsssKzMNbkqhBOVSthPBkR58MwIuj+X98LY3W3rdM+WJTNlL+xzmibTWWlxLrHW1igFmamXFwyJx3gad9QgyA8F85iKVSxCb3xgjBeCRa0w8xxdhWsAw==",
+        "icono": "https://i.ibb.co/ZNRV2BF/descarga-3.jpg"
+    },
+    {
+        "name": "CIUDAD MAGAZINE",
+        "uri": "zlZeeg/ENWzgVMeKl3ZJpfqWUg2tmgiGGI9IPeevN08VrD+aIrV0EceN51DnPYuEHzVDBfMdMpXElJxfcBsld0jcYDaA5EBneSNFMIpumRcOK7DJ/Heu29aSx+6r5BkX",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHOON+vn/AmkFs/p3ojMGvm/eX7QqLCppqHxgBkCYVAsp+2k2Nz/vJZPlWtKsbVZMZnB3XV+6dyEfwoAjcbZfAfi9php9V1hjxHeJy/gh1u6JM+EgQCQM1WRPn4a8y8f7iw==",
+        "icono": "https://i.ibb.co/1Tnfy2J/5909cf1f851d6-838x390.jpg"
     }
+   
+    ]
+  }
+
 
 ]
