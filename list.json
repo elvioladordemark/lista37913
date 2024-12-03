@@ -2013,6 +2013,11 @@
 	{
     "name": "🇦🇷CANALES DE ARGENTINA",
     "samples": [
+	    {
+        "name": "AMERICA TV",
+        "uri": "QcY7pPFsYdEPJCl80yaYj10d2hbAufv2wQY2hHyCxmMMnKx5XQXzctwyoHQY+D+tajPNzp4JPpeiaHQKC0nyKw==",
+        "icono": "https://i.ibb.co/Jx3k8Km/america-tv-logo-F3-E9-B57736-seeklogo-com.png"
+    },
              {
         "name": "BAYERS TV ARG",
         "uri": "JmIeJw+GncS2swaPyQ9qB+CSKinmarkUOFIzj8afnAqpijARXFYLT1DkKV/IThY3QTl7LAHZP8MfbeVj4f+Prg==",
