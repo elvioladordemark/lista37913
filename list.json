@@ -2067,13 +2067,21 @@
         "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5h61d/IqBBNmKepF2tWXURHMwGZB4RhqCjvSMJsAD4N4r45mXwKBSFqHmdEAwR7tSoYWFTJ4G7VFYd7mR98JY+eYYD3bmZ3mah3O2P+PfFz0=",
         "icono": "https://i.ibb.co/dWV2Rby/c5n-logo-A8-C1272-BDD-seeklogo-com.png"
     },
+	    {
+        "name": "CRONICA TV",
+        "uri": "8SQS7lloawhHz60rFK9i9L83yjIPGKwYcy61gS5lxMCKwaqg/j7no2XopTJKdEYg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5h61d/IqBBNmKepF2tWXURHMwGZB4RhqCjvSMJsAD4N4r45mXwKBSFqHmdEAwR7tSoYWFTJ4G7VFYd7mR98JY+eYYD3bmZ3mah3O2P+PfFz0=",
+        "icono": "https://i.ibb.co/h1CtBBF/R-6.png"
+    },
     {
         "name": "TN",
         "uri": "QcY7pPFsYdEPJCl80yaYj10d2hbAufv2wQY2hHyCxmOOLOvUjx2ZeiMgLBEuo9uhajPNzp4JPpeiaHQKC0nyKw==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5h61d/IqBBNmKepF2tWXURHMwGZB4RhqCjvSMJsAD4N4r45mXwKBSFqHmdEAwR7tSoYWFTJ4G7VFYd7mR98JY+eYYD3bmZ3mah3O2P+PfFz0=",
         "icono": "https://i.ibb.co/cNJd8Fk/tn.png"
-    },{
+    },
+	    {
         "name": "LN+ - LA NACION",
         "uri": "uGV/P8HpN6ank2owMczn3u9xQfPXRWPcaaI0A46EH2sW+3rvQwhbiTVmlCpctDat1wCgsNoZ16Jx9HEEQ8Vsuw==",
         "drm_scheme": "clearkey",
