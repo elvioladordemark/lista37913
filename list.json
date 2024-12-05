@@ -1422,14 +1422,13 @@
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDPY+lANW20AGG6O67jRSPhX8bCkmAu7hF/DZhVZj5Qo99wXbswXJBXQX3KiveMLgI5EY4cFi8N9SzHVGKbK3cEWjAaUTw/LsGdImLg6yMKs32pwMojo89EuLXGmM60EWJw==",
         "icono": "https://i.ibb.co/tHxcPv7/channels4-profile-1.jpg"
       },
-  {
-        "name": "HBO 1 PRUEBA",
-        "uri": "8SQS7lloawhHz60rFK9i9L83yjIPGKwYcy61gS5lxMDptCJjvWJ9Gddb2RAXNCuG",
+    {
+        "name": "HBO 1 OPC 2(PROBAR SI NO FUNCIONA LA OTRA OPCION)",
+        "uri": "2i0GplqtgWuUYo5CNQwYwAYmoO3KTfT+rAp2APBrjWPo7Rmlosq8s/QpsN8BQhNjywa12E+mcDKEJapJ/0EREg==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHKcl8lsGREYYEqNC1tzx1HPB0LOjCrwSeyHa1MgzdvWokKVuJujC7KWqpPV2JOWSBg51qA+oUBa7xWIf3twuDvv/izjc9yHeIAXrgLNQ31msZKm3R4K2y9Tjm5DHXU1I4w==",
         "icono": "https://i.ibb.co/tHxcPv7/channels4-profile-1.jpg"
-      },
-	
+    },
 	    {
         "name": "HBO 2 FLOW",
         "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3qZ8J5It4JGdt1n2+/MIKbP4mifwgylob5u1guQdYq1rJONFmboJKbrycsQOIg4Pek=",
