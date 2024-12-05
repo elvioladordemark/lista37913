@@ -1837,39 +1837,44 @@
 {
     "name": "🐢CULTURA",
     "samples": [
-	            {
-        "name": "ANIMALPLANET FLOW",
+	         {
+        "name": "ANIMAL PLANET FLOW",
         "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3qvMcebQpgV2Ego4n2rWhB4U/NKeG4LiodbLZdfkhK+KYiDBQJQyceeYvClLMVW5B9r06k9TZi5ztniAuTE+Sj7",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHFVD3XqauqF9tx9bZVaP4tQfX3ne74LyRQDQTDVcs1X9LGBa5sTulV4qqCPXK0PGu9SpTar5g2X5Xc35czI1ddKrRhO0ib+UNtAH+v2eVe0Ij5xRpINECCMEVqLT4yAs/Q==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png"
     },
     {
-        "name": "ANIMALPLANET OPCION 2",
-        "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMTZej3GxxiDGXLDuet7Z0DeAfVgnkq1OympLLmjFkMsgO2lxr/4FQiPACzUQFjEYt/zO1e43wx1s+5Zk/0KF0WF",
+        "name": "ANIMAL PLANET OPC2(PROBAR SI NO TE FUNCIONA LA OTRA)",
+        "uri": "2i0GplqtgWuUYo5CNQwYwAYmoO3KTfT+rAp2APBrjWPo7Rmlosq8s/QpsN8BQhNjxN5/4EuMVqWySiycNwFHbg==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5X8hQWEt2hC+VNm07cAhLBatBVPlesokHdV3cQAaj3W+LLuZojR60tCx7z9hCEFlQuo3szw/tAZHlDiizQTVURJleVqRLApoK0y8O4tYiyDs=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png"
     },
-	
-	            {
+    {
         "name": "HISTORY FLOW",
         "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3piml3h6tCaZVC60sm1GEp2UdAmXpDubhgwmC/9TDtJJMDSDa2JlSrGlo9m7AM2AIqTUBPX+efIfqqbUT7aYC1s",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHNW0JxsgG1cWHpnHoyZykzn8jQ6uQopYgpMtSsrV0ccMZe4A5cMXT4ujaZEbstxjXySXBqRc8zj2HlhyPW2YQm3eeErf25g/KuGyodjrPk4GRI5GWhNvXUmzICkuXtUbBQ==",
         "icono": "https://a-qiio.onrender.com/webp/logos/history.webp"
     },
-	    {
-        "name": "HISTORY OPCIÓN 2",
-        "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMStVX0fldkmdgM+8rV1Wp/L5ludII3xyDDQI86vDvvR3QICi/dt0KdcufG515ZkYjU=",
+    {
+        "name": "HISTORY OPC2(PROBAR SI NO TE FUNCIONA LA OTRA)",
+        "uri": "2i0GplqtgWuUYo5CNQwYwAYmoO3KTfT+rAp2APBrjWPo7Rmlosq8s/QpsN8BQhNjkYfsP1n933IqTQvSGBZm+Q==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5An4KrDa5LUrIoWKFKH/xe6ABR6/ncfucWjG/K2jWrt31aK5jiOCo0kOLG2YmQfZZXFwAsIAGqzzgvWgDV+KDjqWHBEDRncMAwpM3GvCKHUk=",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHNW0JxsgG1cWHpnHoyZykzn8jQ6uQopYgpMtSsrV0ccMZe4A5cMXT4ujaZEbstxjXySXBqRc8zj2HlhyPW2YQm3eeErf25g/KuGyodjrPk4GRI5GWhNvXUmzICkuXtUbBQ==",
         "icono": "https://a-qiio.onrender.com/webp/logos/history.webp"
     },
-	   
-   {
+    {
         "name": "HISTORY 2",
         "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3opnaOLoUVV5vGPqCXkgnEhEo86ObIasDn6e8dMciBUlsDSDa2JlSrGlo9m7AM2AIp6Vjy9TtwfIcpgV3v6NoOn",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHJrx/FVr2MklmaQcYsD55GWBXudm1Q4mpaA568hW8q8xYaXs/Dm+SyH85Y8nxGZhalfYHM46Trdw+4uIdPILzast9hXF81obLgBMvusI+BF9DyYdYDN899s+BJtCvR5d2w==",
+        "icono": "https://i.ibb.co/jkfB4HH/H2-logo.webp"
+    },
+    {
+        "name": "HISTORY 2 OPC2(PROBAR SI NO TE FUNCIONA LA OTRA)",
+        "uri": "c8dznZikVfQgSCCQfde+2u1yM09Zlih8lt0hzHRASmWI//sWr+g4URsoxkm6n2U2EJ+RjHg/eqrXBksTLZ5W0w==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHJrx/FVr2MklmaQcYsD55GWBXudm1Q4mpaA568hW8q8xYaXs/Dm+SyH85Y8nxGZhalfYHM46Trdw+4uIdPILzast9hXF81obLgBMvusI+BF9DyYdYDN899s+BJtCvR5d2w==",
         "icono": "https://i.ibb.co/jkfB4HH/H2-logo.webp"
@@ -1881,9 +1886,9 @@
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHJH4OluySIc9O1ThFp8IJB+VO9BYC0SGGP8kEAvfG5BGFG8g4s5YCgnCOept59xGxnX5cmQJxs3MsjPR9DXwS9xE9fLhxJBwnw5elDg9aKcoxcrcCyl27d7MosIqKnjgpA==",
         "icono": "https://i.postimg.cc/CxP7YpTD/discovery-channel.png"
     },
-	    	    {
-        "name": "DISCOVERY OPCIÓN 2",
-        "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwCdJXl1qTkXc99UCxpGdVYIA==",
+    {
+        "name": "DISCOVERY OPC 2(PROBAR SI NO FUNCIONA LA OTRA)",
+        "uri": "2i0GplqtgWuUYo5CNQwYwAYmoO3KTfT+rAp2APBrjWPo7Rmlosq8s/QpsN8BQhNjkuybFpPb/quUvzXud/hg8Q==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5jt2Xit1H6QpI2H7VCf/LIAF+qcnEpKXXwih+lol6HUMl5Gz/xwMi8I3SllNvOocpizlUEjMZBRH7lamM+yXL63fBHMwtYhDWO2jMZ7pJnv4=",
         "icono": "https://a-qiio.onrender.com/webp/logos/discovery.webp"
@@ -1896,8 +1901,22 @@
         "icono": "https://i.postimg.cc/cCKGrGXQ/ver-discovery-h-h-en-vivo.png"
     },
     {
+        "name": "DISCOVERY H&H OPC 2(PROBAR SI NO FUNCIONA LA OTRA)",
+        "uri": "c8dznZikVfQgSCCQfde+2u1yM09Zlih8lt0hzHRASmWI//sWr+g4URsoxkm6n2U2PnUJ3tiATjCX+VUUg+nsZg==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHO+GX9ddpUqDFqGyNvhmoGYejeF3yuiBEIs031yYXqolplgdCazyCRC90C7xf8uFPcpvhVk8PKgTrKGyULjxoYr7ndSvwCqiDNibe0aDlQOVWTaAn/WaRF2TcKQD00wE6Q==",
+        "icono": "https://i.postimg.cc/cCKGrGXQ/ver-discovery-h-h-en-vivo.png"
+    },
+    {
         "name": "DISCOVERY ID",
         "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3qeg/8NM/QcQ0rhoXqkXkL5u329Pr6/fW7JyMbBoVahBXJh5393myRjqWa6tJ5hU+Q=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDIv713hqwGOejFgYNLk2sRszo49gQpVw23EbnTHtQ5iKGtiUnZD0CmpXmQTGG8Mb3/vUIGScW3SAbvn7wh8swHizYSIex0tUqBW4GXgQOJSqx4tiPTUsUSlE05sh/3Ltg==",
+        "icono": "https://dl.dropbox.com/scl/fi/brd4qtgk2223gmobtj0ui/DCX.jpg?rlkey=e4qy94y6huevaihwyo0rspzn0&dl=0"
+    },
+    {
+        "name": "DISCOVERY ID OPC 2(PROBAR SI NO FUNCIONA LA OTRA)",
+        "uri": "c8dznZikVfQgSCCQfde+2u1yM09Zlih8lt0hzHRASmWI//sWr+g4URsoxkm6n2U2p5EMl1z+T/P6K6fSsEzsHg==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDIv713hqwGOejFgYNLk2sRszo49gQpVw23EbnTHtQ5iKGtiUnZD0CmpXmQTGG8Mb3/vUIGScW3SAbvn7wh8swHizYSIex0tUqBW4GXgQOJSqx4tiPTUsUSlE05sh/3Ltg==",
         "icono": "https://dl.dropbox.com/scl/fi/brd4qtgk2223gmobtj0ui/DCX.jpg?rlkey=e4qy94y6huevaihwyo0rspzn0&dl=0"
@@ -1916,9 +1935,9 @@
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHGv0ThhqoUqNXsp9MTDgwvJ+IRdZFuNIUEiCeOHfueBK6c6xTOBCUVIWyk+DMw4A2VJ4uGhSxHJ8YBxbCbGYCkRhFljMuBtyTQD1xONTo9e2TDtVBBbom5bGRvdQAQ8ayA==",
         "icono": "https://i.postimg.cc/sxtdWHNb/ver-discovery-turbo-en-vivo.jpg"
     },
-	        {
-        "name": "DISCOVERY TURBO OPCIÓN 2",
-        "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwCFgFf3MxBWfT3ZNa/QWs1NQ==",
+    {
+        "name": "DISCOVERY TURBO OPC2(PROBAR SI NO TE FUNCIONA LA OTRA)",
+        "uri": "c8dznZikVfQgSCCQfde+2u1yM09Zlih8lt0hzHRASmWI//sWr+g4URsoxkm6n2U2p5EMl1z+T/P6K6fSsEzsHg==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5gdEU//Wsc1wDa/VDrqPlLamA7T3zeoKieJfrXeoeypvT2Z6WRQMM51jBccMVihfMLq0phEjkq4Kz4MLqSUywk0Hm+vIZ4S5tVJw5rB/2KC0=",
         "icono": "https://a-qiio.onrender.com/webp/logos/turbo.webp"
@@ -1931,8 +1950,22 @@
         "icono": "https://i.postimg.cc/cHFdvmZN/ver-discovery-theater-en-vivo.jpg"
     },
     {
+        "name": "DISCOVERY THEATER OPC2(PROBAR SI NO TE FUNCIONA LA OTRA)",
+        "uri": "c8dznZikVfQgSCCQfde+2u1yM09Zlih8lt0hzHRASmWI//sWr+g4URsoxkm6n2U2kZx7UtJAQiSCm41aJNbcJg==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHA31GzYa8GYSf8HA1PifWJXXpU4bX8g2KLdV8O8REI1KKurlkjVM5mIFmiXkFP+rqg8RBYEM6duGJBnFIjAjjHD19Cc6MSRck9fY1s3r1WRjqfV0cb/OF2ZE+LdA8Pxt8Q==",
+        "icono": "https://i.postimg.cc/cHFdvmZN/ver-discovery-theater-en-vivo.jpg"
+    },
+    {
         "name": "DISCOVERY TLC",
         "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3pECsKtZVa+hCbhphSOwg6SKMoy6AAZ94jqTWgSKYlJUA2w9ZML+e932zBIdLA6QGM=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHF2J0JkkN2LXFEor7Zi+C7ehWd9eI/IViDtDi/HN5HlSx9SGj8UZu4vms68VvGczxGRFaOiZWaxjXb8Be+bYRm6gSfkJRhTHZEggV5pJ5mhsocClfYyiED13Oyky7MsatQ==",
+        "icono": "https://i.postimg.cc/cHFdvmZN/ver-discovery-theater-en-vivo.jpg"
+    },
+    {
+        "name": "DISCOVERY TLC OPC2(PROBAR SI NO TE FUNCIONA LA OTRA)",
+        "uri": "c8dznZikVfQgSCCQfde+2u1yM09Zlih8lt0hzHRASmWI//sWr+g4URsoxkm6n2U2ap2zBONTJN+GzS7zQCzw6w==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHF2J0JkkN2LXFEor7Zi+C7ehWd9eI/IViDtDi/HN5HlSx9SGj8UZu4vms68VvGczxGRFaOiZWaxjXb8Be+bYRm6gSfkJRhTHZEggV5pJ5mhsocClfYyiED13Oyky7MsatQ==",
         "icono": "https://i.postimg.cc/cHFdvmZN/ver-discovery-theater-en-vivo.jpg"
@@ -1944,26 +1977,12 @@
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHAUDtFOLYfFcz6LKolDu4noQqEMnnr9HP4VBSyfP17VbgcE4EzUen/fgYmV30on1gkD2c3iqtwnjlLo0ePJK/ZU0rBce/bxwPnTFgMBpD63jk6whTy2qvzaZ+m6/MjMWiw==",
         "icono": "https://i.postimg.cc/B6SqZzrg/ver-discovery-world-en-vivo.jpg"
     },
-      {
-        "name": "DISCOVERY WORLD 2",
-        "uri": "QcY7pPFsYdEPJCl80yaYj3H8JTfqtpVqfH5lfiipQkEMQmpkbRU3K06Yp9A/lDAXA1E14bVX4ZmohLpJlaAHMQ==",
+    {
+        "name": "DISCOVERY WORLD OPC 2(PROBAR SI NO FUNCIONA LA OTRA)",
+        "uri": "c8dznZikVfQgSCCQfde+2u1yM09Zlih8lt0hzHRASmWI//sWr+g4URsoxkm6n2U2J5DJ4cMcUBjWres/JDZRDA==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5pwyu8Np713tulF1ZBRm9fgXndnhUQiOctrC7zP0oVV96t+S7slzJte4CVKEDqJNHb0PP0MH67w8XbjEQCo3VKHYSyzJt7FNkUV0QOeoZUU4=",
         "icono": "https://a-qiio.onrender.com/webp/logos/disworld.webp"
-    },
-	     {
-        "name": "ANIMALPLANET OPCIÓN 2",
-        "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwCFyWKim+sRSFN/tOp6r9rVQ==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5X8hQWEt2hC+VNm07cAhLBatBVPlesokHdV3cQAaj3W+LLuZojR60tCx7z9hCEFlQuo3szw/tAZHlDiizQTVURJleVqRLApoK0y8O4tYiyDs=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png"
-    },
-	    {
-        "name": "UNIVERSO",
-        "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwC6zcI7Rig+L/542IYDj4MzQ==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5X8hQWEt2hC+VNm07cAhLBatBVPlesokHdV3cQAaj3W+LLuZojR60tCx7z9hCEFlQuo3szw/tAZHlDiizQTVURJleVqRLApoK0y8O4tYiyDs=",
-        "icono": "https://i.ibb.co/1znm8Y0/OIP-13.jpg"
     }
 	           ]
   },
