@@ -3551,9 +3551,9 @@
     "samples": [
    
 	           {
-              "name": "EL CORREO",
-        "uri": "c8dznZikVfQgSCCQfde+2usLvXL3FqkPnGD0fx+ctXfWI9Weeu7xfGtRh5pNOTHcs1dOeOh6HQOPmQEiztupElLNsWnzYplBU/5zpkY0qC0=",
-        "icono": "https://m.media-amazon.com/images/M/MV5BMzY5NjdlOGYtNTY4Yi00MTdjLTg2ZTYtMGQ5OGI3MTQ5OTkxXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg"   
+              "name": "GTMAX",
+        "uri": "kKcYRM62Y1wQnBxCXBNfK+uKgmjgkpXDm576e6iGONfESvtOCB3MqSFkuGs7y7Gy2V0d3LbyYJuHlkcnflhGIWwFoPBqgdL05KCkx9ynwFw=",
+        "icono": "https://i.ibb.co/4Y8Y92T/1733179013-The-Yamaha-TMax-goes-to-the-big-screen-in-GTMax-1024x683.jpg"   
                        },
 	           {
               "name": "EL SINDICATO",
@@ -3592,85 +3592,7 @@
                                          }
 	    
     ]
-    },
-	{
-    "name": "🇦🇷CANALES DE ARGENTINA",
-    "samples": [
-                     {
-        "name": "GRAN HERMANO CAM2 PRUEBA",
-        "uri": "vV1LqGmqrpz3by8ctGzs9AQaa0PVfe6QEfRQ5LIOiLqddo+7cvsD1hs0KaTHJom0dr37cKjroqAhhiyMsYsF0Zlg/EqKLXcwdP6wiDPH8Zw=",
-        "icono": "https://i.postimg.cc/HkY2dV4P/descarga-2.jpg"
-    },    
-	    {
-        "name": "BAYERS TV ARG",
-        "uri": "JmIeJw+GncS2swaPyQ9qB+CSKinmarkUOFIzj8afnAqpijARXFYLT1DkKV/IThY3QTl7LAHZP8MfbeVj4f+Prg==",
-        "icono": "https://i.postimg.cc/HkY2dV4P/descarga-2.jpg"
-    },
-    {
-        "name": "NET TV CINE",
-        "uri": "XoegEu5WMHaJYVyFmtIkAXFuO8o7jbZgsXmDb7WMFLQ0DurFUbEUAyvBLW7hTXcvkNzOl9U2KIx5areh60+t0meLexigdvPAQsApFjXBvO0=",
-        "icono": "https://i.postimg.cc/WzVbFDnQ/unnamed.png"
-    },
-    {
-        "name": "FIVE TV",
-        "uri": "qGI5dv1lsVFT3hYSh6hDnJ6ZIlLOGUFuAiAG+pOTHmYsEnmOoSdWNHBoGrt2DaYW0TqrbNDOkuXu6st4U6oBJQ==",
-        "icono": "https://i.ibb.co/wQh2NL3/fivetv-fondo.png"
-    },
-    {
-        "name": "CANAL LUZ",
-        "uri": "psOtAuC6cSWds0dbJrMAUc2FlR4aDA8eqPCKRlCskiT9lpYMGDZOM4WjdD08LXYuTu9f/wCE3eyFQv85UDxnrjo6lPJsJQk3LPOFUcYwV48vTyQ2HdwI67jlmS6xWQJWfEP08EYdlfrofObJJyJKNfsuYxlLocOoZdOl2OzRs54=",
-        "icono": "https://i.ibb.co/jvJwYdR/eltrestv.png"
-    },
-    {
-        "name": "TELEMAX",
-        "uri": "Vm5Gp0L11M5+mEN4+8Q/3AU34o9HnOuxmckuBIVnSxErJ1dbMOZ3aSgHhZDZT9CauEjqIooHDs4EElQ6IyoC8MvpQdpRnvwVCO7QLapCsxc=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHH0jr/BbJrSlDUdf8DBO9xDM/eSXBt6wNg3JggS3Ztgk1zb30UnQJrZolpklnMT4t6CAynl+A2Zcuip43f2Jh5aRQgG+w/PGIPhvsA5NNkDo+nq8cqeSwiucbg2A6wlmNQ==",
-        "icono": "https://i.ibb.co/dGC9pwN/4e30d1851fdedbc3cc9d3b438ee48c3b.jpg"
-    },
-    {
-        "name": "CANAL 9 HD",
-        "uri": "8SQS7lloawhHz60rFK9i9L83yjIPGKwYcy61gS5lxMBjn0JMhaH5DI8Vs/VLVQIA",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5uNQS6HsYYxI/KFNJduGOitcYJhENPoFxelO2wBoLxSfwUI6PsUckG1+izkQ8CM85/92Tpz/IigTLVAIUfBG0ZmMX4R1zVp/1JGJuWpn59lc=",
-        "icono": "https://i.ibb.co/0VJR2J8/el-nueve.png"
-    },
-    {
-        "name": "TELEFE",
-        "uri": "4R+Pt+p1vnO9Ebni4YBk7KPxWo00fZlkficdtxhpTQXtlDRl7L6k1n87LJ5bdbWz",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5yZEjzmjag4nPn2dTcDk/NLUlpbtCDsWW2B1TUkz9FgHVd8XUy15SoSTxvjqLf9WRb46FzMRfkszIvnGOWZPt9KCjawTVWyaQsCj1dF3ueqw=",
-        "icono": "https://i.ibb.co/gj3D2b4/Telefe.png"
-    },
-	    {
-        "name": "EL TRECE",
-        "uri": "a7P8IBf0wSXd6Yq2E9VWd/t5TFrLr9ESN588HBfkKp3oGaxyLTDYuWfVRUy9QLz6k8n7GscMXQuXMVnYl+2kbg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5yZEjzmjag4nPn2dTcDk/NLUlpbtCDsWW2B1TUkz9FgHVd8XUy15SoSTxvjqLf9WRb46FzMRfkszIvnGOWZPt9KCjawTVWyaQsCj1dF3ueqw=",
-        "icono": "https://i.ibb.co/fnP1xZM/el-trece-1.png"
-    },
 
-    {
-        "name": "LN+ - LA NACION",
-        "uri": "uGV/P8HpN6ank2owMczn3u9xQfPXRWPcaaI0A46EH2sW+3rvQwhbiTVmlCpctDat1wCgsNoZ16Jx9HEEQ8Vsuw==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5h61d/IqBBNmKepF2tWXURHMwGZB4RhqCjvSMJsAD4N4r45mXwKBSFqHmdEAwR7tSoYWFTJ4G7VFYd7mR98JY+eYYD3bmZ3mah3O2P+PfFz0=",
-        "icono": "https://i.ibb.co/zG4YLk0/LN-1.png"
-    },
-    {
-        "name": "CRONICA TV",
-        "uri": "4QcY7pPFsYdEPJCl80yaYj10d2hbAufv2wQY2hHyCxmMMnKx5XQXzctwyoHQY+D+tajPNzp4JPpeiaHQKC0nyKw==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5S0ro5GCTMQ6yKTe0VUSPLlpHLRpXa3sdl8cRr40dXX0qRwAcIH1VA0c/U8bPEYUsCv5YhrCDQZQUoteokRtF7xT9y0XhPnl2fTEkhF0Jiqg=",
-        "icono": "https://i.ibb.co/0ydVnDP/channels4-profile.jpg"
-    },
-    {
-        "name": "A24 HD",
-        "uri": "uGV/P8HpN6ank2owMczn3u9xQfPXRWPcaaI0A46EH2uuqVjJbUFO50wn29XfNqQ2+yd7zQOOX9ZzZPqXNXygcw==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5S8A8dDu87mx80FJoaLcdDzu6KR+PfgufusaEn138xkaadNxnxESHo/UmmOvgc1zo57J+JkeIxFaMWd9n9Ak+0yohEtCKwkrrBPfMvBVwALw=",
-        "icono": "https://i.ibb.co/gwqB79X/a24-1.png"
-    },
 	   
 
 
