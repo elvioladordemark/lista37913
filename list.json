@@ -3046,22 +3046,7 @@
 {
     "name": "🧑🏻‍🎄 ESPECIAL NAVIDAD",
     "samples": [
-     {
-              "name": "LA HERMANA DE NIEVE",
-        "uri": "4tBMz5dFwrUeSGaPAmu5IRczX9sPNn4K/FvT8wUVgl1/iKbdtbRCwhBWoBoiXi4ho3ZzIsNsZpe0Rce3ADxLzCEMdr+5fOiQVNUQAvAxRcvHul8hARx4lrEelpmuM4RRJ+YEqux3Bkv7SmEo9P/VlKvj/6qqjPtoI93Y6rFDGdw=",
-        "icono": "https://i.postimg.cc/3rCxbRX8/IMG-20241208-WA0075.jpg"   
-            },
-	    {
-              "name": "HASTA LA MADRE DE LA NAVIDAD",
-        "uri": "4tBMz5dFwrUeSGaPAmu5IRczX9sPNn4K/FvT8wUVgl1/iKbdtbRCwhBWoBoiXi4h6oGYCHMWl5EonjfpAaSykiEMdr+5fOiQVNUQAvAxRcvHul8hARx4lrEelpmuM4RRJ+YEqux3Bkv7SmEo9P/VlKvj/6qqjPtoI93Y6rFDGdw=",
-        "icono": "https://i.postimg.cc/3xkfWk9Y/IMG-20241208-WA0064.jpg"   
-            },
-	    {
-              "name": "PERRO DE NAVIDAD",
-        "uri": "3bVP4yvHxScCmqjeAFZ/9/gVRrVJzUxgPsZnOfGLel9qV8seUE1NeyNMzlnrMrPRGcKhXGKRWE6facOI3YiM+guGLdAtW3ldBWkRDHAF41ytMzyGZ9GHOtobe4xB/hrW4M0XUUAeI5p8PsMpJOgVy5Tpfqw2xf+FAnEF8bfYDD0fVMiWB4LLCfk59HyDKCFIWFUN4pyjZv7spuR60XMelpalKa5e5w3hAOWD/QR7T2yffRV8KcBFSbk+8m8OZ1f/wie/48VswNnsImRncjG0U69eSJ/1yh07s9M2/mpjloCFBtAkyHif0xSkO2OAKaPXlIVrQ+yq14XHzKrzq0OJYX6drBEmVlqoKXkmkmqQMlzMXo1+W0SpPsnLLpGaWHRJwC7CUGiaEmqrQWgh8cjpeEXhjX4DVx/m/CugqtpjmKzs5TkLmn3DeBNCZvJ35mW9",
-        "icono": "https://i.postimg.cc/wjwLm2fm/descarga-13.jpg"   
-            },
-	    {
+        {
               "name": "STAR + NAVIDAD",
         "uri": "NlOQHpltfni4M8icF8QSVffMsfA5DWM8X2OumTuB4K41EvKEfQU3kayWqZYJU/KORAR7DItvV49Uwmr5fhRhOBOUZnaa9do3ajxmN3QBnyQ=",
         "icono": "https://i.ibb.co/RT9VL4v/star-channel-logo-21915-A5369-seeklogo-com.png"   
@@ -3081,6 +3066,22 @@
         "uri": "NlOQHpltfni4M8icF8QSVffMsfA5DWM8X2OumTuB4K41EvKEfQU3kayWqZYJU/KOd7WgVui7Eo4lA5IOOQD9ZOI19Jjm59wU48PsrnKaLmg=",
         "icono": "https://i.ibb.co/RgdVHd1/IMG-20241207-WA0028.jpg"   
             },
+	    {
+              "name": "LA HERMANA DE NIEVE",
+        "uri": "4tBMz5dFwrUeSGaPAmu5IRczX9sPNn4K/FvT8wUVgl1/iKbdtbRCwhBWoBoiXi4ho3ZzIsNsZpe0Rce3ADxLzCEMdr+5fOiQVNUQAvAxRcvHul8hARx4lrEelpmuM4RRJ+YEqux3Bkv7SmEo9P/VlKvj/6qqjPtoI93Y6rFDGdw=",
+        "icono": "https://i.postimg.cc/3rCxbRX8/IMG-20241208-WA0075.jpg"   
+            },
+	    {
+              "name": "HASTA LA MADRE DE LA NAVIDAD",
+        "uri": "4tBMz5dFwrUeSGaPAmu5IRczX9sPNn4K/FvT8wUVgl1/iKbdtbRCwhBWoBoiXi4h6oGYCHMWl5EonjfpAaSykiEMdr+5fOiQVNUQAvAxRcvHul8hARx4lrEelpmuM4RRJ+YEqux3Bkv7SmEo9P/VlKvj/6qqjPtoI93Y6rFDGdw=",
+        "icono": "https://i.postimg.cc/3xkfWk9Y/IMG-20241208-WA0064.jpg"   
+            },
+	    {
+              "name": "PERRO DE NAVIDAD",
+        "uri": "3bVP4yvHxScCmqjeAFZ/9/gVRrVJzUxgPsZnOfGLel9qV8seUE1NeyNMzlnrMrPRGcKhXGKRWE6facOI3YiM+guGLdAtW3ldBWkRDHAF41ytMzyGZ9GHOtobe4xB/hrW4M0XUUAeI5p8PsMpJOgVy5Tpfqw2xf+FAnEF8bfYDD0fVMiWB4LLCfk59HyDKCFIWFUN4pyjZv7spuR60XMelpalKa5e5w3hAOWD/QR7T2yffRV8KcBFSbk+8m8OZ1f/wie/48VswNnsImRncjG0U69eSJ/1yh07s9M2/mpjloCFBtAkyHif0xSkO2OAKaPXlIVrQ+yq14XHzKrzq0OJYX6drBEmVlqoKXkmkmqQMlzMXo1+W0SpPsnLLpGaWHRJwC7CUGiaEmqrQWgh8cjpeEXhjX4DVx/m/CugqtpjmKzs5TkLmn3DeBNCZvJ35mW9",
+        "icono": "https://i.postimg.cc/wjwLm2fm/descarga-13.jpg"   
+            },
+	
 	    {
               "name": "NAVIDAD CHANNEL",
         "uri": "NlOQHpltfni4M8icF8QSVffMsfA5DWM8X2OumTuB4K41EvKEfQU3kayWqZYJU/KOnzNBE8aZSXLo5qzOpGyq5vhrR0mrvFzztSAPrKYeX0E=",
