@@ -3119,7 +3119,12 @@
 {
     "name": "🧑🏻‍🎄 ESPECIAL NAVIDAD",
     "samples": [
-       {
+     {
+              "name": "LA HERMANA DE NIEVE",
+        "uri": "4tBMz5dFwrUeSGaPAmu5IRczX9sPNn4K/FvT8wUVgl1/iKbdtbRCwhBWoBoiXi4ho3ZzIsNsZpe0Rce3ADxLzCEMdr+5fOiQVNUQAvAxRcvHul8hARx4lrEelpmuM4RRJ+YEqux3Bkv7SmEo9P/VlKvj/6qqjPtoI93Y6rFDGdw=",
+        "icono": "https://i.postimg.cc/3rCxbRX8/IMG-20241208-WA0075.jpg"   
+            },
+	    {
               "name": "HASTA LA MADRE DE LA NAVIDAD",
         "uri": "4tBMz5dFwrUeSGaPAmu5IRczX9sPNn4K/FvT8wUVgl1/iKbdtbRCwhBWoBoiXi4h6oGYCHMWl5EonjfpAaSykiEMdr+5fOiQVNUQAvAxRcvHul8hARx4lrEelpmuM4RRJ+YEqux3Bkv7SmEo9P/VlKvj/6qqjPtoI93Y6rFDGdw=",
         "icono": "https://i.postimg.cc/3xkfWk9Y/IMG-20241208-WA0064.jpg"   
