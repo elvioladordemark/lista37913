@@ -1079,6 +1079,31 @@
     }
     ]
     },
+	 {
+    "name": "EXCLUSIVO GRAN HERMANO 2025 🇦🇷",
+    "samples": [
+	    {
+        "name": "GRAN HERMANO EN VIVO 24 HS",
+        "uri": "QcY7pPFsYdEPJCl80yaYj3H8JTfqtpVqfH5lfiipQkFqMrwx4qJv67TXEpdwXt/K4TDuOGpsR2FHdPP3rF+37g==",
+        "icono": "https://i.ibb.co/Rc6mwSb/165046651702354048.png"
+    },
+	    {
+        "name": "GRAN HERMANO CAM. 1",
+        "uri": "NlOQHpltfni4M8icF8QSVffMsfA5DWM8X2OumTuB4K41EvKEfQU3kayWqZYJU/KOLKgvMOCdYvtrNwo0swt3u9ZidOcAUl75oVL659qv3vA=",
+        "icono": "https://i.ibb.co/Rc6mwSb/165046651702354048.png"
+	    },
+	    {
+        "name": "GRAN HERMANO CAM. 2",
+        "uri": "NlOQHpltfni4M8icF8QSVffMsfA5DWM8X2OumTuB4K41EvKEfQU3kayWqZYJU/KOEjp4uxpVxi5RtLEPB9JlbAVprc0Qq6c7TUq8uUg/QnA=",
+        "icono": "https://i.ibb.co/Rc6mwSb/165046651702354048.png"
+	    },
+	    {
+        "name": "GRAN HERMANO CAM. 3",
+        "uri": "NlOQHpltfni4M8icF8QSVffMsfA5DWM8X2OumTuB4K41EvKEfQU3kayWqZYJU/KOT7sSQUoEXQM5b5roym65W7uOWtsvxnjWSJlYL2RCtAg=",
+        "icono": "https://i.ibb.co/Rc6mwSb/165046651702354048.png"
+	    }
+    ]
+	},
     {
     "name": "🇨🇱CANALES DE CHILE",
     "samples": [
@@ -2941,31 +2966,6 @@
     }
 	           ]
   },
-	{
-    "name": "EXCLUSIVO GRAN HERMANO 2025 🇦🇷",
-    "samples": [
-	    {
-        "name": "GRAN HERMANO EN VIVO 24 HS",
-        "uri": "QcY7pPFsYdEPJCl80yaYj3H8JTfqtpVqfH5lfiipQkFqMrwx4qJv67TXEpdwXt/K4TDuOGpsR2FHdPP3rF+37g==",
-        "icono": "https://i.ibb.co/Rc6mwSb/165046651702354048.png"
-    },
-	    {
-        "name": "GRAN HERMANO CAM. 1",
-        "uri": "NlOQHpltfni4M8icF8QSVffMsfA5DWM8X2OumTuB4K41EvKEfQU3kayWqZYJU/KOLKgvMOCdYvtrNwo0swt3u9ZidOcAUl75oVL659qv3vA=",
-        "icono": "https://i.ibb.co/Rc6mwSb/165046651702354048.png"
-	    },
-	    {
-        "name": "GRAN HERMANO CAM. 2",
-        "uri": "NlOQHpltfni4M8icF8QSVffMsfA5DWM8X2OumTuB4K41EvKEfQU3kayWqZYJU/KOEjp4uxpVxi5RtLEPB9JlbAVprc0Qq6c7TUq8uUg/QnA=",
-        "icono": "https://i.ibb.co/Rc6mwSb/165046651702354048.png"
-	    },
-	    {
-        "name": "GRAN HERMANO CAM. 3",
-        "uri": "NlOQHpltfni4M8icF8QSVffMsfA5DWM8X2OumTuB4K41EvKEfQU3kayWqZYJU/KOT7sSQUoEXQM5b5roym65W7uOWtsvxnjWSJlYL2RCtAg=",
-        "icono": "https://i.ibb.co/Rc6mwSb/165046651702354048.png"
-	    }
-    ]
-	},
 {
     "name": "🎥CANALES 24/7 VIP",
     "samples": [
