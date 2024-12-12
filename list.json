@@ -942,6 +942,565 @@
         "icono": "https://i.ibb.co/G3bDy9N/images-1.jpg"      
       }    
 	    ]
+ },
+	 {
+    "name": "🇦🇷CANALES DE ARGENTINA",
+    "samples": [
+	    {
+        "name": "AMERICA TV",
+        "uri": "QcY7pPFsYdEPJCl80yaYj10d2hbAufv2wQY2hHyCxmMMnKx5XQXzctwyoHQY+D+tajPNzp4JPpeiaHQKC0nyKw==",
+        "icono": "https://i.ibb.co/Jx3k8Km/america-tv-logo-F3-E9-B57736-seeklogo-com.png"
+    },
+	    {
+        "name": "LA TELEVISIÓN PÚBLICA",
+        "uri": "QcY7pPFsYdEPJCl80yaYj10d2hbAufv2wQY2hHyCxmPGjJHCdm/i29FSlyclO7gmajPNzp4JPpeiaHQKC0nyKw==",
+        "icono": "https://i.ibb.co/vj3RryF/tvp.png"
+    },
+	    {
+        "name": "CANAL 9 HD",
+        "uri": "8SQS7lloawhHz60rFK9i9L83yjIPGKwYcy61gS5lxMBjn0JMhaH5DI8Vs/VLVQIA",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5uNQS6HsYYxI/KFNJduGOitcYJhENPoFxelO2wBoLxSfwUI6PsUckG1+izkQ8CM85/92Tpz/IigTLVAIUfBG0ZmMX4R1zVp/1JGJuWpn59lc=",
+        "icono": "https://i.ibb.co/0VJR2J8/el-nueve.png"
+    },
+	     {
+        "name": "TELEFE",
+        "uri": "4R+Pt+p1vnO9Ebni4YBk7KPxWo00fZlkficdtxhpTQXtlDRl7L6k1n87LJ5bdbWz",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5yZEjzmjag4nPn2dTcDk/NLUlpbtCDsWW2B1TUkz9FgHVd8XUy15SoSTxvjqLf9WRb46FzMRfkszIvnGOWZPt9KCjawTVWyaQsCj1dF3ueqw=",
+        "icono": "https://i.ibb.co/gj3D2b4/Telefe.png"
+    },
+	     {
+        "name": "EL TRECE",
+        "uri": "a7P8IBf0wSXd6Yq2E9VWd/t5TFrLr9ESN588HBfkKp3oGaxyLTDYuWfVRUy9QLz6k8n7GscMXQuXMVnYl+2kbg==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5yZEjzmjag4nPn2dTcDk/NLUlpbtCDsWW2B1TUkz9FgHVd8XUy15SoSTxvjqLf9WRb46FzMRfkszIvnGOWZPt9KCjawTVWyaQsCj1dF3ueqw=",
+        "icono": "https://i.ibb.co/fnP1xZM/el-trece-1.png"
+    },
+	    {
+        "name": "C5N",
+        "uri": "QcY7pPFsYdEPJCl80yaYj10d2hbAufv2wQY2hHyCxmP5PundPliaCJiiGq0Li8fLajPNzp4JPpeiaHQKC0nyKw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5h61d/IqBBNmKepF2tWXURHMwGZB4RhqCjvSMJsAD4N4r45mXwKBSFqHmdEAwR7tSoYWFTJ4G7VFYd7mR98JY+eYYD3bmZ3mah3O2P+PfFz0=",
+        "icono": "https://i.ibb.co/dWV2Rby/c5n-logo-A8-C1272-BDD-seeklogo-com.png"
+    },
+	    {
+        "name": "CRONICA TV",
+        "uri": "8SQS7lloawhHz60rFK9i9L83yjIPGKwYcy61gS5lxMCKwaqg/j7no2XopTJKdEYg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5h61d/IqBBNmKepF2tWXURHMwGZB4RhqCjvSMJsAD4N4r45mXwKBSFqHmdEAwR7tSoYWFTJ4G7VFYd7mR98JY+eYYD3bmZ3mah3O2P+PfFz0=",
+        "icono": "https://i.ibb.co/h1CtBBF/R-6.png"
+    },
+    {
+        "name": "TN",
+        "uri": "QcY7pPFsYdEPJCl80yaYj10d2hbAufv2wQY2hHyCxmOOLOvUjx2ZeiMgLBEuo9uhajPNzp4JPpeiaHQKC0nyKw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5h61d/IqBBNmKepF2tWXURHMwGZB4RhqCjvSMJsAD4N4r45mXwKBSFqHmdEAwR7tSoYWFTJ4G7VFYd7mR98JY+eYYD3bmZ3mah3O2P+PfFz0=",
+        "icono": "https://i.ibb.co/cNJd8Fk/tn.png"
+    },
+	    {
+        "name": "LN+ - LA NACION",
+        "uri": "uGV/P8HpN6ank2owMczn3u9xQfPXRWPcaaI0A46EH2sW+3rvQwhbiTVmlCpctDat1wCgsNoZ16Jx9HEEQ8Vsuw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5h61d/IqBBNmKepF2tWXURHMwGZB4RhqCjvSMJsAD4N4r45mXwKBSFqHmdEAwR7tSoYWFTJ4G7VFYd7mR98JY+eYYD3bmZ3mah3O2P+PfFz0=",
+        "icono": "https://i.ibb.co/zG4YLk0/LN-1.png"
+    },
+    {
+        "name": "A24 HD",
+        "uri": "uGV/P8HpN6ank2owMczn3u9xQfPXRWPcaaI0A46EH2uuqVjJbUFO50wn29XfNqQ2+yd7zQOOX9ZzZPqXNXygcw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5S8A8dDu87mx80FJoaLcdDzu6KR+PfgufusaEn138xkaadNxnxESHo/UmmOvgc1zo57J+JkeIxFaMWd9n9Ak+0yohEtCKwkrrBPfMvBVwALw=",
+        "icono": "https://i.ibb.co/gwqB79X/a24-1.png"
+    },
+             {
+        "name": "BAYRES TV ARG",
+        "uri": "JmIeJw+GncS2swaPyQ9qB+CSKinmarkUOFIzj8afnAqpijARXFYLT1DkKV/IThY3QTl7LAHZP8MfbeVj4f+Prg==",
+        "icono": "https://i.postimg.cc/HkY2dV4P/descarga-2.jpg"
+    },
+    {
+        "name": "NET TV CINE",
+        "uri": "XoegEu5WMHaJYVyFmtIkAXFuO8o7jbZgsXmDb7WMFLQ0DurFUbEUAyvBLW7hTXcvkNzOl9U2KIx5areh60+t0meLexigdvPAQsApFjXBvO0=",
+        "icono": "https://i.postimg.cc/WzVbFDnQ/unnamed.png"
+    },
+    {
+        "name": "FIVE TV",
+        "uri": "qGI5dv1lsVFT3hYSh6hDnJ6ZIlLOGUFuAiAG+pOTHmYsEnmOoSdWNHBoGrt2DaYW0TqrbNDOkuXu6st4U6oBJQ==",
+        "icono": "https://i.ibb.co/wQh2NL3/fivetv-fondo.png"
+    },
+    {
+        "name": "CANAL LUZ",
+        "uri": "psOtAuC6cSWds0dbJrMAUc2FlR4aDA8eqPCKRlCskiT9lpYMGDZOM4WjdD08LXYuTu9f/wCE3eyFQv85UDxnrjo6lPJsJQk3LPOFUcYwV48vTyQ2HdwI67jlmS6xWQJWfEP08EYdlfrofObJJyJKNfsuYxlLocOoZdOl2OzRs54=",
+        "icono": "https://i.ibb.co/jvJwYdR/eltrestv.png"
+    },
+    {
+        "name": "TELEMAX",
+        "uri": "Vm5Gp0L11M5+mEN4+8Q/3AU34o9HnOuxmckuBIVnSxErJ1dbMOZ3aSgHhZDZT9CauEjqIooHDs4EElQ6IyoC8MvpQdpRnvwVCO7QLapCsxc=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHH0jr/BbJrSlDUdf8DBO9xDM/eSXBt6wNg3JggS3Ztgk1zb30UnQJrZolpklnMT4t6CAynl+A2Zcuip43f2Jh5aRQgG+w/PGIPhvsA5NNkDo+nq8cqeSwiucbg2A6wlmNQ==",
+        "icono": "https://i.ibb.co/dGC9pwN/4e30d1851fdedbc3cc9d3b438ee48c3b.jpg"
+    },
+    {
+        "name": "BRAVO TV",
+        "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMQS01QhuSFnU6X9POR3JnXPqsmD6r3hQaffHky7aW1dbxLMN9I8dwvmjoeyRJFS2wY=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5cdua5Z1C+kWseecBtjo3cnRKOTIvzCY6YyLjgD605TNDfECVUO3GH3EwKIHtz111guv6x2+EYcGHIMRU1lCCvfIA9Q0D4/NpHIHHxs1XQB0=",
+        "icono": "https://i.ibb.co/LJkXmnV/bravo-tv.png"
+    },
+    {
+        "name": "ARGENTINISIMA SATELITAL",
+        "uri": "zlZeeg/ENWzgVMeKl3ZJpdKuacLYNY/54d6LTRtbc3RhJBNFG1dSJgMnAEu7Zdbs615H3CfJllozZW7lxNVNc4y0vNxCbckGTflZQtZzRns4O/UhD7ye/0ZRZ12QwL0LY6xWax5HLb7y31rjb1kYjA==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHCOumanVJO1ov0NCYl8PpXv3ZHCmKIJwnPj0mG4GCXZeOYD8BT3PXXAvoRHmpg1DmwNi4Lg712+PWnUofCO76ZAJayTiygDcjkVt7gZetpIzM+EgQCQM1WRPn4a8y8f7iw==",
+        "icono": "https://i.ibb.co/G0zCDL0/descarga-1.png"
+    },
+    {
+        "name": "CANAL 26",
+        "uri": "8SQS7lloawhHz60rFK9i9L83yjIPGKwYcy61gS5lxMDx536UvBOTl+eTevMaz0n3",
+        "icono": "https://i.ibb.co/TM0dyCR/canal26-logo.png"
+    },
+    {
+        "name": "CANAL 12 CORDOBA",
+        "uri": "s5sEXMmseHzVuHCYB83XLXriORzPU1ZjD7Bc8cEi4OHVOTNsEW/HXWzDDCxBC6ooeXBM0LEv7kDTg3VVY5gCZqLwpg0pnxNplHSX6V/tLBxjrFZrHkctvvLfWuNvWRiM",
+        "icono": "https://i.ibb.co/60sFBfY/og-image.jpg"
+    },
+    {
+        "name": "VOLVER",
+        "uri": "eQIZwW03FaaJzqF0oYbVM/VLIDctN4BIUyoTeexG7oFTNW1aLg0Rz+W1zXNjiFiSmSbAtIuyibCSqPPVW5DgOm3TdBtrQRAi5f6hVmpZaOB+XxuJYlKBNLlLEdEfNl12",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHHrvBHNYYY7b79IsssKzMNbkqhBOVSthPBkR58MwIuj+X98LY3W3rdM+WJTNlL+xzmibTWWlxLrHW1igFmamXFwyJx3gad9QgyA8F85iKVSxCb3xgjBeCRa0w8xxdhWsAw==",
+        "icono": "https://i.ibb.co/ZNRV2BF/descarga-3.jpg"
+    },
+    {
+        "name": "CIUDAD MAGAZINE",
+        "uri": "zlZeeg/ENWzgVMeKl3ZJpfqWUg2tmgiGGI9IPeevN08VrD+aIrV0EceN51DnPYuEHzVDBfMdMpXElJxfcBsld0jcYDaA5EBneSNFMIpumRcOK7DJ/Heu29aSx+6r5BkX",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHOON+vn/AmkFs/p3ojMGvm/eX7QqLCppqHxgBkCYVAsp+2k2Nz/vJZPlWtKsbVZMZnB3XV+6dyEfwoAjcbZfAfi9php9V1hjxHeJy/gh1u6JM+EgQCQM1WRPn4a8y8f7iw==",
+        "icono": "https://i.ibb.co/1Tnfy2J/5909cf1f851d6-838x390.jpg"
+    }
+    ]
+    },
+    {
+    "name": "🇨🇱CANALES DE CHILE",
+    "samples": [
+       {
+        "name": "CHILEVISION",
+        "uri": "I3nb/FutNFW/D2m3FQ9rvVY9/48f19VOiUf3PJl5kcNdmj7jfGEhK2d6vuFfPmab",
+        "icono": "https://i.postimg.cc/76Z3k09n/CHV.png"
+      },
+	    {
+        "name": "MEGA NOTICIAS",
+        "uri": "9Mh5pCZtg63C/2Q54M/QoxRIvOkjRv0wapKCq3RnnxgbMre57jcK/emgoTu/4NcpPx3yduAH628pPN9qGq2Y+01VwLZ0k6a5Nu574vjGYmhn3W2LDzOPayPSwX383S+7WEDoApo/325VA/fRUfSAfnN6kbTHXuN7HSNZNyb3lMUb9+wGio8kKZVOd4nKG4qxFiF5U9thhROEIZPAXPmtgOGnvZGFg9tRbEvtG/Qlfvw4/vz+7Xe4zYeah06pm7T46xPI+SfmkhySPF+iLJeM57Od3Em4hYFiC8QJI4FogypnmgvvWvhYYLU2xrjtqKWJYeDQ28c+sWviLZ4yhfnfbmY8FeOFWxQcnn3S+dRAk2AK2kd68QLt/XJN/5kf2zx9u8ghQmKhJnnmibpaoQyryKkIwuTuYcjZNCvd9gr9UKgzrRe2iokBOkjgApXXY0NnFb9E/0ZJWxcNQjLzLsz3nGHVlb4iny73Pysv1a5Vd84/Z3z2qQd5b8AcMihZJIfAJ8C2CNEGQt67XyqnuScCx2akmQkuEHukqzo0poknlzNDpFYfQALTQBokiOuVgWLDq4onS0uuWWw0FlDEshvL8NglwwrHTQdSzUgMynRKw2xC9VhNC169TdPUwKj1umq2rtgPzqeemk8wBXnWivRWZeDT52LNJuzDxoNsXnDCQlcy4f3WIDV+Nz5lDQZIqlOQh11BqA1p8XQMcum0qw25hzWHyU7BlY9s/7nxTp8n8oDfPMBRrx3ygKLXX87bb1m7eCEHfvjuG7zXRxfw7MCr5yn6tCz9x28iarVbg/VpqRmvz8U30RoHLdx559OTkYgpKUArsg1aCjC8OzsIjBwi3183mZmB9Av3zXMWIZo+zKzIidglrSYQV/DaYTTeWh3r5+cKN1hxnbLWyyuYKaxSa/ty0iT3c2cbuTylHux+slQkfUJpyZ25kTJtPlWPB6pNvx6kgsy1zYJ/Y1Z2wYupB/ZSVREbanMzbvTEZGhmSC37mLYTYyrF12ta63vhhQIgk8n7GscMXQuXMVnYl+2kbg==",
+        "icono": "https://i.ibb.co/bHYr1dB/Meganoticias2019.png"
+      },
+	    {
+        "name": "TVN",
+        "uri": "2E7xXdsjLZ0DyHVejy3GiBv7sHF2BDSO54DdHTckrIcYNwU20LT0bDU8UqugqO0CmYifqLey2pFMQ+EuEX6teQ==",
+        "icono": "https://i.ibb.co/7yLNbHd/OIP-2.jpg"
+      },
+	    {
+        "name": "T13",
+        "uri": "uGV/P8HpN6ank2owMczn3u9xQfPXRWPcaaI0A46EH2uPvhFkXjo6jARwtt1ORFkkasbCmPhSsPJW1Gd3cQJltw==",
+        "icono": "https://i.ibb.co/KFGxsLf/PktzDCH.png"
+      },
+	    {
+        "name": "LA RED",
+        "uri": "XoegEu5WMHaJYVyFmtIkAXdyDuM5Tf+jP3qO0s+3ryZ7YE//2i8x2+TDn7Ww/Tqbsmz6N4WAbqV5nBd7o7PRrv6EtRd7We8UEqxrJFuAFN4=",
+        "icono": "https://i.ibb.co/7YXDfVd/OIP-3.jpg"
+      },
+	    {
+        "name": "24 HORAS",
+        "uri": "uGV/P8HpN6ank2owMczn3u9xQfPXRWPcaaI0A46EH2vvZFVD8t5LByiZtb8Ef3nPtBAn93UxMiLKJMyBgCucAw==",
+        "icono": "https://i.ibb.co/FncDn9m/CEE9zPe.png"
+      },
+	    {
+        "name": "ANTOFAGASTA TV",
+        "uri": "XoegEu5WMHaJYVyFmtIkATyMsaiAuufUUTgKBUDqoir6xjz+o4XTVu6uuFzgEYasnR9tcG5VbT180PYIlk9OAQ==",
+        "icono": "https://i.ibb.co/dc4q1c9/channels4-profile-1.jpg"
+      },
+	    {
+        "name": "CNN CHILE",
+        "uri": "dCs8m5g2LGpl4aVjD1rkiOnlF6fYJD1/QY52gCezmsH4k4fDfdiq4HAmV6eYbd/NWN82qwaCxiLyyFHE+IoGZRC8BJMlT2FvV4TdpL3d/ZDR+JuGPT0C1DisHpCCrUd1e5zHvpx8E1gltiibye0glAt7e7ZxXK1SwR0NQUlQOzwxFBIHvgsdEd8oobY9GPiSCfKO6VpUp9L4Gem4t2Mb6jqQbyT7r79okfd+uaDGQNXqUkWtgg4kn0opchkWrO9x",
+        "icono": "https://i.ibb.co/Q8xdWSk/R.png"
+      },
+	    {
+        "name": "ADN",
+        "uri": "OIUpieJCXgJs4/KlnFdF9rrPyA7Mgq1ytTRAu8JRQICgH2rH3LlLNqkpFfDNOKDDT0pjokcbLf5UiqxFZ1CllIYta09S5K/Nd9OGr9EyJMquuIKppjY++uGCa0PoO2oLWDYdf/jVphs8SjQZ74HYH/2f3sWc/Pm9WnxC51iJomwyTCkEpHa7wdlSEvGvBUvm",
+        "icono": "https://i.ibb.co/PDTMK1g/OIP-4.jpg"
+      },
+	    {
+        "name": "CANAL PAÍS",
+        "uri": "jmy2tbmrOxYJoX71V8ErKk2tlydXWvBvzv4l3rvz5hLxbCACBY1FidbKn2Jf/IdEdR56/a5aLWozlV6bUlIVAA==",
+        "icono": "https://i.ibb.co/bP98Hzp/1402-Canal-Pais.jpg"
+      },
+	    {
+        "name": "BIO BIO TV",
+        "uri": "OIUpieJCXgJs4/KlnFdF9rrPyA7Mgq1ytTRAu8JRQIAar0iUPQsUzksFicf9qK80A/CGXDpmUpzgV2yCbaY0CEvHRvkqdd2GczB4a5avG+UXQmaw/vkQZnYswc747zCNI4BZfIuXMB3NyzB9NjMyF28aRUZCgTLOWSc6kfx9KGHrhsVIuP/5Ima2Gofx7k1B",
+        "icono": "https://i.ibb.co/gRgB22k/OIP-5.jpg"
+      },
+	    {
+        "name": "PORTAL TV",
+        "uri": "AnVJRIWYGDM4+xoWAvj22fb+oGveGel+Yo9vXtKMWaDhuIrKSk6xV1yhCmke6Q2eZ4t7GKB288BCwCkWNcG87Q==",
+        "icono": "https://i.ibb.co/tQGvh4p/OIP-6.jpg"
+      },
+	    {
+        "name": "STGO TV",
+        "uri": "/AUmqFd7JjJlGPsQnV4WttqUyDp907IxLIEsvJvj2HzKpdg61WV0E6AlRsRzBK5r",
+        "icono": "hhttps://i.ibb.co/0BsV0cD/OIP-7.jpg"
+      },
+	    {
+        "name": "TELETRAK",
+        "uri": "o0wpLTzopovjPIr2SbzekqqEeP/r3IdwDssq5tYInSztUwtYArPz82j691qzar87Y6xWax5HLb7y31rjb1kYjA==",
+        "icono": "https://i.ibb.co/WvX3zcC/teletrack.png"
+      },
+	    {
+        "name": "TV SENADO",
+        "uri": "Yz/bK+5K5sT1UDZIv/F0Z6pXXGsKRftj0ZLoveIqmpEqBmo+DH1YD6N97lT5Vexq3GjLobrtBkaKdAPbSotmkQTJHVIxvVjWZU1p2iwcEtXLsII/1gGT4kovJfgS/xDUJxaKYNf5x3dRLmJDomIro5xf5+7fw3G/TOKxBxoQ3AM=",
+        "icono": "https://i.ibb.co/SRbmPhb/channels4-profile.jpg"
+      },
+	    {
+        "name": "TVEX",
+        "uri": "EaxjWy90QS++P+4cMCgwMBZnnuIPzGt0ow4xK6zbmj1cx02WZRACsR8HunONkuvT",
+        "icono": "https://i.ibb.co/FVSpRjC/OIP-9.jpg"
+      },
+	     {
+        "name": "UESTV",
+        "uri": "BmkMD8dNlavNEXfUzFsCW1JTzjMBAPwYNnB/U9lE0khEfwoVSaOvS+7lKLtvETUc",
+        "icono": "https://i.ibb.co/FbdSPcx/OIP-10.jpg"
+      },
+	    {
+        "name": "TERROR TV",
+        "uri": "jUleW+RJtSoZ90flPuQ20MOmnuZajPtQdi9ow03AbLBOscotjB5b/CVp+rjL/TfGtj0VhoFjG61dLDlAvv98BA==",
+        "icono": "https://i.ibb.co/1b8hm69/OIP-11.jpg"
+      },
+	  {
+        "name": "TVR",
+        "uri": "OIUpieJCXgJs4/KlnFdF9koIz+LtT1Ol/YhG0KCSXlHbVqNdxTX0laut5bm6VSvT/oS1F3tZ7xQSrGskW4AU3g==",
+        "icono": "https://i.ibb.co/30SHwcF/53311917-1258469654318918-8926059123426983936-n.png"
+      },
+	    {
+        "name": "NUEVO TIEMPO",
+        "uri": "e6cTCs+YYvPhNze8ekqcMe1gGqNHh6CCTZEpWYrdammAWtvYLr/WZUg+Gdj+SndEDqIit7XB6hgYLlasmPrR+Kdbkg+6fnJNMdnpBygYSZg=",
+        "icono": "https://i.ibb.co/dtjvDK8/OIP-14.jpg"
+      },
+	    {
+        "name": "CLICKTV",
+        "uri": "EaxjWy90QS++P+4cMCgwMCIBYqkvCSe/wVPT+MTEwClLQEL7Y+DJjeW7E7hNe19Q",
+        "icono": "https://i.ibb.co/whYKrfj/channels4-profile-1.jpg"
+      },
+	    {
+        "name": "TNT SPORTS PREMIUM",
+        "uri": "yMDaYqk8NRYxp/wJu9Ne7GZt7wtuoW7GGpqutJ65DNhqh0w11Iq6I5xdZp5ywtuL",
+        "icono": "https://i.ibb.co/9W9wg5w/tnt-sports-premium4090-logowik.webp"
+      },
+	    {
+        "name": "TNT SPORTS",
+        "uri": "7ixVjiWscaSWR2aZXGmbn+XjRYmxuqTKV70HCnCyAVotvOhfdCBoIFNZRkKF+4U7",
+        "icono": "https://i.ibb.co/vPGgVkr/OIP-1.jpg"
+      },
+	    {
+        "name": "ESPN PREMIUM",
+        "uri": "mSAJ+hkd1MRmkgM4Gx1DES/OZo2jJTeZfuVTPJtWZe/WV+E0pvbK1OQi36VbcrZ+",
+        "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg"
+      }
+      ]
+    },
+	     {
+    "name": "🇪🇨CANALES DE ECUADOR",
+    "samples": [
+       
+	    {
+      "name": "ECUADOR TV",
+        "uri": "69yx7VELwD0giOKvjuAKdBZRjw+tnIp4NSptpgTfsXRgRimW0R6pCcQR2YbZdyghgfG427CuJHkiSjPUiVQWIA==",
+        "icono": "https://i.ibb.co/8PY5Gck/OIP-2.jpg"
+      },
+	    {
+        "name": "ECUAVISA",
+        "uri": "OIUpieJCXgJs4/KlnFdF9rrPyA7Mgq1ytTRAu8JRQID9WX6K2L9ObslORbaa+dKAxAFk++koNVdmb2T7EYDsPdPk+iALUn7Qv2oY83VMZu7nlP2edTkfb1FzLnk8yvNVnfDI0jmB6JD9KoCSCAN4UwjYyGkmU+8F4ty5ri30j8DRnT2oxc1ypdHddYJ7Cm4yUDLRyPOssiE6+Wx+Ri8sew==",
+        "icono": "https://i.ibb.co/pZ0HHyB/ecuavisa.png"
+	    },
+	    {
+        "name": "EL CANAL DEL FUTBOL",
+        "uri": "6p78SAc0hSxOyYOYWzmHvLPgZm4LUxh1HhzgBDE+sBEu71I/TLU0mEHSJacTYhILYmBhSQwIjC9B42OxlEwCFA==",
+        "icono": "https://i.ibb.co/gZs8046/OIP-1.jpg"
+	    },
+	    {
+        "name": "ECDF 2",
+        "uri": "tD7OETOuAS12QOVWDAhhtYH/7sSBEWkfJz/6za7o3GJyFaDq5wnsmR3HmI+UJf+o",
+        "icono": "https://i.ibb.co/gZs8046/OIP-1.jpg"
+	    }
+      ]
+  },
+	    {
+    "name": "🇧🇴CANALES DE BOLIVIA",
+    "samples": [
+       {
+        "name": "BOLIVIA TV",
+        "uri": "F02VTBeOfv+fOIcuIu/aBhvei5pbk9Kj4kPyqKCA8EcYBtbRB0K473JisVxxtxXF421mFad+2kDcDxCiahPru91HZ8kTBVt7TY0IH8CDMTU=",
+        "icono": "https://i.postimg.cc/fyrg7kQd/btv.jpg"
+      },
+	    {
+        "name": "BOLIVIA TV 2",
+        "uri": "bMtoniyQezbLPKKizYEuIDOSaxjs8eh5D9Y3q6QSKI4qODPQknghWGrIPQi3ExFTktrY9rcT2Tflo8TGFzzFsqkl0b4QE8s2DvuqW3nR+YI=",
+        "icono": "https://i.postimg.cc/fyrg7kQd/btv.jpg"
+      },
+	    {
+        "name": "BOLIVISIÓN",
+        "uri": "oNzXarQz6MHjS/lOodrpVe3ZHrtD8G1rCVe19d0rxghbL+fvIZef2rXt+tiVkFXwY6xWax5HLb7y31rjb1kYjA==",
+        "icono": "https://i.ibb.co/Nr60c4V/channels4-profile.jpg"
+      },
+	    {
+        "name": "UNITEL SANTA CRUZ",
+        "uri": "A2YEQfGzhDNb4njPvm5FiZ7NabllUgCE2FSytYXRndmSbiU3uTabxbu8uEtwCuK16532/KIUtqsXRSuPqA8Iz5HlKPxyiAJXoism6R5kZvkii3cmf/WHp4oocGxC/RbDeyOrSSOoTOtZKGdDqONZw5TkfKI1Dz60bfhZtOZWtLl7+rGCFqLKCNrUOrtcgNi9Twqybj1o88S7e6FT8V2bgPIPXz/squ1gKRz2FZwAXcKNUKmJuCyWpS1AthV9XKhbn+csck2kFFEa4D9yzjeXVSLWU2FN+YQ7aXgo7fNQxX0=",
+        "icono": "https://i.ibb.co/zPwR0GB/OIP-14.jpg"
+      },
+	         {
+        "name": "ATB",
+        "uri": "cdy/yKYngYTDmq9Heo58oNnY+m3VVabhJ/NbmypaN0sE6pdy4rsc5IT81GsQ0fxF",
+        "icono": "https://i.postimg.cc/90mrPFYc/ATB-B.jpg"
+      },
+	         {
+        "name": "CADENA A",
+        "uri": "3KDctjujZXmQflJGflomjlLrMu7lvaIw3q8bN60n1hVvajKMzw03kUcD9OnANGwxNvKPHTIyR10BX39NHltC+d1HZ8kTBVt7TY0IH8CDMTU=",
+        "icono": "https://i.ibb.co/DpLspVV/Cadena-A-Bolivia-en-VIVO-Online-en-Directo.png"
+      },
+	    {
+        "name": "TVU",
+        "uri": "ibM0MXIo8Bwewrs2/r2FnAx2toYKrY+jc4TH2pdU3o6ZUGkagoiLe0yNvmkNF4etNvvKdsqNi2zu8MwT0IAeoGeLexigdvPAQsApFjXBvO0=",
+        "icono": "https://i.postimg.cc/qM8pBdsL/tvu.jpg"
+      },
+	     {
+         "name": "RED UNO",
+        "uri": "A2YEQfGzhDNb4njPvm5FiZ7NabllUgCE2FSytYXRndmdRotwhBLzgnBeZvaMCi1LjpP+jBurfOZq8+4AuxKSznvgoudHunDqIwjXKRW6UqA4itnK3VWzIHYd6iDvvdTIAsnWN1mu0GCKCkPuoJFeItS7BtzhPAkWWfOSwgGkv7hbSd4OrYAn/R3eDlX63zZRTLDKYllxbHMkIWBtWawqyZuU3swdfpPImyXgDMOsovj0NUw5RrB+7Guc2BGB3+G+90YM8G25aPJqBmlu9C6kAw==",
+        "icono": "https://i.postimg.cc/44VDVQY4/red-uno.png"
+      },
+	       {
+      
+        "name": "RED ADVENIR",
+        "uri": "iwOQjo7PSkPyVkQBUyIXqsIs9D5v1+OhyooHgVOkaxwqGUDwfopu0zhPGsrNU2O8YUxbxaynxL1/NkLBBvVzIl30UhYHe5L3/nrqDFNjXcT+hLUXe1nvFBKsayRbgBTe",
+        "icono": "https://i.postimg.cc/KzyN2BxQ/advenr.jpg"
+      },
+	 
+	    {
+      
+        "name": "RED PAT SANTA CRUZ",
+        "uri": "5ih04trINoY9nalxs2Fkn1h+JBXUsDryF6e0Rn8v4vQYWGhZWU5Vt/2HayQlrCNlzqgJhZ6pQ6lvcR+7y6Pvnw==",
+        "icono": "https://i.ibb.co/DgTFcFB/qwlr9dl3-400x400.jpg"
+      }
+           ]
+  },
+	    {
+    "name": "🇨🇴CANALES DE COLOMBIA",
+    "samples": [
+        {
+      
+        "name": "CANAL CARACOL",
+        "uri": "7ixVjiWscaSWR2aZXGmbn0wXVyKKkNN3I0VT6AMZG/IZ3ewHLyxX/OtesVD1UsgH",
+        "icono": "https://i.postimg.cc/vZj7931v/caracoltv.jpg"
+      },
+	     
+	    {
+      
+        "name": "RCN CANAL",
+        "uri": "reDBr5VNDCP1kCrUn2WoRBiCl87utKHzZuPKcPEoOaWxY2/jOhxsfcBVfh6K40VYoHhQndtcbJcETvtxBPOr3lel383usU456UOxGw5GeLq1b5blT8f0vqkMONWEBkuNr9zAaARCEmpKfi+hu9HlcyQ+PnzNvEqnCPS23LhMC84h5pSPxiEjAigr5A8ky4tRhcV28O6c/TOqRnLbOPPhCiKvO6nCydLAiXZrtjMjcrlNgVDMOeDbor7teODbdR46tj0VhoFjG61dLDlAvv98BA==",
+        "icono": "https://i.postimg.cc/nch1m9zT/rcn.png"
+      },
+	      {
+      
+        "name": "SEÑAL COLOMBIA",
+        "uri": "JmIeJw+GncS2swaPyQ9qB9+MKSN8A5K7Z2gfHJ47bhJYjJ1FzKiwUC4C9mmix8vx+ouj6ymqfNo6QjdZJrbMfrJs+jeFgG6leZwXe6Oz0a7+hLUXe1nvFBKsayRbgBTe",
+        "icono": "https://i.postimg.cc/XqNq7GJX/se-al-colombia.jpg"
+      },
+	           {
+      
+        "name": "TELE PASIFICO",
+        "uri": "BVu8jqNZQkDoBrGtUmbVLYIuBB9xAcK07UsGJARcoAmfM1CLJewsk+RFTfuoHf3uxn8/jkIRmva4ZA2F3NJPk3hEPGmUcQvgZqSdcwjtZfLOBSm0hewoKJ7xiKJKZAapTutnJBFPeQd1c5dvHlIt4A==",
+        "icono": "https://i.postimg.cc/VkfxGqhJ/telepasifico.jpg"
+      },
+	      {
+      
+        "name": "CANAL CAPITAL",
+        "uri": "e+IUmUp7uJf474vokWplbgHfsCsqRale2jMEeerhMBGceSN1eZ1WohgTTpAIeA0BwXynB58CLSPpxJxzYMJgMg==",
+        "icono": "https://i.postimg.cc/Kvn8VY33/capitaltv.png"
+      },
+	          {
+      
+        "name": "TELE MEDELLIN",
+        "uri": "6wQ6KNLJsb7142S6ZOJRRZKZVdpRmtSHOh7B5/mawFadPQyuTV41CoFnT90YALqg",
+        "icono": "https://i.postimg.cc/CMkx8fsD/telemedellin.jpg"
+      },
+	       {
+      
+        "name": "RCN NUESTRATELE",
+        "uri": "kkNt7iYmhtB9lm9B39XLtTOTI94T7yVChb7jfEQEbLQ7AeP/u1NtXMRjZviK9I2W75gsPwM5xJ089OfWc9tBoQ==",
+        "icono": "https://i.postimg.cc/s2fB6qQr/descarga-7.png"
+      }
+	    ]
+  },
+	    {
+    "name": "🇵🇪CANALES DE PERÙ",
+    "samples": [
+         {
+      
+        "name": "EXITOSA TV",
+        "uri": "ZLBZYoF2Nu26/ur66yhLjML692OfAQ+zK5fzCDhWJpvj/yFng6YEWW45KMFHlhdDc180o7cgcWZQESgUp5yTD5NPNUjdFhql9knnxpg5JdUMl0EUbOdgqU3CbgyUCWsE",
+        "icono": "https://i.postimg.cc/J7sNB7qb/images-10.jpg"
+      },
+	    {
+      
+        "name": "TVPE",
+        "uri": "gYJdGyLBq+HHI8Q+WyNbZr1+8/e8VZ9451EL+ix6XmppJ0hCylDG4n/zgggacFHSA5WWWRIc30bV8H/mN8eT6c6oCYWeqUOpb3Efu8uj758=",
+        "icono": "https://i.postimg.cc/BQSTQZJF/TVPE.jpg"
+      },
+	    {
+      
+        "name": "TVPE NOTICIAS",
+        "uri": "gYJdGyLBq+HHI8Q+WyNbZlz4JRK8M968TadjREgvAmLiSkVJPA4DVOC0YBuk8/PZ7EvZQB0oYoYblFrjf5ttus6oCYWeqUOpb3Efu8uj758=",
+        "icono": "https://i.ibb.co/XjxJGTx/tv2.jpg"
+      },
+	    {
+      
+        "name": "WILLAX",
+        "uri": "c8dznZikVfQgSCCQfde+2gzJ9ufQKfpI89K0J0AavDu0JT/uJHSN9CJjaNrIYIcLMuplTFg/mO+stqatlpnqKVVe2uJ1qW2T4kWIm+EbgZI=",
+        "icono": "https://i.postimg.cc/FHPQZb2G/WILLAX.jpg"
+      },
+	     {
+      
+        "name": "PANAMERICANA",
+        "uri": "6wQ6KNLJsb7142S6ZOJRRZKZVdpRmtSHOh7B5/mawFZE2ra0kTk5PzcK5PvEfkK8",
+        "icono": "https://i.postimg.cc/bwTLzZCh/PANAMERICANA.jpg"
+      },
+	    {
+        "name": "LIKE TV",
+        "uri": "WUKBJPWn0w1zj1AyF4ulnKtxCyPuoQlZfVKW+4c1NuiZghQ0rueDtlW3Hr8KqKgSoAkZHIf4tW/7TDE8r0HioA==",
+        "icono": "https://i.ibb.co/BKw27Rd/5IwS0sJ.png"
+      },
+	    {
+        "name": "SOL TV",
+        "uri": "wiAkGw3wZWODbBGDIlaguDt91qEP/lMAMoJaYMbwzoaFpw7wO4CFC9UWBMda+tCg3UdnyRMFW3tNjQgfwIMxNQ==",
+        "icono": "https://i.ibb.co/TYVVCmp/GtNkuAc.png"
+      },
+	    
+	    {
+      
+        "name": "LATINA",
+        "uri": "OIUpieJCXgJs4/KlnFdF9rrPyA7Mgq1ytTRAu8JRQIBvfH0acxj3+Tx0KRjB0bXO9FjVlJvXQycnsYzZ4EcE874vyKCXnFbK9hXnCxTNMy9aVnRWd862vCVDfsfPXBO0smz6N4WAbqV5nBd7o7PRrv6EtRd7We8UEqxrJFuAFN4=",
+        "icono": "https://i.postimg.cc/FHKTLJZr/LATINA.png"
+      },
+	      
+	                {
+      
+        "name": "SEÑAL PERU",
+        "uri": "kwPdXBm30gq75oAAyJSIX5psRwcdidODsSIeUN9LuHqfPY1dVdlr5Mo2cq+af9/9k8n7GscMXQuXMVnYl+2kbg==",
+        "icono": "https://i.postimg.cc/7Z6d3RVT/SE-ALPERU-fotor-bg-remover-20240904224614.png"
+      },
+	            {
+      
+        "name": "ATV",
+        "uri": "+we77uu/wWrI1R7KFetri+P+NPnTs0gezJ9TPP2Zq08L3Iy8kDEtZ4K8Orw2xPe9rWLOD+A2ahRckbFfI80D/P6EtRd7We8UEqxrJFuAFN4=",
+        "icono": "https://i.postimg.cc/nzXFHyxy/descarga-9.jpg"
+      },
+	        {
+      
+        "name": "AMERICA",
+        "uri": "DKLhQNGfKt3MwglDLL8VLT4CHwl4XrB7REOpf29qAwmkugnu6PSvaTpTPY1VHtuHPmvSaguf65d/tGnvak2MtepS1dYMseKkPFgdjxQUB2A=",
+        "icono": "https://i.postimg.cc/Kzmp2rDM/america.jpg"
+      },
+	    {
+        "name": "GOL PERÚ",
+        "uri": "Y4WwEOiPL6iCZ60Sap2AXc8mcQ2K7GBTO1Ri0BWO2TvbpVH8qcubNOcq3e0FzBbQ",
+        "icono": "https://i.ibb.co/jvdQprM/hqdefault-live.jpg"
+      },
+	    {
+        "name": "LIGA 1",
+        "uri": "tD7OETOuAS12QOVWDAhhtYH/7sSBEWkfJz/6za7o3GJf0Zl3YZOZYLqskxmQj2je",
+        "icono": "https://i.ibb.co/Lp9Wbm7/Liga-de-F-tbol-Profesional-Liga-1-Per.jpg"
+      },
+            {
+        "name": "LIGA 1 MAX",
+        "uri": "zWWgqylBMoLPtWs3XniGqAeBW1YikD+vXDZw0iUpeyAFzeE3yJro3MEakHbO241A",
+        "icono": "https://i.ibb.co/m5MzCwV/Liga1max.png"
+      }	    
+	    ]
+  },
+	    {
+	   "name": "🇧🇷CANALES DE BRASIL",
+    "samples": [
+          {
+        "name": "SBT SP",
+        "uri": "o+NNapRXlKQwwwUTwJOeubDJ1qrpcS2g6zjAkQApN6eUa5njXMzRzuceShAbTCsFCmq2l5nfUg/mW9ryKvHZ+E7Y+r+M97ebKO9EIAnE5hRjrFZrHkctvvLfWuNvWRiM",
+        "icono": "https://i.postimg.cc/nrsPjtr0/sbt.jpg"
+      },
+	    {
+        "name": "RECORD",
+        "uri": "c8dznZikVfQgSCCQfde+2jD4fskfkOa6xmaP1KE0u26BOr0rP/TfMBOs9nMEeHE1WHvJ7d+i2t40a0P1Xy1Gd0ErqNF7Rf2zkwfEE/XBq8s=",
+        "icono": "https://yt3.googleusercontent.com/iUQqZPVMfTDE0ByCGHMQHRnUpJTOkOuyyD8P0wu3sDCx7EPenAKmNueijl3Y13zogxT902NVCg=s900-c-k-c0x00ffffff-no-rj"
+      },
+	    {
+        "name": "GLOBO JR",
+        "uri": "c8dznZikVfQgSCCQfde+2hzz1VBK1YEKfaw2tbDKyKVrCS7jCwmhO33cQfz8c17eBKz4bXayUjpN4B7ZrmkaOWOsVmseRy2+8t9a429ZGIw=",
+        "icono": "https://i.postimg.cc/43kJv4m9/Rede-Globo-Brasil.jpg"
+	    },
+	    {
+        "name": "CNN BRASIL",
+        "uri": "b5FAz+2y/dahCdhXJ2tvsf6LICOYzpwbh5B9f73vsLUUJMUByRFSR6RQw7AssmFN",
+        "icono": "https://i.ibb.co/kgnXDyV/OIP.jpg"
+	    },
+	    {
+        "name": "ANIMAL PLANET BRASIL",
+        "uri": "b5FAz+2y/dahCdhXJ2tvsSF3EbhXEIYp8/mHljQwAKtRTd8mqSRZbXKkrOjLkWRM",
+        "icono": "https://i.ibb.co/6w8FfsS/OIP-2.jpg"
+	    },
+	    {
+        "name": "A&E",
+        "uri": "b5FAz+2y/dahCdhXJ2tvsSF3EbhXEIYp8/mHljQwAKs+Qec5otn3eiyFSlmVUYQx",
+        "icono": "https://i.ibb.co/rf62TJb/OIP-3.jpg"
+	    },
+	    {
+        "name": "AXN",
+        "uri": "b5FAz+2y/dahCdhXJ2tvsf6LICOYzpwbh5B9f73vsLXstvOkzQwxW2CbitvDlq5U",
+        "icono": "https://i.ibb.co/PFD4k4f/OIP-8.jpg"
+	    },
+	    {
+        "name": "FASHION TV",
+        "uri": "b5FAz+2y/dahCdhXJ2tvsZlEVUIq9iK0xbln58Pzodr2H2HorW4SYLHNL5/LtFNJ",
+        "icono": "https://i.ibb.co/hZZRMQY/R.png"
+	    },
+	     {
+        "name": "GLOBO NEWS",
+        "uri": "b5FAz+2y/dahCdhXJ2tvsZlEVUIq9iK0xbln58Pzodo+Qec5otn3eiyFSlmVUYQx",
+        "icono": "https://i.ibb.co/bQm9sxN/OIP-4.jpg"
+	    },
+	    {
+        "name": "CINEMAX",
+        "uri": "b5FAz+2y/dahCdhXJ2tvsf6LICOYzpwbh5B9f73vsLWtNQAuOAS+J8h7gXg94Syo",
+        "icono": "https://i.ibb.co/h8NGvtW/OIP-5.jpg"
+	    },
+	    {
+        "name": "PARAMOUNT",
+        "uri": "b5FAz+2y/dahCdhXJ2tvsf6LICOYzpwbh5B9f73vsLXyxlpz5LK8RT5MBbBPzZVA",
+        "icono": "https://i.ibb.co/7nP8R6V/Untitled-design-12.png"
+	    },
+	    {
+        "name": "UNIVERSAL",
+        "uri": "b5FAz+2y/dahCdhXJ2tvsYI0USjeNpzWeQpmTsdtc8KCLK+MvNvimVJTPUTMGieM",
+        "icono": "https://i.ibb.co/YckQgDM/universal-tv-logo-vector-11573850411xchthbebsn.png"
+	    },
+	    {
+        "name": "HBO +",
+        "uri": "b5FAz+2y/dahCdhXJ2tvsY38Unye7JZgPXeRMMrHf6QUJMUByRFSR6RQw7AssmFN",
+        "icono": "https://i.ibb.co/vsnp4Rp/logohboplus2019.png"
+	    },
+	    {
+        "name": "HBO XTREME",
+        "uri": "b5FAz+2y/dahCdhXJ2tvsY38Unye7JZgPXeRMMrHf6QiM8AidLxQogyV5JrD6ka7",
+        "icono": "https://i.ibb.co/0GJ8wRw/OIP-6.jpg"
+	    },
+	    {
+        "name": "HBO FAMILY",
+        "uri": "b5FAz+2y/dahCdhXJ2tvsY38Unye7JZgPXeRMMrHf6SCLK+MvNvimVJTPUTMGieM",
+        "icono": "https://i.ibb.co/PzsHLTv/R-1.png"
+	    }
+]
   },
       {
     "name": "⚽DEPORTES ESPN",
@@ -2407,565 +2966,6 @@
 	    }
     ]
 	},
-	{
-    "name": "🇦🇷CANALES DE ARGENTINA",
-    "samples": [
-	    {
-        "name": "AMERICA TV",
-        "uri": "QcY7pPFsYdEPJCl80yaYj10d2hbAufv2wQY2hHyCxmMMnKx5XQXzctwyoHQY+D+tajPNzp4JPpeiaHQKC0nyKw==",
-        "icono": "https://i.ibb.co/Jx3k8Km/america-tv-logo-F3-E9-B57736-seeklogo-com.png"
-    },
-	    {
-        "name": "LA TELEVISIÓN PÚBLICA",
-        "uri": "QcY7pPFsYdEPJCl80yaYj10d2hbAufv2wQY2hHyCxmPGjJHCdm/i29FSlyclO7gmajPNzp4JPpeiaHQKC0nyKw==",
-        "icono": "https://i.ibb.co/vj3RryF/tvp.png"
-    },
-	    {
-        "name": "CANAL 9 HD",
-        "uri": "8SQS7lloawhHz60rFK9i9L83yjIPGKwYcy61gS5lxMBjn0JMhaH5DI8Vs/VLVQIA",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5uNQS6HsYYxI/KFNJduGOitcYJhENPoFxelO2wBoLxSfwUI6PsUckG1+izkQ8CM85/92Tpz/IigTLVAIUfBG0ZmMX4R1zVp/1JGJuWpn59lc=",
-        "icono": "https://i.ibb.co/0VJR2J8/el-nueve.png"
-    },
-	     {
-        "name": "TELEFE",
-        "uri": "4R+Pt+p1vnO9Ebni4YBk7KPxWo00fZlkficdtxhpTQXtlDRl7L6k1n87LJ5bdbWz",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5yZEjzmjag4nPn2dTcDk/NLUlpbtCDsWW2B1TUkz9FgHVd8XUy15SoSTxvjqLf9WRb46FzMRfkszIvnGOWZPt9KCjawTVWyaQsCj1dF3ueqw=",
-        "icono": "https://i.ibb.co/gj3D2b4/Telefe.png"
-    },
-	     {
-        "name": "EL TRECE",
-        "uri": "a7P8IBf0wSXd6Yq2E9VWd/t5TFrLr9ESN588HBfkKp3oGaxyLTDYuWfVRUy9QLz6k8n7GscMXQuXMVnYl+2kbg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5yZEjzmjag4nPn2dTcDk/NLUlpbtCDsWW2B1TUkz9FgHVd8XUy15SoSTxvjqLf9WRb46FzMRfkszIvnGOWZPt9KCjawTVWyaQsCj1dF3ueqw=",
-        "icono": "https://i.ibb.co/fnP1xZM/el-trece-1.png"
-    },
-	    {
-        "name": "C5N",
-        "uri": "QcY7pPFsYdEPJCl80yaYj10d2hbAufv2wQY2hHyCxmP5PundPliaCJiiGq0Li8fLajPNzp4JPpeiaHQKC0nyKw==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5h61d/IqBBNmKepF2tWXURHMwGZB4RhqCjvSMJsAD4N4r45mXwKBSFqHmdEAwR7tSoYWFTJ4G7VFYd7mR98JY+eYYD3bmZ3mah3O2P+PfFz0=",
-        "icono": "https://i.ibb.co/dWV2Rby/c5n-logo-A8-C1272-BDD-seeklogo-com.png"
-    },
-	    {
-        "name": "CRONICA TV",
-        "uri": "8SQS7lloawhHz60rFK9i9L83yjIPGKwYcy61gS5lxMCKwaqg/j7no2XopTJKdEYg",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5h61d/IqBBNmKepF2tWXURHMwGZB4RhqCjvSMJsAD4N4r45mXwKBSFqHmdEAwR7tSoYWFTJ4G7VFYd7mR98JY+eYYD3bmZ3mah3O2P+PfFz0=",
-        "icono": "https://i.ibb.co/h1CtBBF/R-6.png"
-    },
-    {
-        "name": "TN",
-        "uri": "QcY7pPFsYdEPJCl80yaYj10d2hbAufv2wQY2hHyCxmOOLOvUjx2ZeiMgLBEuo9uhajPNzp4JPpeiaHQKC0nyKw==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5h61d/IqBBNmKepF2tWXURHMwGZB4RhqCjvSMJsAD4N4r45mXwKBSFqHmdEAwR7tSoYWFTJ4G7VFYd7mR98JY+eYYD3bmZ3mah3O2P+PfFz0=",
-        "icono": "https://i.ibb.co/cNJd8Fk/tn.png"
-    },
-	    {
-        "name": "LN+ - LA NACION",
-        "uri": "uGV/P8HpN6ank2owMczn3u9xQfPXRWPcaaI0A46EH2sW+3rvQwhbiTVmlCpctDat1wCgsNoZ16Jx9HEEQ8Vsuw==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5h61d/IqBBNmKepF2tWXURHMwGZB4RhqCjvSMJsAD4N4r45mXwKBSFqHmdEAwR7tSoYWFTJ4G7VFYd7mR98JY+eYYD3bmZ3mah3O2P+PfFz0=",
-        "icono": "https://i.ibb.co/zG4YLk0/LN-1.png"
-    },
-    {
-        "name": "A24 HD",
-        "uri": "uGV/P8HpN6ank2owMczn3u9xQfPXRWPcaaI0A46EH2uuqVjJbUFO50wn29XfNqQ2+yd7zQOOX9ZzZPqXNXygcw==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5S8A8dDu87mx80FJoaLcdDzu6KR+PfgufusaEn138xkaadNxnxESHo/UmmOvgc1zo57J+JkeIxFaMWd9n9Ak+0yohEtCKwkrrBPfMvBVwALw=",
-        "icono": "https://i.ibb.co/gwqB79X/a24-1.png"
-    },
-             {
-        "name": "BAYRES TV ARG",
-        "uri": "JmIeJw+GncS2swaPyQ9qB+CSKinmarkUOFIzj8afnAqpijARXFYLT1DkKV/IThY3QTl7LAHZP8MfbeVj4f+Prg==",
-        "icono": "https://i.postimg.cc/HkY2dV4P/descarga-2.jpg"
-    },
-    {
-        "name": "NET TV CINE",
-        "uri": "XoegEu5WMHaJYVyFmtIkAXFuO8o7jbZgsXmDb7WMFLQ0DurFUbEUAyvBLW7hTXcvkNzOl9U2KIx5areh60+t0meLexigdvPAQsApFjXBvO0=",
-        "icono": "https://i.postimg.cc/WzVbFDnQ/unnamed.png"
-    },
-    {
-        "name": "FIVE TV",
-        "uri": "qGI5dv1lsVFT3hYSh6hDnJ6ZIlLOGUFuAiAG+pOTHmYsEnmOoSdWNHBoGrt2DaYW0TqrbNDOkuXu6st4U6oBJQ==",
-        "icono": "https://i.ibb.co/wQh2NL3/fivetv-fondo.png"
-    },
-    {
-        "name": "CANAL LUZ",
-        "uri": "psOtAuC6cSWds0dbJrMAUc2FlR4aDA8eqPCKRlCskiT9lpYMGDZOM4WjdD08LXYuTu9f/wCE3eyFQv85UDxnrjo6lPJsJQk3LPOFUcYwV48vTyQ2HdwI67jlmS6xWQJWfEP08EYdlfrofObJJyJKNfsuYxlLocOoZdOl2OzRs54=",
-        "icono": "https://i.ibb.co/jvJwYdR/eltrestv.png"
-    },
-    {
-        "name": "TELEMAX",
-        "uri": "Vm5Gp0L11M5+mEN4+8Q/3AU34o9HnOuxmckuBIVnSxErJ1dbMOZ3aSgHhZDZT9CauEjqIooHDs4EElQ6IyoC8MvpQdpRnvwVCO7QLapCsxc=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHH0jr/BbJrSlDUdf8DBO9xDM/eSXBt6wNg3JggS3Ztgk1zb30UnQJrZolpklnMT4t6CAynl+A2Zcuip43f2Jh5aRQgG+w/PGIPhvsA5NNkDo+nq8cqeSwiucbg2A6wlmNQ==",
-        "icono": "https://i.ibb.co/dGC9pwN/4e30d1851fdedbc3cc9d3b438ee48c3b.jpg"
-    },
-    {
-        "name": "BRAVO TV",
-        "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMQS01QhuSFnU6X9POR3JnXPqsmD6r3hQaffHky7aW1dbxLMN9I8dwvmjoeyRJFS2wY=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5cdua5Z1C+kWseecBtjo3cnRKOTIvzCY6YyLjgD605TNDfECVUO3GH3EwKIHtz111guv6x2+EYcGHIMRU1lCCvfIA9Q0D4/NpHIHHxs1XQB0=",
-        "icono": "https://i.ibb.co/LJkXmnV/bravo-tv.png"
-    },
-    {
-        "name": "ARGENTINISIMA SATELITAL",
-        "uri": "zlZeeg/ENWzgVMeKl3ZJpdKuacLYNY/54d6LTRtbc3RhJBNFG1dSJgMnAEu7Zdbs615H3CfJllozZW7lxNVNc4y0vNxCbckGTflZQtZzRns4O/UhD7ye/0ZRZ12QwL0LY6xWax5HLb7y31rjb1kYjA==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHCOumanVJO1ov0NCYl8PpXv3ZHCmKIJwnPj0mG4GCXZeOYD8BT3PXXAvoRHmpg1DmwNi4Lg712+PWnUofCO76ZAJayTiygDcjkVt7gZetpIzM+EgQCQM1WRPn4a8y8f7iw==",
-        "icono": "https://i.ibb.co/G0zCDL0/descarga-1.png"
-    },
-    {
-        "name": "CANAL 26",
-        "uri": "8SQS7lloawhHz60rFK9i9L83yjIPGKwYcy61gS5lxMDx536UvBOTl+eTevMaz0n3",
-        "icono": "https://i.ibb.co/TM0dyCR/canal26-logo.png"
-    },
-    {
-        "name": "CANAL 12 CORDOBA",
-        "uri": "s5sEXMmseHzVuHCYB83XLXriORzPU1ZjD7Bc8cEi4OHVOTNsEW/HXWzDDCxBC6ooeXBM0LEv7kDTg3VVY5gCZqLwpg0pnxNplHSX6V/tLBxjrFZrHkctvvLfWuNvWRiM",
-        "icono": "https://i.ibb.co/60sFBfY/og-image.jpg"
-    },
-    {
-        "name": "VOLVER",
-        "uri": "eQIZwW03FaaJzqF0oYbVM/VLIDctN4BIUyoTeexG7oFTNW1aLg0Rz+W1zXNjiFiSmSbAtIuyibCSqPPVW5DgOm3TdBtrQRAi5f6hVmpZaOB+XxuJYlKBNLlLEdEfNl12",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHHrvBHNYYY7b79IsssKzMNbkqhBOVSthPBkR58MwIuj+X98LY3W3rdM+WJTNlL+xzmibTWWlxLrHW1igFmamXFwyJx3gad9QgyA8F85iKVSxCb3xgjBeCRa0w8xxdhWsAw==",
-        "icono": "https://i.ibb.co/ZNRV2BF/descarga-3.jpg"
-    },
-    {
-        "name": "CIUDAD MAGAZINE",
-        "uri": "zlZeeg/ENWzgVMeKl3ZJpfqWUg2tmgiGGI9IPeevN08VrD+aIrV0EceN51DnPYuEHzVDBfMdMpXElJxfcBsld0jcYDaA5EBneSNFMIpumRcOK7DJ/Heu29aSx+6r5BkX",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHOON+vn/AmkFs/p3ojMGvm/eX7QqLCppqHxgBkCYVAsp+2k2Nz/vJZPlWtKsbVZMZnB3XV+6dyEfwoAjcbZfAfi9php9V1hjxHeJy/gh1u6JM+EgQCQM1WRPn4a8y8f7iw==",
-        "icono": "https://i.ibb.co/1Tnfy2J/5909cf1f851d6-838x390.jpg"
-    }
-    ]
-    },
-    {
-    "name": "🇨🇱CANALES DE CHILE",
-    "samples": [
-       {
-        "name": "CHILEVISION",
-        "uri": "I3nb/FutNFW/D2m3FQ9rvVY9/48f19VOiUf3PJl5kcNdmj7jfGEhK2d6vuFfPmab",
-        "icono": "https://i.postimg.cc/76Z3k09n/CHV.png"
-      },
-	    {
-        "name": "MEGA NOTICIAS",
-        "uri": "9Mh5pCZtg63C/2Q54M/QoxRIvOkjRv0wapKCq3RnnxgbMre57jcK/emgoTu/4NcpPx3yduAH628pPN9qGq2Y+01VwLZ0k6a5Nu574vjGYmhn3W2LDzOPayPSwX383S+7WEDoApo/325VA/fRUfSAfnN6kbTHXuN7HSNZNyb3lMUb9+wGio8kKZVOd4nKG4qxFiF5U9thhROEIZPAXPmtgOGnvZGFg9tRbEvtG/Qlfvw4/vz+7Xe4zYeah06pm7T46xPI+SfmkhySPF+iLJeM57Od3Em4hYFiC8QJI4FogypnmgvvWvhYYLU2xrjtqKWJYeDQ28c+sWviLZ4yhfnfbmY8FeOFWxQcnn3S+dRAk2AK2kd68QLt/XJN/5kf2zx9u8ghQmKhJnnmibpaoQyryKkIwuTuYcjZNCvd9gr9UKgzrRe2iokBOkjgApXXY0NnFb9E/0ZJWxcNQjLzLsz3nGHVlb4iny73Pysv1a5Vd84/Z3z2qQd5b8AcMihZJIfAJ8C2CNEGQt67XyqnuScCx2akmQkuEHukqzo0poknlzNDpFYfQALTQBokiOuVgWLDq4onS0uuWWw0FlDEshvL8NglwwrHTQdSzUgMynRKw2xC9VhNC169TdPUwKj1umq2rtgPzqeemk8wBXnWivRWZeDT52LNJuzDxoNsXnDCQlcy4f3WIDV+Nz5lDQZIqlOQh11BqA1p8XQMcum0qw25hzWHyU7BlY9s/7nxTp8n8oDfPMBRrx3ygKLXX87bb1m7eCEHfvjuG7zXRxfw7MCr5yn6tCz9x28iarVbg/VpqRmvz8U30RoHLdx559OTkYgpKUArsg1aCjC8OzsIjBwi3183mZmB9Av3zXMWIZo+zKzIidglrSYQV/DaYTTeWh3r5+cKN1hxnbLWyyuYKaxSa/ty0iT3c2cbuTylHux+slQkfUJpyZ25kTJtPlWPB6pNvx6kgsy1zYJ/Y1Z2wYupB/ZSVREbanMzbvTEZGhmSC37mLYTYyrF12ta63vhhQIgk8n7GscMXQuXMVnYl+2kbg==",
-        "icono": "https://i.ibb.co/bHYr1dB/Meganoticias2019.png"
-      },
-	    {
-        "name": "TVN",
-        "uri": "2E7xXdsjLZ0DyHVejy3GiBv7sHF2BDSO54DdHTckrIcYNwU20LT0bDU8UqugqO0CmYifqLey2pFMQ+EuEX6teQ==",
-        "icono": "https://i.ibb.co/7yLNbHd/OIP-2.jpg"
-      },
-	    {
-        "name": "T13",
-        "uri": "uGV/P8HpN6ank2owMczn3u9xQfPXRWPcaaI0A46EH2uPvhFkXjo6jARwtt1ORFkkasbCmPhSsPJW1Gd3cQJltw==",
-        "icono": "https://i.ibb.co/KFGxsLf/PktzDCH.png"
-      },
-	    {
-        "name": "LA RED",
-        "uri": "XoegEu5WMHaJYVyFmtIkAXdyDuM5Tf+jP3qO0s+3ryZ7YE//2i8x2+TDn7Ww/Tqbsmz6N4WAbqV5nBd7o7PRrv6EtRd7We8UEqxrJFuAFN4=",
-        "icono": "https://i.ibb.co/7YXDfVd/OIP-3.jpg"
-      },
-	    {
-        "name": "24 HORAS",
-        "uri": "uGV/P8HpN6ank2owMczn3u9xQfPXRWPcaaI0A46EH2vvZFVD8t5LByiZtb8Ef3nPtBAn93UxMiLKJMyBgCucAw==",
-        "icono": "https://i.ibb.co/FncDn9m/CEE9zPe.png"
-      },
-	    {
-        "name": "ANTOFAGASTA TV",
-        "uri": "XoegEu5WMHaJYVyFmtIkATyMsaiAuufUUTgKBUDqoir6xjz+o4XTVu6uuFzgEYasnR9tcG5VbT180PYIlk9OAQ==",
-        "icono": "https://i.ibb.co/dc4q1c9/channels4-profile-1.jpg"
-      },
-	    {
-        "name": "CNN CHILE",
-        "uri": "dCs8m5g2LGpl4aVjD1rkiOnlF6fYJD1/QY52gCezmsH4k4fDfdiq4HAmV6eYbd/NWN82qwaCxiLyyFHE+IoGZRC8BJMlT2FvV4TdpL3d/ZDR+JuGPT0C1DisHpCCrUd1e5zHvpx8E1gltiibye0glAt7e7ZxXK1SwR0NQUlQOzwxFBIHvgsdEd8oobY9GPiSCfKO6VpUp9L4Gem4t2Mb6jqQbyT7r79okfd+uaDGQNXqUkWtgg4kn0opchkWrO9x",
-        "icono": "https://i.ibb.co/Q8xdWSk/R.png"
-      },
-	    {
-        "name": "ADN",
-        "uri": "OIUpieJCXgJs4/KlnFdF9rrPyA7Mgq1ytTRAu8JRQICgH2rH3LlLNqkpFfDNOKDDT0pjokcbLf5UiqxFZ1CllIYta09S5K/Nd9OGr9EyJMquuIKppjY++uGCa0PoO2oLWDYdf/jVphs8SjQZ74HYH/2f3sWc/Pm9WnxC51iJomwyTCkEpHa7wdlSEvGvBUvm",
-        "icono": "https://i.ibb.co/PDTMK1g/OIP-4.jpg"
-      },
-	    {
-        "name": "CANAL PAÍS",
-        "uri": "jmy2tbmrOxYJoX71V8ErKk2tlydXWvBvzv4l3rvz5hLxbCACBY1FidbKn2Jf/IdEdR56/a5aLWozlV6bUlIVAA==",
-        "icono": "https://i.ibb.co/bP98Hzp/1402-Canal-Pais.jpg"
-      },
-	    {
-        "name": "BIO BIO TV",
-        "uri": "OIUpieJCXgJs4/KlnFdF9rrPyA7Mgq1ytTRAu8JRQIAar0iUPQsUzksFicf9qK80A/CGXDpmUpzgV2yCbaY0CEvHRvkqdd2GczB4a5avG+UXQmaw/vkQZnYswc747zCNI4BZfIuXMB3NyzB9NjMyF28aRUZCgTLOWSc6kfx9KGHrhsVIuP/5Ima2Gofx7k1B",
-        "icono": "https://i.ibb.co/gRgB22k/OIP-5.jpg"
-      },
-	    {
-        "name": "PORTAL TV",
-        "uri": "AnVJRIWYGDM4+xoWAvj22fb+oGveGel+Yo9vXtKMWaDhuIrKSk6xV1yhCmke6Q2eZ4t7GKB288BCwCkWNcG87Q==",
-        "icono": "https://i.ibb.co/tQGvh4p/OIP-6.jpg"
-      },
-	    {
-        "name": "STGO TV",
-        "uri": "/AUmqFd7JjJlGPsQnV4WttqUyDp907IxLIEsvJvj2HzKpdg61WV0E6AlRsRzBK5r",
-        "icono": "hhttps://i.ibb.co/0BsV0cD/OIP-7.jpg"
-      },
-	    {
-        "name": "TELETRAK",
-        "uri": "o0wpLTzopovjPIr2SbzekqqEeP/r3IdwDssq5tYInSztUwtYArPz82j691qzar87Y6xWax5HLb7y31rjb1kYjA==",
-        "icono": "https://i.ibb.co/WvX3zcC/teletrack.png"
-      },
-	    {
-        "name": "TV SENADO",
-        "uri": "Yz/bK+5K5sT1UDZIv/F0Z6pXXGsKRftj0ZLoveIqmpEqBmo+DH1YD6N97lT5Vexq3GjLobrtBkaKdAPbSotmkQTJHVIxvVjWZU1p2iwcEtXLsII/1gGT4kovJfgS/xDUJxaKYNf5x3dRLmJDomIro5xf5+7fw3G/TOKxBxoQ3AM=",
-        "icono": "https://i.ibb.co/SRbmPhb/channels4-profile.jpg"
-      },
-	    {
-        "name": "TVEX",
-        "uri": "EaxjWy90QS++P+4cMCgwMBZnnuIPzGt0ow4xK6zbmj1cx02WZRACsR8HunONkuvT",
-        "icono": "https://i.ibb.co/FVSpRjC/OIP-9.jpg"
-      },
-	     {
-        "name": "UESTV",
-        "uri": "BmkMD8dNlavNEXfUzFsCW1JTzjMBAPwYNnB/U9lE0khEfwoVSaOvS+7lKLtvETUc",
-        "icono": "https://i.ibb.co/FbdSPcx/OIP-10.jpg"
-      },
-	    {
-        "name": "TERROR TV",
-        "uri": "jUleW+RJtSoZ90flPuQ20MOmnuZajPtQdi9ow03AbLBOscotjB5b/CVp+rjL/TfGtj0VhoFjG61dLDlAvv98BA==",
-        "icono": "https://i.ibb.co/1b8hm69/OIP-11.jpg"
-      },
-	  {
-        "name": "TVR",
-        "uri": "OIUpieJCXgJs4/KlnFdF9koIz+LtT1Ol/YhG0KCSXlHbVqNdxTX0laut5bm6VSvT/oS1F3tZ7xQSrGskW4AU3g==",
-        "icono": "https://i.ibb.co/30SHwcF/53311917-1258469654318918-8926059123426983936-n.png"
-      },
-	    {
-        "name": "NUEVO TIEMPO",
-        "uri": "e6cTCs+YYvPhNze8ekqcMe1gGqNHh6CCTZEpWYrdammAWtvYLr/WZUg+Gdj+SndEDqIit7XB6hgYLlasmPrR+Kdbkg+6fnJNMdnpBygYSZg=",
-        "icono": "https://i.ibb.co/dtjvDK8/OIP-14.jpg"
-      },
-	    {
-        "name": "CLICKTV",
-        "uri": "EaxjWy90QS++P+4cMCgwMCIBYqkvCSe/wVPT+MTEwClLQEL7Y+DJjeW7E7hNe19Q",
-        "icono": "https://i.ibb.co/whYKrfj/channels4-profile-1.jpg"
-      },
-	    {
-        "name": "TNT SPORTS PREMIUM",
-        "uri": "yMDaYqk8NRYxp/wJu9Ne7GZt7wtuoW7GGpqutJ65DNhqh0w11Iq6I5xdZp5ywtuL",
-        "icono": "https://i.ibb.co/9W9wg5w/tnt-sports-premium4090-logowik.webp"
-      },
-	    {
-        "name": "TNT SPORTS",
-        "uri": "7ixVjiWscaSWR2aZXGmbn+XjRYmxuqTKV70HCnCyAVotvOhfdCBoIFNZRkKF+4U7",
-        "icono": "https://i.ibb.co/vPGgVkr/OIP-1.jpg"
-      },
-	    {
-        "name": "ESPN PREMIUM",
-        "uri": "mSAJ+hkd1MRmkgM4Gx1DES/OZo2jJTeZfuVTPJtWZe/WV+E0pvbK1OQi36VbcrZ+",
-        "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg"
-      }
-      ]
-    },
-	     {
-    "name": "🇪🇨CANALES DE ECUADOR",
-    "samples": [
-       
-	    {
-      "name": "ECUADOR TV",
-        "uri": "69yx7VELwD0giOKvjuAKdBZRjw+tnIp4NSptpgTfsXRgRimW0R6pCcQR2YbZdyghgfG427CuJHkiSjPUiVQWIA==",
-        "icono": "https://i.ibb.co/8PY5Gck/OIP-2.jpg"
-      },
-	    {
-        "name": "ECUAVISA",
-        "uri": "OIUpieJCXgJs4/KlnFdF9rrPyA7Mgq1ytTRAu8JRQID9WX6K2L9ObslORbaa+dKAxAFk++koNVdmb2T7EYDsPdPk+iALUn7Qv2oY83VMZu7nlP2edTkfb1FzLnk8yvNVnfDI0jmB6JD9KoCSCAN4UwjYyGkmU+8F4ty5ri30j8DRnT2oxc1ypdHddYJ7Cm4yUDLRyPOssiE6+Wx+Ri8sew==",
-        "icono": "https://i.ibb.co/pZ0HHyB/ecuavisa.png"
-	    },
-	    {
-        "name": "EL CANAL DEL FUTBOL",
-        "uri": "6p78SAc0hSxOyYOYWzmHvLPgZm4LUxh1HhzgBDE+sBEu71I/TLU0mEHSJacTYhILYmBhSQwIjC9B42OxlEwCFA==",
-        "icono": "https://i.ibb.co/gZs8046/OIP-1.jpg"
-	    },
-	    {
-        "name": "ECDF 2",
-        "uri": "tD7OETOuAS12QOVWDAhhtYH/7sSBEWkfJz/6za7o3GJyFaDq5wnsmR3HmI+UJf+o",
-        "icono": "https://i.ibb.co/gZs8046/OIP-1.jpg"
-	    }
-      ]
-  },
-	    {
-    "name": "🇧🇴CANALES DE BOLIVIA",
-    "samples": [
-       {
-        "name": "BOLIVIA TV",
-        "uri": "F02VTBeOfv+fOIcuIu/aBhvei5pbk9Kj4kPyqKCA8EcYBtbRB0K473JisVxxtxXF421mFad+2kDcDxCiahPru91HZ8kTBVt7TY0IH8CDMTU=",
-        "icono": "https://i.postimg.cc/fyrg7kQd/btv.jpg"
-      },
-	    {
-        "name": "BOLIVIA TV 2",
-        "uri": "bMtoniyQezbLPKKizYEuIDOSaxjs8eh5D9Y3q6QSKI4qODPQknghWGrIPQi3ExFTktrY9rcT2Tflo8TGFzzFsqkl0b4QE8s2DvuqW3nR+YI=",
-        "icono": "https://i.postimg.cc/fyrg7kQd/btv.jpg"
-      },
-	    {
-        "name": "BOLIVISIÓN",
-        "uri": "oNzXarQz6MHjS/lOodrpVe3ZHrtD8G1rCVe19d0rxghbL+fvIZef2rXt+tiVkFXwY6xWax5HLb7y31rjb1kYjA==",
-        "icono": "https://i.ibb.co/Nr60c4V/channels4-profile.jpg"
-      },
-	    {
-        "name": "UNITEL SANTA CRUZ",
-        "uri": "A2YEQfGzhDNb4njPvm5FiZ7NabllUgCE2FSytYXRndmSbiU3uTabxbu8uEtwCuK16532/KIUtqsXRSuPqA8Iz5HlKPxyiAJXoism6R5kZvkii3cmf/WHp4oocGxC/RbDeyOrSSOoTOtZKGdDqONZw5TkfKI1Dz60bfhZtOZWtLl7+rGCFqLKCNrUOrtcgNi9Twqybj1o88S7e6FT8V2bgPIPXz/squ1gKRz2FZwAXcKNUKmJuCyWpS1AthV9XKhbn+csck2kFFEa4D9yzjeXVSLWU2FN+YQ7aXgo7fNQxX0=",
-        "icono": "https://i.ibb.co/zPwR0GB/OIP-14.jpg"
-      },
-	         {
-        "name": "ATB",
-        "uri": "cdy/yKYngYTDmq9Heo58oNnY+m3VVabhJ/NbmypaN0sE6pdy4rsc5IT81GsQ0fxF",
-        "icono": "https://i.postimg.cc/90mrPFYc/ATB-B.jpg"
-      },
-	         {
-        "name": "CADENA A",
-        "uri": "3KDctjujZXmQflJGflomjlLrMu7lvaIw3q8bN60n1hVvajKMzw03kUcD9OnANGwxNvKPHTIyR10BX39NHltC+d1HZ8kTBVt7TY0IH8CDMTU=",
-        "icono": "https://i.ibb.co/DpLspVV/Cadena-A-Bolivia-en-VIVO-Online-en-Directo.png"
-      },
-	    {
-        "name": "TVU",
-        "uri": "ibM0MXIo8Bwewrs2/r2FnAx2toYKrY+jc4TH2pdU3o6ZUGkagoiLe0yNvmkNF4etNvvKdsqNi2zu8MwT0IAeoGeLexigdvPAQsApFjXBvO0=",
-        "icono": "https://i.postimg.cc/qM8pBdsL/tvu.jpg"
-      },
-	     {
-         "name": "RED UNO",
-        "uri": "A2YEQfGzhDNb4njPvm5FiZ7NabllUgCE2FSytYXRndmdRotwhBLzgnBeZvaMCi1LjpP+jBurfOZq8+4AuxKSznvgoudHunDqIwjXKRW6UqA4itnK3VWzIHYd6iDvvdTIAsnWN1mu0GCKCkPuoJFeItS7BtzhPAkWWfOSwgGkv7hbSd4OrYAn/R3eDlX63zZRTLDKYllxbHMkIWBtWawqyZuU3swdfpPImyXgDMOsovj0NUw5RrB+7Guc2BGB3+G+90YM8G25aPJqBmlu9C6kAw==",
-        "icono": "https://i.postimg.cc/44VDVQY4/red-uno.png"
-      },
-	       {
-      
-        "name": "RED ADVENIR",
-        "uri": "iwOQjo7PSkPyVkQBUyIXqsIs9D5v1+OhyooHgVOkaxwqGUDwfopu0zhPGsrNU2O8YUxbxaynxL1/NkLBBvVzIl30UhYHe5L3/nrqDFNjXcT+hLUXe1nvFBKsayRbgBTe",
-        "icono": "https://i.postimg.cc/KzyN2BxQ/advenr.jpg"
-      },
-	 
-	    {
-      
-        "name": "RED PAT SANTA CRUZ",
-        "uri": "5ih04trINoY9nalxs2Fkn1h+JBXUsDryF6e0Rn8v4vQYWGhZWU5Vt/2HayQlrCNlzqgJhZ6pQ6lvcR+7y6Pvnw==",
-        "icono": "https://i.ibb.co/DgTFcFB/qwlr9dl3-400x400.jpg"
-      }
-           ]
-  },
-	    {
-    "name": "🇨🇴CANALES DE COLOMBIA",
-    "samples": [
-        {
-      
-        "name": "CANAL CARACOL",
-        "uri": "7ixVjiWscaSWR2aZXGmbn0wXVyKKkNN3I0VT6AMZG/IZ3ewHLyxX/OtesVD1UsgH",
-        "icono": "https://i.postimg.cc/vZj7931v/caracoltv.jpg"
-      },
-	     
-	    {
-      
-        "name": "RCN CANAL",
-        "uri": "reDBr5VNDCP1kCrUn2WoRBiCl87utKHzZuPKcPEoOaWxY2/jOhxsfcBVfh6K40VYoHhQndtcbJcETvtxBPOr3lel383usU456UOxGw5GeLq1b5blT8f0vqkMONWEBkuNr9zAaARCEmpKfi+hu9HlcyQ+PnzNvEqnCPS23LhMC84h5pSPxiEjAigr5A8ky4tRhcV28O6c/TOqRnLbOPPhCiKvO6nCydLAiXZrtjMjcrlNgVDMOeDbor7teODbdR46tj0VhoFjG61dLDlAvv98BA==",
-        "icono": "https://i.postimg.cc/nch1m9zT/rcn.png"
-      },
-	      {
-      
-        "name": "SEÑAL COLOMBIA",
-        "uri": "JmIeJw+GncS2swaPyQ9qB9+MKSN8A5K7Z2gfHJ47bhJYjJ1FzKiwUC4C9mmix8vx+ouj6ymqfNo6QjdZJrbMfrJs+jeFgG6leZwXe6Oz0a7+hLUXe1nvFBKsayRbgBTe",
-        "icono": "https://i.postimg.cc/XqNq7GJX/se-al-colombia.jpg"
-      },
-	           {
-      
-        "name": "TELE PASIFICO",
-        "uri": "BVu8jqNZQkDoBrGtUmbVLYIuBB9xAcK07UsGJARcoAmfM1CLJewsk+RFTfuoHf3uxn8/jkIRmva4ZA2F3NJPk3hEPGmUcQvgZqSdcwjtZfLOBSm0hewoKJ7xiKJKZAapTutnJBFPeQd1c5dvHlIt4A==",
-        "icono": "https://i.postimg.cc/VkfxGqhJ/telepasifico.jpg"
-      },
-	      {
-      
-        "name": "CANAL CAPITAL",
-        "uri": "e+IUmUp7uJf474vokWplbgHfsCsqRale2jMEeerhMBGceSN1eZ1WohgTTpAIeA0BwXynB58CLSPpxJxzYMJgMg==",
-        "icono": "https://i.postimg.cc/Kvn8VY33/capitaltv.png"
-      },
-	          {
-      
-        "name": "TELE MEDELLIN",
-        "uri": "6wQ6KNLJsb7142S6ZOJRRZKZVdpRmtSHOh7B5/mawFadPQyuTV41CoFnT90YALqg",
-        "icono": "https://i.postimg.cc/CMkx8fsD/telemedellin.jpg"
-      },
-	       {
-      
-        "name": "RCN NUESTRATELE",
-        "uri": "kkNt7iYmhtB9lm9B39XLtTOTI94T7yVChb7jfEQEbLQ7AeP/u1NtXMRjZviK9I2W75gsPwM5xJ089OfWc9tBoQ==",
-        "icono": "https://i.postimg.cc/s2fB6qQr/descarga-7.png"
-      }
-	    ]
-  },
-	    {
-    "name": "🇵🇪CANALES DE PERÙ",
-    "samples": [
-         {
-      
-        "name": "EXITOSA TV",
-        "uri": "ZLBZYoF2Nu26/ur66yhLjML692OfAQ+zK5fzCDhWJpvj/yFng6YEWW45KMFHlhdDc180o7cgcWZQESgUp5yTD5NPNUjdFhql9knnxpg5JdUMl0EUbOdgqU3CbgyUCWsE",
-        "icono": "https://i.postimg.cc/J7sNB7qb/images-10.jpg"
-      },
-	    {
-      
-        "name": "TVPE",
-        "uri": "gYJdGyLBq+HHI8Q+WyNbZr1+8/e8VZ9451EL+ix6XmppJ0hCylDG4n/zgggacFHSA5WWWRIc30bV8H/mN8eT6c6oCYWeqUOpb3Efu8uj758=",
-        "icono": "https://i.postimg.cc/BQSTQZJF/TVPE.jpg"
-      },
-	    {
-      
-        "name": "TVPE NOTICIAS",
-        "uri": "gYJdGyLBq+HHI8Q+WyNbZlz4JRK8M968TadjREgvAmLiSkVJPA4DVOC0YBuk8/PZ7EvZQB0oYoYblFrjf5ttus6oCYWeqUOpb3Efu8uj758=",
-        "icono": "https://i.ibb.co/XjxJGTx/tv2.jpg"
-      },
-	    {
-      
-        "name": "WILLAX",
-        "uri": "c8dznZikVfQgSCCQfde+2gzJ9ufQKfpI89K0J0AavDu0JT/uJHSN9CJjaNrIYIcLMuplTFg/mO+stqatlpnqKVVe2uJ1qW2T4kWIm+EbgZI=",
-        "icono": "https://i.postimg.cc/FHPQZb2G/WILLAX.jpg"
-      },
-	     {
-      
-        "name": "PANAMERICANA",
-        "uri": "6wQ6KNLJsb7142S6ZOJRRZKZVdpRmtSHOh7B5/mawFZE2ra0kTk5PzcK5PvEfkK8",
-        "icono": "https://i.postimg.cc/bwTLzZCh/PANAMERICANA.jpg"
-      },
-	    {
-        "name": "LIKE TV",
-        "uri": "WUKBJPWn0w1zj1AyF4ulnKtxCyPuoQlZfVKW+4c1NuiZghQ0rueDtlW3Hr8KqKgSoAkZHIf4tW/7TDE8r0HioA==",
-        "icono": "https://i.ibb.co/BKw27Rd/5IwS0sJ.png"
-      },
-	    {
-        "name": "SOL TV",
-        "uri": "wiAkGw3wZWODbBGDIlaguDt91qEP/lMAMoJaYMbwzoaFpw7wO4CFC9UWBMda+tCg3UdnyRMFW3tNjQgfwIMxNQ==",
-        "icono": "https://i.ibb.co/TYVVCmp/GtNkuAc.png"
-      },
-	    
-	    {
-      
-        "name": "LATINA",
-        "uri": "OIUpieJCXgJs4/KlnFdF9rrPyA7Mgq1ytTRAu8JRQIBvfH0acxj3+Tx0KRjB0bXO9FjVlJvXQycnsYzZ4EcE874vyKCXnFbK9hXnCxTNMy9aVnRWd862vCVDfsfPXBO0smz6N4WAbqV5nBd7o7PRrv6EtRd7We8UEqxrJFuAFN4=",
-        "icono": "https://i.postimg.cc/FHKTLJZr/LATINA.png"
-      },
-	      
-	                {
-      
-        "name": "SEÑAL PERU",
-        "uri": "kwPdXBm30gq75oAAyJSIX5psRwcdidODsSIeUN9LuHqfPY1dVdlr5Mo2cq+af9/9k8n7GscMXQuXMVnYl+2kbg==",
-        "icono": "https://i.postimg.cc/7Z6d3RVT/SE-ALPERU-fotor-bg-remover-20240904224614.png"
-      },
-	            {
-      
-        "name": "ATV",
-        "uri": "+we77uu/wWrI1R7KFetri+P+NPnTs0gezJ9TPP2Zq08L3Iy8kDEtZ4K8Orw2xPe9rWLOD+A2ahRckbFfI80D/P6EtRd7We8UEqxrJFuAFN4=",
-        "icono": "https://i.postimg.cc/nzXFHyxy/descarga-9.jpg"
-      },
-	        {
-      
-        "name": "AMERICA",
-        "uri": "DKLhQNGfKt3MwglDLL8VLT4CHwl4XrB7REOpf29qAwmkugnu6PSvaTpTPY1VHtuHPmvSaguf65d/tGnvak2MtepS1dYMseKkPFgdjxQUB2A=",
-        "icono": "https://i.postimg.cc/Kzmp2rDM/america.jpg"
-      },
-	    {
-        "name": "GOL PERÚ",
-        "uri": "Y4WwEOiPL6iCZ60Sap2AXc8mcQ2K7GBTO1Ri0BWO2TvbpVH8qcubNOcq3e0FzBbQ",
-        "icono": "https://i.ibb.co/jvdQprM/hqdefault-live.jpg"
-      },
-	    {
-        "name": "LIGA 1",
-        "uri": "tD7OETOuAS12QOVWDAhhtYH/7sSBEWkfJz/6za7o3GJf0Zl3YZOZYLqskxmQj2je",
-        "icono": "https://i.ibb.co/Lp9Wbm7/Liga-de-F-tbol-Profesional-Liga-1-Per.jpg"
-      },
-            {
-        "name": "LIGA 1 MAX",
-        "uri": "zWWgqylBMoLPtWs3XniGqAeBW1YikD+vXDZw0iUpeyAFzeE3yJro3MEakHbO241A",
-        "icono": "https://i.ibb.co/m5MzCwV/Liga1max.png"
-      }	    
-	    ]
-  },
-	    {
-	   "name": "🇧🇷CANALES DE BRASIL",
-    "samples": [
-          {
-        "name": "SBT SP",
-        "uri": "o+NNapRXlKQwwwUTwJOeubDJ1qrpcS2g6zjAkQApN6eUa5njXMzRzuceShAbTCsFCmq2l5nfUg/mW9ryKvHZ+E7Y+r+M97ebKO9EIAnE5hRjrFZrHkctvvLfWuNvWRiM",
-        "icono": "https://i.postimg.cc/nrsPjtr0/sbt.jpg"
-      },
-	    {
-        "name": "RECORD",
-        "uri": "c8dznZikVfQgSCCQfde+2jD4fskfkOa6xmaP1KE0u26BOr0rP/TfMBOs9nMEeHE1WHvJ7d+i2t40a0P1Xy1Gd0ErqNF7Rf2zkwfEE/XBq8s=",
-        "icono": "https://yt3.googleusercontent.com/iUQqZPVMfTDE0ByCGHMQHRnUpJTOkOuyyD8P0wu3sDCx7EPenAKmNueijl3Y13zogxT902NVCg=s900-c-k-c0x00ffffff-no-rj"
-      },
-	    {
-        "name": "GLOBO JR",
-        "uri": "c8dznZikVfQgSCCQfde+2hzz1VBK1YEKfaw2tbDKyKVrCS7jCwmhO33cQfz8c17eBKz4bXayUjpN4B7ZrmkaOWOsVmseRy2+8t9a429ZGIw=",
-        "icono": "https://i.postimg.cc/43kJv4m9/Rede-Globo-Brasil.jpg"
-	    },
-	    {
-        "name": "CNN BRASIL",
-        "uri": "b5FAz+2y/dahCdhXJ2tvsf6LICOYzpwbh5B9f73vsLUUJMUByRFSR6RQw7AssmFN",
-        "icono": "https://i.ibb.co/kgnXDyV/OIP.jpg"
-	    },
-	    {
-        "name": "ANIMAL PLANET BRASIL",
-        "uri": "b5FAz+2y/dahCdhXJ2tvsSF3EbhXEIYp8/mHljQwAKtRTd8mqSRZbXKkrOjLkWRM",
-        "icono": "https://i.ibb.co/6w8FfsS/OIP-2.jpg"
-	    },
-	    {
-        "name": "A&E",
-        "uri": "b5FAz+2y/dahCdhXJ2tvsSF3EbhXEIYp8/mHljQwAKs+Qec5otn3eiyFSlmVUYQx",
-        "icono": "https://i.ibb.co/rf62TJb/OIP-3.jpg"
-	    },
-	    {
-        "name": "AXN",
-        "uri": "b5FAz+2y/dahCdhXJ2tvsf6LICOYzpwbh5B9f73vsLXstvOkzQwxW2CbitvDlq5U",
-        "icono": "https://i.ibb.co/PFD4k4f/OIP-8.jpg"
-	    },
-	    {
-        "name": "FASHION TV",
-        "uri": "b5FAz+2y/dahCdhXJ2tvsZlEVUIq9iK0xbln58Pzodr2H2HorW4SYLHNL5/LtFNJ",
-        "icono": "https://i.ibb.co/hZZRMQY/R.png"
-	    },
-	     {
-        "name": "GLOBO NEWS",
-        "uri": "b5FAz+2y/dahCdhXJ2tvsZlEVUIq9iK0xbln58Pzodo+Qec5otn3eiyFSlmVUYQx",
-        "icono": "https://i.ibb.co/bQm9sxN/OIP-4.jpg"
-	    },
-	    {
-        "name": "CINEMAX",
-        "uri": "b5FAz+2y/dahCdhXJ2tvsf6LICOYzpwbh5B9f73vsLWtNQAuOAS+J8h7gXg94Syo",
-        "icono": "https://i.ibb.co/h8NGvtW/OIP-5.jpg"
-	    },
-	    {
-        "name": "PARAMOUNT",
-        "uri": "b5FAz+2y/dahCdhXJ2tvsf6LICOYzpwbh5B9f73vsLXyxlpz5LK8RT5MBbBPzZVA",
-        "icono": "https://i.ibb.co/7nP8R6V/Untitled-design-12.png"
-	    },
-	    {
-        "name": "UNIVERSAL",
-        "uri": "b5FAz+2y/dahCdhXJ2tvsYI0USjeNpzWeQpmTsdtc8KCLK+MvNvimVJTPUTMGieM",
-        "icono": "https://i.ibb.co/YckQgDM/universal-tv-logo-vector-11573850411xchthbebsn.png"
-	    },
-	    {
-        "name": "HBO +",
-        "uri": "b5FAz+2y/dahCdhXJ2tvsY38Unye7JZgPXeRMMrHf6QUJMUByRFSR6RQw7AssmFN",
-        "icono": "https://i.ibb.co/vsnp4Rp/logohboplus2019.png"
-	    },
-	    {
-        "name": "HBO XTREME",
-        "uri": "b5FAz+2y/dahCdhXJ2tvsY38Unye7JZgPXeRMMrHf6QiM8AidLxQogyV5JrD6ka7",
-        "icono": "https://i.ibb.co/0GJ8wRw/OIP-6.jpg"
-	    },
-	    {
-        "name": "HBO FAMILY",
-        "uri": "b5FAz+2y/dahCdhXJ2tvsY38Unye7JZgPXeRMMrHf6SCLK+MvNvimVJTPUTMGieM",
-        "icono": "https://i.ibb.co/PzsHLTv/R-1.png"
-	    }
-]
-  },
 {
     "name": "🎥CANALES 24/7 VIP",
     "samples": [
