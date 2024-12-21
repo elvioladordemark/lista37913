@@ -939,7 +939,87 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHJ1agE9E+i6j/+a6GD61NBtmt7J5aGrK5LI9/nA21kB0QSa2pcCetd2TjTuzQm3pBJZBVhzDsWBxqIjf10AASgbMdTi2pAYZ9wEU6UTIPPhkagwLfj+VhSfUGLnlrTMLLQ==",
         "icono": "https://i.ibb.co/G3bDy9N/images-1.jpg"      
-      }    
+      } 
+	    	    ]
+  },
+	    {
+	   "name": "🇧🇷CANALES DE BRASIL",
+    "samples": [
+          {
+        "name": "SBT SP",
+        "uri": "o+NNapRXlKQwwwUTwJOeubDJ1qrpcS2g6zjAkQApN6eUa5njXMzRzuceShAbTCsFCmq2l5nfUg/mW9ryKvHZ+E7Y+r+M97ebKO9EIAnE5hRjrFZrHkctvvLfWuNvWRiM",
+        "icono": "https://i.postimg.cc/nrsPjtr0/sbt.jpg"
+      },
+	    {
+        "name": "RECORD",
+        "uri": "OcriGgK+cqHbcdzTYRsxVIM1j1tD5oBKNjdj/z6POm6IheRSlIA2n1vdwxCBXWsT",
+        "icono": "https://yt3.googleusercontent.com/iUQqZPVMfTDE0ByCGHMQHRnUpJTOkOuyyD8P0wu3sDCx7EPenAKmNueijl3Y13zogxT902NVCg=s900-c-k-c0x00ffffff-no-rj"
+      },
+	    {
+        "name": "GLOBO JR",
+        "uri": "46IetoGpvCCCwawqQ5WfVKtXKeDdoZw+75HjA347LG0IRjSR0CH+d9wBFocU8l///oS1F3tZ7xQSrGskW4AU3g==",
+        "icono": "https://i.postimg.cc/43kJv4m9/Rede-Globo-Brasil.jpg"
+	    },
+	    {
+        "name": "CNN BRASIL",
+        "uri": "b5FAz+2y/dahCdhXJ2tvsf6LICOYzpwbh5B9f73vsLUUJMUByRFSR6RQw7AssmFN",
+        "icono": "https://i.ibb.co/kgnXDyV/OIP.jpg"
+	    },
+	    {
+        "name": "ANIMAL PLANET BRASIL",
+        "uri": "OcriGgK+cqHbcdzTYRsxVG7fxu2rBHf+jBngb0uJBLhtvgMkVKRXQ6++pNIaHCaL",
+        "icono": "https://i.ibb.co/6w8FfsS/OIP-2.jpg"
+	    },
+	    {
+        "name": "A&E",
+        "uri": "b5FAz+2y/dahCdhXJ2tvsSF3EbhXEIYp8/mHljQwAKs+Qec5otn3eiyFSlmVUYQx",
+        "icono": "https://i.ibb.co/rf62TJb/OIP-3.jpg"
+	    },
+	    {
+        "name": "AXN",
+        "uri": "b5FAz+2y/dahCdhXJ2tvsf6LICOYzpwbh5B9f73vsLXstvOkzQwxW2CbitvDlq5U",
+        "icono": "https://i.ibb.co/PFD4k4f/OIP-8.jpg"
+	    },
+	    {
+        "name": "FASHION TV",
+        "uri": "b5FAz+2y/dahCdhXJ2tvsZlEVUIq9iK0xbln58Pzodr2H2HorW4SYLHNL5/LtFNJ",
+        "icono": "https://i.ibb.co/hZZRMQY/R.png"
+	    },
+	     {
+        "name": "GLOBO NEWS",
+        "uri": "b5FAz+2y/dahCdhXJ2tvsZlEVUIq9iK0xbln58Pzodo+Qec5otn3eiyFSlmVUYQx",
+        "icono": "https://i.ibb.co/bQm9sxN/OIP-4.jpg"
+	    },
+	    {
+        "name": "CINEMAX",
+        "uri": "b5FAz+2y/dahCdhXJ2tvsf6LICOYzpwbh5B9f73vsLWtNQAuOAS+J8h7gXg94Syo",
+        "icono": "https://i.ibb.co/h8NGvtW/OIP-5.jpg"
+	    },
+	    {
+        "name": "PARAMOUNT",
+        "uri": "b5FAz+2y/dahCdhXJ2tvsf6LICOYzpwbh5B9f73vsLXyxlpz5LK8RT5MBbBPzZVA",
+        "icono": "https://i.ibb.co/7nP8R6V/Untitled-design-12.png"
+	    },
+	    {
+        "name": "UNIVERSAL",
+        "uri": "b5FAz+2y/dahCdhXJ2tvsYI0USjeNpzWeQpmTsdtc8KCLK+MvNvimVJTPUTMGieM",
+        "icono": "https://i.ibb.co/YckQgDM/universal-tv-logo-vector-11573850411xchthbebsn.png"
+	    },
+	    {
+        "name": "HBO +",
+        "uri": "b5FAz+2y/dahCdhXJ2tvsY38Unye7JZgPXeRMMrHf6QUJMUByRFSR6RQw7AssmFN",
+        "icono": "https://i.ibb.co/vsnp4Rp/logohboplus2019.png"
+	    },
+	    {
+        "name": "HBO XTREME",
+        "uri": "b5FAz+2y/dahCdhXJ2tvsY38Unye7JZgPXeRMMrHf6QiM8AidLxQogyV5JrD6ka7",
+        "icono": "https://i.ibb.co/0GJ8wRw/OIP-6.jpg"
+	    },
+	    {
+        "name": "HBO FAMILY",
+        "uri": "b5FAz+2y/dahCdhXJ2tvsY38Unye7JZgPXeRMMrHf6SCLK+MvNvimVJTPUTMGieM",
+        "icono": "https://i.ibb.co/PzsHLTv/R-1.png"
+	    }
 	    ]
  },
 	
@@ -3059,86 +3139,7 @@
         "uri": "vV1LqGmqrpz3by8ctGzs9AQaa0PVfe6QEfRQ5LIOiLqddo+7cvsD1hs0KaTHJom0ccAhmbsr7u7XB1UpV4UuThiv60jEnVKHlGELyk/AB5Q=",
         "icono": "https://i.ibb.co/m5MzCwV/Liga1max.png"
       }	    
-	    ]
-  },
-	    {
-	   "name": "🇧🇷CANALES DE BRASIL",
-    "samples": [
-          {
-        "name": "SBT SP",
-        "uri": "o+NNapRXlKQwwwUTwJOeubDJ1qrpcS2g6zjAkQApN6eUa5njXMzRzuceShAbTCsFCmq2l5nfUg/mW9ryKvHZ+E7Y+r+M97ebKO9EIAnE5hRjrFZrHkctvvLfWuNvWRiM",
-        "icono": "https://i.postimg.cc/nrsPjtr0/sbt.jpg"
-      },
-	    {
-        "name": "RECORD",
-        "uri": "OcriGgK+cqHbcdzTYRsxVIM1j1tD5oBKNjdj/z6POm6IheRSlIA2n1vdwxCBXWsT",
-        "icono": "https://yt3.googleusercontent.com/iUQqZPVMfTDE0ByCGHMQHRnUpJTOkOuyyD8P0wu3sDCx7EPenAKmNueijl3Y13zogxT902NVCg=s900-c-k-c0x00ffffff-no-rj"
-      },
-	    {
-        "name": "GLOBO JR",
-        "uri": "46IetoGpvCCCwawqQ5WfVKtXKeDdoZw+75HjA347LG0IRjSR0CH+d9wBFocU8l///oS1F3tZ7xQSrGskW4AU3g==",
-        "icono": "https://i.postimg.cc/43kJv4m9/Rede-Globo-Brasil.jpg"
-	    },
-	    {
-        "name": "CNN BRASIL",
-        "uri": "b5FAz+2y/dahCdhXJ2tvsf6LICOYzpwbh5B9f73vsLUUJMUByRFSR6RQw7AssmFN",
-        "icono": "https://i.ibb.co/kgnXDyV/OIP.jpg"
-	    },
-	    {
-        "name": "ANIMAL PLANET BRASIL",
-        "uri": "OcriGgK+cqHbcdzTYRsxVG7fxu2rBHf+jBngb0uJBLhtvgMkVKRXQ6++pNIaHCaL",
-        "icono": "https://i.ibb.co/6w8FfsS/OIP-2.jpg"
-	    },
-	    {
-        "name": "A&E",
-        "uri": "b5FAz+2y/dahCdhXJ2tvsSF3EbhXEIYp8/mHljQwAKs+Qec5otn3eiyFSlmVUYQx",
-        "icono": "https://i.ibb.co/rf62TJb/OIP-3.jpg"
-	    },
-	    {
-        "name": "AXN",
-        "uri": "b5FAz+2y/dahCdhXJ2tvsf6LICOYzpwbh5B9f73vsLXstvOkzQwxW2CbitvDlq5U",
-        "icono": "https://i.ibb.co/PFD4k4f/OIP-8.jpg"
-	    },
-	    {
-        "name": "FASHION TV",
-        "uri": "b5FAz+2y/dahCdhXJ2tvsZlEVUIq9iK0xbln58Pzodr2H2HorW4SYLHNL5/LtFNJ",
-        "icono": "https://i.ibb.co/hZZRMQY/R.png"
-	    },
-	     {
-        "name": "GLOBO NEWS",
-        "uri": "b5FAz+2y/dahCdhXJ2tvsZlEVUIq9iK0xbln58Pzodo+Qec5otn3eiyFSlmVUYQx",
-        "icono": "https://i.ibb.co/bQm9sxN/OIP-4.jpg"
-	    },
-	    {
-        "name": "CINEMAX",
-        "uri": "b5FAz+2y/dahCdhXJ2tvsf6LICOYzpwbh5B9f73vsLWtNQAuOAS+J8h7gXg94Syo",
-        "icono": "https://i.ibb.co/h8NGvtW/OIP-5.jpg"
-	    },
-	    {
-        "name": "PARAMOUNT",
-        "uri": "b5FAz+2y/dahCdhXJ2tvsf6LICOYzpwbh5B9f73vsLXyxlpz5LK8RT5MBbBPzZVA",
-        "icono": "https://i.ibb.co/7nP8R6V/Untitled-design-12.png"
-	    },
-	    {
-        "name": "UNIVERSAL",
-        "uri": "b5FAz+2y/dahCdhXJ2tvsYI0USjeNpzWeQpmTsdtc8KCLK+MvNvimVJTPUTMGieM",
-        "icono": "https://i.ibb.co/YckQgDM/universal-tv-logo-vector-11573850411xchthbebsn.png"
-	    },
-	    {
-        "name": "HBO +",
-        "uri": "b5FAz+2y/dahCdhXJ2tvsY38Unye7JZgPXeRMMrHf6QUJMUByRFSR6RQw7AssmFN",
-        "icono": "https://i.ibb.co/vsnp4Rp/logohboplus2019.png"
-	    },
-	    {
-        "name": "HBO XTREME",
-        "uri": "b5FAz+2y/dahCdhXJ2tvsY38Unye7JZgPXeRMMrHf6QiM8AidLxQogyV5JrD6ka7",
-        "icono": "https://i.ibb.co/0GJ8wRw/OIP-6.jpg"
-	    },
-	    {
-        "name": "HBO FAMILY",
-        "uri": "b5FAz+2y/dahCdhXJ2tvsY38Unye7JZgPXeRMMrHf6SCLK+MvNvimVJTPUTMGieM",
-        "icono": "https://i.ibb.co/PzsHLTv/R-1.png"
-	    }
+
 ]
   },
  {
