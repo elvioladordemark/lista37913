@@ -2374,11 +2374,11 @@
 {
     "name": "🐢CULTURA",
     "samples": [
-	    {
+	{
         "name": "ANIMALPLANET",
         "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMTZej3GxxiDGXLDuet7Z0DeAfVgnkq1OympLLmjFkMsgO2lxr/4FQiPACzUQFjEYt/zO1e43wx1s+5Zk/0KF0WF",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5X8hQWEt2hC+VNm07cAhLBatBVPlesokHdV3cQAaj3W+LLuZojR60tCx7z9hCEFlQuo3szw/tAZHlDiizQTVURJleVqRLApoK0y8O4tYiyDs=",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNM0fLbLVyAzas/wL+5cNDaedgBzhopRtzI5B+uwCgDftJd6BusCTxYidvocEr3GcyvOERg7hbH8apUrMkR4DcfoAdt9LESCpSfYnofjegVSr3D6FcysZ084+NrU4xJ5hA==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png"
     },
     {
@@ -2388,54 +2388,53 @@
         "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5X8hQWEt2hC+VNm07cAhLBatBVPlesokHdV3cQAaj3W+LLuZojR60tCx7z9hCEFlQuo3szw/tAZHlDiizQTVURJleVqRLApoK0y8O4tYiyDs=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png"
     },
-	        {
+    {
         "name": "NATIONAL GEOGRAPHIC",
         "uri": "409o+Vetv8QGkL6/yUy7crRm6HXMmJavm8+syLr/ropLa9wplfbuoLQTv6XrokvdklspbBpeY3JGwpMksvRomw==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5X8hQWEt2hC+VNm07cAhLBatBVPlesokHdV3cQAaj3W+LLuZojR60tCx7z9hCEFlQuo3szw/tAZHlDiizQTVURJleVqRLApoK0y8O4tYiyDs=",
         "icono": "https://i.postimg.cc/7hHdcTxw/images-8.jpg"
     },
-     {
+    {
         "name": "HISTORY",
         "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMStVX0fldkmdgM+8rV1Wp/L5ludII3xyDDQI86vDvvR3QICi/dt0KdcufG515ZkYjU=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5An4KrDa5LUrIoWKFKH/xe6ABR6/ncfucWjG/K2jWrt31aK5jiOCo0kOLG2YmQfZZXFwAsIAGqzzgvWgDV+KDjqWHBEDRncMAwpM3GvCKHUk=",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDuzqp/0bM/NnqoBvzDigPr6U3mljJQN9WVrwYLI4Z9FICRoX22KTqreUuxzUWEp2giHvrmwXHTxhUoSD7wW2ZXgB5OQP08kFI5GPBGkpUFejqMASOGyDx8ciK7U/uqLYw==",
         "icono": "https://a-qiio.onrender.com/webp/logos/history.webp"
     },
     {
         "name": "HISTORY 2",
         "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMT1smpcdJ1wfXaGoShQrq4Y5aVaQC7SCIwpJR94rDRhNw==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5P2feI3D4Ibq+MYOorariv+8wlWOi9v+lHWzJBRcT2otPSLYoWny1DqJGwU5UsNbL+5xBYPFe0Y82SXSMzpRR7ZjdOFrBhTggW68H2yN4Q5c=",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDKauD99sydXgfT5+3dapVQ6i5YuJSXryeMqvUT+qls3BLhgEuzMQatOJejXbk0WOianhRg8itPlS0q0B0gapuXZi1gnsZS9CzAaej076Io3ciaITLfNniTTE2SizZ52Rrw==",
         "icono": "https://a-qiio.onrender.com/webp/logos/history2.webp"
     },
-  
     {
         "name": "DISCOVERY",
         "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMSdDizmewU+D1t2IKisrsE1+i/sQfYpimsab0jh0lRdpuYthD2zBCxnYhr+kiA4HN527jF8tVsJMEh9j/NlcER1",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5jt2Xit1H6QpI2H7VCf/LIAF+qcnEpKXXwih+lol6HUMl5Gz/xwMi8I3SllNvOocpizlUEjMZBRH7lamM+yXL63fBHMwtYhDWO2jMZ7pJnv4=",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDJVSCdR4GDx2jx7B10/gyP4rhlfeoVd5SiLsRRq5TpjWjvXCFFhiwXgqTFzhCSUSW+vSis1pgC49rptLC89BdUYewkulxkIeRc4eZ7DqpmDEKXKdlvFsxqE2+tK3qzsgug==",
         "icono": "https://a-qiio.onrender.com/webp/logos/discovery.webp"
     },
     {
         "name": "DISCOVERY ID",
         "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMQx85LTLq8XiHGdVbHjra88YrJtZeRYaii4d8YaUGzqDg==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5Mx5OqpJgsk8Lw2++7helD/UT4hS5pA3IgGFU34kw+d25zdqJ0DObrgWJzHkMmIYidof3R0Ih9vBUCqWZsIvsLV10aOcRsHj7k1mOFoAcjuQ=",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDLs7yU/v3EDdZpgxjyWIMnCplAjmyHVl5/CbdbOJEGdM4zuPGYkiMiiWWrdwJ7PaupLP28c+B6ZEq8Y/7sYFyWFjCycp7mUtU03gPDTIzrS/PkrFSHblRuLuztPlcOleGQ==",
         "icono": "https://a-qiio.onrender.com/webp/logos/optimized/id.webp"
     },
     {
         "name": "DISCOVERY SCIENCE",
         "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMTK3mRCYG2tIyO6vjjNEExIo5lwfMMC/bwiek1bt1raWuTuN2eAlhyzH+jiCRfJ0P4=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL57bAm/717PfNwr/RW6GZlYymhJiq1GGW4gnHG+ltofsawSvmkmc3tg/9a6P2CFqVWMM8ZayVJ/dureQnHFr3rod1lUbbHnDluvgDw1uBy6RM=",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDOnNs8auS2PuSH9vHZkn7qXicI2QT0O0IAxRjucEHYUIOl2gNobtQ9YzeBNVQ748VpDISWtmA5ybnjKHXW1UylWr82pK5qS52IPXpiQh4K8Cm31/PIiQCi2rL1xsqcgbRA==",
         "icono": "https://i.imgur.com/Kc4O2lp.png"
     },
     {
         "name": "DISCOVERY TURBO",
         "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMQPcbG1BpWTaIPQuyZNRKkX6p9EtKDhGWPneqpRH/oKkfM7V7jfDHWz7lmT/QoXRYU=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5gdEU//Wsc1wDa/VDrqPlLamA7T3zeoKieJfrXeoeypvT2Z6WRQMM51jBccMVihfMLq0phEjkq4Kz4MLqSUywk0Hm+vIZ4S5tVJw5rB/2KC0=",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDMH2xqOngPtt6kNU8gQofe6llnCslPoSTyDhTbO3LQsDZMNOHXbq1a2pKqZb1UKzcNpHHBocvznsh7ci6w7L69/64dTkHbYCPMlzxU4S9ZuK92dFZvMLF2uf8LDIlgC1PQ==",
         "icono": "https://a-qiio.onrender.com/webp/logos/turbo.webp"
     },
     {
@@ -2445,7 +2444,6 @@
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHO+GX9ddpUqDFqGyNvhmoGYejeF3yuiBEIs031yYXqolplgdCazyCRC90C7xf8uFPcpvhVk8PKgTrKGyULjxoYr7ndSvwCqiDNibe0aDlQOVWTaAn/WaRF2TcKQD00wE6Q==",
         "icono": "https://i.postimg.cc/cCKGrGXQ/ver-discovery-h-h-en-vivo.png"
     },
-   
     {
         "name": "DISCOVERY TEATER",
         "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3q93/tLUo9sjFHhtCl9uShrTvK0BzDTH+7gdxbM6+N8JyGOFt5tISxsxeAfjt87vOYe8LWhlNPUNE5nTpQxADGM",
@@ -2453,28 +2451,28 @@
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHA31GzYa8GYSf8HA1PifWJXXpU4bX8g2KLdV8O8REI1KKurlkjVM5mIFmiXkFP+rqg8RBYEM6duGJBnFIjAjjHD19Cc6MSRck9fY1s3r1WRjqfV0cb/OF2ZE+LdA8Pxt8Q==",
         "icono": "https://i.postimg.cc/cHFdvmZN/ver-discovery-theater-en-vivo.jpg"
     },
-     {
+    {
         "name": "DISCOVERY TEATER",
         "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMQRczMRIa7gpOx9UzpUC2GZn+wP2FPmBR2SWkb6UE/ohr9zDfhhAke0FTbqYuU1OYc=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5lTafgHD9ZJAFdr+g0MUhmQRVFPGR10TMn7Iee0DovTCWipO06D+gRgO7NHHKPcHmGH5Bv0NOsRgQJ5ho3VS5CMnFgF3r1fUAwlrYSfrgIb8=",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNv7g+GFKWyDQseZE0gwy/8XXPvgLmoFBClEPsHqGFiVHyttP2x6Pbg3SQvzCbqGvrBkafPR1VsaCu1fYTsFd574Nbd5s7pppy+r/awJdP81kNQBEkSv0x1vLt7XSpyQ7g==",
         "icono": "https://a-qiio.onrender.com/webp/logos/distheater.webp"
     },
     {
         "name": "DISCOVERY TLC",
         "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMS02Wyl0HuWvdmV2KA4+09n6ntsb8PIdoy8oxnAimCcnQ==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5oaezj5jQ0EEtC+IatUVdvsdcqV8qHUbDvU+LQdUl11uPnurgaIat3Js+wImjjWGXiuv6CSYj5WoeKK86WHhXQ82l8d8/jGid7t32y8XBpFs=",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDHUMQxIS3CIMX0kxLQg6vL76QldH/xhauD/hJVFUQsJRH6Wn5EJGXcn8p3B4VMM9nczbZ5OckHCLSo+VMvlU5VRjmKWe68XogbRE5eALDBlGbzISPw6RMGdIsjvSEXRhJQ==",
         "icono": "https://a-qiio.onrender.com/webp/logos/tlc.webp"
     },
     {
         "name": "DISCOVERY WORL",
         "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMSv/YXFmLx4M+RgbzMyBKIK5tRSXx4sLWitLgTY9/gxD/M7V7jfDHWz7lmT/QoXRYU=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5pwyu8Np713tulF1ZBRm9fgXndnhUQiOctrC7zP0oVV96t+S7slzJte4CVKEDqJNHb0PP0MH67w8XbjEQCo3VKHYSyzJt7FNkUV0QOeoZUU4=",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDLpqTjmnw58s0vzkLgpp2VyqPcVYRzrtADIEzQTFw9M7UYwm1KYxKzlNvBGsQ32+cTQ0CV7pzaeOTbIxfMUjcLnoYbrj7uPFRq1RRV2dzb4L2QmgHTAgoJ5ZspybcxF72w==",
         "icono": "https://a-qiio.onrender.com/webp/logos/disworld.webp"
     }
-	           ]
+]
   },
 {
     "name": "🎥CANALES 24/7 VIP",
