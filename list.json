@@ -2110,7 +2110,7 @@
     },
     {
         "name": "HBO 2 OPC 2(PROBAR SI NO FUNCIONA LA OTRA OPCION)",
-        "uri": "+sujMl4hGOKHl9bezZKmh3ME1ZTwi6JHcw7UI4E81ZywKqXiOn9UlsthOhmkM3w+",
+        "uri": "QcY7pPFsYdEPJCl80yaYj91HFWaNX0+Y+3BUoDWgKOB3j5/Jm3YRR9tgOrQoRPlBjHRVlqctwmYtqlRZTbrcXw==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDGc21Tdt7LpGvUFedAYTde3n0ysJjcIVIhZ56zfiXuCny5JKamZzOryzDBCtqxmSQ+ayLddsAqNGmP1UFcy7lUj9J9ykUoXH5p+6CuS40h8sV1pwPH47o0jSpA2UiezDdg==",
         "icono": "https://i.ibb.co/KsX2ZS9/ar-hbo-2-m.png"
@@ -2157,20 +2157,7 @@
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDBeKqrXfOikoCbtG09NWgctPYabIg1YIlGOpoGRTITnV+abm+lR4GpIYSw7iBDycgvSm1uhvyslHE1aiET7AiWs0WGmj6q00+qr038Zdpa61voGRlzKzbBfvxbedF20VJs5hQb6qV5Omwvl1edurSxs=",
         "icono": "https://i.ibb.co/FYgrpMP/ar-hbo-signature-m.png"
     },
-    {
-        "name": "HBO MUNDI",
-        "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMR2CDkY/JZ2Yd/E+hpzH/aUw5nKrgh1ycMjHY3zSBpWibjjdhogEk2qT4B8CYaMciY=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDsmuJUjAa8PFdz/opeNGL+QPfYMQGmxW51yboi9nsEW8RvjzS88xoqUaNwq0+0osNCDzo5y93Vpmi7i5a0DYqM+ru9scrOjqOKzAHiA043XbyE98ssOG9WVn8Karz8cYg==",
-        "icono": "https://i.ibb.co/dJjRPzB/ar-max-m.png"
-    },
-    {
-        "name": "HBO MUNDI OPC 2(PROBAR SI NO FUNCIONA LA OTRA OPCION)",
-        "uri": "c8dznZikVfQgSCCQfde+2u1yM09Zlih8lt0hzHRASmWI//sWr+g4URsoxkm6n2U27kvBvhEkhhDcNARL3KmcLg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDJ3nV8ifBJ1LJMwqIW31e1jFMjyXayTXBZTTyhH1yiWqaEbw7rZFcsKKJ6g9562vvcy/khnHk+8534arIsWU0fgUgPdDxW+qeZK6Jte4C4FkayWyCvd5CohScWoipotvQSH6avWbuExXj+sK+Yb0YE0=",
-        "icono": "https://i.ibb.co/dJjRPzB/ar-max-m.png"
-    },
+
     {
         "name": "HBO PLUS",
         "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMStv1BK9EWVvI+oGoEw5gNV6rBDVN6a3GT1y1KZqMVDOxLB1EsdQoWzdASG+k4noxA=",
