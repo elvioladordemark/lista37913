@@ -4,7 +4,13 @@
 
     "name": "🏆 TIGO SPORTS SOLO EVENTOS",
     "samples": [
-	
+	{
+                "name": "TIGO SPORTS EN VIVO",
+                "uri": "DAbYXc7ApfRmYjM0WT2D3UbnV0yUSg8mUZKZ5/OCB+k48e/yxmyp+uGCoBHgYqEkOAImdirrHnDNQks3fnMhJ5resj9TxLF1YxaV+cFRTtX4UnZXmWLnfSvkmed0VeepNx8cc4UflnZpiZgFw2i9DRRJSRUjR3fIf3Xz7ClUp8zTGpzhcG3Ul2EEi/KUQkX6dbLclssseqImYMZu4sr2sCu5eweCRr0Wp4C2o6JKTzAdcYLH9lgDPiNepN3neabiiJyN+dx7yh75sgFW7bd1U7Y9FYaBYxutXSw5QL7/fAQ=",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDIrwhNdaOJoX7bygWONAkRPIuEwrWOiFVzML9djQ7rqaDG+jCdUzdMWeDP5HbuvAVykMkCR2dphMy92bgCp+OcINh/wF15mhI4/JEKzKyHiSioUp22TUFxHelE2FrPB4Gw==",
+                "icono": "https://i.postimg.cc/gcK9ctZs/descarga-20.jpg"
+	}
 	    {
                 "name": "EVENTOS PLAY TV PY ACTUALIZADO FULL HD",
                 "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefhgLY4CxV7wK70WaSmiQooV88nxgbUaIQohU1uGcKtGfzORBZhM+UjpA83IgahKKt9yP6EODtz6ssMEfy7LPHS9",
@@ -26,14 +32,8 @@
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDHlvdsvhmLJevI32Zt9GoAZSIm180eFTMClABP8/a9gpCJ//zWGQq7RCECCM+DuOBC+iCVAsKMo6Sw8iGetIFRFp5+jazDK5COs79r96RCwpidfbpcR44IWWQch3JEWdYw==",
                 "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
-	},
-	{
-                "name": "EVENTOS NACIONALES",
-                "uri": "DAbYXc7ApfRmYjM0WT2D3UbnV0yUSg8mUZKZ5/OCB+k48e/yxmyp+uGCoBHgYqEkOAImdirrHnDNQks3fnMhJ5resj9TxLF1YxaV+cFRTtX4UnZXmWLnfSvkmed0VeepNx8cc4UflnZpiZgFw2i9DRRJSRUjR3fIf3Xz7ClUp8zTGpzhcG3Ul2EEi/KUQkX6dbLclssseqImYMZu4sr2sCu5eweCRr0Wp4C2o6JKTzAdcYLH9lgDPiNepN3neabiiJyN+dx7yh75sgFW7bd1U7Y9FYaBYxutXSw5QL7/fAQ=",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDIrwhNdaOJoX7bygWONAkRPIuEwrWOiFVzML9djQ7rqaDG+jCdUzdMWeDP5HbuvAVykMkCR2dphMy92bgCp+OcINh/wF15mhI4/JEKzKyHiSioUp22TUFxHelE2FrPB4Gw==",
-                "icono": "KwE4eeLfMOaV7Q03rbLlF0bnV0yUSg8mUZKZ5/OCB+k48e/yxmyp+uGCoBHgYqEkvy+ojm4I03Mq4jaXsJM60zqpz4UFHY0zaCF0jyPmsoTjem4k9qXfA86YGKgoVGTZNx8cc4UflnZpiZgFw2i9DT2tXYbnNZP57Jg9UcJ9wY/P8AAzk3DpYxLjDL3vomrAKQlfzDM6Jx2mlXmifXSqB9lwUkBK6GhfqKgV1ouFmtAaP0wCt0AVUSzIgr85hbUXm9xXM6A6pWBcXGN19vg+2tAH9GtUAtDGJ4jkizc5wlg="
-	}	   
+	}
+		   
     ]
 	},
   {
