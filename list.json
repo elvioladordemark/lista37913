@@ -1615,8 +1615,9 @@
     "name": "🎥CANALES DE PELICULAS Y SERIES",
     "samples": [      
        
+
     {
-        "name": "GOLDEN",
+     "name": "GOLDEN",
         "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3oLlBXo+O0hTGj553ImDe91CgdlYUiH771fwaHFy0j4pba+RlYWQGUuZ662sHTxXTA=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDVhlejVg2RMFAXWbEdE2+uqAsH5jqueBD2LOfPy64W1WyOVoTC+UPCL1+3rIqRCMqyWldxoWAObbKgk0P/4wmveS+t3ToNva48NRFK0ISsXcN77Ilb5OO16M0/Fn1rEU2OsVmseRy2+8t9a429ZGIw=",
@@ -1692,7 +1693,7 @@
     },
     {
         "name": "CINECANAL OPC 2(PROBAR SI NO TE FUNCIONA LA OTRA)",
-        "uri": "https://gtechtecnologia.com/telelatino/play/44.m3u8",
+        "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLZJQkHV4eOL4ExV7OdhmkKJtj0VhoFjG61dLDlAvv98BA==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDO4kjd8GHOL1ToY4IRNnkIfyL0D4g/G1uINEtE6FMnL7L9LQZSJ43gc1EivaiLb9MNOOqzQP742SnL97ZsOUlvHXrkoTRGVu3N/AT1U+BauEubeqDGUaABKhN5KyMt07Qc6DJEKeI1HmOKGcCHZwf7E=",
         "icono": "https://i.ibb.co/9hpbZW7/ar-cinecanal-1-m.png"
@@ -1788,7 +1789,7 @@
     },
     {
         "name": "STAR CHANNEL OPC 2(PROBAR SI NO TE FUNCIONA LA OTRA)",
-        "uri": "https://gtechtecnologia.com/telelatino/play/42.m3u8",
+        "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLZwvp3ggucuJc814RwhfO1Ptj0VhoFjG61dLDlAvv98BA==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDGmKwjeFjj6otG/CLfgJMxsMFeaqgdULj/nHttNH1Kdr3g/ilczsg+X1r+pU4KXNiy9/qqiSd/E179zm+Qwps5j6+DfgtiCQuz7FXUOQDyiaqFlpjcuJB96kzmmmyxlsW46jAEjhsg8fHIiu1P7qi2M=",
         "icono": "https://i.ibb.co/c8ngzK0/T6-Xtj-Jp-V-400x400.jpg"
@@ -1802,7 +1803,7 @@
     },
     {
         "name": "SONY CHANNEL OPC 2(PROBAR SI NO TE FUNCIONA LA OTRA)",
-        "uri": "https://gtechtecnologia.com/telelatino/play/77.m3u8",
+        "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLbCRAYD9PA65o+yI03WQiUdtj0VhoFjG61dLDlAvv98BA==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNsxjpK24QSE5M/cOGBa3A0ZG76wiSpGgQ4CkBLsWG6u8RF7brZHhdXrCf7SK/xZSz6JDtR5m4YiykwguKG50tMwHkrB9jvxR6FBJbstwAI1ZXQarQcFUEeOxPE8y1qleHx1/xdfXMktsUBnUUZQk4Y=",
         "icono": "https://i.ibb.co/XD3Fc9t/Sony-Channel-Logo.png"
@@ -1814,7 +1815,6 @@
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDJwlfXCowt07Oc8NOHjYykOUOjvagayzpjjuQEypP5UaU8uhHysFzmrYZX43Nrs13xB6lavyeG4T//LxKbwcNRrRCeX4ph0DY+Vh3flkLnMH+Ko3e9PUyIgvFpgz7q3PwQ==",
         "icono": "https://i.ibb.co/sqF3Dsc/unnamed-8.jpg"
     },
- 
     {
         "name": "A&E",
         "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3raPb37HOCRWeevxZSxlR9JgH8YjByyKgFWAELWntfPZRSWnkvAPJZOfMJUxIH7v1o=",
@@ -1822,7 +1822,6 @@
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDAIRq7XRe4LW+ivPQP969bimDpX6pxWzELKFS9oWexY8QTBYUUNnkZ12tNOOHfX1pABMd5aUS9CeCSKlk2draI+WY1XBbfp4IQ4rPmG9DfFAJv3K8Xrha8QJwFUF5D0i7Q==",
         "icono": "https://i.ibb.co/7nbf44D/i-Vrvs-XOo-400x400.jpg"
     },
-
     {
         "name": "TBS",
         "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3qIZPHy6Tq9IW/xbdJfVqT4KMoy6AAZ94jqTWgSKYlJUF93wLG3zN/kC5h7K9VVMzo=",
@@ -1830,7 +1829,6 @@
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDEnhYqtM/pCEzg9boDqdth5lyjk15pr4nN1SF3nyFDjZL5QY45BNIzDGx3CewzvuUUc0UOp6VY2rrA7ITYnUZT3AppQ7hzCA59xhw02C6o+Km5EsYOClRcBreQqr0Vcggw==",
         "icono": "https://i.ibb.co/dKMvJGY/tbs-tv1490.jpg"
     },
-   
     {
         "name": "AMC",
         "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3oQ4NmXftLc7WYvyWlirDX1KMoy6AAZ94jqTWgSKYlJULMHwRc9FKyZgQ9bouiasOY=",
@@ -1840,7 +1838,7 @@
     },
     {
         "name": "AMC OPC 2(PROBAR SI NO TE FUNCIONA LA OTRA)",
-        "uri": "https://gtechtecnologia.com/telelatino/play/82.m3u8",
+        "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLZ2HdRqDrBhZSJj7ty2Tucetj0VhoFjG61dLDlAvv98BA==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDMo5Sju0HlrR0AmIruBFAKvptcLDmk+Z/HvssXwt4Z55D5qSEo8vFOsaH/APei2LcSgEWII4KU63lU5lqU0UxRbDKNvgU1pvCCPtI2SWiTK6Axu/Ajsq/7JSBv/FH/ZICA==",
         "icono": "https://i.ibb.co/SstC2vr/IMV4-Vz3l-400x400.jpg"
@@ -1868,7 +1866,7 @@
     },
     {
         "name": "COMEDY CENTRAL OPC 2(PROBAR SI NO TE FUNCIONA LA OTRA)",
-        "uri": "https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10293.ts",
+        "uri": "2i0GplqtgWuUYo5CNQwYwAYmoO3KTfT+rAp2APBrjWPo7Rmlosq8s/QpsN8BQhNjsMmz8LhwEABpD9Yb56VfNg==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDJXDDK/zzhElmgRyOU/nf0am4dBzf69xeK5UHEM4WjK1kDcBz+q0KQZShJkir3eKbSCiv1BgaZKdb2rNZkYjmqsB0xuM6A4Ub+Ny/2v/gc6AtekO8cLK35rNVgZVrKg9GYQ8kT2Z1tvnkNQCZXCRrl8=",
         "icono": "https://i.ibb.co/G7RkmGT/ar-comedy-central-m.png"
