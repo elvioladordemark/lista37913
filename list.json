@@ -383,10 +383,19 @@
 	    }
     ]
 	 },
-	   
-  
+	  {
+    "name": "🏆 EVENTO SUPERCOPA ITALIANA",
+    "samples": [
+	     {
+        "name": "INTER vs MILAN",
+        "uri": "QcY7pPFsYdEPJCl80yaYj3H8JTfqtpVqfH5lfiipQkH2Xx7lPfYYfx/i5+GahBIpDH+R1Pe7VQ9kTChCZbbiaw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDPU7Iz65hMJ/eU+U7caCDFG8Hf51do3bcjTN+p/gtNrd+uiDpuv4rtAZmcE39dCsxCnwgEwl+Z5MmHPeKDZgmChhLVqLXM8VpHXYRd9Qj1fzSbqWmYrtAtPLvGDeJzwKJg==",
+        "icono": "https://i.ibb.co/kMcpSqx/logo.png"
+      }
+    ]
+	  },
 	   {
-
     "name": "🏆 TIGO SPORTS SOLO EVENTOS",
     "samples": [
 	{
