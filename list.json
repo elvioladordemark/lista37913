@@ -383,37 +383,6 @@
 	    }
     ]
 	 },
-	 {
-    "name": "🏆 PREMIER LEAGUE",
-    "samples": [
-	    {
-        "name": "WOLVERHAMPTON vs NOTTINGHAM FOREST",
-        "uri": "L0h+CqzxHHvc8VQ6fnRHXABXZps3JYhEo1saSVpdCIVB2nzEGebG0xlbaYOUDVMqplX69jlk7vxvpsqRn6vBcw7rUVjEVieIcS9Y/nxDqRJLAA1z96bZq9n+9cpJgaT3c3PDinVoBvfK7pQU6Z4haIM642BH68Jrq4PFzUM9W/U=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHBOyhqOxcvYWPb1dP6Ez1ImCS035+MxN4oAlx7P5toNhdByirfj2vyebrwwaFedaeGYIuQuhoPqV55nTEmiOhJLZOJc87rXj3q+v/jxFg7O54eOyN6eKu2PdOLDMw8SkIA==",
-        "icono": "https://i.ibb.co/xX8Sq2n/premier-league-logo.png"
-      },
-	    {
-                "name": "WOLVERHAMPTON vs NOTTINGHAM FOREST - OP. 2", 
-		"uri": "409o+Vetv8QGkL6/yUy7cmKw8yYj3eYzQH8mxr/oUt0sK/upLdPHi0FBBZgNCtFKIzkhN2/GHtWiTJ+d5fSSftAH9GtUAtDGJ4jkizc5wlg=",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHEingIHlgU/3nDID3Pwz3bgoP5ld5z344hMbK6hMgvoYtSZ9XS+okMXm2+T9tW3CYlVKNYt3/xvtvbCE73JhhCreVCiwmRU3L8QgyXgqDVw2RIEj7JwpYPSAameRnbvCAA==",
-                "icono": "https://i.ibb.co/xX8Sq2n/premier-league-logo.png"
-            }
-    ]
-	    },
-	  {
-    "name": "🏆 SUPERCOPA ITALIANA",
-    "samples": [
-	     {
-        "name": "INTER vs MILAN",
-        "uri": "QcY7pPFsYdEPJCl80yaYj3H8JTfqtpVqfH5lfiipQkH2Xx7lPfYYfx/i5+GahBIpDH+R1Pe7VQ9kTChCZbbiaw==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDPU7Iz65hMJ/eU+U7caCDFG8Hf51do3bcjTN+p/gtNrd+uiDpuv4rtAZmcE39dCsxCnwgEwl+Z5MmHPeKDZgmChhLVqLXM8VpHXYRd9Qj1fzSbqWmYrtAtPLvGDeJzwKJg==",
-        "icono": "https://i.ibb.co/kMcpSqx/logo.png"
-      }
-    ]
-	  },
 	   {
     "name": "🏆 TIGO SPORTS SOLO EVENTOS",
     "samples": [
