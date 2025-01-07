@@ -3058,71 +3058,87 @@
 {
     "name": "🎥CANALES 24/7 VIP",
     "samples": [
-     {
-      "name": "LOS SIMPSONS",
-        "uri": "Glemiw0p4pbxbwV+tzIqQ4UcjVRzJcLK48p0fQcUXy/8y2yIQKQWd/zuANk+koPhCy9hCsivIzqMO2XrC0XqV0i7tt8MyEHNdXXsuFpSTv4=",
-        "icono": "https://m.media-amazon.com/images/S/pv-target-images/16af05e8c93d21a9e8999206d8371a929c3348d6509907b7b18b982732bb748e._SX1080_FMjpg_.jpg"
-      }, 
-	         {
-      "name": "LOS SIMPSONS 2",
+    {
+        "name": "LOS SIMPSONS",
         "uri": "vV1LqGmqrpz3by8ctGzs9BLsTeQTrZs+XRfF2JcYD9AroAFvr2h+77cbXU6LhSa8uNIVw6FrFWeu+lON8GtXtQ==",
         "icono": "https://m.media-amazon.com/images/S/pv-target-images/16af05e8c93d21a9e8999206d8371a929c3348d6509907b7b18b982732bb748e._SX1080_FMjpg_.jpg"
-      }, 
- {
-      "name": "DRAGON BALL",
-        "uri": "vV1LqGmqrpz3by8ctGzs9BLsTeQTrZs+XRfF2JcYD9AroAFvr2h+77cbXU6LhSa8E+13dbiTtuIXPt+tFet8WA==",
+    },
+    {
+        "name": "DRAGON BALL",
+        "uri": "cQydcO6TKa5P4JbEZ5ReGIihgQe8nyZTQcZlQIHIguHlVdtrRepnAqGpNp/u4IoFZmPaZjqwY/24o56+RQ7+aAaM5BFVYI/ijBUXZSZijq4VKP3zgA4c6yWW6G8ZNbOJ18eXtzrrE2g8IcCcEvdrGRbBFQzqeUPoxJC8xht8FKgEyRQdNNCL3Sy4TNscDFOLIXzmvCif9l4ZOzqrnpu0ElZaGQCgi/0F/1hA3h4LxBC2uvbSdaFCWdfNx3rQNAuaxlJ1PCaGeinJKKXgMx5eVmjvpOaPyf0BCi4/6G4QNf8cNpQHjyKzugw7NzXVTws8Y6xWax5HLb7y31rjb1kYjA==",
         "icono": "https://i.postimg.cc/dQrmPcZV/dragonball.jpg"
-      },
-  {
-      "name": "DRGON BALL GT",
-        "uri": "Glemiw0p4pbxbwV+tzIqQ4UcjVRzJcLK48p0fQcUXy/8y2yIQKQWd/zuANk+koPh9cIRrB75057F2AMEFuBHPKdMNRpzRlJvuwgQ+V1l2FocJAi/BIBPEOheQSWygC5y",
+    },
+    {
+        "name": "DRGON BALL GT",
+        "uri": "cQydcO6TKa5P4JbEZ5ReGIihgQe8nyZTQcZlQIHIguHyVSyqJtxOzF/1UZj/HHJ7DGkAOGRHRVLLTLARPBH6SzGu9Mbd/fv/JKlv2AE7jWLsXkHC6OZkKRdRoFZ0RdKKqwQneRYq+9UTwGBCKux3u6fSC2uTGd+SV2BeH1SLgYYeuXXq+dvNqb8NkaqgA+Qj3fy1TCZNCdZPsSoL1P8NosJVI6Kpw9HGilhYVRoFtpTRrqPMOQQeL5HxLP7qFRYFcjZZoVIDe9sjgt55a9u7mQ==",
         "icono": "https://i.postimg.cc/RF6F5mPC/dragonball-GT.jpg"
-      },
-          
-{
-      "name": "DRGON BALL SUPER",
-        "uri": "Glemiw0p4pbxbwV+tzIqQ4UcjVRzJcLK48p0fQcUXy/8y2yIQKQWd/zuANk+koPhXTEIryRL3dq2q/wO6MeGpnOF8Yn4DdQHqW+LCuQCaTLbfQWl10R1u1JmwgjzEb9+",
+    },
+    {
+        "name": "DRGON BALL SUPER",
+        "uri": "cQydcO6TKa5P4JbEZ5ReGIihgQe8nyZTQcZlQIHIguEBL8+hE9h6MNQKbZ9fYMpPDGkAOGRHRVLLTLARPBH6S/B1Yw0YPlrWV53gQtrzhqDsXkHC6OZkKRdRoFZ0RdKKqwQneRYq+9UTwGBCKux3u6fSC2uTGd+SV2BeH1SLgYYeuXXq+dvNqb8NkaqgA+Qj3fy1TCZNCdZPsSoL1P8NosJVI6Kpw9HGilhYVRoFtpTRrqPMOQQeL5HxLP7qFRYFDo7+6Edw/JE73NifzQgOEw==",
         "icono": "http://imgfz.com/i/36uZ9fb.jpeg"
-      },
-
-
-
-      {
-      "name": "EL CHAPULIN COLORADO",
-        "uri": "Glemiw0p4pbxbwV+tzIqQ4UcjVRzJcLK48p0fQcUXy/8y2yIQKQWd/zuANk+koPhfM+Z/qIeIA1HEqwmmaDuwcnSOlx9WsP22cZwGpKL+o4=",
+    },
+    {
+        "name": "EL CHAPULIN COLORADO",
+        "uri": "cQydcO6TKa5P4JbEZ5ReGIihgQe8nyZTQcZlQIHIguFyhmRROE+jOs2malJ+JnPMDGkAOGRHRVLLTLARPBH6Sw8s0HcbjkXJSMNrIkyEbXTsXkHC6OZkKRdRoFZ0RdKKqwQneRYq+9UTwGBCKux3u6fSC2uTGd+SV2BeH1SLgYYeuXXq+dvNqb8NkaqgA+Qj3fy1TCZNCdZPsSoL1P8NosJVI6Kpw9HGilhYVRoFtpTRrqPMOQQeL5HxLP7qFRYF806jeI6r8JYkBREcOjcUnQ==",
         "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjR78mrOm9s_hg-PsixcSJ1Rcxa28xvUdiY7sa-AoIru7d6AM4"
-      },
-
-
-  
-      {
-      "name": "EL CHAVO DEL 8",
-        "uri": "Glemiw0p4pbxbwV+tzIqQ4UcjVRzJcLK48p0fQcUXy/8y2yIQKQWd/zuANk+koPhQzRt7m/YQQ1t8F59LzAgVcnQlGxPE2KuSN7UmL2U0M0=",
+    },
+    {
+        "name": "EL CHAVO DEL 8",
+        "uri": "cQydcO6TKa5P4JbEZ5ReGIihgQe8nyZTQcZlQIHIguHFmbM1vV7xcEkiGlM2tsQYDGkAOGRHRVLLTLARPBH6Sx+RgQEi7nuj5IvkxPi2ihDsXkHC6OZkKRdRoFZ0RdKKqwQneRYq+9UTwGBCKux3u6fSC2uTGd+SV2BeH1SLgYYeuXXq+dvNqb8NkaqgA+Qj3fy1TCZNCdZPsSoL1P8NosJVI6Kpw9HGilhYVRoFtpTRrqPMOQQeL5HxLP7qFRYFxkLZ07LD9sN2zE9Nk9uCthWW8L/ekuO0MgGl7shOEJJzemSRpNA8ld6/GGYQI+LuVuAe/PA+Meuklq0x4xUMsXFhKpIjNSS4Ic/Sv+30U9koW7apcVekl8CqOfLxiQ2T",
         "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8aBSvwA5eGpzwrB2elmFM9zsUWUyG1RImLV9sl0c8rqSf0PRx"
-      },
-{
-      "name": "EL CHAVO ANIMADO",
-        "uri": "vV1LqGmqrpz3by8ctGzs9BLsTeQTrZs+XRfF2JcYD9AroAFvr2h+77cbXU6LhSa8k8acGOwim7SN6xaYhtnL+Q==",
-        "icono": "https://i.postimg.cc/R0ghtRwy/unnamed.jpg"
-      },
-     {
-      "name": "CHESPIRITO",
-        "uri": "Glemiw0p4pbxbwV+tzIqQ4UcjVRzJcLK48p0fQcUXy/8y2yIQKQWd/zuANk+koPhUx0eXA5KjL3uqxye+Se5Bf6q75yYbMvnWoziROb1fnE=",
+    },
+    {
+        "name": "CHESPIRITO",
+        "uri": "cQydcO6TKa5P4JbEZ5ReGIihgQe8nyZTQcZlQIHIguEVKbHd5UJHp7EHRlNf1E5HDGkAOGRHRVLLTLARPBH6S/ZTmmewSsiaSKq0SfRrL+jsXkHC6OZkKRdRoFZ0RdKKqwQneRYq+9UTwGBCKux3u6fSC2uTGd+SV2BeH1SLgYYeuXXq+dvNqb8NkaqgA+Qj3fy1TCZNCdZPsSoL1P8NosJVI6Kpw9HGilhYVRoFtpTRrqPMOQQeL5HxLP7qFRYFOeiIvIORDKbpvSF1c/ckBw==",
         "icono": "https://www.telegratishd.com/imge/chespirito.png"
-      },
-     
-  
-     
-    
-         {
-      "name": "BEN 10",
-        "uri": "Glemiw0p4pbxbwV+tzIqQ4UcjVRzJcLK48p0fQcUXy/8y2yIQKQWd/zuANk+koPhQBunh1vIeBJhGrqFggBYKMl5zlGT3FezLFLFFu9k3XU=",
-        "icono": "https://m.media-amazon.com/images/M/MV5BYWVjODZjNDgtYjk4ZS00OTg5LTg5NDQtZDMxZDQ4ZmM5MGJmXkEyXkFqcGc@._V1_.jpg"
-      }
-         
-  
-         
- ]
+    },
+    {
+        "name": "BOB ESPONJA",
+        "uri": "cQydcO6TKa5P4JbEZ5ReGIihgQe8nyZTQcZlQIHIguEaNlNDz8c8/M5wKVhXzfaiBPAJXN4SggFlLiWiK8xq9a49FhX/Kequd0cNk4+1C0hdvYSUOZ8UDqtWfVBLTdWcagmoUkS6Cuk7hTn/dEgiO9mU3vuEwAyaGiNwR3wkoQlZQR7BzOFYSQPKZ0Ym/HifCAQ/HPj7v2EO/1LrlLe+LH71lIqqZnyiBx7jkKTE4DnCQI2D/75m8BGBNxfG9ivh0dMLPb9MJ6FtBPvvkZFKUQ==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP6lz0JwHzK_Fz5FpGhmIfWZtFtNcoYNUVRA&s"
+    },
+    {
+        "name": "NARUTO",
+        "uri": "cQydcO6TKa5P4JbEZ5ReGIihgQe8nyZTQcZlQIHIguEvHgkLev83FETXriABMjR1DGkAOGRHRVLLTLARPBH6S85cHTO2uJpQQy1lE2Y8sUvsXkHC6OZkKRdRoFZ0RdKKqwQneRYq+9UTwGBCKux3u6fSC2uTGd+SV2BeH1SLgYYeuXXq+dvNqb8NkaqgA+Qj3fy1TCZNCdZPsSoL1P8NosJVI6Kpw9HGilhYVRoFtpTRrqPMOQQeL5HxLP7qFRYFtNmbgBPk/yBbEHZYBcRsuA==",
+        "icono": "https://wallpapers.com/images/hd/naruto-profile-pictures-sa1tekghfajrr928.jpg"
+    },
+    {
+        "name": "LOS PICAPIEDRAS",
+        "uri": "cQydcO6TKa5P4JbEZ5ReGIihgQe8nyZTQcZlQIHIguGR7pUGysBcuGxBx80/+rP3DGkAOGRHRVLLTLARPBH6S4/hX8UQtBZw/HGNPEFi/wPsXkHC6OZkKRdRoFZ0RdKKqwQneRYq+9UTwGBCKux3u6fSC2uTGd+SV2BeH1SLgYYeuXXq+dvNqb8NkaqgA+Qj3fy1TCZNCdZPsSoL1P8NosJVI6Kpw9HGilhYVRoFtpTRrqPMOQQeL5HxLP7qFRYFM2ACRFnjTTy3UxTGOtihbg==",
+        "icono": "https://4.bp.blogspot.com/-SPI0kfHWIT0/UAxEYbaizfI/AAAAAAAAATY/SUE0Kj7KsFw/s1600/dibujos-animados-picapiedra.jpg"
+    },
+    {
+        "name": "THE WALKING DEAD",
+        "uri": "cQydcO6TKa5P4JbEZ5ReGIihgQe8nyZTQcZlQIHIguG83GSsm82Jctm6pcskDV58DGkAOGRHRVLLTLARPBH6Sw58n9iueZavBrcGqGVml9XsXkHC6OZkKRdRoFZ0RdKKqwQneRYq+9UTwGBCKux3u6fSC2uTGd+SV2BeH1SLgYYeuXXq+dvNqb8NkaqgA+Qj3fy1TCZNCdZPsSoL1P8NosJVI6Kpw9HGilhYVRoFtpTRrqPMOQQeL5HxLP7qFRYFyE9OQ6F9/T0BJdnux6pZQw==",
+        "icono": "https://m.media-amazon.com/images/M/MV5BYWQwMGRhNGEtZTNhMy00MzVjLWJhMjItYjcwMDljMTkyNTg2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "name": "Caso cerrado",
+        "uri": "cQydcO6TKa5P4JbEZ5ReGIihgQe8nyZTQcZlQIHIguHKcWx2TtfOx3nEquMliByQDGkAOGRHRVLLTLARPBH6S9Kuu4Rp3x8C42oZ4NV1zQHsXkHC6OZkKRdRoFZ0RdKKqwQneRYq+9UTwGBCKux3u6fSC2uTGd+SV2BeH1SLgYYeuXXq+dvNqb8NkaqgA+Qj3fy1TCZNCdZPsSoL1P8NosJVI6Kpw9HGilhYVRoFtpTRrqPMOQQeL5HxLP7qFRYFmMtOOU0Y6hwsZhzUcy6Dgw==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ53Luv5gr-Irga_tIiw1nQEo78rLPxkhQa5g&s"
+    },
+    {
+        "name": "Tom y jerry",
+        "uri": "cQydcO6TKa5P4JbEZ5ReGIihgQe8nyZTQcZlQIHIguHkk90NE90zMz+j0OdwXaKxDGkAOGRHRVLLTLARPBH6SxAOE8RtBgrnQrRmAJ7qMsDsXkHC6OZkKRdRoFZ0RdKKqwQneRYq+9UTwGBCKux3u6fSC2uTGd+SV2BeH1SLgYYeuXXq+dvNqb8NkaqgA+Qj3fy1TCZNCdZPsSoL1P8NosJVI6Kpw9HGilhYVRoFtpTRrqPMOQQeL5HxLP7qFRYFYPmz6u1BAZJoayQgFS6zHg==",
+        "icono": "https://wallpapers.com/images/featured/tom-y-jerry-2f5fbl2k3wwi31aq.jpg"
+    },
+    {
+        "name": "LOS PITUFOS",
+        "uri": "cQydcO6TKa5P4JbEZ5ReGIihgQe8nyZTQcZlQIHIguExkLzhqg4ilsDDqfhogFAhDGkAOGRHRVLLTLARPBH6SwM79CfBh+zvsihc5MOKEUvsXkHC6OZkKRdRoFZ0RdKKqwQneRYq+9UTwGBCKux3u6fSC2uTGd+SV2BeH1SLgYYeuXXq+dvNqb8NkaqgA+Qj3fy1TCZNCdZPsSoL1P8NosJVI6Kpw9HGilhYVRoFtpTRrqPMOQQeL5HxLP7qFRYFn1y9F55fqaqDa1gOanfZGA==",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4VUef0zWmqao-32_PIb6x_1gbbZILgG8Z4vvKy2-SmFOUY0gPF18PBqX2rxUNwwU0C5UCHg4FBvKL6J4Zdb9V5h318KTGD5aUYYz4mQ"
+    },
+    {
+        "name": "EL PAJARO LOCO",
+        "uri": "cQydcO6TKa5P4JbEZ5ReGIihgQe8nyZTQcZlQIHIguGyBRiyU2Vdnmjam/jcfM6ADGkAOGRHRVLLTLARPBH6S1efkolbGvgCdyJJMTAqj3XsXkHC6OZkKRdRoFZ0RdKKqwQneRYq+9UTwGBCKux3u6fSC2uTGd+SV2BeH1SLgYYeuXXq+dvNqb8NkaqgA+Qj3fy1TCZNCdZPsSoL1P8NosJVI6Kpw9HGilhYVRoFtpTRrqPMOQQeL5HxLP7qFRYFrpw9K4nIejAPLDIgF+G1ZA==",
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/a/ac/Woodywoodpecker201802.png/revision/latest?cb=20190720165708&path-prefix=es"
+    },
+    {
+        "name": "JHONNY BRAVO",
+        "uri": "cQydcO6TKa5P4JbEZ5ReGIihgQe8nyZTQcZlQIHIguG/2w4LkyIoIYHXrPdbqUHQDGkAOGRHRVLLTLARPBH6Sw0/VLMxEq1F+9AyshhoKKzsXkHC6OZkKRdRoFZ0RdKKqwQneRYq+9UTwGBCKux3u6fSC2uTGd+SV2BeH1SLgYYeuXXq+dvNqb8NkaqgA+Qj3fy1TCZNCdZPsSoL1P8NosJVI6Kpw9HGilhYVRoFtpTRrqPMOQQeL5HxLP7qFRYFN9Ekh7zjupIxf4APus+MDA==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9N_wL_ZMR5TKm-B-4D5I12_GLB8WPmoXLjw&s"
+    }
+]
   },
 
 {
