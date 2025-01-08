@@ -1,6 +1,40 @@
  [
  
-  
+ {
+    "name": "🏆 TIGO SPORTS SOLO EVENTOS",
+    "samples": [
+	{
+                "name": "TIGO SPORTS EN VIVO",
+                "uri": "+Ol/eg1DMEAzO8EhkLiOj0bnV0yUSg8mUZKZ5/OCB+kgXwY36lQ/uF/R2hQ8nkxkTYl2bgLKUMa0OtQQEH73ryiONmuQOUnWzB6CNNXgb44D2eLJkS9tWtvG11C66zRUNx8cc4UflnZpiZgFw2i9De69GA22eJdiJuyD1HjjGAzTGpzhcG3Ul2EEi/KUQkX6dbLclssseqImYMZu4sr2sF/5QheEOSbNPLiwJWNel1Sj6n+g4ZIEzyn9Mtkedu+kLnItmKC0zRmEx8iUW0DZZrY9FYaBYxutXSw5QL7/fAQ=",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDIrwhNdaOJoX7bygWONAkRPIuEwrWOiFVzML9djQ7rqaDG+jCdUzdMWeDP5HbuvAVykMkCR2dphMy92bgCp+OcINh/wF15mhI4/JEKzKyHiSioUp22TUFxHelE2FrPB4Gw==",
+                "icono": "https://i.postimg.cc/gcK9ctZs/descarga-20.jpg"
+	},
+	    {
+                "name": "EVENTOS PLAY TV PY ACTUALIZADO FULL HD",
+                "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefhgLY4CxV7wK70WaSmiQooV88nxgbUaIQohU1uGcKtGfzORBZhM+UjpA83IgahKKt9yP6EODtz6ssMEfy7LPHS9",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
+                "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+	    },
+	{
+                "name": "EVENTOS 2 PLAY TV PY HD",
+                "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefiXbo7LoLKwZdgdaiOu10NDAohmX8xcVDgb//53gq4uJZuydjiFSCozkFKwRXwB2gdyP6EODtz6ssMEfy7LPHS9",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDIrwhNdaOJoX7bygWONAkRPIuEwrWOiFVzML9djQ7rqaDG+jCdUzdMWeDP5HbuvAVykMkCR2dphMy92bgCp+OcINh/wF15mhI4/JEKzKyHiSioUp22TUFxHelE2FrPB4Gw==",
+                "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+	},
+	   
+	    	{
+                "name": "EVENTOS 3 PLAY TV PY HD",
+                "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefi3Hc8fMSqqkwmfIxqcQHpbLO0p86Q+R+d0GQRJUoYJeJuRTMO2+OX1k+bhWFq4zkxyP6EODtz6ssMEfy7LPHS9",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDHlvdsvhmLJevI32Zt9GoAZSIm180eFTMClABP8/a9gpCJ//zWGQq7RCECCM+DuOBC+iCVAsKMo6Sw8iGetIFRFp5+jazDK5COs79r96RCwpidfbpcR44IWWQch3JEWdYw==",
+                "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+	}
+		   
+    ]
+	}, 
   {
     "name": "🧑🏻‍🎄 ESPECIAL NAVIDAD",
     "samples": [
@@ -383,41 +417,7 @@
 	    }
     ]
 	 },
-	   {
-    "name": "🏆 TIGO SPORTS SOLO EVENTOS",
-    "samples": [
-	{
-                "name": "TIGO SPORTS EN VIVO",
-                "uri": "+Ol/eg1DMEAzO8EhkLiOj0bnV0yUSg8mUZKZ5/OCB+kgXwY36lQ/uF/R2hQ8nkxkTYl2bgLKUMa0OtQQEH73ryiONmuQOUnWzB6CNNXgb44D2eLJkS9tWtvG11C66zRUNx8cc4UflnZpiZgFw2i9De69GA22eJdiJuyD1HjjGAzTGpzhcG3Ul2EEi/KUQkX6dbLclssseqImYMZu4sr2sF/5QheEOSbNPLiwJWNel1Sj6n+g4ZIEzyn9Mtkedu+kLnItmKC0zRmEx8iUW0DZZrY9FYaBYxutXSw5QL7/fAQ=",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDIrwhNdaOJoX7bygWONAkRPIuEwrWOiFVzML9djQ7rqaDG+jCdUzdMWeDP5HbuvAVykMkCR2dphMy92bgCp+OcINh/wF15mhI4/JEKzKyHiSioUp22TUFxHelE2FrPB4Gw==",
-                "icono": "https://i.postimg.cc/gcK9ctZs/descarga-20.jpg"
-	},
-	    {
-                "name": "EVENTOS PLAY TV PY ACTUALIZADO FULL HD",
-                "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefhgLY4CxV7wK70WaSmiQooV88nxgbUaIQohU1uGcKtGfzORBZhM+UjpA83IgahKKt9yP6EODtz6ssMEfy7LPHS9",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
-                "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
-	    },
-	{
-                "name": "EVENTOS 2 PLAY TV PY HD",
-                "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefiXbo7LoLKwZdgdaiOu10NDAohmX8xcVDgb//53gq4uJZuydjiFSCozkFKwRXwB2gdyP6EODtz6ssMEfy7LPHS9",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDIrwhNdaOJoX7bygWONAkRPIuEwrWOiFVzML9djQ7rqaDG+jCdUzdMWeDP5HbuvAVykMkCR2dphMy92bgCp+OcINh/wF15mhI4/JEKzKyHiSioUp22TUFxHelE2FrPB4Gw==",
-                "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
-	},
 	   
-	    	{
-                "name": "EVENTOS 3 PLAY TV PY HD",
-                "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefi3Hc8fMSqqkwmfIxqcQHpbLO0p86Q+R+d0GQRJUoYJeJuRTMO2+OX1k+bhWFq4zkxyP6EODtz6ssMEfy7LPHS9",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDHlvdsvhmLJevI32Zt9GoAZSIm180eFTMClABP8/a9gpCJ//zWGQq7RCECCM+DuOBC+iCVAsKMo6Sw8iGetIFRFp5+jazDK5COs79r96RCwpidfbpcR44IWWQch3JEWdYw==",
-                "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
-	}
-		   
-    ]
-	},
   {
 
     "name": "🏆NACIONAL B EVENTOS",
