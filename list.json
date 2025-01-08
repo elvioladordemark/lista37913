@@ -1158,6 +1158,13 @@
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDEnhYqtM/pCEzg9boDqdth5lyjk15pr4nN1SF3nyFDjZL5QY45BNIzDGx3CewzvuUUc0UOp6VY2rrA7ITYnUZT3AppQ7hzCA59xhw02C6o+Km5EsYOClRcBreQqr0Vcggw==",
         "icono": "https://i.ibb.co/dKMvJGY/tbs-tv1490.jpg"
     },
+	    {
+        "name": "USA",
+        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3qIZPHy6Tq9IW/xbdJfVqT4KMoy6AAZ94jqTWgSKYlJUF93wLG3zN/kC5h7K9VVMzo=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDEnhYqtM/pCEzg9boDqdth5lyjk15pr4nN1SF3nyFDjZL5QY45BNIzDGx3CewzvuUUc0UOp6VY2rrA7ITYnUZT3AppQ7hzCA59xhw02C6o+Km5EsYOClRcBreQqr0Vcggw==",
+        "icono": "https://i.ibb.co/dKMvJGY/tbs-tv1490.jpg"
+    },
     {
         "name": "AMC",
         "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3oQ4NmXftLc7WYvyWlirDX1KMoy6AAZ94jqTWgSKYlJULMHwRc9FKyZgQ9bouiasOY=",
