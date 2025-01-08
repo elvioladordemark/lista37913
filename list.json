@@ -673,7 +673,6 @@
         "uri": "mSAJ+hkd1MRmkgM4Gx1DES/OZo2jJTeZfuVTPJtWZe/p84RPii+etTUzMmyCjjnH",
         "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
       },
-	
 	{
         "name": "TYC SPORT (PLAY 1)",
         "uri": "2YyrabDHKffFv3B97w1/ra/kduKWgpjJVy1Qv5pYbwI/E5Dgn4o41yNm4R4TWPouCXNgAtVjX61WcVDMeY2BqVkhiSMC6YQiWvmt8m7grReIheRSlIA2n1vdwxCBXWsT",
@@ -720,9 +719,40 @@
 	 "drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDHrYR4Cp8TxRvpY6HQd40g5UmiCf+bLutQttu0l8sUazj+q+0NOe1GlO035S7OFsgtUOQYuQR2kVXFvVf3uJz1xPcM3TvOoUBl/AuWCi6vhDdNnLYkTd4nkZmxg1QWpAn86DJEKeI1HmOKGcCHZwf7E=",
         "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png"
-      }
+       }
        ]
-  },
+       },
+	 {
+    "name": "⚽DEPORTES DIRECTV SPORTS",
+    "samples": [
+     
+	{
+        "name": "DIRECTV SPORTS 1",
+        "uri": "cQydcO6TKa5P4JbEZ5ReGIihgQe8nyZTQcZlQIHIguGjyeu6emgxByhWK/mK/uH5ENq8p3i652LwEuBLLvvhne+3pbctQSXax0oV6/joSLvcFtQ9K+kN76apBJwHHN6Vla3FbEm2SeNi3w1p7bxZ6KfSC2uTGd+SV2BeH1SLgYYeuXXq+dvNqb8NkaqgA+QjAH/2Ig2k3FfRVULe8EjebpaaoFtNcxyL+mUbz1U6MUVTHe4NyLu5JaoKD3V3sI1Ij9n/QQRoSdCvaEIiwW7yNA==",
+        "icono": "https://i.postimg.cc/L5MrJsXQ/images-4.jpg"
+      }, 
+      {
+        "name": "DIRECTV SPORTS 2",
+        "uri": "cQydcO6TKa5P4JbEZ5ReGIihgQe8nyZTQcZlQIHIguFWj77hZT8dZ43IRfufRsXQENq8p3i652LwEuBLLvvhnW2Sow7xWDAoa3yX1qLzjxncFtQ9K+kN76apBJwHHN6Vla3FbEm2SeNi3w1p7bxZ6KfSC2uTGd+SV2BeH1SLgYYeuXXq+dvNqb8NkaqgA+QjAH/2Ig2k3FfRVULe8EjebpaaoFtNcxyL+mUbz1U6MUVTHe4NyLu5JaoKD3V3sI1IHOvPH88g97UJyGsHB8vnug==",
+        "icono": "https://i.postimg.cc/L5MrJsXQ/images-4.jpg"
+      },
+      {
+        "name": "DIRECTV SPORTS PLUS",
+        "uri": "cQydcO6TKa5P4JbEZ5ReGIihgQe8nyZTQcZlQIHIguHcWrad+F5SVxwzhwOSR8JL5Ehfzc495QBEeW8qne82iT7oGfqBDKrHnvCOZN5Nik77AAIpmOFBuAX3fbaEkoer0GeDS7jYTUaFkJD7nhpp26LhlJA4AjOVj6S2AOqii4Ii6e+icpVbZ8nIRJoviZvtIXzmvCif9l4ZOzqrnpu0ElZaGQCgi/0F/1hA3h4LxBCBRLxSb2hxhz7kCkx0S8PS8CceYSlwieLKe6JzEccZUuuTq/mlJi1yzmCltbjWTHfZ97aCVn9RX7k57vHcE6FKY6xWax5HLb7y31rjb1kYjA==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png"
+      },
+	  {
+        "name": "DIRECTV SPORTS MOTOR",
+        "uri": "20HHjX3AdLKndGVBP7u9NRxrwBtMUbMOk3/+a95R9wylwwZEJN+gHAy3oxxSnlWABf/POXMcWEAOQDcnlV31UJUMBEQKk8f0YJzNFsKL3q0=",
+        "icono": "https://i.postimg.cc/JhwpzXSs/DIRECTV-MOTOR.png"
+      },
+	    {
+         "name": "DIRECTV SPORTS PELEA",
+        "uri": "20HHjX3AdLKndGVBP7u9NRxrwBtMUbMOk3/+a95R9wylwwZEJN+gHAy3oxxSnlWA3ocdRU6AyfblViCjraUV+zZOB9KA6GyEj03WR7WZHpA=",
+        "icono": "https://i.postimg.cc/zvrCmm2v/directv-pelea.jpg"
+      }    
+      ]
+      },
   {
     "name": "🧑🏻‍🎄 ESPECIAL NAVIDAD",
     "samples": [
@@ -1417,46 +1447,7 @@
        } 
 	        ]
   },
-
-      {
-    "name": "⚽DEPORTES DIRECTV",
-    "samples": [
-     
-	{
-        "name": "DIRECTV SPORTS 1",
-        "uri": "cQydcO6TKa5P4JbEZ5ReGIihgQe8nyZTQcZlQIHIguGjyeu6emgxByhWK/mK/uH5ENq8p3i652LwEuBLLvvhne+3pbctQSXax0oV6/joSLvcFtQ9K+kN76apBJwHHN6Vla3FbEm2SeNi3w1p7bxZ6KfSC2uTGd+SV2BeH1SLgYYeuXXq+dvNqb8NkaqgA+QjAH/2Ig2k3FfRVULe8EjebpaaoFtNcxyL+mUbz1U6MUVTHe4NyLu5JaoKD3V3sI1Ij9n/QQRoSdCvaEIiwW7yNA==",
-        "icono": "https://i.postimg.cc/L5MrJsXQ/images-4.jpg"
-      }, 
-      {
-      
-        "name": "DIRECTV SPORTS 2",
-        "uri": "cQydcO6TKa5P4JbEZ5ReGIihgQe8nyZTQcZlQIHIguFWj77hZT8dZ43IRfufRsXQENq8p3i652LwEuBLLvvhnW2Sow7xWDAoa3yX1qLzjxncFtQ9K+kN76apBJwHHN6Vla3FbEm2SeNi3w1p7bxZ6KfSC2uTGd+SV2BeH1SLgYYeuXXq+dvNqb8NkaqgA+QjAH/2Ig2k3FfRVULe8EjebpaaoFtNcxyL+mUbz1U6MUVTHe4NyLu5JaoKD3V3sI1IHOvPH88g97UJyGsHB8vnug==",
-        "icono": "https://i.postimg.cc/L5MrJsXQ/images-4.jpg"
-      },
-	  
-	       {
-      
-        "name": "DIRECTV SPORTS PLUS",
-        "uri": "cQydcO6TKa5P4JbEZ5ReGIihgQe8nyZTQcZlQIHIguHcWrad+F5SVxwzhwOSR8JL5Ehfzc495QBEeW8qne82iT7oGfqBDKrHnvCOZN5Nik77AAIpmOFBuAX3fbaEkoer0GeDS7jYTUaFkJD7nhpp26LhlJA4AjOVj6S2AOqii4Ii6e+icpVbZ8nIRJoviZvtIXzmvCif9l4ZOzqrnpu0ElZaGQCgi/0F/1hA3h4LxBCBRLxSb2hxhz7kCkx0S8PS8CceYSlwieLKe6JzEccZUuuTq/mlJi1yzmCltbjWTHfZ97aCVn9RX7k57vHcE6FKY6xWax5HLb7y31rjb1kYjA==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png"
-      },
-	  {
-      
-        "name": "DIRECTV SPORTS MOTOR",
-        "uri": "20HHjX3AdLKndGVBP7u9NRxrwBtMUbMOk3/+a95R9wylwwZEJN+gHAy3oxxSnlWABf/POXMcWEAOQDcnlV31UJUMBEQKk8f0YJzNFsKL3q0=",
-        "icono": "https://i.postimg.cc/JhwpzXSs/DIRECTV-MOTOR.png"
-      },
-	    {
-      
-        "name": "DIRECTV SPORTS PELEA",
-        "uri": "20HHjX3AdLKndGVBP7u9NRxrwBtMUbMOk3/+a95R9wylwwZEJN+gHAy3oxxSnlWA3ocdRU6AyfblViCjraUV+zZOB9KA6GyEj03WR7WZHpA=",
-        "icono": "https://i.postimg.cc/zvrCmm2v/directv-pelea.jpg"
-      }    
-   
-    ]
-  },
-
-       {
+ {
     "name": "⚽ BRASIL DEPORTES",
     "samples": [
     
