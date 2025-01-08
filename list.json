@@ -568,42 +568,6 @@
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDCmypJiydMAVcDyQkg8TQ1zT2dPgeX8mNbGCsw9w09Tjq2eldpnl5tYScpcYT+MY5H/B0Q303jK6P4BBRF6WZKuzvQLfOlvYCY9FZ02mDIsXGi4jyKs0TQJCjPQZ/aT7XA==",
                 "icono": "https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png"
             },
-	    {
-                "name": "ESPN MEXICO",
-                "uri": "xw6hYHzN05gDtNwbQQ8/T5Qb+d/sBYNL2ymWALfgLqZid6fJMUu8mCeJ2t5fgRV8T6Oi6vZkGNuH54NbwGPCaQ==",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
-                "icono": "https://i.ibb.co/105rnNR/logo-icon-vector-logos-icons-set-social-media-flat-banner-vectors-svg-eps-jpg-jpeg-paper-texture-glo.jpg"
-            },
-	    	    {
-                "name": "ESPN 2 MEXICO",
-                "uri": "xw6hYHzN05gDtNwbQQ8/TzZ7+eFnO1XTHCWz713qyHfo6OoR5xSmet+BsfvPyQJpdR56/a5aLWozlV6bUlIVAA==",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
-                "icono": "https://cdn.mitvstatic.com/channels/mx_espn-2_m.png"
-            },
-	    
-	    	    {
-                "name": "ESPN 3 MEXICO",
-                "uri": "xw6hYHzN05gDtNwbQQ8/T5Qb+d/sBYNL2ymWALfgLqaPxO8pRxmA8HmL28YPaBiedR56/a5aLWozlV6bUlIVAA==",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
-                "icono": "https://i.ibb.co/0QvsR5D/images-1.png"
-            },
-	    {
-                "name": "ESPN 4 MEXICO",
-                "uri": "bmYhlyNujYWRmXqaAyhuz8ZT85Fod7kpJcNcKXV8t8UHc0Fg7Dt2W/gAvayMpvtzVd/K9w34fB/agCaPIwOP1A==",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
-                "icono": "https://i.ibb.co/9vgCJX5/GExw-Ru3ac-AAXN7c-jpg-large.jpg"
-            },
-	    {
-                "name": "ESPN 5 MEXICO",
-                "uri": "tD7OETOuAS12QOVWDAhhtYH/7sSBEWkfJz/6za7o3GKcVJX8DX09UGdxSSCEhogP",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
-                "icono": "https://static.flow.com.ar/images/8897/CH_LOGO/60/40/0/0/5522598607348.png"
-            },
          {
         "name": "ESPN_PREMIUM", 
 	"uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3r2ZDCNrHicsoabKSE3TyC4/QGVTzm+a8RmpCJ46X0d2f/3h0ua6QjIehBK3TBmkMwN5N6/Zjqu53o11/4bjgTnXsOP5zbi4mtVAJRejLh7Sg==",    "drm_scheme": "clearkey",
