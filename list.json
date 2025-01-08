@@ -655,8 +655,73 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDTwhiDDfKqqehe+AmKkYAnYzoV+ftN0FTCX3By8sv9o5mPB+pKEP4XJMrwm50j2Urnfgu/7rw2noGq+d4r0wBcnvT0UrjAuw52E6rm4kXRcnAW52NAQxc23IcTrpeEheg==",
         "icono": "https://i.ibb.co/9V35PtY/Dise-o-sin-t-tulo-10.png"
-      } 
+         } 
          ]
+         },
+	 {
+    "name": "⚽ DEPORTES TYC Y TNT SPORTS",
+    "samples": [
+       {
+        "name": "TYC SPORTS",
+        "uri": "pr9G5SEnxuyF7nE44UW8ciNwsVRZJ6cyTZxjim2UzSOeagWo4GuEqsuD8uXJ5+WqgJCUpZ8iYhaM1JHkXYXDkned96FSPckkXxVcaUtyFBqMn0UQNMVZuAE96We2yWjZ",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDD8qp3fuvvRch1G6XcKB8w6ArRz5Nn1LKR2QZEJVJbTg/m7hmy7f6U6/ysk6Csi9GicFWzq5QKqbofQyrufmYgEGQLwJp+s1LGZ8O3mCU7sHdiQEKEnkEPVFLUaxMthglc6DJEKeI1HmOKGcCHZwf7E=",
+        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
+      },
+      {
+        "name": "TYC SPORT INTERNACIONAL",
+        "uri": "mSAJ+hkd1MRmkgM4Gx1DES/OZo2jJTeZfuVTPJtWZe/p84RPii+etTUzMmyCjjnH",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+      },
+	
+	{
+        "name": "TYC SPORT (PLAY 1)",
+        "uri": "2YyrabDHKffFv3B97w1/ra/kduKWgpjJVy1Qv5pYbwI/E5Dgn4o41yNm4R4TWPouCXNgAtVjX61WcVDMeY2BqVkhiSMC6YQiWvmt8m7grReIheRSlIA2n1vdwxCBXWsT",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+      },
+      {
+        "name": "TYC SPORT (PLAY 2)",
+        "uri": "QYbZwnTbEtD6bwcXnbCSsmTAnBnmveuk5dQbi1DU6KApfUL8AOplYf9Ts8sg3sz/zlm2+gMHxOC2jOT3PbKV8zQclLC29cOdE8vzpbPkVkrRwErk0osk+ELrJ7rN1hgJ",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+      },
+      {
+        "name": "TYC SPORT (PLAY 3)",
+        "uri": "bBv/Uj6vFQgZpIakzfkqDEw2mKHAOQhQ6yYdR36xiFRqnKJZEvQvDL+uBHJwkpdoY9nHxfeqgdgT2MQgeNE6C/dNablJGM4Euh2oPza3QtpVHxJz7F1mY9TUgNTl9N8Y",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+      },
+      {
+        "name": "TYC SPORT (PLAY 4)",
+        "uri": "QYbZwnTbEtD6bwcXnbCSsmTAnBnmveuk5dQbi1DU6KCeagWo4GuEqsuD8uXJ5+WqgJCUpZ8iYhaM1JHkXYXDkned96FSPckkXxVcaUtyFBp4B6GFV3iNQsADXPPYkyZc",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+      },
+      {
+        "name": "TYC SPORT (PLAY 5)",
+        "uri": "avitr8RFpm1wavKDZWTD9he6HLFcaYFPI0FXLkvg6v8X2qeQBQl3364csXwv5KX/eCe9hVu3pZvFXqit0tt5ICLykH8uJfpvoOpGuuCeMscF/ufNPWsvShR806kJuzrw",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+      },
+      
+      {
+        "name": "TNT SPORT HD",
+        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3qA6L9xSBC6uMzTQuUGndJPW/SgLjNQM8rb/L9FxAPxbJgFScRbujSxW+PuiVxpkyjHLwIaXDCrBXRvLjbQkJmR",
+	 "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDHrYR4Cp8TxRvpY6HQd40g5UmiCf+bLutQttu0l8sUazj+q+0NOe1GlO035S7OFsgtUOQYuQR2kVXFvVf3uJz1xPcM3TvOoUBl/AuWCi6vhDdNnLYkTd4nkZmxg1QWpAn86DJEKeI1HmOKGcCHZwf7E=",
+        "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png"
+      },
+	    {
+        "name": "TNT SPORT HD OPC. 2",
+        "uri": "QcY7pPFsYdEPJCl80yaYj3H8JTfqtpVqfH5lfiipQkH2Xx7lPfYYfx/i5+GahBIpuTcDZv2mqqxGxCYh+FfUpA==",
+	 "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDHrYR4Cp8TxRvpY6HQd40g5UmiCf+bLutQttu0l8sUazj+q+0NOe1GlO035S7OFsgtUOQYuQR2kVXFvVf3uJz1xPcM3TvOoUBl/AuWCi6vhDdNnLYkTd4nkZmxg1QWpAn86DJEKeI1HmOKGcCHZwf7E=",
+        "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png"
+      },
+    {
+        "name": "TNT SPORT HD OPC. 2",
+        "uri": "SXtLXtMFO8JMwzlXpEljiwALCFh1mnnGr2WST4jWGRb40HhZrYfxutclpq3TXxQ8",
+	 "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDHrYR4Cp8TxRvpY6HQd40g5UmiCf+bLutQttu0l8sUazj+q+0NOe1GlO035S7OFsgtUOQYuQR2kVXFvVf3uJz1xPcM3TvOoUBl/AuWCi6vhDdNnLYkTd4nkZmxg1QWpAn86DJEKeI1HmOKGcCHZwf7E=",
+        "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png"
+      }
+       ]
   },
   {
     "name": "🧑🏻‍🎄 ESPECIAL NAVIDAD",
@@ -1234,77 +1299,6 @@
       }
 
   ]
-  },
-
-
-      
-
-      
-
-      {
-    "name": "⚽DEPORTES TYC Y TNT SPORTS",
-    "samples": [
-       {
-        "name": "TYC SPORTS",
-        "uri": "pr9G5SEnxuyF7nE44UW8ciNwsVRZJ6cyTZxjim2UzSOeagWo4GuEqsuD8uXJ5+WqgJCUpZ8iYhaM1JHkXYXDkned96FSPckkXxVcaUtyFBqMn0UQNMVZuAE96We2yWjZ",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDD8qp3fuvvRch1G6XcKB8w6ArRz5Nn1LKR2QZEJVJbTg/m7hmy7f6U6/ysk6Csi9GicFWzq5QKqbofQyrufmYgEGQLwJp+s1LGZ8O3mCU7sHdiQEKEnkEPVFLUaxMthglc6DJEKeI1HmOKGcCHZwf7E=",
-        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
-      },
-      {
-        "name": "TYC SPORT INTERNACIONAL",
-        "uri": "mSAJ+hkd1MRmkgM4Gx1DES/OZo2jJTeZfuVTPJtWZe/p84RPii+etTUzMmyCjjnH",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
-      },
-	
-	{
-        "name": "TYC SPORT (PLAY 1)",
-        "uri": "2YyrabDHKffFv3B97w1/ra/kduKWgpjJVy1Qv5pYbwI/E5Dgn4o41yNm4R4TWPouCXNgAtVjX61WcVDMeY2BqVkhiSMC6YQiWvmt8m7grReIheRSlIA2n1vdwxCBXWsT",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
-      },
-      {
-        "name": "TYC SPORT (PLAY 2)",
-        "uri": "QYbZwnTbEtD6bwcXnbCSsmTAnBnmveuk5dQbi1DU6KApfUL8AOplYf9Ts8sg3sz/zlm2+gMHxOC2jOT3PbKV8zQclLC29cOdE8vzpbPkVkrRwErk0osk+ELrJ7rN1hgJ",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
-      },
-      {
-        "name": "TYC SPORT (PLAY 3)",
-        "uri": "bBv/Uj6vFQgZpIakzfkqDEw2mKHAOQhQ6yYdR36xiFRqnKJZEvQvDL+uBHJwkpdoY9nHxfeqgdgT2MQgeNE6C/dNablJGM4Euh2oPza3QtpVHxJz7F1mY9TUgNTl9N8Y",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
-      },
-      {
-        "name": "TYC SPORT (PLAY 4)",
-        "uri": "QYbZwnTbEtD6bwcXnbCSsmTAnBnmveuk5dQbi1DU6KCeagWo4GuEqsuD8uXJ5+WqgJCUpZ8iYhaM1JHkXYXDkned96FSPckkXxVcaUtyFBp4B6GFV3iNQsADXPPYkyZc",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
-      },
-      {
-        "name": "TYC SPORT (PLAY 5)",
-        "uri": "avitr8RFpm1wavKDZWTD9he6HLFcaYFPI0FXLkvg6v8X2qeQBQl3364csXwv5KX/eCe9hVu3pZvFXqit0tt5ICLykH8uJfpvoOpGuuCeMscF/ufNPWsvShR806kJuzrw",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
-      },
-      
-      {
-        "name": "TNT SPORT HD",
-        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3qA6L9xSBC6uMzTQuUGndJPW/SgLjNQM8rb/L9FxAPxbJgFScRbujSxW+PuiVxpkyjHLwIaXDCrBXRvLjbQkJmR",
-	 "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDHrYR4Cp8TxRvpY6HQd40g5UmiCf+bLutQttu0l8sUazj+q+0NOe1GlO035S7OFsgtUOQYuQR2kVXFvVf3uJz1xPcM3TvOoUBl/AuWCi6vhDdNnLYkTd4nkZmxg1QWpAn86DJEKeI1HmOKGcCHZwf7E=",
-        "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png"
-      },
-	    {
-        "name": "TNT SPORT HD OPC. 2",
-        "uri": "QcY7pPFsYdEPJCl80yaYj3H8JTfqtpVqfH5lfiipQkH2Xx7lPfYYfx/i5+GahBIpuTcDZv2mqqxGxCYh+FfUpA==",
-	 "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDHrYR4Cp8TxRvpY6HQd40g5UmiCf+bLutQttu0l8sUazj+q+0NOe1GlO035S7OFsgtUOQYuQR2kVXFvVf3uJz1xPcM3TvOoUBl/AuWCi6vhDdNnLYkTd4nkZmxg1QWpAn86DJEKeI1HmOKGcCHZwf7E=",
-        "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png"
-      },
-    {
-        "name": "TNT SPORT HD OPC. 2",
-        "uri": "SXtLXtMFO8JMwzlXpEljiwALCFh1mnnGr2WST4jWGRb40HhZrYfxutclpq3TXxQ8",
-	 "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDHrYR4Cp8TxRvpY6HQd40g5UmiCf+bLutQttu0l8sUazj+q+0NOe1GlO035S7OFsgtUOQYuQR2kVXFvVf3uJz1xPcM3TvOoUBl/AuWCi6vhDdNnLYkTd4nkZmxg1QWpAn86DJEKeI1HmOKGcCHZwf7E=",
-        "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png"
-      }
-       ]
   },
 	    {
     "name": "⚽BOLIVIA DEPORTES",
