@@ -1316,6 +1316,47 @@
     }
     ]
     },
+	 {
+        "name": "🎥PACK UNIVERSAL",
+        "samples": [
+   
+ {
+    "name": "UNIVERSAL CINEMA",
+    "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9618/CH_LOGO/512/512/0/0/72952746076947.png",
+    "drm_scheme": "clearkey",
+     "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHKafJ9HBzrE1Svj3ItJTuAj13fHBJXScptqKCv3Aepwx6BbVgwaZgbA51chIm3D0xXY68ictmdb2VyIK3WOM5tZxwICsLlDhFc0760zItGTcRZIgYniKjbaxEBW8FslgLw==",
+    "uri": "2i0GplqtgWuUYo5CNQwYwAYmoO3KTfT+rAp2APBrjWPo7Rmlosq8s/QpsN8BQhNjKEVqCVsflCO5jy/3pk0Tng=="
+  },
+{
+     "name": "UNIVERSAL COMEDY",
+     "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9620/CH_LOGO/42891751076948.png",
+     "drm_scheme": "clearkey",
+     "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHI1PZaASYaVkiqHNwXyszRAGT1DAvTsnYMSHRoOTINIIEUuDOo1+mzf7IBbcl6jqhvu1r1iVGzC0dKmr8HQSc8AZUWTvVPI7W+9MMfO1IgdlNpbh0L0xoxirJFul2rAY1w==",
+     "uri": "2i0GplqtgWuUYo5CNQwYwAYmoO3KTfT+rAp2APBrjWPo7Rmlosq8s/QpsN8BQhNj1L5DTUzo58Hecuul6iCQOQ=="
+  },
+  {
+    "name": "UNIVERSAL CRIME FLOW",
+    "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9621/CH_LOGO/19452290076949.png",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHN8RikIwbJajJA1ZLsl16yrepw9v1S8dLFkLGmZWwZfi0uukkCtyJFQRgfEOg6LsTpngk/2YutGDAeJ3k9qgWGtqVrgzQvt3Fp2BrGlXIPXLNpbh0L0xoxirJFul2rAY1w==",
+    "uri": "E+GzAjbNJgi9Ivi43A/FwEXvdtFxvH8QK+S64g5I3zixPDcot1T3fDhY+2l2RuHQcD1MjRKxk2jaP7n+5W0+JzC3kBnfSYr5nQ46Xyzipfr1cIuTKk9Q2yZxABnqVNT6"
+  },
+  {
+        "name": "UNIVERSAL PREMIERE",
+        "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9617/CH_LOGO/63649726076950.png",
+	"drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHHdIBrW5WDauPnJMTwQ9msdPKXvSs/eTFzZ/cYtIe+AFQGV39I6oFeoB2LfVRZ4qNTNzKfwZTthCRV7tFfTzEQ6xL0zp4L+0oSUwDZzmfEtcoExq1j2RG35pDSQfFabdlw==",
+        "uri": "2i0GplqtgWuUYo5CNQwYwAYmoO3KTfT+rAp2APBrjWPo7Rmlosq8s/QpsN8BQhNjAdju5/QGjjd8pfhVwX66BQ=="
+  },
+  {
+        "name": "UNIVERSAL REALITY FLOW",
+        "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9619/CH_LOGO/82170339076951.png",
+	"drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHD+kxQ+7Hv9MT2qbrt82AIp4q3uEgGmu2VUD5ExduDLLbfG3etxFAm44EtVVgr5Q3GGfz7431EYY09vIgGMC7FDteWcCrplaXkLZX2BpgPgGYtfxTH2+9qYkjQX4R1S96w==",
+    "uri": "E+GzAjbNJgi9Ivi43A/FwEXvdtFxvH8QK+S64g5I3zh+UqlR+dr1qZWYfo3aEPH4+Zla4M9+XXa/5jZtI4FwpKbRY3uXm+c1fl8SrpRJzCxR/ZqlaBSFDtHMBkCPEKCL"
+  }
+  ]
+  },
 	    {
     "name": "🧑🏻‍🎄 ESPECIAL NAVIDAD",
     "samples": [
@@ -1908,55 +1949,7 @@
 	
   
 	
- {
-        "name": "🎥PACK UNIVERSAL",
-        "samples": [
-   
- {
-    "name": "UNIVERSAL CINEMA",
-    
-    "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9618/CH_LOGO/512/512/0/0/72952746076947.png",
-  
-	"drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHKafJ9HBzrE1Svj3ItJTuAj13fHBJXScptqKCv3Aepwx6BbVgwaZgbA51chIm3D0xXY68ictmdb2VyIK3WOM5tZxwICsLlDhFc0760zItGTcRZIgYniKjbaxEBW8FslgLw==",
-    "uri": "2i0GplqtgWuUYo5CNQwYwAYmoO3KTfT+rAp2APBrjWPo7Rmlosq8s/QpsN8BQhNjKEVqCVsflCO5jy/3pk0Tng=="
-  },
-{
-    "name": "UNIVERSAL COMEDY",
-    
-    "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9620/CH_LOGO/42891751076948.png",
-  
-	"drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHI1PZaASYaVkiqHNwXyszRAGT1DAvTsnYMSHRoOTINIIEUuDOo1+mzf7IBbcl6jqhvu1r1iVGzC0dKmr8HQSc8AZUWTvVPI7W+9MMfO1IgdlNpbh0L0xoxirJFul2rAY1w==",
-    "uri": "2i0GplqtgWuUYo5CNQwYwAYmoO3KTfT+rAp2APBrjWPo7Rmlosq8s/QpsN8BQhNj1L5DTUzo58Hecuul6iCQOQ=="
-  },
-  {
-    "name": "UNIVERSAL CRIME FLOW",
-    "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9621/CH_LOGO/19452290076949.png",
-  
-	  "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHN8RikIwbJajJA1ZLsl16yrepw9v1S8dLFkLGmZWwZfi0uukkCtyJFQRgfEOg6LsTpngk/2YutGDAeJ3k9qgWGtqVrgzQvt3Fp2BrGlXIPXLNpbh0L0xoxirJFul2rAY1w==",
-    "uri": "E+GzAjbNJgi9Ivi43A/FwEXvdtFxvH8QK+S64g5I3zixPDcot1T3fDhY+2l2RuHQcD1MjRKxk2jaP7n+5W0+JzC3kBnfSYr5nQ46Xyzipfr1cIuTKk9Q2yZxABnqVNT6"
-  },
-  {
-    "name": "UNIVERSAL PREMIERE",
-    "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9617/CH_LOGO/63649726076950.png",
-	  "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHHdIBrW5WDauPnJMTwQ9msdPKXvSs/eTFzZ/cYtIe+AFQGV39I6oFeoB2LfVRZ4qNTNzKfwZTthCRV7tFfTzEQ6xL0zp4L+0oSUwDZzmfEtcoExq1j2RG35pDSQfFabdlw==",
-    "uri": "2i0GplqtgWuUYo5CNQwYwAYmoO3KTfT+rAp2APBrjWPo7Rmlosq8s/QpsN8BQhNjAdju5/QGjjd8pfhVwX66BQ=="
-  },
-  {
-    "name": "UNIVERSAL REALITY FLOW",
  
-    "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9619/CH_LOGO/82170339076951.png",
-	  "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHD+kxQ+7Hv9MT2qbrt82AIp4q3uEgGmu2VUD5ExduDLLbfG3etxFAm44EtVVgr5Q3GGfz7431EYY09vIgGMC7FDteWcCrplaXkLZX2BpgPgGYtfxTH2+9qYkjQX4R1S96w==",
-    "uri": "E+GzAjbNJgi9Ivi43A/FwEXvdtFxvH8QK+S64g5I3zh+UqlR+dr1qZWYfo3aEPH4+Zla4M9+XXa/5jZtI4FwpKbRY3uXm+c1fl8SrpRJzCxR/ZqlaBSFDtHMBkCPEKCL"
-  }
-
-      
-        ]
-    },
 {
     "name": "📺CANALES DE NOVELAS",
     "samples": [
