@@ -1366,23 +1366,6 @@
   ]
   },
 	    {
-    "name": "⚽BOLIVIA DEPORTES",
-    "samples": [
-       {
-        "name": "TIGO SPORTS 1",
-        "uri": "c8dznZikVfQgSCCQfde+2hzz1VBK1YEKfaw2tbDKyKVrCS7jCwmhO33cQfz8c17eihi9IiYhg+oRA8I1Id1oCg==",
-        "icono": "https://i.postimg.cc/J0MJ59XC/TIGOBO2.jpg"
-      },
-	      {
-      
-        "name": "TIGO SPORTS 3",
-        "uri": "HJm7W/hSLlLAFwcWSLumhrwxoX3ysyc3caFToqmk+lXw5v7AZ358N+S+oZMZ51ZY11XgmJ0vuDf3VZNu0LVSI2RnVOdP58AXOJAamDw2z0w=",
-        "icono": "https://i.postimg.cc/J0MJ59XC/TIGOBO2.jpg"
-      }
-       
-      ]
-  },
-	    {
     "name": "⚽ESPAÑA DEPORTES MOVISTAR",
     "samples": [
        
@@ -1422,12 +1405,9 @@
         "uri": "tD7OETOuAS12QOVWDAhhtYH/7sSBEWkfJz/6za7o3GKeA+khmDZJwreWenEKawH7",
         "icono": "https://i.ibb.co/mSmGHBW/tv-station-moviestar-liga-de-campeones-2-1460.png"
       }
-	  
-	   ]
-  },
-
-     
- {
+      ]
+      },
+{
     "name": "⚽ BRASIL DEPORTES",
     "samples": [
     
@@ -2630,9 +2610,9 @@
         "name": "ECDF 2",
         "uri": "tD7OETOuAS12QOVWDAhhtYH/7sSBEWkfJz/6za7o3GJyFaDq5wnsmR3HmI+UJf+o",
         "icono": "https://i.ibb.co/gZs8046/OIP-1.jpg"
-	    }
-      ]
-  },
+	}
+        ]
+        },
 	    {
     "name": "🇧🇴CANALES DE BOLIVIA",
     "samples": [
@@ -2677,20 +2657,27 @@
         "icono": "https://i.postimg.cc/44VDVQY4/red-uno.png"
       },
 	       {
-      
-        "name": "RED ADVENIR",
+         "name": "RED ADVENIR",
         "uri": "iwOQjo7PSkPyVkQBUyIXqsIs9D5v1+OhyooHgVOkaxwqGUDwfopu0zhPGsrNU2O8YUxbxaynxL1/NkLBBvVzIl30UhYHe5L3/nrqDFNjXcT+hLUXe1nvFBKsayRbgBTe",
         "icono": "https://i.postimg.cc/KzyN2BxQ/advenr.jpg"
       },
-	 
-	    {
-      
-        "name": "RED PAT SANTA CRUZ",
+	 {
+         "name": "RED PAT SANTA CRUZ",
         "uri": "5ih04trINoY9nalxs2Fkn1h+JBXUsDryF6e0Rn8v4vQYWGhZWU5Vt/2HayQlrCNlzqgJhZ6pQ6lvcR+7y6Pvnw==",
         "icono": "https://i.ibb.co/DgTFcFB/qwlr9dl3-400x400.jpg"
-      }
-           ]
-  },
+      },
+	    {
+        "name": "TIGO SPORTS 1",
+        "uri": "c8dznZikVfQgSCCQfde+2hzz1VBK1YEKfaw2tbDKyKVrCS7jCwmhO33cQfz8c17eihi9IiYhg+oRA8I1Id1oCg==",
+        "icono": "https://i.postimg.cc/J0MJ59XC/TIGOBO2.jpg"
+      },
+	      {
+        "name": "TIGO SPORTS 3",
+        "uri": "HJm7W/hSLlLAFwcWSLumhrwxoX3ysyc3caFToqmk+lXw5v7AZ358N+S+oZMZ51ZY11XgmJ0vuDf3VZNu0LVSI2RnVOdP58AXOJAamDw2z0w=",
+        "icono": "https://i.postimg.cc/J0MJ59XC/TIGOBO2.jpg"
+        }
+        ]
+        },
 	    {
     "name": "🇨🇴CANALES DE COLOMBIA",
     "samples": [
