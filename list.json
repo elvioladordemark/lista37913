@@ -1474,7 +1474,7 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png"
     },
     {
-        "name": "ANIMAL PLANET OPC2(PROBAR SI NO TE FUNCIONA LA OTRA)",
+        "name": "ANIMAL PLANET OPC. 2",
         "uri": "2i0GplqtgWuUYo5CNQwYwAYmoO3KTfT+rAp2APBrjWPo7Rmlosq8s/QpsN8BQhNjxN5/4EuMVqWySiycNwFHbg==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5X8hQWEt2hC+VNm07cAhLBatBVPlesokHdV3cQAaj3W+LLuZojR60tCx7z9hCEFlQuo3szw/tAZHlDiizQTVURJleVqRLApoK0y8O4tYiyDs=",
@@ -1488,7 +1488,7 @@
         "icono": "https://a-qiio.onrender.com/webp/logos/history.webp"
     },
     {
-        "name": "HISTORY OPC2(PROBAR SI NO TE FUNCIONA LA OTRA)",
+        "name": "HISTORY OPC. 2",
         "uri": "2i0GplqtgWuUYo5CNQwYwAYmoO3KTfT+rAp2APBrjWPo7Rmlosq8s/QpsN8BQhNjkYfsP1n933IqTQvSGBZm+Q==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHNW0JxsgG1cWHpnHoyZykzn8jQ6uQopYgpMtSsrV0ccMZe4A5cMXT4ujaZEbstxjXySXBqRc8zj2HlhyPW2YQm3eeErf25g/KuGyodjrPk4GRI5GWhNvXUmzICkuXtUbBQ==",
@@ -1502,7 +1502,7 @@
         "icono": "https://i.ibb.co/jkfB4HH/H2-logo.webp"
     },
     {
-        "name": "HISTORY 2 OPC2(PROBAR SI NO TE FUNCIONA LA OTRA)",
+        "name": "HISTORY 2 OPC. 2",
         "uri": "QcY7pPFsYdEPJCl80yaYj10d2hbAufv2wQY2hHyCxmPKBrBVYz12DcK7KzWS4aPmY6xWax5HLb7y31rjb1kYjA==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHJrx/FVr2MklmaQcYsD55GWBXudm1Q4mpaA568hW8q8xYaXs/Dm+SyH85Y8nxGZhalfYHM46Trdw+4uIdPILzast9hXF81obLgBMvusI+BF9DyYdYDN899s+BJtCvR5d2w==",
@@ -1513,14 +1513,21 @@
         "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3p6lrU97ZS233Myy73ybrSBsXWBlJ/VIAmLSSGxps4U47Xhd+Yk3Xafi/HBz866mG7SFsdI1TWmZynMGT6afuy/",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHJH4OluySIc9O1ThFp8IJB+VO9BYC0SGGP8kEAvfG5BGFG8g4s5YCgnCOept59xGxnX5cmQJxs3MsjPR9DXwS9xE9fLhxJBwnw5elDg9aKcoxcrcCyl27d7MosIqKnjgpA==",
-        "icono": "https://i.postimg.cc/CxP7YpTD/discovery-channel.png"
+        "icono": "https://a-qiio.onrender.com/webp/logos/discovery.webp"
     },
     {
-        "name": "DISCOVERY OPC 2(PROBAR SI NO FUNCIONA LA OTRA)",
+        "name": "DISCOVERY OPC 2",
         "uri": "8SQS7lloawhHz60rFK9i9L83yjIPGKwYcy61gS5lxMBCCoUlH5w95dQHJG49X+90",
         "drm_scheme": "clearkey",
         "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5jt2Xit1H6QpI2H7VCf/LIAF+qcnEpKXXwih+lol6HUMl5Gz/xwMi8I3SllNvOocpizlUEjMZBRH7lamM+yXL63fBHMwtYhDWO2jMZ7pJnv4=",
         "icono": "https://a-qiio.onrender.com/webp/logos/discovery.webp"
+    },
+	    {
+        "name": "NAT GEO",
+        "uri": "emZC10GV6GO5/tMTdsU9z8HGGUfzq7jWAZbfg9Wo1VFmoo/8NVTFeVrhmDet85G2ODrJttc1GBYzxWkcAp9izl5xm2rj9jYPpAGRewuoAFlWaZ/hxwY2bjIoZspOw1AycUYzbOkGu0Z+GJdyAuJY6sKE4lUyYvUWAm0TfqbF2FHv3BDiu/9IBUaSpAFRwq3ut8RvNZknIioIHXRM6DmKAi7kT06tvDkHQhFLmlD1UeFOVbkwzyNHa5ua6OihllYnxAqMPFEabKCVaMXO58pebf0sNf/rMoH4PUr5SBSUJYb5qgBUHScMDK/Q4GtN1Rrw/oS1F3tZ7xQSrGskW4AU3g==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHO+GX9ddpUqDFqGyNvhmoGYejeF3yuiBEIs031yYXqolplgdCazyCRC90C7xf8uFPcpvhVk8PKgTrKGyULjxoYr7ndSvwCqiDNibe0aDlQOVWTaAn/WaRF2TcKQD00wE6Q==",
+        "icono": "https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo-2005.jpg"
     },
     {
         "name": "DISCOVERY H&H",
@@ -1530,14 +1537,7 @@
         "icono": "https://i.postimg.cc/cCKGrGXQ/ver-discovery-h-h-en-vivo.png"
     },
 	       {
-        "name": "NAT GEO",
-        "uri": "emZC10GV6GO5/tMTdsU9z8HGGUfzq7jWAZbfg9Wo1VFmoo/8NVTFeVrhmDet85G2ODrJttc1GBYzxWkcAp9izl5xm2rj9jYPpAGRewuoAFlWaZ/hxwY2bjIoZspOw1AycUYzbOkGu0Z+GJdyAuJY6sKE4lUyYvUWAm0TfqbF2FHv3BDiu/9IBUaSpAFRwq3ut8RvNZknIioIHXRM6DmKAi7kT06tvDkHQhFLmlD1UeFOVbkwzyNHa5ua6OihllYnxAqMPFEabKCVaMXO58pebf0sNf/rMoH4PUr5SBSUJYb5qgBUHScMDK/Q4GtN1Rrw/oS1F3tZ7xQSrGskW4AU3g==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHO+GX9ddpUqDFqGyNvhmoGYejeF3yuiBEIs031yYXqolplgdCazyCRC90C7xf8uFPcpvhVk8PKgTrKGyULjxoYr7ndSvwCqiDNibe0aDlQOVWTaAn/WaRF2TcKQD00wE6Q==",
-        "icono": "https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo-2005.jpg"
-    },
-    {
-        "name": "DISCOVERY H&H OPC 2 (PROBAR SI NO FUNCIONA LA OTRA)",
+        "name": "DISCOVERY H&H OPC. 2",
         "uri": "8SQS7lloawhHz60rFK9i9L83yjIPGKwYcy61gS5lxMAxlj5zRKzwA0qUaCilbHl3",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHO+GX9ddpUqDFqGyNvhmoGYejeF3yuiBEIs031yYXqolplgdCazyCRC90C7xf8uFPcpvhVk8PKgTrKGyULjxoYr7ndSvwCqiDNibe0aDlQOVWTaAn/WaRF2TcKQD00wE6Q==",
@@ -1551,7 +1551,7 @@
         "icono": "https://dl.dropbox.com/scl/fi/brd4qtgk2223gmobtj0ui/DCX.jpg?rlkey=e4qy94y6huevaihwyo0rspzn0&dl=0"
     },
     {
-        "name": "DISCOVERY ID OPC 2(PROBAR SI NO FUNCIONA LA OTRA)",
+        "name": "DISCOVERY ID OPC. 2",
         "uri": "7ixVjiWscaSWR2aZXGmbn0wXVyKKkNN3I0VT6AMZG/IGmVBquyIBvSugcbqK2KkZ",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDIv713hqwGOejFgYNLk2sRszo49gQpVw23EbnTHtQ5iKGtiUnZD0CmpXmQTGG8Mb3/vUIGScW3SAbvn7wh8swHizYSIex0tUqBW4GXgQOJSqx4tiPTUsUSlE05sh/3Ltg==",
@@ -1572,21 +1572,21 @@
         "icono": "https://i.postimg.cc/sxtdWHNb/ver-discovery-turbo-en-vivo.jpg"
     },
     {
-        "name": "DISCOVERY TURBO OPC2(PROBAR SI NO TE FUNCIONA LA OTRA)",
+        "name": "DISCOVERY TURBO OPC. 2",
         "uri": "8SQS7lloawhHz60rFK9i9L83yjIPGKwYcy61gS5lxMAy2Eyk8nZuWXunbsij7lOC",
         "drm_scheme": "clearkey",
         "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5gdEU//Wsc1wDa/VDrqPlLamA7T3zeoKieJfrXeoeypvT2Z6WRQMM51jBccMVihfMLq0phEjkq4Kz4MLqSUywk0Hm+vIZ4S5tVJw5rB/2KC0=",
         "icono": "https://a-qiio.onrender.com/webp/logos/turbo.webp"
     },
     {
-        "name": "DISCOVERY TEATER",
+        "name": "DISCOVERY THEATER",
         "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3q93/tLUo9sjFHhtCl9uShrTvK0BzDTH+7gdxbM6+N8JyGOFt5tISxsxeAfjt87vOYe8LWhlNPUNE5nTpQxADGM",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHA31GzYa8GYSf8HA1PifWJXXpU4bX8g2KLdV8O8REI1KKurlkjVM5mIFmiXkFP+rqg8RBYEM6duGJBnFIjAjjHD19Cc6MSRck9fY1s3r1WRjqfV0cb/OF2ZE+LdA8Pxt8Q==",
         "icono": "https://i.postimg.cc/cHFdvmZN/ver-discovery-theater-en-vivo.jpg"
     },
     {
-        "name": "DISCOVERY THEATER OPC2(PROBAR SI NO TE FUNCIONA LA OTRA)",
+        "name": "DISCOVERY THEATER OPC. 2",
         "uri": "8SQS7lloawhHz60rFK9i9L83yjIPGKwYcy61gS5lxMDR9synHJTFxgHUKb43aVLo",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHA31GzYa8GYSf8HA1PifWJXXpU4bX8g2KLdV8O8REI1KKurlkjVM5mIFmiXkFP+rqg8RBYEM6duGJBnFIjAjjHD19Cc6MSRck9fY1s3r1WRjqfV0cb/OF2ZE+LdA8Pxt8Q==",
@@ -1600,7 +1600,7 @@
         "icono": "https://i.postimg.cc/cHFdvmZN/ver-discovery-theater-en-vivo.jpg"
     },
     {
-        "name": "DISCOVERY TLC OPC2(PROBAR SI NO TE FUNCIONA LA OTRA)",
+        "name": "DISCOVERY TLC OPC. 2",
         "uri": "cQydcO6TKa5P4JbEZ5ReGIihgQe8nyZTQcZlQIHIguGYU49WPkDYtYuT52j4nZDUIprw6DImGvDQv+13iGsB1+Y6K3o5lOiFBB9JA7VY0lLcFtQ9K+kN76apBJwHHN6Vla3FbEm2SeNi3w1p7bxZ6KfSC2uTGd+SV2BeH1SLgYYeuXXq+dvNqb8NkaqgA+QjAH/2Ig2k3FfRVULe8EjebpaaoFtNcxyL+mUbz1U6MUVTHe4NyLu5JaoKD3V3sI1I1Li26iAOvHnMcMCix5P/lg==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHF2J0JkkN2LXFEor7Zi+C7ehWd9eI/IViDtDi/HN5HlSx9SGj8UZu4vms68VvGczxGRFaOiZWaxjXb8Be+bYRm6gSfkJRhTHZEggV5pJ5mhsocClfYyiED13Oyky7MsatQ==",
@@ -1614,7 +1614,7 @@
         "icono": "https://i.postimg.cc/B6SqZzrg/ver-discovery-world-en-vivo.jpg"
     },
     {
-        "name": "DISCOVERY WORLD OPC 2(PROBAR SI NO FUNCIONA LA OTRA)",
+        "name": "DISCOVERY WORLD OPC. 2",
         "uri": "aj7Xt+fiT1+4PxnMIiF70tyh23AnpAnL+esnwc3ysR7jgGo1zFUi8b6EjpiLCzJytj0VhoFjG61dLDlAvv98BA==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5pwyu8Np713tulF1ZBRm9fgXndnhUQiOctrC7zP0oVV96t+S7slzJte4CVKEDqJNHb0PP0MH67w8XbjEQCo3VKHYSyzJt7FNkUV0QOeoZUU4=",
