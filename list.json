@@ -873,7 +873,12 @@
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDnuHFrmukKs6mMX0YzZpjktDvMQ8Ac3kUDk8mxmS4ZrK/jBD8zgdo5skNOE38sUJ2sF8S2gEhpBOHNQNosMh+dUhr+EpUAC1y2/Fl1Ot2O9",
                 "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg"
-	    },     
+	    },
+	    {
+        "name": "LA LIGA HYPERMOTION",
+        "uri": "jTcKYsDNr57p01WlMPMgBc4BZ8D1MCF+7UL6IlKShvOtX2IJpCwAPCrq9m7u3/cqU2SFC1tU3nqQDsoG6QRKlZlqNmsSL3+lhq4Ehi/toX4=",
+        "icono": "https://i.ibb.co/tbwDdc0/laliga-hypermotion-1o01jm81734gk1q7d95m42ejth.jpg"
+      },
 	    {
 	        "name": "EUROSPORTS 1",
                 "uri": "sC1+r3P6fwUKL95xTplweFnVacXkiDVn20+yJ/gDZ1KCLK+MvNvimVJTPUTMGieM",
@@ -1361,49 +1366,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHHLy9pcJ0NKlYbKY+jjaRcbsKgIAHXGsUaJsuzp2+1E6rWuqxztpxITGwJq3K00mnI3o/oY4dneBX0P7hM9wI+R0/+xZfAFKLQKlobiWcNIAnRPBceqDTKDngMEO3I2gzw==",
         "icono": "https://i.ibb.co/WD5sH68/flow-music-2.png"
-      }
-
-  ]
-  },
-	    {
-    "name": "⚽ESPAÑA DEPORTES MOVISTAR",
-    "samples": [
-       
-	{
-        "name": "LA LIGA TV",
-        "uri": "6p78SAc0hSxOyYOYWzmHvLPgZm4LUxh1HhzgBDE+sBGjJB+XHlM1ImIJqZw+9YiAClevNM5oWZsx3K0182Tnqg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHO0kn1GnjM64SrqMKkMHcri43Pij75Gtv2i+px40sDyHqF24DJPOYigp7A/tD8g4dKVe+clYFsrClSlepoK/SMe50HozVxSJXguoCQ2/BNtD+Y1CjwSqYn2igu8tSJVApw==",
-        "icono": "https://i.ibb.co/0r1xxLz/7nxm03-2-400x400.jpg"
-      },
-            {
-      
-        "name": "LA LIGA HYPERMOTION",
-        "uri": "jTcKYsDNr57p01WlMPMgBc4BZ8D1MCF+7UL6IlKShvOtX2IJpCwAPCrq9m7u3/cqU2SFC1tU3nqQDsoG6QRKlZlqNmsSL3+lhq4Ehi/toX4=",
-        "icono": "https://i.ibb.co/tbwDdc0/laliga-hypermotion-1o01jm81734gk1q7d95m42ejth.jpg"
-      },
-	    
-	    {
-      
-        "name": "MOVISTAR DEPORTES",
-        "uri": "+sujMl4hGOKHl9bezZKmh3ME1ZTwi6JHcw7UI4E81ZwQtXismunAaBBIaqisui+K",
-        "icono": "https://i.postimg.cc/Hnj9P4Dn/movistardeportes.jpg"
-      },
-
-	    {
-        "name": "MOVISTAR LA LIGA",
-        "uri": "tD7OETOuAS12QOVWDAhhtYH/7sSBEWkfJz/6za7o3GIrl06oaA4zGQ59TpM7Khfl",
-        "icono": "https://i.postimg.cc/9QKSsTQM/16956744640203.jpg"
-      },
-	    {
-        "name": "MOVISTAR LIGA DE CAMPEONES",
-        "uri": "tD7OETOuAS12QOVWDAhhtYH/7sSBEWkfJz/6za7o3GIrl06oaA4zGQ59TpM7Khfl",
-        "icono": "https://i.ibb.co/S7YzDj9/xmovistar-liga-campeones-jpg-pagespeed-ic-w-Vl-LVAp-zp.jpg"
-      },
-	    {
-        "name": "MOVISTAR LIGA DE CAMPEONES 2",
-        "uri": "tD7OETOuAS12QOVWDAhhtYH/7sSBEWkfJz/6za7o3GKeA+khmDZJwreWenEKawH7",
-        "icono": "https://i.ibb.co/mSmGHBW/tv-station-moviestar-liga-de-campeones-2-1460.png"
       }
       ]
       },
