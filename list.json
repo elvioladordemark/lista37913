@@ -1667,6 +1667,13 @@
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHNW0JxsgG1cWHpnHoyZykzmWOaaB7B32urL/pYAs9DFAxtGDgb4KLlpakJ770fij7Z8IN4MbrHJLs8d3Cu4QqLAb/U01b+FGEvgUe+0ICMG+pXAX5lYlXHd3Ala07fmeUw==",
         "icono": "https://lokos.pages.dev/webp/logos/nickjr.webp"
       },
+	    {
+        "name": "Nick Jr Op. 2",
+        "uri": "n/PSXEa0CV+WyYUW1w/zy4GFumQYnyu01kIlIqV7SRgDV/4SaswdwFj/7b1MNmAM",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHNW0JxsgG1cWHpnHoyZykzmWOaaB7B32urL/pYAs9DFAxtGDgb4KLlpakJ770fij7Z8IN4MbrHJLs8d3Cu4QqLAb/U01b+FGEvgUe+0ICMG+pXAX5lYlXHd3Ala07fmeUw==",
+        "icono": "https://lokos.pages.dev/webp/logos/nickjr.webp"
+      },
       {
         "name": "Tooncast",
         "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3pTe/LDdyLw9zH/AzpLedh6nZ9JxLd3KXF/F7As7DcJ+m+f7E9py/XmbowlGnKJzRL6PlGqmRwOlzsvAjnvhu0o",
@@ -1702,6 +1709,13 @@
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDD2qaC0wa/ItUCSax1NwcXDVn9k3F04fKyMCtKBU1bG4T6+9XX70iYcVz/y/L6avCdHIlSUHSgCf28W5gcqsuNrTi6/vsB96ByDTag5+xaxj4N6hRLkdzPqzKJHWvuCnA==",
         "icono": "https://lokos.pages.dev/webp/logos/nick.webp"
       },
+	    {
+        "name": "Nickelodeon Op.2",
+        "uri": "n/PSXEa0CV+WyYUW1w/zy4GFumQYnyu01kIlIqV7SRhQyky1SLhsiV5ehiaPL0sJ",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDD2qaC0wa/ItUCSax1NwcXDVn9k3F04fKyMCtKBU1bG4T6+9XX70iYcVz/y/L6avCdHIlSUHSgCf28W5gcqsuNrTi6/vsB96ByDTag5+xaxj4N6hRLkdzPqzKJHWvuCnA==",
+        "icono": "https://lokos.pages.dev/webp/logos/nick.webp"
+      },
       {
         "name": "Cartoonito",
         "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3p9EwxykUFJ9SU2PG9NIQYOZ98qwJJoEloHgg6wq8bbe8hLpDKU9TL8TRcri+fqfBXFCwt7LwNKS+tkzV01UREj",
@@ -1711,7 +1725,7 @@
       },    
       {
         "name": "DISNEY JR. HD",
-        "uri": "z3Nya+6ldQtBxj/Huka5Ht+Li1qxhh6Fz4iChmsntTQkmjS/xshxOuEaPIp0TWwCMh+9HiJnZIiottCTmY4iRw==",
+        "uri": "QcY7pPFsYdEPJCl80yaYj3H8JTfqtpVqfH5lfiipQkG7fhA9lznZuIVq8IV5gElNtkZ570CwzoVrdUxRjQF4gw==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHLCf0HCUusHKV21aga6XJmb6OU982osZCDImnEwUXMC1OGOZPeZi2vHWO0bfk6EDk0iUCHoMNeD/Ra56B/W6DT7IytlZ6NHUw/jifIfqJG/Rm1ik1dOLObhQxWJN8ABVhg==",
         "icono": "https://i.ibb.co/Zxdd6Pt/265e485e85c143c9adcd52a8d1ae5234.jpg"
