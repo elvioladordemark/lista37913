@@ -753,6 +753,61 @@
       }    
       ]
       },
+	  {
+    "name": "⚽DEPORTES DAZN PREMIER LEAGUE-LIGA DE ESPAÑA",
+    "samples": [
+     
+	  {
+        "name": "DAZN 1",
+        "uri": "L0h+CqzxHHvc8VQ6fnRHXABXZps3JYhEo1saSVpdCIVB2nzEGebG0xlbaYOUDVMqplX69jlk7vxvpsqRn6vBcwLc279rEOlg0NvHOMrW4AlFqU7gm2z3zAWYNwyBjSuFSidMm+EChXZTicrWmUS4E29x427XJsD1ZiePRPXbb/w=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDLe0jPwshItDlfl/+3xkSOZJbdpkHY9b2wYdyBOt9d8CDjMwWZq5i/o7fX5s4Dbg9p2xCopG/Ud8dvMUb+RdJOJME/sjE4lARYybIw3WfRp2hi9i0NAnY/9MI0ih8dvIHg==",
+        "icono": "https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj"
+      },
+           {
+        "name": "DAZN 2",
+        "uri": "L0h+CqzxHHvc8VQ6fnRHXABXZps3JYhEo1saSVpdCIVB2nzEGebG0xlbaYOUDVMqplX69jlk7vxvpsqRn6vBcw7rUVjEVieIcS9Y/nxDqRJLAA1z96bZq9n+9cpJgaT3c3PDinVoBvfK7pQU6Z4haIM642BH68Jrq4PFzUM9W/U=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHBOyhqOxcvYWPb1dP6Ez1ImCS035+MxN4oAlx7P5toNhdByirfj2vyebrwwaFedaeGYIuQuhoPqV55nTEmiOhJLZOJc87rXj3q+v/jxFg7O54eOyN6eKu2PdOLDMw8SkIA==",
+        "icono": "https://i.ibb.co/zVyXvjM/dazn2.png"
+      },
+      {
+        "name": "DAZN 3",
+        "uri": "QPC1lzlP9AJJpGdP1DOe+vMvoiDu921xY6RV1rMzCsl1iVJSXxp07nx5hk/1K2WAplX69jlk7vxvpsqRn6vBc3r1COPKaIXtl7PATa39vt1Ajsob2BJAlQ+DVqdYaIxYGa4x0LW0TaZT4l1ZQm1YTpnBTBZ2dr4msp6WnK834Kk=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHJgJIxuJH2Wvd5fJSkYnvQpUrMJyZjWSZTKaIED3nKL+r/RHi8pKUhwbynTN+2R71eHcQlDBUn+PUrfeBq2hchF8+aL/8kZJprD5pSvKTPhScsfM3vpw/A5zKsUVIPJrcA==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9TSJe2eq5BVR4iTiqiPimKvFk0vztXF9PcbaLhYfG&s"
+      },
+      {
+        "name": "DAZN 4",
+        "uri": "QPC1lzlP9AJJpGdP1DOe+vMvoiDu921xY6RV1rMzCsl1iVJSXxp07nx5hk/1K2WAplX69jlk7vxvpsqRn6vBc3w7y0zCrkwhyFl91KZH1hSFmX71MRxAYzeDMAuux2OgLIaDDdUBTp2snH6TwfNXpDMQTSxBoHzqFmpjC75+yvE=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHHYywfY+qErqAirCc9H+vsIvjX0YADfmq7Kw76C8u6GW5BvFP63veOUFsClic5F2ibYUqhWyxgKphz64cN3LVPnNnEs0ofQpCnMk6xQf/XaA0/BLGwC6OfkEY4wOIDBY2w==",
+        "icono": "https://i.postimg.cc/MGV5vpFx/images.png"
+      },
+     {
+                "name": "DAZN F1",
+"drm_scheme": "clearkey",
+"drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHGiucslAQ8JxS5Bn9mz9rwZgc08/CRv1hN1HWoYgyimZhmJa1hk07X5bWgXs5rVi3lKIvYOtnP/EgWjEv6kZZUuz4DnpEP1cON/t0EKhnBZEqcXE2GHRN771iBdbMvyNAg==",
+                "uri": "QPC1lzlP9AJJpGdP1DOe+vMvoiDu921xY6RV1rMzCsl1iVJSXxp07nx5hk/1K2WAplX69jlk7vxvpsqRn6vBc3Ehf1aM/OmV8NApcUkfGdZcCdZ0AM8Ss+d8CmtzjtR/ESKczibFIEoyMlh3ANjTwLIKVvPGCs1nz6H41jIKD6o=",
+                "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
+            },
+	     {
+                "name": "LA LIGA HYPERMOTION",
+"drm_scheme": "clearkey",
+"drm_license_uri": "QPC1lzlP9AJJpGdP1DOe+vMvoiDu921xY6RV1rMzCsl1iVJSXxp07nx5hk/1K2WAplX69jlk7vxvpsqRn6vBc4kis/MfbMLU25Qn0a/DAkDDFHj8pDzi9vR8787ZaG/3W/kPoq6YK46moYMhk0Ydnq/KGbJD8ccFIcNbw1baSmU=",
+                "uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDrOtcakgQdgZ+HAoT2ZKvV2nylSapX8r7fXnBp7iVAjw9vTRVGm4Au8UBWv8kiXow9JqkaVjg9sh66FUOsZfhOjSgaoh6num7Gec8nrRWJrAWaoZi1nA2NKg5dEDp9tSQ==",
+                "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
+            },
+       {
+        "name": "DAZN LA LIGA",
+        "uri": "QPC1lzlP9AJJpGdP1DOe+vMvoiDu921xY6RV1rMzCsl1iVJSXxp07nx5hk/1K2WAplX69jlk7vxvpsqRn6vBc/bwySSYL68qWFkoh5091pdX/AubvSl1KtlT2KZfHJDjZ9cK6G7LzLfMBbQmHr5iIA0uFHIx8pWkuTFfWAaca0g=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDJUJ8zy5SCHDsjbcGBYKBEImS+oylHy8H0YDS/9Ap5PoAF/7uWVOfQY3RrMpTIzvFiNLGJX2QMUd0N4jFzHcxvXoIpZYcPVIroyztoiHF8Xzgb6VUn7kQOo8gcfzHIgKlyH6avWbuExXj+sK+Yb0YE0=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6On2c3sZTpdN5TBqdxkfyK5cFdWSW3edVILEGDizarR95qaEJvfTw_5IuReWzmlBH0&usqp=CAU"
+      } 
+      ]
+      },
   {
     "name": "🧑🏻‍🎄 ESPECIAL NAVIDAD",
     "samples": [
@@ -1391,62 +1446,7 @@
 	   ]
   },
 
-      {
-    "name": "⚽DEPORTES DAZN PREMIER LEAGUE-LIGA DE ESPAÑA",
-    "samples": [
      
-	  {
-        "name": "DAZN 1",
-        "uri": "L0h+CqzxHHvc8VQ6fnRHXABXZps3JYhEo1saSVpdCIVB2nzEGebG0xlbaYOUDVMqplX69jlk7vxvpsqRn6vBcwLc279rEOlg0NvHOMrW4AlFqU7gm2z3zAWYNwyBjSuFSidMm+EChXZTicrWmUS4E29x427XJsD1ZiePRPXbb/w=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDLe0jPwshItDlfl/+3xkSOZJbdpkHY9b2wYdyBOt9d8CDjMwWZq5i/o7fX5s4Dbg9p2xCopG/Ud8dvMUb+RdJOJME/sjE4lARYybIw3WfRp2hi9i0NAnY/9MI0ih8dvIHg==",
-        "icono": "https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj"
-      },
-           {
-        "name": "DAZN 2",
-        "uri": "L0h+CqzxHHvc8VQ6fnRHXABXZps3JYhEo1saSVpdCIVB2nzEGebG0xlbaYOUDVMqplX69jlk7vxvpsqRn6vBcw7rUVjEVieIcS9Y/nxDqRJLAA1z96bZq9n+9cpJgaT3c3PDinVoBvfK7pQU6Z4haIM642BH68Jrq4PFzUM9W/U=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHBOyhqOxcvYWPb1dP6Ez1ImCS035+MxN4oAlx7P5toNhdByirfj2vyebrwwaFedaeGYIuQuhoPqV55nTEmiOhJLZOJc87rXj3q+v/jxFg7O54eOyN6eKu2PdOLDMw8SkIA==",
-        "icono": "https://i.ibb.co/zVyXvjM/dazn2.png"
-      },
-      {
-        "name": "DAZN 3",
-        "uri": "QPC1lzlP9AJJpGdP1DOe+vMvoiDu921xY6RV1rMzCsl1iVJSXxp07nx5hk/1K2WAplX69jlk7vxvpsqRn6vBc3r1COPKaIXtl7PATa39vt1Ajsob2BJAlQ+DVqdYaIxYGa4x0LW0TaZT4l1ZQm1YTpnBTBZ2dr4msp6WnK834Kk=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHJgJIxuJH2Wvd5fJSkYnvQpUrMJyZjWSZTKaIED3nKL+r/RHi8pKUhwbynTN+2R71eHcQlDBUn+PUrfeBq2hchF8+aL/8kZJprD5pSvKTPhScsfM3vpw/A5zKsUVIPJrcA==",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9TSJe2eq5BVR4iTiqiPimKvFk0vztXF9PcbaLhYfG&s"
-      },
-      
-             {
-        "name": "DAZN 4",
-        "uri": "QPC1lzlP9AJJpGdP1DOe+vMvoiDu921xY6RV1rMzCsl1iVJSXxp07nx5hk/1K2WAplX69jlk7vxvpsqRn6vBc3w7y0zCrkwhyFl91KZH1hSFmX71MRxAYzeDMAuux2OgLIaDDdUBTp2snH6TwfNXpDMQTSxBoHzqFmpjC75+yvE=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHHYywfY+qErqAirCc9H+vsIvjX0YADfmq7Kw76C8u6GW5BvFP63veOUFsClic5F2ibYUqhWyxgKphz64cN3LVPnNnEs0ofQpCnMk6xQf/XaA0/BLGwC6OfkEY4wOIDBY2w==",
-        "icono": "https://i.postimg.cc/MGV5vpFx/images.png"
-      },
-     {
-                "name": "DAZN F1",
-"drm_scheme": "clearkey",
-"drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHGiucslAQ8JxS5Bn9mz9rwZgc08/CRv1hN1HWoYgyimZhmJa1hk07X5bWgXs5rVi3lKIvYOtnP/EgWjEv6kZZUuz4DnpEP1cON/t0EKhnBZEqcXE2GHRN771iBdbMvyNAg==",
-                "uri": "QPC1lzlP9AJJpGdP1DOe+vMvoiDu921xY6RV1rMzCsl1iVJSXxp07nx5hk/1K2WAplX69jlk7vxvpsqRn6vBc3Ehf1aM/OmV8NApcUkfGdZcCdZ0AM8Ss+d8CmtzjtR/ESKczibFIEoyMlh3ANjTwLIKVvPGCs1nz6H41jIKD6o=",
-                "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
-            },
-	     {
-                "name": "LA LIGA HYPERMOTION",
-"drm_scheme": "clearkey",
-"drm_license_uri": "QPC1lzlP9AJJpGdP1DOe+vMvoiDu921xY6RV1rMzCsl1iVJSXxp07nx5hk/1K2WAplX69jlk7vxvpsqRn6vBc4kis/MfbMLU25Qn0a/DAkDDFHj8pDzi9vR8787ZaG/3W/kPoq6YK46moYMhk0Ydnq/KGbJD8ccFIcNbw1baSmU=",
-                "uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDrOtcakgQdgZ+HAoT2ZKvV2nylSapX8r7fXnBp7iVAjw9vTRVGm4Au8UBWv8kiXow9JqkaVjg9sh66FUOsZfhOjSgaoh6num7Gec8nrRWJrAWaoZi1nA2NKg5dEDp9tSQ==",
-                "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
-            },
-       {
-        "name": "DAZN LA LIGA",
-        "uri": "QPC1lzlP9AJJpGdP1DOe+vMvoiDu921xY6RV1rMzCsl1iVJSXxp07nx5hk/1K2WAplX69jlk7vxvpsqRn6vBc/bwySSYL68qWFkoh5091pdX/AubvSl1KtlT2KZfHJDjZ9cK6G7LzLfMBbQmHr5iIA0uFHIx8pWkuTFfWAaca0g=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDJUJ8zy5SCHDsjbcGBYKBEImS+oylHy8H0YDS/9Ap5PoAF/7uWVOfQY3RrMpTIzvFiNLGJX2QMUd0N4jFzHcxvXoIpZYcPVIroyztoiHF8Xzgb6VUn7kQOo8gcfzHIgKlyH6avWbuExXj+sK+Yb0YE0=",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6On2c3sZTpdN5TBqdxkfyK5cFdWSW3edVILEGDizarR95qaEJvfTw_5IuReWzmlBH0&usqp=CAU"
-       } 
-	        ]
-  },
  {
     "name": "⚽ BRASIL DEPORTES",
     "samples": [
