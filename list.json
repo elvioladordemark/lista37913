@@ -1912,172 +1912,7 @@
 		   }
                    ]
                    },
-{
-    "name": "🧑🏻‍🎄 ESPECIAL NAVIDAD",
-    "samples": [
-	                {
-              "name": "QUERIDO SANTA 2024",
-        "uri": "4tBMz5dFwrUeSGaPAmu5IRczX9sPNn4K/FvT8wUVgl1/iKbdtbRCwhBWoBoiXi4hUeXOVEQumoYR4FVvIJRXjnSdkRU2tUjfALCzOsFjVS1ijdHuUb1uU9oQHzDwsfXImLzlXLUMSUKR6ih86j7xZ196O/G7HxEL8K2cjirEsfc=",
-        "icono": "https://i.postimg.cc/C15RJpdp/IMG-20241130-WA0608.jpg"   
-            },
-	        {
-              "name": "UNA NAVIDAD PATAS ARRIBA",
-        "uri": "pZaMuEIbM2jy/MxLZbRXTjBOPu/5/aIIEQ3uxh3YltA9Eh/j+/kXpXMWdBueIRug7tiUAPt6TsRvHqnlTARUtYoRCvI2U8IcDMIE/qRN9rQ=",
-        "icono": "https://i.postimg.cc/k46PFGsF/r-AMZc-Pyl-MH1-G7g-O4-YQy96-Nib3-CA.jpg"   
-            },
-	    {
-              "name": "LA HERMANA DE NIEVE",
-        "uri": "pZaMuEIbM2jy/MxLZbRXTjBOPu/5/aIIEQ3uxh3YltBsU/JRTddiWOUo2q5l265CXbuxF+7eu+eSej8gX9jaOFvNP5tCrcanFTYBL+vGifE=",
-        "icono": "https://i.postimg.cc/3rCxbRX8/IMG-20241208-WA0075.jpg"   
-            },
-	    {
-              "name": "HASTA LA MADRE DE LA NAVIDAD",
-        "uri": "pZaMuEIbM2jy/MxLZbRXTjBOPu/5/aIIEQ3uxh3YltB5SJ2kSG9TEWD1vmtLVCwuAkW8STMYg4oA2Ct8AV5Q2212m6AcfSA3bK4IW3vycfA=",
-        "icono": "https://i.postimg.cc/3xkfWk9Y/IMG-20241208-WA0064.jpg"   
-            },
-	    {
-              "name": "LAS CRÓNICAS DE NAVIDAD",
-        "uri": "kKcYRM62Y1wQnBxCXBNfK92vxHou+/7UznHPbJAkUdzrBDSw1FCa8IxadLvYWAc73hIMPyhIkD+epwZH11hV4g==",
-        "icono": "https://i.ibb.co/zbp98K2/maxresdefault.jpg"   
-            },
-	    {
-              "name": "LAS CRÓNICAS DE NAVIDAD 2",
-        "uri": "Y4WwEOiPL6iCZ60Sap2AXSu5Q4w6Hk0235u8KVvMwrDUqp/zWsSC37BoZJW6RVZK4deri2VqhofXkJBi4HwXK/EWTeDgTy01L1OeztWt624=",
-        "icono": "https://i.ibb.co/X23p3dX/Screenshot-2020-12-17-at-7-38-25-PM.png"   
-            },
-	    {
-              "name": "MI POBRE ANGELITO",
-        "uri": "pZaMuEIbM2jy/MxLZbRXTjBOPu/5/aIIEQ3uxh3YltBg0W/0tE6TO+NiBivbLxlK2tKUy/QG5Sn3hOVT5OROQ/d5DLOrrIiOZBEWsLPwUKg=",
-        "icono": "https://i.ibb.co/4gNvgZG/OIP-24.jpg"   
-            },
-	    {
-              "name": "MI POBRE ANGELITO 2",
-        "uri": "pZaMuEIbM2jy/MxLZbRXTjBOPu/5/aIIEQ3uxh3YltBlP8AFW9ha52rqnfdlS3/3MFh+/u+5+v/2jWbxXh/aw6Ik61eg1FyLZjcLc1w0FSw=",
-        "icono": "https://i.ibb.co/myWBDpT/1600x900.jpg"   
-            },
-	    {
-              "name": "HERMANA DE NIEVE",
-        "uri": "kKcYRM62Y1wQnBxCXBNfK+uKgmjgkpXDm576e6iGONfESvtOCB3MqSFkuGs7y7Gy2V0d3LbyYJuHlkcnflhGIZk6dNyfjx8EoRIY1raI+kM=",
-        "icono": "https://i.ibb.co/ssQjTJt/AAAABVHUF6hb-Hp-M-itm0c72-Q-2-Bovvz-LYG1-CKsj56-Ten-Pds-Ax7-LAz-907s-RY-ebe-B8bbi-G-Mg-NV2-SDXU8hswa.jpg"   
-            },
-	    {
-              "name": "EL CABALLERO DE LA NAVIDAD",
-        "uri": "Y4WwEOiPL6iCZ60Sap2AXSu5Q4w6Hk0235u8KVvMwrDUqp/zWsSC37BoZJW6RVZKLIo4IydKuBC9hUxkOKTvw2JgYUkMCIwvQeNjsZRMAhQ=",
-        "icono": "https://i.ibb.co/Rybt12R/El-Caballero-de-la-navidad.jpg"   
-            },
-	    {
-              "name": "LA NAVIDAD EN SUS MANOS",
-        "uri": "IazdK0pUxNuu3W5AmAtRQJeJraIlUpMOEPqOD4OGPOdRk9ohLQIeshTMmZUn97x5q1iwy2zkwnFSLeolKmGqYx7WYMg2r5c2j+ZMp4iZ3iw=",
-        "icono": "https://i.ibb.co/6YVxNk5/OIP-25.jpg"   
-            },
-	    {
-              "name": "LA ESTRELLA DE NAVIDAD",
-        "uri": "IazdK0pUxNuu3W5AmAtRQHMVFZwzTpSmTq3FSASNSz9Rk9ohLQIeshTMmZUn97x5q1iwy2zkwnFSLeolKmGqY9EnbMeWz9DyvOaYyWKhpo0=",
-        "icono": "https://i.ibb.co/YWYkqBX/4219347.jpg"   
-            },
-	    {
-              "name": "HAY QUE SALVAR A PAPA NOEL",
-        "uri": "wUxY6bwb/yeFONeUvGRvkXXWM1vmR62jIaSdsgpyX8k3MTXUjnqP4u+Wlqtc8d7U7gTxDficH0AD/lu4VIvYWFqDq4c7DSjwMPweWsN3IMY=",
-        "icono": "https://i.ibb.co/QFTRcK2/OIP-26.jpg"   
-            },
-	    {
-              "name": "OPERACIÓN FELIZ NAVIDAD",
-        "uri": "pZaMuEIbM2jy/MxLZbRXTjBOPu/5/aIIEQ3uxh3YltCUIloimslruFS97wcDKKDTFac3j7gFVYRjsEX0YboWLv6MgqkkncwEO0QcNjmIYrA=",
-        "icono": "https://i.ibb.co/khrcW8F/OIP-27.jpg"   
-            },
-	    {
-              "name": "UNA NAVIDAD EN CALIFORNIA",
-        "uri": "pZaMuEIbM2jy/MxLZbRXTjBOPu/5/aIIEQ3uxh3YltDxjGeJfA1uzkfbZJF8LwZmU/jKYNRlfuBE/LTNaxKOt59UwCXqov7fYDWD3UhbyvY=",
-        "icono": "https://i.ibb.co/0Bw0xrm/p20804608-v-v13-aa.jpg"   
-            },
-	    {
-              "name": "ANGEL DE NAVIDAD",
-        "uri": "Y4WwEOiPL6iCZ60Sap2AXSu5Q4w6Hk0235u8KVvMwrALUfLnxO2E5hlZsvjYCw4X4k+3GerDby0wQxCKve7HVGJgYUkMCIwvQeNjsZRMAhQ=",
-        "icono": "https://i.ibb.co/v4NHsn8/Angel-of-christmas-xxlg.webp"   
-            },
-	    {
-              "name": "BIENVENIDOS AL POLO NORTE",
-        "uri": "Y4WwEOiPL6iCZ60Sap2AXSu5Q4w6Hk0235u8KVvMwrALUfLnxO2E5hlZsvjYCw4XZgBN58514p6c3BTFP1UrmVLNsWnzYplBU/5zpkY0qC0=",
-        "icono": "https://i.ibb.co/nzBDHn1/bienvenidos-al-polo-norte.jpg"   
-            },
-	    {
-              "name": "UN MUÑECO DE NIEVE PARA DERRETIRSE",
-        "uri": "pZaMuEIbM2jy/MxLZbRXTjBOPu/5/aIIEQ3uxh3YltAsDI6iahKh8h/rmlN93t332kwdbH60u8DG+9n8VOtyLyFu6gIZSRdcFRPX+cbhuZ0=",
-        "icono": "https://i.ibb.co/tq8XqW5/OIP-28.jpg"   
-            },
-	    {
-              "name": "MEJOR NAVIDAD IMPOSIBLE",
-        "uri": "pZaMuEIbM2jy/MxLZbRXTjBOPu/5/aIIEQ3uxh3YltC7AREsPcYXCipGex4yzbB2vyXdEGPr69aFS8RWJqgpYC5s9RZvf0koDcL3+1NX5Bs=",
-        "icono": "https://i.ibb.co/p1Sr0Xz/OIP-29.jpg"   
-            },
-	    {
-              "name": "AQUELLA NAVIDAD",
-        "uri": "pZaMuEIbM2jy/MxLZbRXTjBOPu/5/aIIEQ3uxh3YltA+sJJy1cacb32qj6zmL6TMwGtAiPRqcmqnVFHLSqWHEWHiPBzPgTeqwc7f7kua+eY=",
-        "icono": "https://i.ibb.co/7rNx09S/OIP-30.jpg"   
-            },
-	    {
-              "name": "EL GRINCH",
-        "uri": "kKcYRM62Y1wQnBxCXBNfK92vxHou+/7UznHPbJAkUdzrBDSw1FCa8IxadLvYWAc74Qj3DHQL9iezambz47aQdQ==",
-        "icono": "https://i.ibb.co/f806wjk/360e58df56bb17b80db8088c12f29dc6.jpg"   
-            },
-	    {
-              "name": "MILAGRO EN LA CALLE 34",
-        "uri": "pZaMuEIbM2jy/MxLZbRXTjBOPu/5/aIIEQ3uxh3YltBtRSY7mSiBuhS6yWcpTgJpip/Ii0eqMbPGohPsaKaagsQoWdNFZGd3EAH136xcD84=",
-        "icono": "https://i.ibb.co/4PdXhJH/IMG-20241207-WA0026.jpg"   
-	    },
-	    {
-              "name": "NAVIDAD DE GOLPE",
-        "uri": "pZaMuEIbM2jy/MxLZbRXTjBOPu/5/aIIEQ3uxh3YltChBAN93tT2jOGcXLfB5SHApmXTd2E5e7U9tGEOpHwWgyXRSfDGnBDvhioFZkul/Lo=",
-        "icono": "https://i.ibb.co/6WNdDd2/IMG-20241208-WA0069.jpg"   
-	    },
-	    {
-              "name": "NOS VEMOS LA PRÓXIMA NAVIDAD",
-        "uri": "4tBMz5dFwrUeSGaPAmu5IRczX9sPNn4K/FvT8wUVgl1/iKbdtbRCwhBWoBoiXi4h9aGF6464eBHWEYw2Yq4QhFufPfyNNF/jzRuvExKmugD1bY86ByiME5J4gYRsMYMOMFvuqkLf5xc/meqfK53PVSnSuZKZB5MDPK17QTxxM+V9Sdgv1GwawIimG50uZDpI",
-        "icono": "https://i.ibb.co/DQPFt3h/IMG-20241208-WA0070.jpg"   
-	    }
-	        ]
-},
-  {
-	 "name": "🐙EL JUEGO DEL CALAMAR - TEMP. 2",
-    "samples": [
-	    {
-              "name": "CAPÍTULO 1",
-        "uri": "pZaMuEIbM2jy/MxLZbRXTjBOPu/5/aIIEQ3uxh3YltCPgV3RD2TEY/27U+hi6Q2pqlOlDO9uSzCLf3JiewiSSaJuAi60TZZ3a24zuoo4Zd8=",
-        "icono": "https://i.ibb.co/TPKccgR/DUGZIPL76-JHQBNNC75-GESQ7-GGY.jpg"   
-            },
-	    {
-              "name": "CAPITULO 2",
-        "uri": "pZaMuEIbM2jy/MxLZbRXTjBOPu/5/aIIEQ3uxh3YltDl8CTrOkewzSbHNECwXFS8rB4xKs1MK7kqcaP31g+83NjRsA86K9jsdGlBsF1ZrM4=",
-        "icono": "https://i.ibb.co/TPKccgR/DUGZIPL76-JHQBNNC75-GESQ7-GGY.jpg"   
-	    },
-	    {
-              "name": "CAPITULO 3",
-        "uri": "pZaMuEIbM2jy/MxLZbRXTjBOPu/5/aIIEQ3uxh3YltC/u3TBLti8/woW7SgNoaumP8qQHDPLMIcI3yxFNPbwBXpZja9UsVQ3wo9fd1ogeBY=",
-        "icono": "https://i.ibb.co/TPKccgR/DUGZIPL76-JHQBNNC75-GESQ7-GGY.jpg"   
-	    },
-	    {
-              "name": "CAPITULO 4",
-        "uri": "pZaMuEIbM2jy/MxLZbRXTjBOPu/5/aIIEQ3uxh3YltDIDz+zxrCiQQlSLdDR4X9I6miHkmBXRfw4wLjWsS8mvMx3z0Xtl/wzk0yxIDIpdkU=",
-        "icono": "https://i.ibb.co/TPKccgR/DUGZIPL76-JHQBNNC75-GESQ7-GGY.jpg"   
-	    },
-	    {
-              "name": "CAPITULO 5",
-        "uri": "pZaMuEIbM2jy/MxLZbRXTjBOPu/5/aIIEQ3uxh3YltADx102OnvEPgTJVLemZaouubPfgTNSSu7ko3hgJwj/KOYMLEAVBTL/KevuyU8NlwI=",
-        "icono": "https://i.ibb.co/TPKccgR/DUGZIPL76-JHQBNNC75-GESQ7-GGY.jpg"   
-	    },
-	    {
-              "name": "CAPITULO 6",
-        "uri": "pZaMuEIbM2jy/MxLZbRXTjBOPu/5/aIIEQ3uxh3YltCJWUId9bT7E3+MtnjyQJEQDyIzl+CWvhyEUmKHytTbifec7lbqd2u7i3tu1DCIfho=",
-        "icono": "https://i.ibb.co/TPKccgR/DUGZIPL76-JHQBNNC75-GESQ7-GGY.jpg"   
-	    },
-	    {
-              "name": "CAPITULO 7",
-        "uri": "pZaMuEIbM2jy/MxLZbRXTjBOPu/5/aIIEQ3uxh3YltDoopOW/6WhSzKI5RdbFlOA4wWPTWlLhyhYFawBtiK9HC57YqHT1vkpsZtY8geP+p8=",
-        "icono": "https://i.ibb.co/TPKccgR/DUGZIPL76-JHQBNNC75-GESQ7-GGY.jpg"   
-	    }
-            ]
-	    },
-	    {
+    {
     "name": "EVENTOS FLOW MUSIC",
     "samples": [
         {
@@ -3089,6 +2924,46 @@
 	    }
 	    ]	    
             },
+	 {
+	 "name": "🐙EL JUEGO DEL CALAMAR - TEMP. 2",
+    "samples": [
+	    {
+              "name": "CAPÍTULO 1",
+        "uri": "pZaMuEIbM2jy/MxLZbRXTjBOPu/5/aIIEQ3uxh3YltCPgV3RD2TEY/27U+hi6Q2pqlOlDO9uSzCLf3JiewiSSaJuAi60TZZ3a24zuoo4Zd8=",
+        "icono": "https://i.ibb.co/TPKccgR/DUGZIPL76-JHQBNNC75-GESQ7-GGY.jpg"   
+            },
+	    {
+              "name": "CAPITULO 2",
+        "uri": "pZaMuEIbM2jy/MxLZbRXTjBOPu/5/aIIEQ3uxh3YltDl8CTrOkewzSbHNECwXFS8rB4xKs1MK7kqcaP31g+83NjRsA86K9jsdGlBsF1ZrM4=",
+        "icono": "https://i.ibb.co/TPKccgR/DUGZIPL76-JHQBNNC75-GESQ7-GGY.jpg"   
+	    },
+	    {
+              "name": "CAPITULO 3",
+        "uri": "pZaMuEIbM2jy/MxLZbRXTjBOPu/5/aIIEQ3uxh3YltC/u3TBLti8/woW7SgNoaumP8qQHDPLMIcI3yxFNPbwBXpZja9UsVQ3wo9fd1ogeBY=",
+        "icono": "https://i.ibb.co/TPKccgR/DUGZIPL76-JHQBNNC75-GESQ7-GGY.jpg"   
+	    },
+	    {
+              "name": "CAPITULO 4",
+        "uri": "pZaMuEIbM2jy/MxLZbRXTjBOPu/5/aIIEQ3uxh3YltDIDz+zxrCiQQlSLdDR4X9I6miHkmBXRfw4wLjWsS8mvMx3z0Xtl/wzk0yxIDIpdkU=",
+        "icono": "https://i.ibb.co/TPKccgR/DUGZIPL76-JHQBNNC75-GESQ7-GGY.jpg"   
+	    },
+	    {
+              "name": "CAPITULO 5",
+        "uri": "pZaMuEIbM2jy/MxLZbRXTjBOPu/5/aIIEQ3uxh3YltADx102OnvEPgTJVLemZaouubPfgTNSSu7ko3hgJwj/KOYMLEAVBTL/KevuyU8NlwI=",
+        "icono": "https://i.ibb.co/TPKccgR/DUGZIPL76-JHQBNNC75-GESQ7-GGY.jpg"   
+	    },
+	    {
+              "name": "CAPITULO 6",
+        "uri": "pZaMuEIbM2jy/MxLZbRXTjBOPu/5/aIIEQ3uxh3YltCJWUId9bT7E3+MtnjyQJEQDyIzl+CWvhyEUmKHytTbifec7lbqd2u7i3tu1DCIfho=",
+        "icono": "https://i.ibb.co/TPKccgR/DUGZIPL76-JHQBNNC75-GESQ7-GGY.jpg"   
+	    },
+	    {
+              "name": "CAPITULO 7",
+        "uri": "pZaMuEIbM2jy/MxLZbRXTjBOPu/5/aIIEQ3uxh3YltDoopOW/6WhSzKI5RdbFlOA4wWPTWlLhyhYFawBtiK9HC57YqHT1vkpsZtY8geP+p8=",
+        "icono": "https://i.ibb.co/TPKccgR/DUGZIPL76-JHQBNNC75-GESQ7-GGY.jpg"   
+	    }
+            ]
+	    },
 {
 
     "name": "🎤 CONCIERTOS PLAY TV",
