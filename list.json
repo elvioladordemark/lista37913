@@ -1357,6 +1357,86 @@
   }
   ]
   },
+	 {
+    "name": "📺CANALES DE NOVELAS",
+    "samples": [
+                 {
+      "name": "RCN EXTRA",
+        "uri": "ir0Hwo74Kr7CqzOMBFCuLKUbatHQPSTq67Nob8dUcYrhiaHMNaVGtuaJtl2F7OheSkzAcDG7bHM59MjZxBKe35+GptLzj78qjUfOXOsuf9jVkhcqXdaYgMzVstki43MOAEhQOe0tnrriOi5ekxnA6LGZ+wXJPqe1oRktjRA0MqRiNZRw5pjYmsVr+2ApAANB3JNfqB9lI3v+XfFrg+BWpO8L8BVfx81/B2cWswpQ/J3CiDEXX93VF8CEzzPtW3rC",
+        "icono": "https://i.postimg.cc/bJxXsYSN/thumbnail-xtra.jpg"
+      }, 
+	    {
+      "name": "RCN+",
+        "uri": "eY3svJeGqqRmOmuwy2DhJagCCB1bIkOsoG1zGOH5GC1SOkkmp+GUATrwxXnIvgrU0Af0a1QC0MYniOSLNznCWA==",
+        "icono": "https://i.postimg.cc/mk9PcHN1/horizontal-logo-rcn-mas-4-novelas-copy.jpg"
+      }, 
+ {
+        "name": "RCN NOVELAS",
+        "uri": "HpoLnkosBGus9NBnAhHlV13A68gtUdzceCQVbTt32xFxUIHk8ku2ZicuLcnvj863Y6xWax5HLb7y31rjb1kYjA==",
+        "icono": "http://static.tvar.io/imagenes/rcnovelas.png"
+      },
+	    {
+      "name": "NOVELAS TURCAS",
+        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI9I5f7ooY+Snf1OHFcZxhnrw==",
+        "icono": "https://i.postimg.cc/vBhdmSf1/channel-novelasturcas-16x9-1.jpg"
+      },
+	{
+        "name": "TLN",
+        "uri": "47DACNCYsaOJQIy/y0GYLyGfj2hQ8OX73lfxmf25vORTr6LHcICHnJxmVK1V3EEK3UdnyRMFW3tNjQgfwIMxNQ==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png"
+      },
+     {
+        "name": "TNT NOVELAS",
+        "uri": "PTApyqSOZ6pmk02PbAX71mDRGt+WUpQuLF07Xrc27GhpWQI4pkgVGWsaml2o2Kce",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "t+DgnUguJFubuNf5+yhRP+NyPKKx1D+8CGMQBfWuWHYZT+P+a7usrjLSqmvQXU+d",
+        "icono": "https://i.ibb.co/jVMmjN6/descarga-8.png"
+      },
+    {
+        "name": "LAS ESTRELLAS MX",
+        "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMRL4anzerlf4sZ5AB1FTvbJwOb+vRDAnZWBNs9WHKn/zkQ5xScg/V/9N8M479CdEOE=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5Vi2fB/jh+mdAv4zkP4ZTJKt+iDBSxXZs3rVPwcqyZOfuLIvVfZZVMUvmdPdbGw9DwAiitp8G7IllWuxbyHZX02OVQ5aDFeqWMiE9QTMc2bs=",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
+    },
+	      {
+        "name": "LAS ESTRELLAS MX OPC.2",
+        "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLaId9YzID8bXEKlUdFsN5k2tj0VhoFjG61dLDlAvv98BA==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5Vi2fB/jh+mdAv4zkP4ZTJKt+iDBSxXZs3rVPwcqyZOfuLIvVfZZVMUvmdPdbGw9DwAiitp8G7IllWuxbyHZX02OVQ5aDFeqWMiE9QTMc2bs=",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
+    },
+    {
+        "name": "PASIONES",
+        "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMQqegKsJQVnTZqBAkSvh4FeGiDTo6iWA399muvO/iurqiWVFOM4js5zMdkkkOqzBt4=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5DJqd2d1eZjVeuVEmf+TsnNIaLoaxIOoQiKKiID0QX/aeEzaVbC91HbhxxNb55447m9xHDiQUbx9yu6nIB+Q5zJ2FssjpIlypOxj79juLNhA=",
+        "icono": "https://i.ibb.co/3FvjfFk/800px-Pasiones-Tv-logo-svg.png"
+    },
+	       {
+        "name": "AZ CORAZÓN",
+        "uri": "luVczlAjJLSRH+fd0JxzJqRGNj7VoWXGZZ99aBx0qsmzQAamvhn7vnm+Q2Y5mp6cC2oYZei3ACzJ5y9+kjhlNhk/8oVrcE70GMIj+nvh3tc9fvbTvBNXBrXK6GEmJRBiRjx2MwHfgrM8A5kSd359w94Q/7xkQ5007bMtMeZxu3357GZjZZnLJz3ukAeG0h/DqqZNxOazr+2KMIZbkNTNe+0UdHKThJqaPJXVu7u//YyYFqWk4JEBP2iWrNLdRye/85d5lVqs7NjAnbmbFhjlIVt9HfSJPfOz3hFVpgkyQMdNFE2Re+e2MSsDfujX4bvT7fjTKZDf4QyLCyfk89UomZxvjcJaJdxPh8B+qPDFQ8s=",
+        "icono": "https://i.ibb.co/8xN76pJ/TV-Azteca-Corazn.png"
+      },
+{
+        "name": "TELEMUNDO ROMANCE",
+        "uri": "PBPbYf+SD9zBZ5R8hhlIrONOISAsRQjWtHLw4W8aLrppj9ltOjZHN3ihDcUv3FI0xghyEtDyOJ4Ua+vI93qEHcZ1HsHhguL8BnglO1k+tu/elQ3N+YvdcHQTcDuAPLsU",
+        "icono": "https://image.xumo.com/v1/channels/channel/99991749/600x337.webp?type=color_onBlack"
+      },
+
+     {
+        "name": "TELEMUNDO",
+        "uri": "FBUuJQJrUI53aLiPXIBnxxGcG1UAyu1eAgr3XdP07kydymRrtRwt2aN/oaP7POGWB/dT54DiyboeX+rzmhzMequQuqdh2EyMl2qC60AWwq2/Z8hALYcrskBgkumFMjGA",
+        "icono": "http://imgfz.com/i/cuq0V9R.png"
+      },
+      
+     {
+        "name": "NOVELAS",
+        "uri": "47DACNCYsaOJQIy/y0GYLyGfj2hQ8OX73lfxmf25vORTr6LHcICHnJxmVK1V3EEK3UdnyRMFW3tNjQgfwIMxNQ==",
+        "icono": "https://i.ibb.co/W5ch0by/Tlnovelas-2011-logo-svg.png"
+        }
+        ]
+        },
 	    {
     "name": "🧑🏻‍🎄 ESPECIAL NAVIDAD",
     "samples": [
@@ -1941,99 +2021,9 @@
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHMlilUYnm4OGiy/0Ftcr7MsoD3xSCXOtIkIDdLZ55mM4Id3cVcUatw+R5+wxYFZqEyrmOrPPnzCNOrb1iybd0yubOhjknyRgQYc9Lm5YvyCT3R9I7kBDq1R7VJRfDsl5gQ==",
         "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
         }
-     
-     
-	 ]
-  },		 
- 
-	
-  
-	
- 
-{
-    "name": "📺CANALES DE NOVELAS",
-    "samples": [
-                 {
-      "name": "RCN EXTRA",
-        "uri": "ir0Hwo74Kr7CqzOMBFCuLKUbatHQPSTq67Nob8dUcYrhiaHMNaVGtuaJtl2F7OheSkzAcDG7bHM59MjZxBKe35+GptLzj78qjUfOXOsuf9jVkhcqXdaYgMzVstki43MOAEhQOe0tnrriOi5ekxnA6LGZ+wXJPqe1oRktjRA0MqRiNZRw5pjYmsVr+2ApAANB3JNfqB9lI3v+XfFrg+BWpO8L8BVfx81/B2cWswpQ/J3CiDEXX93VF8CEzzPtW3rC",
-        "icono": "https://i.postimg.cc/bJxXsYSN/thumbnail-xtra.jpg"
-      }, 
-	    {
-      "name": "RCN+",
-        "uri": "eY3svJeGqqRmOmuwy2DhJagCCB1bIkOsoG1zGOH5GC1SOkkmp+GUATrwxXnIvgrU0Af0a1QC0MYniOSLNznCWA==",
-        "icono": "https://i.postimg.cc/mk9PcHN1/horizontal-logo-rcn-mas-4-novelas-copy.jpg"
-      }, 
- {
-        "name": "RCN NOVELAS",
-        "uri": "HpoLnkosBGus9NBnAhHlV13A68gtUdzceCQVbTt32xFxUIHk8ku2ZicuLcnvj863Y6xWax5HLb7y31rjb1kYjA==",
-        "icono": "http://static.tvar.io/imagenes/rcnovelas.png"
-      },
-	    {
-      "name": "NOVELAS TURCAS",
-        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI9I5f7ooY+Snf1OHFcZxhnrw==",
-        "icono": "https://i.postimg.cc/vBhdmSf1/channel-novelasturcas-16x9-1.jpg"
-      },
-	
-     
-         
-    {
-        "name": "TLN",
-        "uri": "47DACNCYsaOJQIy/y0GYLyGfj2hQ8OX73lfxmf25vORTr6LHcICHnJxmVK1V3EEK3UdnyRMFW3tNjQgfwIMxNQ==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png"
-      },
-     {
-        "name": "TNT NOVELAS",
-        "uri": "PTApyqSOZ6pmk02PbAX71mDRGt+WUpQuLF07Xrc27GhpWQI4pkgVGWsaml2o2Kce",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "t+DgnUguJFubuNf5+yhRP+NyPKKx1D+8CGMQBfWuWHYZT+P+a7usrjLSqmvQXU+d",
-        "icono": "https://i.ibb.co/jVMmjN6/descarga-8.png"
-      },
-    {
-        "name": "LAS ESTRELLAS MX",
-        "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMRL4anzerlf4sZ5AB1FTvbJwOb+vRDAnZWBNs9WHKn/zkQ5xScg/V/9N8M479CdEOE=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5Vi2fB/jh+mdAv4zkP4ZTJKt+iDBSxXZs3rVPwcqyZOfuLIvVfZZVMUvmdPdbGw9DwAiitp8G7IllWuxbyHZX02OVQ5aDFeqWMiE9QTMc2bs=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
-    },
-	      {
-        "name": "LAS ESTRELLAS MX OPC.2",
-        "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLaId9YzID8bXEKlUdFsN5k2tj0VhoFjG61dLDlAvv98BA==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5Vi2fB/jh+mdAv4zkP4ZTJKt+iDBSxXZs3rVPwcqyZOfuLIvVfZZVMUvmdPdbGw9DwAiitp8G7IllWuxbyHZX02OVQ5aDFeqWMiE9QTMc2bs=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
-    },
-    {
-        "name": "PASIONES",
-        "uri": "Oo/3Dib/lUnKvvcoGXKSaTQni6hrp9dKwrl0AhQJkMQqegKsJQVnTZqBAkSvh4FeGiDTo6iWA399muvO/iurqiWVFOM4js5zMdkkkOqzBt4=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5DJqd2d1eZjVeuVEmf+TsnNIaLoaxIOoQiKKiID0QX/aeEzaVbC91HbhxxNb55447m9xHDiQUbx9yu6nIB+Q5zJ2FssjpIlypOxj79juLNhA=",
-        "icono": "https://i.ibb.co/3FvjfFk/800px-Pasiones-Tv-logo-svg.png"
-    },
-	       {
-        "name": "AZ CORAZÓN",
-        "uri": "luVczlAjJLSRH+fd0JxzJqRGNj7VoWXGZZ99aBx0qsmzQAamvhn7vnm+Q2Y5mp6cC2oYZei3ACzJ5y9+kjhlNhk/8oVrcE70GMIj+nvh3tc9fvbTvBNXBrXK6GEmJRBiRjx2MwHfgrM8A5kSd359w94Q/7xkQ5007bMtMeZxu3357GZjZZnLJz3ukAeG0h/DqqZNxOazr+2KMIZbkNTNe+0UdHKThJqaPJXVu7u//YyYFqWk4JEBP2iWrNLdRye/85d5lVqs7NjAnbmbFhjlIVt9HfSJPfOz3hFVpgkyQMdNFE2Re+e2MSsDfujX4bvT7fjTKZDf4QyLCyfk89UomZxvjcJaJdxPh8B+qPDFQ8s=",
-        "icono": "https://i.ibb.co/8xN76pJ/TV-Azteca-Corazn.png"
-      },
-{
-        "name": "TELEMUNDO ROMANCE",
-        "uri": "PBPbYf+SD9zBZ5R8hhlIrONOISAsRQjWtHLw4W8aLrppj9ltOjZHN3ihDcUv3FI0xghyEtDyOJ4Ua+vI93qEHcZ1HsHhguL8BnglO1k+tu/elQ3N+YvdcHQTcDuAPLsU",
-        "icono": "https://image.xumo.com/v1/channels/channel/99991749/600x337.webp?type=color_onBlack"
-      },
-
-     {
-        "name": "TELEMUNDO",
-        "uri": "FBUuJQJrUI53aLiPXIBnxxGcG1UAyu1eAgr3XdP07kydymRrtRwt2aN/oaP7POGWB/dT54DiyboeX+rzmhzMequQuqdh2EyMl2qC60AWwq2/Z8hALYcrskBgkumFMjGA",
-        "icono": "http://imgfz.com/i/cuq0V9R.png"
-      },
-      
-     {
-        "name": "NOVELAS",
-        "uri": "47DACNCYsaOJQIy/y0GYLyGfj2hQ8OX73lfxmf25vORTr6LHcICHnJxmVK1V3EEK3UdnyRMFW3tNjQgfwIMxNQ==",
-        "icono": "https://i.ibb.co/W5ch0by/Tlnovelas-2011-logo-svg.png"
-      }
         ]
-  },
-	   {
+        },		 
+ {
     "name": "🎥PLUTO TV",
     "samples": [
 
