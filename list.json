@@ -1639,8 +1639,15 @@
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHEEcDtDtSgTnZdr0uy7fXknpRbhKRinUoR5PaufJfSzsAzkYCx2yj22WPRprbMW9qoFzoXhArB56N5oP6S7E6252NQK6xc8UVzMKKkN8FDukooP+zls8yfUsPHbFmee1cw==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-paka.svg.png"
       },
+	    {
+        "name": "PAKA PAKA Op. 2",
+        "uri": "n/PSXEa0CV+WyYUW1w/zy4GFumQYnyu01kIlIqV7SRjKGTL55Kycp6CexjHZVTao",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHEEcDtDtSgTnZdr0uy7fXknpRbhKRinUoR5PaufJfSzsAzkYCx2yj22WPRprbMW9qoFzoXhArB56N5oP6S7E6252NQK6xc8UVzMKKkN8FDukooP+zls8yfUsPHbFmee1cw==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-paka.svg.png"
+      },
       {
-        "name": "CartoonNetwork",
+        "name": "Cartoon Network",
         "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3rljuoV3LA1fbfwJYHGBdWXvE48fT2Fm9wjXRmnjyLWefL7NWGhE1hkh0JsNJcKJZmXoYVR9q7Rwg7NeNEvPgopfl8biWJSgTS5SxHRHzZddg==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHMwMXAtf1l3V1mY0kCB/nkTy8F0Up2B4H0RKW4jboyQRU/8sGDzmQsCxE9gwMvT37LcBNn32Ck4hlHSFxppEWy/qW7OD0//XkJGsJrChOJisN8VbbMArmboaseoTagafJg==",
