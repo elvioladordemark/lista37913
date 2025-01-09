@@ -390,6 +390,11 @@
         "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5S8A8dDu87mx80FJoaLcdDzu6KR+PfgufusaEn138xkaadNxnxESHo/UmmOvgc1zo57J+JkeIxFaMWd9n9Ak+0yohEtCKwkrrBPfMvBVwALw=",
         "icono": "https://i.ibb.co/gwqB79X/a24-1.png"
     },
+	    {
+        "name": "CANAL 26",
+        "uri": "8SQS7lloawhHz60rFK9i9L83yjIPGKwYcy61gS5lxMDx536UvBOTl+eTevMaz0n3",
+        "icono": "https://i.ibb.co/TM0dyCR/canal26-logo.png"
+    },
              {
         "name": "BAYRES TV ARG",
         "uri": "JmIeJw+GncS2swaPyQ9qB+CSKinmarkUOFIzj8afnAqpijARXFYLT1DkKV/IThY3QTl7LAHZP8MfbeVj4f+Prg==",
@@ -404,11 +409,6 @@
         "name": "FIVE TV",
         "uri": "qGI5dv1lsVFT3hYSh6hDnJ6ZIlLOGUFuAiAG+pOTHmYsEnmOoSdWNHBoGrt2DaYW0TqrbNDOkuXu6st4U6oBJQ==",
         "icono": "https://i.ibb.co/wQh2NL3/fivetv-fondo.png"
-    },
-    {
-        "name": "CANAL LUZ",
-        "uri": "psOtAuC6cSWds0dbJrMAUc2FlR4aDA8eqPCKRlCskiT9lpYMGDZOM4WjdD08LXYuTu9f/wCE3eyFQv85UDxnrjo6lPJsJQk3LPOFUcYwV48vTyQ2HdwI67jlmS6xWQJWfEP08EYdlfrofObJJyJKNfsuYxlLocOoZdOl2OzRs54=",
-        "icono": "https://i.ibb.co/jvJwYdR/eltrestv.png"
     },
     {
         "name": "TELEMAX",
@@ -430,11 +430,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHCOumanVJO1ov0NCYl8PpXv3ZHCmKIJwnPj0mG4GCXZeOYD8BT3PXXAvoRHmpg1DmwNi4Lg712+PWnUofCO76ZAJayTiygDcjkVt7gZetpIzM+EgQCQM1WRPn4a8y8f7iw==",
         "icono": "https://i.ibb.co/G0zCDL0/descarga-1.png"
-    },
-    {
-        "name": "CANAL 26",
-        "uri": "8SQS7lloawhHz60rFK9i9L83yjIPGKwYcy61gS5lxMDx536UvBOTl+eTevMaz0n3",
-        "icono": "https://i.ibb.co/TM0dyCR/canal26-logo.png"
     },
     {
         "name": "CANAL 12 CORDOBA",
