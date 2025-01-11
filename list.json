@@ -2225,7 +2225,21 @@
         "name": "UCL",
         "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAaJo+/Jsj5sggSSjJb73wD/TltPaFAf2ef/eegn2hhoSA==",
         "icono": "https://i.ibb.co/c2ddPKW/ucl-24.jpg"
-	    }
+	    },
+	    {
+        "name": "VTV",
+        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3roywLalJpdxP0yJJ9MQZ6+BjXTMH1q6sEywTzz8V+7W9rbW6AGcILK29oTFnunSjF+XxuJYlKBNLlLEdEfNl12",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHMw3wQ2IoAhzXsEX3hBsO3S8TYEGJTuPQyTMqd+JDJBibcV1aH1yTodog/8G4wLNAnnehP01XJdmjfkuMlo6BkJNw2XtJmeFEX1FgB/biR34YQ+vr0EEyICp/Y3Ftz/TFw==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png"
+      },
+      {
+        "name": "VTV PLUS",
+        "uri": "zlZeeg/ENWzgVMeKl3ZJpT4f/Rn1G8hUgKMrwP+jPlkVrD+aIrV0EceN51DnPYuEpM+9hoI8Fd9LXIS6ymdV72HDVmAKyxLLluf2XwsUHWr14+3NYVBgTQ4Ckf6bavlO",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHMlilUYnm4OGiy/0Ftcr7MsoD3xSCXOtIkIDdLZ55mM4Id3cVcUatw+R5+wxYFZqEyrmOrPPnzCNOrb1iybd0yubOhjknyRgQYc9Lm5YvyCT3R9I7kBDq1R7VJRfDsl5gQ==",
+        "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
+      }
     ]
 	 },
 	     {
