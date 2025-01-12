@@ -55,6 +55,16 @@
 	    }
     ]
 	 },
+	 {
+    "name": "🏆 EVENTO SUPERCOPA DE ESPAÑA - 16 HS",
+    "samples": [
+	{
+                "name": "REAL MADRID vs BARCELONA",
+                "uri": "H7qPhgVW91OU0f+XHHK/SEbnV0yUSg8mUZKZ5/OCB+nUpbQH44CPNF/1Se1TNvwIqPPxWd4tBf7nrDxSh0KIrQjojjSemR7avNk0YCtxITH7VmamH7kcPLJut0OrKsPNNx8cc4UflnZpiZgFw2i9DdTKesCf3mPnEPG0NTGhGYnTGpzhcG3Ul2EEi/KUQkX6dbLclssseqImYMZu4sr2sIWXlDI+gRN+A1Rtrr/8D0D9XGT5q5tT/74tTs42tRikJ86tyZ8I/MjY0DK040qqV86oCYWeqUOpb3Efu8uj758=",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDIrwhNdaOJoX7bygWONAkRPIuEwrWOiFVzML9djQ7rqaDG+jCdUzdMWeDP5HbuvAVykMkCR2dphMy92bgCp+OcINh/wF15mhI4/JEKzKyHiSioUp22TUFxHelE2FrPB4Gw==",
+                "icono": "https://i.ibb.co/h13Wc9h/IMG-20250108-WA0045.jpg"
+	},
 	  {
     "name": "🇵🇾CANALES DE PARAGUAY",
     "samples": [
