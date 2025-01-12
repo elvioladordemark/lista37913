@@ -56,28 +56,14 @@
     ]
 	 },
 	 {
-    "name": "🏆 EVENTO SUPERCOPA DE ESPAÑA - 16 HS",
+    "name": "🏆 EVENTO SUPERCOPA DE ESPAÑA - FINALIZADO",
     "samples": [
-	{
-                "name": "REAL MADRID vs BARCELONA",
-                "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAaIBmlna5F8AKoR8MIpPIGY/6a2BxQvFQBcfRsbnWUlew==",
-      "icono": "https://i.ibb.co/TwsD59v/IMG-20250112-WA0007.jpg"
-	},
+	
 	    {
-                "name": "REAL MADRID vs BARCELONA Op. 2", 
-	         "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAaIBmlna5F8AKoR8MIpPIGY/6a2BxQvFQBcfRsbnWUlew==",
-      "icono": "https://i.ibb.co/TwsD59v/IMG-20250112-WA0007.jpg"
-            },
-	    {
-        "name": "REAL MADRID vs BARCELONA OP.3",
+        "name": "REAL MADRID vs BARCELONA",
         "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAaxAny6mHKZtDixiBQWw9y1+yCx5Iv41YxAnEat66YKrg==",
          "icono": "https://i.ibb.co/TwsD59v/IMG-20250112-WA0007.jpg"
-      },
-	    {
-        "name": "REAL MADRID vs BARCELONA OP.4",
-        "uri": "gYJdGyLBq+HHI8Q+WyNbZkd2sgQNoW4DD2qE/y4MnWvYf59Xx4ByyIWc4jXgpaPM",
-        "icono": "https://i.ibb.co/TwsD59v/IMG-20250112-WA0007.jpg"
-	    }
+      }
     ]
 	 },
 	  {
