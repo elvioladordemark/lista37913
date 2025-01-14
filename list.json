@@ -2661,9 +2661,37 @@
 	"drm_scheme": "clearkey",
         "drm_license_uri": "L0H6bVIymxE/Ljo0epZawR26niTD+1522gqmn6LM/HChB/f2XeSMkgEynaHJGsyc/p1yrupx0WTV5pawpvz0OaVj6kriAYGdH1eDGZBYvNZlj7SwMGyB44R5+EV4yRwt+FQ22aLyTZWR/edq5WtKI3PAJe0BH0+ivjij6r2wINVt+79NRqhmAHMxLw7YhXrxb7K5cHupMh3IjGNyrSl6ow==",
        "icono": "https://i.ibb.co/zbstrWs/g4-Szi-FSS2x6-P4-RXRa-HRZV6.png"
-	    }
- ]
-  },
+	    },
+	    {
+                "name": "ESPN", 
+		"uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3pmAv2OcwwV9m6FvoSPb8JCM0k+uIpKMokLH5KGMemxAhxbEcjHIu+p8nsrXowsR2xjrFZrHkctvvLfWuNvWRiM",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
+            },
+	    {
+                "name": "ESPN 2", 
+		"uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3pmAv2OcwwV9m6FvoSPb8JCM0k+uIpKMokLH5KGMemxAhxbEcjHIu+p8nsrXowsR2xjrFZrHkctvvLfWuNvWRiM",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
+            },
+	    {
+                "name": "ESPN 3", 
+		"uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3pmAv2OcwwV9m6FvoSPb8JCM0k+uIpKMokLH5KGMemxAhxbEcjHIu+p8nsrXowsR2xjrFZrHkctvvLfWuNvWRiM",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
+            },
+	    {
+                "name": "ESPN 4", 
+		"uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3pmAv2OcwwV9m6FvoSPb8JCM0k+uIpKMokLH5KGMemxAhxbEcjHIu+p8nsrXowsR2xjrFZrHkctvvLfWuNvWRiM",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
+            }
+    ]
+	 },
 
 	 	 {
     "name": "🎬CANALES 24/7 VIP",
