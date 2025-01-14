@@ -58,12 +58,13 @@
 	  {
     "name": "⚽️ AMISTOSOS DE VERANO",
     "samples": [
+	    
 	    {
-                "name": "U. CATÓLICA 🇨🇱 vs A. TUCUMÁN 🇦🇷 - 20 hs",
-                "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefi3Hc8fMSqqkwmfIxqcQHpbLO0p86Q+R+d0GQRJUoYJeJuRTMO2+OX1k+bhWFq4zkxyP6EODtz6ssMEfy7LPHS9",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDIrwhNdaOJoX7bygWONAkRPIuEwrWOiFVzML9djQ7rqaDG+jCdUzdMWeDP5HbuvAVykMkCR2dphMy92bgCp+OcINh/wF15mhI4/JEKzKyHiSioUp22TUFxHelE2FrPB4Gw==",
-                "icono": "https://i.ibb.co/vZPQ9JR/UCCAT-780x470.png"
+        "name": "U. CATÓLICA 🇨🇱 vs A. TUCUMÁN 🇦🇷",
+        "uri": "QcY7pPFsYdEPJCl80yaYj3H8JTfqtpVqfH5lfiipQkH2Xx7lPfYYfx/i5+GahBIpWovgUYPU3YJuTZ1LoZYiIA==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDPzXW3ye8LgJ8F1BH3vT16oqBBg0HlBZHePMUTTKkrmwwrb8ojV+dhRmOIyFQSd00Bk3MC80QTSOr3/VrxK0DNYQDPvg7AhbtQ3pXcfknPYMzoMkQp4jUeY4oZwIdnB/sQ==",
+        "icono": "https://i.ibb.co/vZPQ9JR/UCCAT-780x470.png"
 	    },
 	    {
                 "name": "INDEPENDIENTE 🇦🇷 vs OLIMPIA 🇵🇾 - 22 hs",
