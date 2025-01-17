@@ -2557,6 +2557,31 @@
 	   "name": "🇧🇷CANALES DE BRASIL",
     "samples": [
           {
+        "name": "AMC",
+        "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAbUeZ/yKjz13V7w2gg+XeLdgd+qd2hTL8W1jTM8uJrEaw==",
+        "icono": "https://i.postimg.cc/nrsPjtr0/sbt.jpg"
+      },
+	    {
+        "name": "ANIMAL PLANET",
+        "uri": "bgv9n4GygeRWduNbMmctW/7sNMMsb/n/Qj/OXXMaMhqWUD/s+flFNeNfX0IuvpOZt0s9xMLhbUlsJ3KCiidlIw==",
+        "icono": "https://i.postimg.cc/nrsPjtr0/sbt.jpg"
+      },
+	    {
+        "name": "CINEMAX",
+        "uri": "bgv9n4GygeRWduNbMmctW/7sNMMsb/n/Qj/OXXMaMhqWUD/s+flFNeNfX0IuvpOZv1e4Je+uNqGIj3GnimEvyA==",
+        "icono": "https://i.postimg.cc/nrsPjtr0/sbt.jpg"
+      },
+	    {
+        "name": "FISH TV",
+        "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAbUeZ/yKjz13V7w2gg+XeLdZ835Bj1Y4vEUwwrVdzIZqA==",
+        "icono": "https://i.postimg.cc/nrsPjtr0/sbt.jpg"
+      },
+	    {
+        "name": "HBO 2",
+        "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAbUeZ/yKjz13V7w2gg+XeLdnXVqAJEUXLRQb8qM8q3HqQ==",
+        "icono": "https://i.postimg.cc/nrsPjtr0/sbt.jpg"
+      },
+	    {
         "name": "SBT SP",
         "uri": "o+NNapRXlKQwwwUTwJOeubDJ1qrpcS2g6zjAkQApN6eUa5njXMzRzuceShAbTCsFCmq2l5nfUg/mW9ryKvHZ+E7Y+r+M97ebKO9EIAnE5hRjrFZrHkctvvLfWuNvWRiM",
         "icono": "https://i.postimg.cc/nrsPjtr0/sbt.jpg"
