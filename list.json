@@ -58,67 +58,21 @@
 	  {
     "name": "⚽️ AMISTOSOS DE VERANO",
     "samples": [
+	    
 	    {
-                "name": "PEÑAROL 🇺🇾 vs SAN LORENZO 🇦🇷 - EN VIVO",
-                "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAbPZcQ+qhtVIG8T46smmFyZY9lY2YpYzasPHWClK6HlQg==",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDIrwhNdaOJoX7bygWONAkRPIuEwrWOiFVzML9djQ7rqaDG+jCdUzdMWeDP5HbuvAVykMkCR2dphMy92bgCp+OcINh/wF15mhI4/JEKzKyHiSioUp22TUFxHelE2FrPB4Gw==",
-                "icono": "https://i.ibb.co/FmS7SJ6/239456.jpg"
-	    },
-	    {
-                "name": "UNION 🇦🇷 vs A. TUCUMÁN 🇦🇷 - VIE 20 hs",
+                "name": "UNION 🇦🇷 vs A. TUCUMÁN 🇦🇷 - 20 hs",
                 "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefi3Hc8fMSqqkwmfIxqcQHpbLO0p86Q+R+d0GQRJUoYJeJuRTMO2+OX1k+bhWFq4zkxyP6EODtz6ssMEfy7LPHS9",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDIrwhNdaOJoX7bygWONAkRPIuEwrWOiFVzML9djQ7rqaDG+jCdUzdMWeDP5HbuvAVykMkCR2dphMy92bgCp+OcINh/wF15mhI4/JEKzKyHiSioUp22TUFxHelE2FrPB4Gw==",
                 "icono": "https://i.ibb.co/FmS7SJ6/239456.jpg"
 	    },
 	    {
-                "name": "NACIONAL 🇺🇾 vs OLIMPIA 🇵🇾 - VIE 22 hs",
+                "name": "NACIONAL 🇺🇾 vs OLIMPIA 🇵🇾 - 22 hs",
                 "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefi3Hc8fMSqqkwmfIxqcQHpbLO0p86Q+R+d0GQRJUoYJeJuRTMO2+OX1k+bhWFq4zkxyP6EODtz6ssMEfy7LPHS9",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDIrwhNdaOJoX7bygWONAkRPIuEwrWOiFVzML9djQ7rqaDG+jCdUzdMWeDP5HbuvAVykMkCR2dphMy92bgCp+OcINh/wF15mhI4/JEKzKyHiSioUp22TUFxHelE2FrPB4Gw==",
                 "icono": "https://i.ibb.co/FmS7SJ6/239456.jpg"
 	    }
-    ]
-	 },
-	 {
-    "name": "EVENTOS NBA",
-    "samples": [
-	{
-	"name": "DETROIR vs INDIANA - EN VIVO",
-        "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAZkU/A40ShSn7VY7mSCd4p+qeHl2gBzF5+/8tOGP1ksng==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDTwhiDDfKqqehe+AmKkYAnYzoV+ftN0FTCX3By8sv9o5mPB+pKEP4XJMrwm50j2Urnfgu/7rw2noGq+d4r0wBcnvT0UrjAuw52E6rm4kXRcnAW52NAQxc23IcTrpeEheg==",
-        "icono": "https://i.ibb.co/Wghwk7n/98a43898580a5dc955652c79d43d26d7.jpg"
-         },
-	    {
-	"name": "WASHINGTON vs PHOENIX - EN VIVO",
-        "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAZkU/A40ShSn7VY7mSCd4p+xV0RuD9LbPr9CLU1nxGayw==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDTwhiDDfKqqehe+AmKkYAnYzoV+ftN0FTCX3By8sv9o5mPB+pKEP4XJMrwm50j2Urnfgu/7rw2noGq+d4r0wBcnvT0UrjAuw52E6rm4kXRcnAW52NAQxc23IcTrpeEheg==",
-        "icono": "https://i.ibb.co/Wghwk7n/98a43898580a5dc955652c79d43d26d7.jpg"
-         },
-	    {
-	"name": "OKLAHOMA vs CLEVELAND - EN VIVO",
-        "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAZkU/A40ShSn7VY7mSCd4p+rokPm2k7mrOOEENYfSUnXg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDTwhiDDfKqqehe+AmKkYAnYzoV+ftN0FTCX3By8sv9o5mPB+pKEP4XJMrwm50j2Urnfgu/7rw2noGq+d4r0wBcnvT0UrjAuw52E6rm4kXRcnAW52NAQxc23IcTrpeEheg==",
-        "icono": "https://i.ibb.co/Wghwk7n/98a43898580a5dc955652c79d43d26d7.jpg"
-         },
-	    {
-	"name": "PORTLAND vs LA CLIPPERS - 00 HS",
-        "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAZkU/A40ShSn7VY7mSCd4p+Y70BVeCh0zEpqkpGbI64CQ==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDTwhiDDfKqqehe+AmKkYAnYzoV+ftN0FTCX3By8sv9o5mPB+pKEP4XJMrwm50j2Urnfgu/7rw2noGq+d4r0wBcnvT0UrjAuw52E6rm4kXRcnAW52NAQxc23IcTrpeEheg==",
-        "icono": "https://i.ibb.co/Wghwk7n/98a43898580a5dc955652c79d43d26d7.jpg"
-         },
-	    {
-	"name": "SACRAMENTO vs HOUSTON - 00 HS",
-        "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAZkU/A40ShSn7VY7mSCd4p+n2pf+BuY96RNX4ztS2kUDw==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDTwhiDDfKqqehe+AmKkYAnYzoV+ftN0FTCX3By8sv9o5mPB+pKEP4XJMrwm50j2Urnfgu/7rw2noGq+d4r0wBcnvT0UrjAuw52E6rm4kXRcnAW52NAQxc23IcTrpeEheg==",
-        "icono": "https://i.ibb.co/Wghwk7n/98a43898580a5dc955652c79d43d26d7.jpg"
-         }
     ]
 	 },
 	  {
