@@ -2556,6 +2556,13 @@
 	    {
 	   "name": "🇧🇷CANALES DE BRASIL",
     "samples": [
+	    {
+        "name": "AMC",
+        "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAbUeZ/yKjz13V7w2gg+XeLdgd+qd2hTL8W1jTM8uJrEaw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDMo5Sju0HlrR0AmIruBFAKvptcLDmk+Z/HvssXwt4Z55D5qSEo8vFOsaH/APei2LcSgEWII4KU63lU5lqU0UxRbDKNvgU1pvCCPtI2SWiTK6Axu/Ajsq/7JSBv/FH/ZICA==",
+        "icono": "https://i.ibb.co/SstC2vr/IMV4-Vz3l-400x400.jpg"
+    },
           {
         "name": "SBT SP",
         "uri": "o+NNapRXlKQwwwUTwJOeubDJ1qrpcS2g6zjAkQApN6eUa5njXMzRzuceShAbTCsFCmq2l5nfUg/mW9ryKvHZ+E7Y+r+M97ebKO9EIAnE5hRjrFZrHkctvvLfWuNvWRiM",
