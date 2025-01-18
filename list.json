@@ -81,46 +81,6 @@
                 "icono": "https://i.ibb.co/ncxCNTb/MV5-BNDA2-Nz-Ex-OWIt-MDcz-YS00-Yzgw-LTg3-ZDkt-NGQw-Mzkz-OTQ2-Nm-Zk-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-M4-OTcz.jpg"
 	    }
     ]
-	 },
-	  {
-    "name": "PREMIER LEAGUE",
-    "samples": [
-	    {
-                "name": "NEWCASTLE vs BOURNEMOUTH - FINALIZADO", 
-		"uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefhgLY4CxV7wK70WaSmiQooV88nxgbUaIQohU1uGcKtGfzORBZhM+UjpA83IgahKKt9yP6EODtz6ssMEfy7LPHS9",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHEingIHlgU/3nDID3Pwz3bgoP5ld5z344hMbK6hMgvoYtSZ9XS+okMXm2+T9tW3CYlVKNYt3/xvtvbCE73JhhCreVCiwmRU3L8QgyXgqDVw2RIEj7JwpYPSAameRnbvCAA==",
-                "icono": "https://i.ibb.co/02n914F/premier-league-logo-symbol-with-name-white-design-england-football-european-countries-football-teams.jpg"
-            },
-	    {
-        "name": "BRETFORD vs LIVERPOOL - FINALIZADO",
-        "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefhgLY4CxV7wK70WaSmiQooV88nxgbUaIQohU1uGcKtGfzORBZhM+UjpA83IgahKKt9yP6EODtz6ssMEfy7LPHS93b18=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDTwhiDDfKqqehe+AmKkYAnYzoV+ftN0FTCX3By8sv9o5mPB+pKEP4XJMrwm50j2Urnfgu/7rw2noGq+d4r0wBcnvT0UrjAuw52E6rm4kXRcnAW52NAQxc23IcTrpeEheg==",
-        "icono": "https://i.ibb.co/02n914F/premier-league-logo-symbol-with-name-white-design-england-football-european-countries-football-teams.jpg"
-         }, 
-	    {
-        "name": "LEICESTER vs FULHAM - FINALIZADO",
-        "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefhgLY4CxV7wK70WaSmiQooV88nxgbUaIQohU1uGcKtGfzORBZhM+UjpA83IgahKKt9yP6EODtz6ssMEfy7LPHS9H25c=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHBjrJn8qfzZ7g4zQwt7IQtRrKMWGBrWG/HfD4vMe4//riqzrR6AlFdHsTqVX18nOoG99C2z6q13IxqD8kvBOBWd8+U0pbHEE3JgGR8Jpa17BWTaAn/WaRF2TcKQD00wE6Q==",
-        "icono": "https://i.ibb.co/02n914F/premier-league-logo-symbol-with-name-white-design-england-football-european-countries-football-teams.jpg"
-      },
-	    {
-        "name": "WEST HAM vs CRYSTAL PALACE - FINALIZADO",
-        "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefhgLY4CxV7wK70WaSmiQooV88nxgbUaIQohU1uGcKtGfzORBZhM+UjpA83IgahKKt9yP6EODtz6ssMEfy7LPHS9Tt38=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHHAQHOrsenArtij4ikv5j37T3bviXIcw3OQQe/2R7PiQVCNMmnBMELc7uavOVoA2ayZCwI8sFyD3/mhZdYVVo8ihPx9Kn2EZ7T+bpGnB7EhIS2nKTsO9gCwGyleJxWggIw==",
-        "icono": "https://i.ibb.co/02n914F/premier-league-logo-symbol-with-name-white-design-england-football-european-countries-football-teams.jpg"
-      },
-	    {
-        "name": "ARSENAL vs ASTON VILLA - EN VIVO",
-        "uri": "L0h+CqzxHHvc8VQ6fnRHXABXZps3JYhEo1saSVpdCIVB2nzEGebG0xlbaYOUDVMqplX69jlk7vxvpsqRn6vBcwLc279rEOlg0NvHOMrW4AlFqU7gm2z3zAWYNwyBjSuFSidMm+EChXZTicrWmUS4E29x427XJsD1ZiePRPXbb/w=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDLe0jPwshItDlfl/+3xkSOZJbdpkHY9b2wYdyBOt9d8CDjMwWZq5i/o7fX5s4Dbg9p2xCopG/Ud8dvMUb+RdJOJME/sjE4lARYybIw3WfRp2hi9i0NAnY/9MI0ih8dvIHg==",
-        "icono": "https://i.ibb.co/02n914F/premier-league-logo-symbol-with-name-white-design-england-football-european-countries-football-teams.jpg"
-      }
-    ]
 	  },
 	 {
     "name": "🏀 EVENTOS NBA",
