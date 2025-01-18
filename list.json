@@ -60,21 +60,21 @@
     "samples": [
 	      
 	    {
-                "name": "M. WANDERERS 🇺🇾 vs INSTITUTO 🇦🇷 - SAB 18 hs",
+                "name": "M. WANDERERS 🇺🇾 vs INSTITUTO 🇦🇷 - 18 hs",
                 "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefi3Hc8fMSqqkwmfIxqcQHpbLO0p86Q+R+d0GQRJUoYJeJuRTMO2+OX1k+bhWFq4zkxyP6EODtz6ssMEfy7LPHS9",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDIrwhNdaOJoX7bygWONAkRPIuEwrWOiFVzML9djQ7rqaDG+jCdUzdMWeDP5HbuvAVykMkCR2dphMy92bgCp+OcINh/wF15mhI4/JEKzKyHiSioUp22TUFxHelE2FrPB4Gw==",
                 "icono": "https://i.ibb.co/ncxCNTb/MV5-BNDA2-Nz-Ex-OWIt-MDcz-YS00-Yzgw-LTg3-ZDkt-NGQw-Mzkz-OTQ2-Nm-Zk-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-M4-OTcz.jpg"
 	    },
 	    {
-                "name": "CERRO LARGO 🇺🇾 vs GIMNASIA (LP) 🇦🇷 - SAB 20 hs",
+                "name": "CERRO LARGO 🇺🇾 vs GIMNASIA (LP) 🇦🇷 - 20 hs",
                 "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefi3Hc8fMSqqkwmfIxqcQHpbLO0p86Q+R+d0GQRJUoYJeJuRTMO2+OX1k+bhWFq4zkxyP6EODtz6ssMEfy7LPHS9",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDIrwhNdaOJoX7bygWONAkRPIuEwrWOiFVzML9djQ7rqaDG+jCdUzdMWeDP5HbuvAVykMkCR2dphMy92bgCp+OcINh/wF15mhI4/JEKzKyHiSioUp22TUFxHelE2FrPB4Gw==",
                 "icono": "https://i.ibb.co/ncxCNTb/MV5-BNDA2-Nz-Ex-OWIt-MDcz-YS00-Yzgw-LTg3-ZDkt-NGQw-Mzkz-OTQ2-Nm-Zk-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-M4-OTcz.jpg"
 	    },
 	    {
-                "name": "D. SPORTING 🇺🇾 vs INDEPENDIENTE 🇦🇷 - SAB 22 hs",
+                "name": "D. SPORTING 🇺🇾 vs INDEPENDIENTE 🇦🇷 - 22 hs",
                 "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefi3Hc8fMSqqkwmfIxqcQHpbLO0p86Q+R+d0GQRJUoYJeJuRTMO2+OX1k+bhWFq4zkxyP6EODtz6ssMEfy7LPHS9",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDIrwhNdaOJoX7bygWONAkRPIuEwrWOiFVzML9djQ7rqaDG+jCdUzdMWeDP5HbuvAVykMkCR2dphMy92bgCp+OcINh/wF15mhI4/JEKzKyHiSioUp22TUFxHelE2FrPB4Gw==",
@@ -86,63 +86,63 @@
     "name": "🏀 EVENTOS NBA",
     "samples": [
 	{
-                "name": "BOSTON CELTICS vs ORLANDO MAGIC - EN VIVO",
+                "name": "BOSTON CELTICS vs ORLANDO MAGIC",
                 "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAZkU/A40ShSn7VY7mSCd4p+qeHl2gBzF5+/8tOGP1ksng==",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
                 "icono": "https://i.ibb.co/jk8XXMM/nba-logo-nba-icon-transparent-free-png.webp"
 	},
 	    {
-                "name": "NEW YORK CNICKS vs MINNESOTA TIMBERWOLVES - EN VIVO",
+                "name": "NEW YORK CNICKS vs MINNESOTA TIMBERWOLVES",
                 "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAZkU/A40ShSn7VY7mSCd4p+m0q7b097Jdhek7ekHYqZ5A==",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
                 "icono": "https://i.ibb.co/jk8XXMM/nba-logo-nba-icon-transparent-free-png.webp"
 	},
 	    {
-                "name": "MILWAUKEE BUCKS vs TORONTO RAPTORS - EN VIVO",
+                "name": "MILWAUKEE BUCKS vs TORONTO RAPTORS",
                 "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAZkU/A40ShSn7VY7mSCd4p+n2pf+BuY96RNX4ztS2kUDw==",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
                 "icono": "https://i.ibb.co/jk8XXMM/nba-logo-nba-icon-transparent-free-png.webp"
 	},
 	    {
-                "name": "MIAMI HEAT vs DENVER NUGGETS - EN VIVO",
+                "name": "MIAMI HEAT vs DENVER NUGGETS",
                 "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAZkU/A40ShSn7VY7mSCd4p+Y70BVeCh0zEpqkpGbI64CQ==",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
                 "icono": "https://i.ibb.co/jk8XXMM/nba-logo-nba-icon-transparent-free-png.webp"
 	},
 	    {
-                "name": "NUEVA ORLEANS PELICANS vs UTAH JAZZ - EN VIVO",
+                "name": "NUEVA ORLEANS PELICANS vs UTAH JAZZ",
                 "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAZkU/A40ShSn7VY7mSCd4p+sdKXwFcTgJ87axNzGx+0nQ==",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
                 "icono": "https://i.ibb.co/jk8XXMM/nba-logo-nba-icon-transparent-free-png.webp"
 	},
 	    {
-                "name": "CHICAGO BULLS vs CHARLOTTE HORNETS - EN VIVO",
+                "name": "CHICAGO BULLS vs CHARLOTTE HORNETS",
                 "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAZkU/A40ShSn7VY7mSCd4p+rokPm2k7mrOOEENYfSUnXg==",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
                 "icono": "https://i.ibb.co/jk8XXMM/nba-logo-nba-icon-transparent-free-png.webp"
 	},
 	    {
-                "name": "DALLAS MAVERICKS vs OKLAHOMA CITY T. - EN VIVO",
+                "name": "DALLAS MAVERICKS vs OKLAHOMA CITY T.",
                 "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAZkU/A40ShSn7VY7mSCd4p+mWsdO54pBMqLptXWR9kcRw==",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
                 "icono": "https://i.ibb.co/jk8XXMM/nba-logo-nba-icon-transparent-free-png.webp"
 	},
 	    {
-                "name": "SAN ANTONIO SPURS vs MEMPHIS GRIZZLIES - EN VIVO",
+                "name": "SAN ANTONIO SPURS vs MEMPHIS GRIZZLIES",
                 "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAZkU/A40ShSn7VY7mSCd4p+D2r9W6+nAtXXO7eUdSlbMA==",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
                 "icono": "https://i.ibb.co/jk8XXMM/nba-logo-nba-icon-transparent-free-png.webp"
 	},
 	    {
-                "name": "LOS ANGELES LAKERS vs BROOKLIN NETS - 00.30 HS",
+                "name": "LOS ANGELES LAKERS vs BROOKLIN NETS",
                 "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAZkU/A40ShSn7VY7mSCd4p+fOIGBrurn0CaRj++jQcKbQ==",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
