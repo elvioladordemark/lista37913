@@ -115,6 +115,17 @@
     }
     ]
     },
+	 {
+    "name": " EVENTO UFC",
+    "samples": [
+	  
+	    {
+        "name": "EVENTO UFC",
+        "uri": "bgv9n4GygeRWduNbMmctW/7sNMMsb/n/Qj/OXXMaMhqWUD/s+flFNeNfX0IuvpOZlqoMPocEAHJROBDB6rS6OGOsVmseRy2+8t9a429ZGIw=",
+     "icono": "https://i.postimg.cc/Vvy3Xch5/NUEVA-ERA.jpg"
+      }
+    ]
+	 },
 	  {
     "name": "🇵🇾CANALES DE PARAGUAY",
     "samples": [
