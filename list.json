@@ -58,21 +58,20 @@
 	 {
     "name": "🏆 UEFA CHAMPIONS LEAGUE - FECHA 7",
     "samples": [
-	   
-	    {
+	   {
                 "name": "MONACO vs ASTON VILLA - EN VIVO", 
 		"uri": "409o+Vetv8QGkL6/yUy7cmKw8yYj3eYzQH8mxr/oUt0sK/upLdPHi0FBBZgNCtFKIzkhN2/GHtWiTJ+d5fSSftAH9GtUAtDGJ4jkizc5wlg=",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHEingIHlgU/3nDID3Pwz3bgoP5ld5z344hMbK6hMgvoYtSZ9XS+okMXm2+T9tW3CYlVKNYt3/xvtvbCE73JhhCreVCiwmRU3L8QgyXgqDVw2RIEj7JwpYPSAameRnbvCAA==",
                 "icono": "https://i.ibb.co/DQjyxbX/champions-league-logo-symbol-white-design-football-european-countries-football-teams-illustration-wi.jpg"
             },
-	     {
-                "name": "ATALANTA vs STURM GRAZ - 14:45 HS",
-                "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefi3Hc8fMSqqkwmfIxqcQHpbLO0p86Q+R+d0GQRJUoYJeJuRTMO2+OX1k+bhWFq4zkxyP6EODtz6ssMEfy7LPHS9",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
-                "icono": "https://i.ibb.co/DQjyxbX/champions-league-logo-symbol-white-design-football-european-countries-football-teams-illustration-wi.jpg"
-	  },
+	    {
+        "name": "ATALANTA vs STURM GRAZ - EN VIVO",
+        "uri": "QcY7pPFsYdEPJCl80yaYj3H8JTfqtpVqfH5lfiipQkH2Xx7lPfYYfx/i5+GahBIpDH+R1Pe7VQ9kTChCZbbiaw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDPU7Iz65hMJ/eU+U7caCDFG8Hf51do3bcjTN+p/gtNrd+uiDpuv4rtAZmcE39dCsxCnwgEwl+Z5MmHPeKDZgmChhLVqLXM8VpHXYRd9Qj1fzSbqWmYrtAtPLvGDeJzwKJg==",
+        "icono": "https://i.ibb.co/DQjyxbX/champions-league-logo-symbol-white-design-football-european-countries-football-teams-illustration-wi.jpg"
+      },
 	    {
                 "name": "BRATISLAVA vs STUTTGART - 17 HS",
                 "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefi3Hc8fMSqqkwmfIxqcQHpbLO0p86Q+R+d0GQRJUoYJeJuRTMO2+OX1k+bhWFq4zkxyP6EODtz6ssMEfy7LPHS9",
