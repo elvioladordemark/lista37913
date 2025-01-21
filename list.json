@@ -41,7 +41,7 @@
     "samples": [
 	{
                 "name": "ÑANDEPORTETEPE TV",
-                "uri": "XG3SW1rHW2XR1c6hKZq6q7CzNbuYwHBjJqoaGl0Aie4bVKwewOnOVdQrRzuZjHozR+tf8S3ncHmmCHho8rcVUyx9xu5ZeS3u+xOWLKgbPws=",
+                "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefi3Hc8fMSqqkwmfIxqcQHpbLO0p86Q+R+d0GQRJUoYJeJuRTMO2+OX1k+bhWFq4zkxyP6EODtz6ssMEfy7LPHS9",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDIrwhNdaOJoX7bygWONAkRPIuEwrWOiFVzML9djQ7rqaDG+jCdUzdMWeDP5HbuvAVykMkCR2dphMy92bgCp+OcINh/wF15mhI4/JEKzKyHiSioUp22TUFxHelE2FrPB4Gw==",
                 "icono": "https://i.ibb.co/h13Wc9h/IMG-20250108-WA0045.jpg"
@@ -55,7 +55,74 @@
 	    }
     ]
 	 },
-	 
+	 {
+    "name": "🏆 UEFA CHAMPIONS LEAGUE - FECHA 7",
+    "samples": [
+	    {
+                "name": "MONACO vs ASTON VILLA - 14:45 HS",
+                "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefi3Hc8fMSqqkwmfIxqcQHpbLO0p86Q+R+d0GQRJUoYJeJuRTMO2+OX1k+bhWFq4zkxyP6EODtz6ssMEfy7LPHS9",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
+                "icono": "https://i.ibb.co/DQjyxbX/champions-league-logo-symbol-white-design-football-european-countries-football-teams-illustration-wi.jpg"
+	  },
+	     {
+                "name": "ATALANTA vs STURM GRAZ - 14:45 HS",
+                "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefi3Hc8fMSqqkwmfIxqcQHpbLO0p86Q+R+d0GQRJUoYJeJuRTMO2+OX1k+bhWFq4zkxyP6EODtz6ssMEfy7LPHS9",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
+                "icono": "https://i.ibb.co/DQjyxbX/champions-league-logo-symbol-white-design-football-european-countries-football-teams-illustration-wi.jpg"
+	  },
+	    {
+                "name": "BRATISLAVA vs STUTTGART - 17 HS",
+                "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefi3Hc8fMSqqkwmfIxqcQHpbLO0p86Q+R+d0GQRJUoYJeJuRTMO2+OX1k+bhWFq4zkxyP6EODtz6ssMEfy7LPHS9",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
+                "icono": "https://i.ibb.co/DQjyxbX/champions-league-logo-symbol-white-design-football-european-countries-football-teams-illustration-wi.jpg"
+	  },
+	     {
+                "name": "ESTRELLA ROJA vs PSV - 17 HS",
+                "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefi3Hc8fMSqqkwmfIxqcQHpbLO0p86Q+R+d0GQRJUoYJeJuRTMO2+OX1k+bhWFq4zkxyP6EODtz6ssMEfy7LPHS9",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
+                "icono": "https://i.ibb.co/DQjyxbX/champions-league-logo-symbol-white-design-football-european-countries-football-teams-illustration-wi.jpg"
+	  },
+	    {
+                "name": "LIVERPOOL vs LILLE - 17 HS",
+                "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefi3Hc8fMSqqkwmfIxqcQHpbLO0p86Q+R+d0GQRJUoYJeJuRTMO2+OX1k+bhWFq4zkxyP6EODtz6ssMEfy7LPHS9",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
+                "icono": "https://i.ibb.co/DQjyxbX/champions-league-logo-symbol-white-design-football-european-countries-football-teams-illustration-wi.jpg"
+	  },
+	    {
+                "name": "BRUDGGE vs JUVENTUS - 17 HS",
+                "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefi3Hc8fMSqqkwmfIxqcQHpbLO0p86Q+R+d0GQRJUoYJeJuRTMO2+OX1k+bhWFq4zkxyP6EODtz6ssMEfy7LPHS9",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
+                "icono": "https://i.ibb.co/DQjyxbX/champions-league-logo-symbol-white-design-football-european-countries-football-teams-illustration-wi.jpg"
+	  },
+	    {
+                "name": "BOLOGNA vs DORTMUND - 17 HS",
+                "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefi3Hc8fMSqqkwmfIxqcQHpbLO0p86Q+R+d0GQRJUoYJeJuRTMO2+OX1k+bhWFq4zkxyP6EODtz6ssMEfy7LPHS9",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
+                "icono": "https://i.ibb.co/DQjyxbX/champions-league-logo-symbol-white-design-football-european-countries-football-teams-illustration-wi.jpg"
+	  },
+	    {
+                "name": "AT. MADIRD vs LEVERKUSEN - 17 HS",
+                "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefi3Hc8fMSqqkwmfIxqcQHpbLO0p86Q+R+d0GQRJUoYJeJuRTMO2+OX1k+bhWFq4zkxyP6EODtz6ssMEfy7LPHS9",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
+                "icono": "https://i.ibb.co/DQjyxbX/champions-league-logo-symbol-white-design-football-european-countries-football-teams-illustration-wi.jpg"
+	  },
+	    {
+                "name": "BENFICA vs BARCELONA - 17 HS",
+                "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefi3Hc8fMSqqkwmfIxqcQHpbLO0p86Q+R+d0GQRJUoYJeJuRTMO2+OX1k+bhWFq4zkxyP6EODtz6ssMEfy7LPHS9",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
+                "icono": "https://i.ibb.co/DQjyxbX/champions-league-logo-symbol-white-design-football-european-countries-football-teams-illustration-wi.jpg"
+	  },
+           ]
+	  },
 	  {
     "name": "🇵🇾CANALES DE PARAGUAY",
     "samples": [
