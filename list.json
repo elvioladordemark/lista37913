@@ -79,13 +79,12 @@
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
                 "icono": "https://i.ibb.co/DQjyxbX/champions-league-logo-symbol-white-design-football-european-countries-football-teams-illustration-wi.jpg"
 	  },
-	     {
-                "name": "ESTRELLA ROJA vs PSV - 17 HS",
-                "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefi3Hc8fMSqqkwmfIxqcQHpbLO0p86Q+R+d0GQRJUoYJeJuRTMO2+OX1k+bhWFq4zkxyP6EODtz6ssMEfy7LPHS9",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
+	    {
+                "name": "ESTRELLA ROJA vs PSV - EN VIVO", 
+		 "uri": "409o+Vetv8QGkL6/yUy7cmKw8yYj3eYzQH8mxr/oUt2X80Q5V2Upi63wCB+DXMUHkr8oBtvt7SWAeAA3ke+CxkErqNF7Rf2zkwfEE/XBq8s=",        "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDVhlejVg2RMFAXWbEdE2+uXhCd40mALf435hL5dhsHd1reJ+mnvqvVOK99SehCbvLgZXLmyCjdvzfwweQjYujIeWIpW8IxT1YpnxpTJ8ZytnTqXjHo8NNf/IStjdGh9jQ==",
                 "icono": "https://i.ibb.co/DQjyxbX/champions-league-logo-symbol-white-design-football-european-countries-football-teams-illustration-wi.jpg"
-	  },
+            },
 	    {
                 "name": "LIVERPOOL vs LILLE - EN VIVO", 
 		"uri": "409o+Vetv8QGkL6/yUy7cmKw8yYj3eYzQH8mxr/oUt0sK/upLdPHi0FBBZgNCtFKIzkhN2/GHtWiTJ+d5fSSftAH9GtUAtDGJ4jkizc5wlg=",
