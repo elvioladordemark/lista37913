@@ -3,13 +3,7 @@
  {
     "name": "🏆 TIGO SPORTS SOLO EVENTOS",
     "samples": [
-	{
-                "name": "TIGO SPORTS EN VIVO",
-                "uri": "L6T8G/TM6uOs948PAgQY7EbnV0yUSg8mUZKZ5/OCB+nRfgUy4c8oh52XQj5vy8jlymPFKbaz+V0txHS0Dn/iYNbSVfhRZwJyMGvJuaPE1d6FWNKtaF1fuRs6EBZZuYwPNx8cc4UflnZpiZgFw2i9Dah0AXZ/sZCfcvDDtW8m1BrTGpzhcG3Ul2EEi/KUQkX6dbLclssseqImYMZu4sr2sB7s6n5BPrExbQrddc4VmjLqxQbLuKLAdM/hie5r3lSdexFGqH49S2dMj72pH7FGubY9FYaBYxutXSw5QL7/fAQ=",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
-                "icono": "https://i.postimg.cc/gcK9ctZs/descarga-20.jpg"
-	},
+
 	
     {
                 "name": "EVENTOS PLAY TV PY ACTUALIZADO FULL HD",
@@ -18,7 +12,13 @@
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
                 "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
 	    },
-	
+		{
+                "name": "TIGO SPORTS EN VIVO",
+                "uri": "L6T8G/TM6uOs948PAgQY7EbnV0yUSg8mUZKZ5/OCB+nRfgUy4c8oh52XQj5vy8jlymPFKbaz+V0txHS0Dn/iYNbSVfhRZwJyMGvJuaPE1d6FWNKtaF1fuRs6EBZZuYwPNx8cc4UflnZpiZgFw2i9Dah0AXZ/sZCfcvDDtW8m1BrTGpzhcG3Ul2EEi/KUQkX6dbLclssseqImYMZu4sr2sB7s6n5BPrExbQrddc4VmjLqxQbLuKLAdM/hie5r3lSdexFGqH49S2dMj72pH7FGubY9FYaBYxutXSw5QL7/fAQ=",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
+                "icono": "https://i.postimg.cc/gcK9ctZs/descarga-20.jpg"
+	},
 	   {
                 "name": "EVENTOS 2 PLAY TV PY HD",
                 "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefi3Hc8fMSqqkwmfIxqcQHpbLO0p86Q+R+d0GQRJUoYJeJuRTMO2+OX1k+bhWFq4zkxyP6EODtz6ssMEfy7LPHS9",
