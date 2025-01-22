@@ -59,21 +59,21 @@
     "name": "🏀 NBA",
     "samples": [
 	{
-                "name": "BROOKLIN NETS vs NEY YORK KNIKCS - EN VIVO",
+                "name": "BROOKLIN NETS vs NEY YORK KNIKCS - FINALIZADO",
                 "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAZkU/A40ShSn7VY7mSCd4p+qeHl2gBzF5+/8tOGP1ksng==",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDIrwhNdaOJoX7bygWONAkRPIuEwrWOiFVzML9djQ7rqaDG+jCdUzdMWeDP5HbuvAVykMkCR2dphMy92bgCp+OcINh/wF15mhI4/JEKzKyHiSioUp22TUFxHelE2FrPB4Gw==",
                 "icono": "https://i.ibb.co/vQq9Rp8/1692211460nba-logo-png.png"
 	},
 	    {
-                "name": "TORONTO RAPTORS vs ORLANDO MAGICS - EN VIVO",
+                "name": "TORONTO RAPTORS vs ORLANDO MAGICS - FINALIZADO",
                 "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAZkU/A40ShSn7VY7mSCd4p+rokPm2k7mrOOEENYfSUnXg==",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDIrwhNdaOJoX7bygWONAkRPIuEwrWOiFVzML9djQ7rqaDG+jCdUzdMWeDP5HbuvAVykMkCR2dphMy92bgCp+OcINh/wF15mhI4/JEKzKyHiSioUp22TUFxHelE2FrPB4Gw==",
                 "icono": "https://i.ibb.co/vQq9Rp8/1692211460nba-logo-png.png"
 	    },
 	    {
-                "name": "MIAMI HEAT vs PORTLAND BLAZERS - EN VIVO",
+                "name": "MIAMI HEAT vs PORTLAND BLAZERS - FINALIZADO",
                 "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAZkU/A40ShSn7VY7mSCd4p+m0q7b097Jdhek7ekHYqZ5A==",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDIrwhNdaOJoX7bygWONAkRPIuEwrWOiFVzML9djQ7rqaDG+jCdUzdMWeDP5HbuvAVykMkCR2dphMy92bgCp+OcINh/wF15mhI4/JEKzKyHiSioUp22TUFxHelE2FrPB4Gw==",
@@ -92,19 +92,6 @@
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDIrwhNdaOJoX7bygWONAkRPIuEwrWOiFVzML9djQ7rqaDG+jCdUzdMWeDP5HbuvAVykMkCR2dphMy92bgCp+OcINh/wF15mhI4/JEKzKyHiSioUp22TUFxHelE2FrPB4Gw==",
                 "icono": "https://i.ibb.co/vQq9Rp8/1692211460nba-logo-png.png"
-	    }
-    ]
-	  },
-	 {
-    "name": "⚽ AMISTOSO INTERNACIONAL",
-    "samples": [
-	    
-	    {
-                "name": "RIVER PLATE vs MEXICO - EN VIVO",
-                "uri": "ZWHEO+J0/umENlTbpVkPURCYCMWuEM60irl6GkfzrWBcHpgHMNKORqyU///RPBOF",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDnuHFrmukKs6mMX0YzZpjktDvMQ8Ac3kUDk8mxmS4ZrK/jBD8zgdo5skNOE38sUJ2sF8S2gEhpBOHNQNosMh+dUhr+EpUAC1y2/Fl1Ot2O9",
-                "icono": "https://i.ibb.co/zbstrWs/g4-Szi-FSS2x6-P4-RXRa-HRZV6.png"
 	    }
     ]
 	  },
