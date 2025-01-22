@@ -60,26 +60,26 @@
     "samples": [
 	
 	    {
-                "name": "S. DONETSK vs BREST - EN VIVO", 
+                "name": "S. DONETSK vs BREST - FINALIZADOO", 
 		"uri": "409o+Vetv8QGkL6/yUy7cmKw8yYj3eYzQH8mxr/oUt0sK/upLdPHi0FBBZgNCtFKIzkhN2/GHtWiTJ+d5fSSftAH9GtUAtDGJ4jkizc5wlg=",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHEingIHlgU/3nDID3Pwz3bgoP5ld5z344hMbK6hMgvoYtSZ9XS+okMXm2+T9tW3CYlVKNYt3/xvtvbCE73JhhCreVCiwmRU3L8QgyXgqDVw2RIEj7JwpYPSAameRnbvCAA==",
                 "icono": "https://i.ibb.co/DQjyxbX/champions-league-logo-symbol-white-design-football-european-countries-football-teams-illustration-wi.jpg"
             },
 	    {
-        "name": "LEIPZIG vs SP. LISBO - EN VIVO",
+        "name": "LEIPZIG vs SP. LISBO - FINALIZADO",
         "uri": "QcY7pPFsYdEPJCl80yaYj3H8JTfqtpVqfH5lfiipQkH2Xx7lPfYYfx/i5+GahBIpDH+R1Pe7VQ9kTChCZbbiaw==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDPU7Iz65hMJ/eU+U7caCDFG8Hf51do3bcjTN+p/gtNrd+uiDpuv4rtAZmcE39dCsxCnwgEwl+Z5MmHPeKDZgmChhLVqLXM8VpHXYRd9Qj1fzSbqWmYrtAtPLvGDeJzwKJg==",
         "icono": "https://i.ibb.co/58JrpZF/Dise-o-sin-t-tulo-6.png"
       },
 	    {
-                "name": "REAL MADRID vs SALZBURGO - 17 HS",
-                "uri": "elP6h+R/hgDu9FGqDatfjEbnV0yUSg8mUZKZ5/OCB+m088jpEG5V19xTW4n4wYk3g7KtFMAms3golP+68/A+eo5d6nxPoFDaeKFRNSfj2tWZyPcm9pkj/BAoAjdbv1zpNx8cc4UflnZpiZgFw2i9DQ26KOUtT7F3BGCk7Rc7GpHTGpzhcG3Ul2EEi/KUQkX6dbLclssseqImYMZu4sr2sI8ZjA8gKrc+GsSAJdPScJ/x9B9Dj+hd946xH6wAyHC02RZITb6G9ceYjfZcqzm4ULY9FYaBYxutXSw5QL7/fAQ=",
+                "name": "REAL MADRID vs SALZBURGO - EN VIVO", 
+		"uri": "409o+Vetv8QGkL6/yUy7cmKw8yYj3eYzQH8mxr/oUt1hviE66/thjBDktc+9wEkgkr8oBtvt7SWAeAA3ke+CxkErqNF7Rf2zkwfEE/XBq8s=", 
                 "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
+                "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHEUKJrCH8ZRQmVVv5w4B2RH/fpgRU1LG/TPqrq1bxSIZrz07seVWR1kh0rvmivHwPnoDNTGrHC+K4beuWceU/PFEra8G7Ce1f4FxqZsbLfx+xcrcCyl27d7MosIqKnjgpA==",
                 "icono": "https://i.ibb.co/DQjyxbX/champions-league-logo-symbol-white-design-football-european-countries-football-teams-illustration-wi.jpg"
-	},
+            },
 	    {
                 "name": "ARSENAL vs D. ZAGREB - 17 HS",
                 "uri": "elP6h+R/hgDu9FGqDatfjEbnV0yUSg8mUZKZ5/OCB+m088jpEG5V19xTW4n4wYk3g7KtFMAms3golP+68/A+eo5d6nxPoFDaeKFRNSfj2tWZyPcm9pkj/BAoAjdbv1zpNx8cc4UflnZpiZgFw2i9DQ26KOUtT7F3BGCk7Rc7GpHTGpzhcG3Ul2EEi/KUQkX6dbLclssseqImYMZu4sr2sI8ZjA8gKrc+GsSAJdPScJ/x9B9Dj+hd946xH6wAyHC02RZITb6G9ceYjfZcqzm4ULY9FYaBYxutXSw5QL7/fAQ=",
@@ -95,13 +95,12 @@
                 "icono": "https://i.ibb.co/DQjyxbX/champions-league-logo-symbol-white-design-football-european-countries-football-teams-illustration-wi.jpg"
 	},
 	    {
-                "name": "PSG vs MANCHESTER CITY - 17 HS",
-           
-		"uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3pmAv2OcwwV9m6FvoSPb8JCM0k+uIpKMokLH5KGMemxAhxbEcjHIu+p8nsrXowsR2xjrFZrHkctvvLfWuNvWRiM",
+                "name": "PSG vs MANCHESTER CITY - EN VIVO", 
+		"uri": "409o+Vetv8QGkL6/yUy7cmKw8yYj3eYzQH8mxr/oUt0sK/upLdPHi0FBBZgNCtFKIzkhN2/GHtWiTJ+d5fSSftAH9GtUAtDGJ4jkizc5wlg=",
                 "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
-           "icono": "https://i.ibb.co/DQjyxbX/champions-league-logo-symbol-white-design-football-european-countries-football-teams-illustration-wi.jpg"
-	},
+                "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHEingIHlgU/3nDID3Pwz3bgoP5ld5z344hMbK6hMgvoYtSZ9XS+okMXm2+T9tW3CYlVKNYt3/xvtvbCE73JhhCreVCiwmRU3L8QgyXgqDVw2RIEj7JwpYPSAameRnbvCAA==",
+                "icono": "https://i.ibb.co/DQjyxbX/champions-league-logo-symbol-white-design-football-european-countries-football-teams-illustration-wi.jpg"
+            },
 	    {
                 "name": "MILAN vs GIRONA - 17 HS",
                 "uri": "elP6h+R/hgDu9FGqDatfjEbnV0yUSg8mUZKZ5/OCB+m088jpEG5V19xTW4n4wYk3g7KtFMAms3golP+68/A+eo5d6nxPoFDaeKFRNSfj2tWZyPcm9pkj/BAoAjdbv1zpNx8cc4UflnZpiZgFw2i9DQ26KOUtT7F3BGCk7Rc7GpHTGpzhcG3Ul2EEi/KUQkX6dbLclssseqImYMZu4sr2sI8ZjA8gKrc+GsSAJdPScJ/x9B9Dj+hd946xH6wAyHC02RZITb6G9ceYjfZcqzm4ULY9FYaBYxutXSw5QL7/fAQ=",
