@@ -1393,12 +1393,12 @@
       {
  "name": "HBO SIGNATURE", "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3qZ8J5It4JGdt1n2+/MIKbPMghJ2OUY/k3Ox8CQ79EkuJqCxex2KLvPhas7q6Y2/6zfCvElFh7AtwDgUEtk4MMR",  "drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDBeKqrXfOikoCbtG09NWgctPYabIg1YIlGOpoGRTITnV+abm+lR4GpIYSw7iBDycgvSm1uhvyslHE1aiET7AiWs0WGmj6q00+qr038Zdpa61voGRlzKzbBfvxbedF20VJs5hQb6qV5Omwvl1edurSxs=",
-        "icono": "https://i.ibb.co/FYgrpMP/ar-hbo-signature-m.png"
+        "icono": "https://i.ibb.co/kJVwNbQ/hbosig.webp"
       },
 	{
- "name": "HBO SIGNATURE OPC.2", "uri": "UMHWGmDHclSZhoaqYvQSHNx3N8xnRdZ9Wa2aLnSB0xz6H5U8WsN4ZYcCCSgLzSZw",  "drm_scheme": "clearkey",
+ "name": "HBO SIGNATURE OP.2", "uri": "UMHWGmDHclSZhoaqYvQSHNx3N8xnRdZ9Wa2aLnSB0xz6H5U8WsN4ZYcCCSgLzSZw",  "drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDBeKqrXfOikoCbtG09NWgctPYabIg1YIlGOpoGRTITnV+abm+lR4GpIYSw7iBDycgvSm1uhvyslHE1aiET7AiWs0WGmj6q00+qr038Zdpa61voGRlzKzbBfvxbedF20VJs5hQb6qV5Omwvl1edurSxs=",
-        "icono": "https://i.ibb.co/FYgrpMP/ar-hbo-signature-m.png"
+        "icono": "https://i.ibb.co/kJVwNbQ/hbosig.webp"
       },    
       {
 "name": "HBO MUNDI", "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3qZ8J5It4JGdt1n2+/MIKbPJ5FULFr/G8RqjrTwEXNaZ89U+UUG5mWNJUHHxYo2hMXFCwt7LwNKS+tkzV01UREj",  "drm_scheme": "clearkey",
