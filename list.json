@@ -2274,6 +2274,13 @@
         "name": "EL CANAL DEL FÚTBOL",
         "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAYlwsqDeQn9IV7pYORPKT83dGza2E+N12525f8a6KWclQ==",
         "icono": "https://i.ibb.co/7pvyJMk/ecdf.webp"
+	    },
+	    {
+        "name": "GOL TV",
+        "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAaFKTMukEvH301jeH2+FU/MxCRlO6It2V1p/XUCJeXwNg==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHMlilUYnm4OGiy/0Ftcr7MsoD3xSCXOtIkIDdLZ55mM4Id3cVcUatw+R5+wxYFZqEyrmOrPPnzCNOrb1iybd0yubOhjknyRgQYc9Lm5YvyCT3R9I7kBDq1R7VJRfDsl5gQ==",
+        "icono": "https://i.ibb.co/WBs0G8p/Goltv.png"
 	    }
     ]
          },
