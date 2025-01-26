@@ -2269,9 +2269,14 @@
         "name": "ECUAVISA",
         "uri": "OIUpieJCXgJs4/KlnFdF9rrPyA7Mgq1ytTRAu8JRQID9WX6K2L9ObslORbaa+dKAxAFk++koNVdmb2T7EYDsPdPk+iALUn7Qv2oY83VMZu7nlP2edTkfb1FzLnk8yvNVnfDI0jmB6JD9KoCSCAN4UwjYyGkmU+8F4ty5ri30j8DRnT2oxc1ypdHddYJ7Cm4yUDLRyPOssiE6+Wx+Ri8sew==",
         "icono": "https://i.ibb.co/pZ0HHyB/ecuavisa.png"
-	    }  
-        ]
-        },
+	    },
+	    {
+        "name": "EL CANAL DEL FÚTBOL",
+        "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAYlwsqDeQn9IV7pYORPKT83dGza2E+N12525f8a6KWclQ==",
+        "icono": "https://i.ibb.co/7pvyJMk/ecdf.webp"
+	    }
+    ]
+         },
 	    {
     "name": "🇧🇴CANALES DE BOLIVIA",
     "samples": [
