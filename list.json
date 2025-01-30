@@ -4,13 +4,7 @@
     "name": "🏆 TIGO SPORTS SOLO EVENTOS",
     "samples": [
 
-	{
-                "name": "TIGO SPORTS EN VIVO",
-                "uri": "pM2nDNx0Mh1jYXPUaFpuaEbnV0yUSg8mUZKZ5/OCB+nc+U0bjYv4UTqxry+3RG6F+1d01LhwYn2Pjl67fA2N2hadqJ03AeMcuelALBiPYWGPM6ev/8ALCMDOZ0jyIrjFNx8cc4UflnZpiZgFw2i9De8UFi3XiJYSymcYRSCbaifP8AAzk3DpYxLjDL3vomrAKQlfzDM6Jx2mlXmifXSqB8NICdWigencrMOvW0EcN8fT5VPj4iJYgP7aOVbQZ3ExyNen0womzgj80wY+IhD90tAH9GtUAtDGJ4jkizc5wlg=",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
-                "icono": "https://i.postimg.cc/gcK9ctZs/descarga-20.jpg"
-	},
+	
 	{
                 "name": "EVENTOS1 TIGO FULL HD",
                 "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefhgLY4CxV7wK70WaSmiQooV88nxgbUaIQohU1uGcKtGfzORBZhM+UjpA83IgahKKt9yP6EODtz6ssMEfy7LPHS9",
@@ -24,6 +18,13 @@
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDJKszjFjloOyQ0QMy5W6Q/GlJhs1XoGg82ErWxjJJ07DHIFdgevhpEllZRmHbqZNSJU6apQ4eqQQO+fxnaonXPpjWGrVDXeWsYtbNxAqYegmfNsEP3KI6agySFJqKsvUbA==",
                 "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+	},
+	    {
+                "name": "TIGO SPORTS EN VIVO",
+                "uri": "pM2nDNx0Mh1jYXPUaFpuaEbnV0yUSg8mUZKZ5/OCB+nc+U0bjYv4UTqxry+3RG6F+1d01LhwYn2Pjl67fA2N2hadqJ03AeMcuelALBiPYWGPM6ev/8ALCMDOZ0jyIrjFNx8cc4UflnZpiZgFw2i9De8UFi3XiJYSymcYRSCbaifP8AAzk3DpYxLjDL3vomrAKQlfzDM6Jx2mlXmifXSqB8NICdWigencrMOvW0EcN8fT5VPj4iJYgP7aOVbQZ3ExyNen0womzgj80wY+IhD90tAH9GtUAtDGJ4jkizc5wlg=",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
+                "icono": "https://i.postimg.cc/gcK9ctZs/descarga-20.jpg"
 	},
         {
                 "name": "EVENTOS 3 PLAY TV PY HD",
