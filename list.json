@@ -54,25 +54,6 @@
 	    }
     ]
 	 },
-	 {
-    "name": "🏆 SUDAMERICANO SUB 20",
-    "samples": [
-	{
-                "name": "VENEZUELA vs URUGUAY",
-                "uri": "ZwluaWBQbSp7QE2u6akpmUs8c1saHzo5eUdwktVAoGSxCDSHg56K9dlWODt/4bZc",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDIrwhNdaOJoX7bygWONAkRPIuEwrWOiFVzML9djQ7rqaDG+jCdUzdMWeDP5HbuvAVykMkCR2dphMy92bgCp+OcINh/wF15mhI4/JEKzKyHiSioUp22TUFxHelE2FrPB4Gw==",
-                "icono": "https://i.ibb.co/Fq6vLC1m/129504-imgbank.png"
-	},
-	    {
-                "name": "CHILE vs PARAGUAY",
-                "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefiXbo7LoLKwZdgdaiOu10NDAohmX8xcVDgb//53gq4uJZuydjiFSCozkFKwRXwB2gdyP6EODtz6ssMEfy7LPHS9",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDJKszjFjloOyQ0QMy5W6Q/GlJhs1XoGg82ErWxjJJ07DHIFdgevhpEllZRmHbqZNSJU6apQ4eqQQO+fxnaonXPpjWGrVDXeWsYtbNxAqYegmfNsEP3KI6agySFJqKsvUbA==",
-                "icono": "https://i.ibb.co/Fq6vLC1m/129504-imgbank.png"
-	}
-    ]
-	 },
 	  {
     "name": "🇵🇾CANALES DE PARAGUAY",
     "samples": [
