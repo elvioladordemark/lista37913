@@ -19,20 +19,21 @@
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDJKszjFjloOyQ0QMy5W6Q/GlJhs1XoGg82ErWxjJJ07DHIFdgevhpEllZRmHbqZNSJU6apQ4eqQQO+fxnaonXPpjWGrVDXeWsYtbNxAqYegmfNsEP3KI6agySFJqKsvUbA==",
                 "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
 	},
-	    {
-                "name": "TIGO SPORTS EN VIVO",
-                "uri": "2wxc2HmGzF8Y6FGWvpz05EbnV0yUSg8mUZKZ5/OCB+l8At4XKHFUnI8dRnIuX/nz+ECNsmX021W4yujAPriIO25r90Ve0i1M6kpwGL8abiLPdVrlKB07ycX4S6UKbgJENx8cc4UflnZpiZgFw2i9DREGMcZACgnxO4+BoLJouwHTGpzhcG3Ul2EEi/KUQkX6dbLclssseqImYMZu4sr2sMf3K7Qn2Uu+W61nSL9srHwI4Ywa0ODDBWnLn3dZSynATPGg1Uj3fSnKitLXLJVZDbY9FYaBYxutXSw5QL7/fAQ=",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
-                "icono": "https://i.postimg.cc/gcK9ctZs/descarga-20.jpg"
-	},
+	
         {
                 "name": "EVENTOS 3 PLAY TV PY HD",
                 "uri": "OopUEuaV06bnjT/dDuch1HnrtiU6Vrhu94+jdPEsefi3Hc8fMSqqkwmfIxqcQHpbLO0p86Q+R+d0GQRJUoYJeJuRTMO2+OX1k+bhWFq4zkxyP6EODtz6ssMEfy7LPHS9",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDHlvdsvhmLJevI32Zt9GoAZSIm180eFTMClABP8/a9gpCJ//zWGQq7RCECCM+DuOBC+iCVAsKMo6Sw8iGetIFRFp5+jazDK5COs79r96RCwpidfbpcR44IWWQch3JEWdYw==",
                 "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
-	   }
+	   },
+	        {
+                "name": "EN VIVO",
+                "uri": "2wxc2HmGzF8Y6FGWvpz05EbnV0yUSg8mUZKZ5/OCB+l8At4XKHFUnI8dRnIuX/nz+ECNsmX021W4yujAPriIO25r90Ve0i1M6kpwGL8abiLPdVrlKB07ycX4S6UKbgJENx8cc4UflnZpiZgFw2i9DREGMcZACgnxO4+BoLJouwHTGpzhcG3Ul2EEi/KUQkX6dbLclssseqImYMZu4sr2sMf3K7Qn2Uu+W61nSL9srHwI4Ywa0ODDBWnLn3dZSynATPGg1Uj3fSnKitLXLJVZDbY9FYaBYxutXSw5QL7/fAQ=",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
+                "icono": "https://i.postimg.cc/gcK9ctZs/descarga-20.jpg"
+	}
         ]
 	},
 	 {
