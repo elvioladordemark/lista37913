@@ -1340,7 +1340,14 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDJbiBc8sCaON6DX7I0JCvPGv+VbDPqFZSNJxaDbfpqeR4vLBnqanGxkWGyeLCrKJTV9s9q4E8Y0HUYJoxfN1fTDXgnEnl4i1utf1ih5lhImEpovc4W1waUWNxYZtOf6902OsVmseRy2+8t9a429ZGIw=",
         "icono": "https://i.ibb.co/RgWH92w/720x540-1.jpg"
-    }
+    },
+	    {
+        "name": "NETFLIX",
+        "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAZv2tMOygV3i3t76i6i9n2+9djyEYdN8Q/wIfJTpcPi1g==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDJbiBc8sCaON6DX7I0JCvPGv+VbDPqFZSNJxaDbfpqeR4vLBnqanGxkWGyeLCrKJTV9s9q4E8Y0HUYJoxfN1fTDXgnEnl4i1utf1ih5lhImEpovc4W1waUWNxYZtOf6902OsVmseRy2+8t9a429ZGIw=",
+        "icono": "https://i.ibb.co/PZvnzLRm/netflix-logo-netflix-icon-free-free-vector.jpg"
+	    }
     ]
     },
 	 {
