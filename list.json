@@ -55,6 +55,39 @@
 	    }
     ]
 	},
+	{
+    "name": "⚽CHAMPIONS LEAGUE - PLAY OFF - VUELTA",
+    "samples": [
+           {
+                "name": "MILAN vs FEYENOORD - 14:45 HS", 
+		"uri": "gYJdGyLBq+HHI8Q+WyNbZlAF0ECO5MbVCgZCJWhARTGgUWKB0lQYC0U1A/k+CX4/",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
+                "icono": "https://i.ibb.co/zW18QkWY/champions-league-logo-symbol-white-design-football-european-countries-football-teams-illustration-wi.jpg"
+            },
+	     {
+                "name": "BENFICA vs MONACO - 17 HS", 
+		"uri": "gYJdGyLBq+HHI8Q+WyNbZlAF0ECO5MbVCgZCJWhARTGgUWKB0lQYC0U1A/k+CX4/",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
+                "icono": "https://i.ibb.co/zW18QkWY/champions-league-logo-symbol-white-design-football-european-countries-football-teams-illustration-wi.jpg"
+            },
+	    {
+                "name": "ATALANTA vs BRUDDGE - 17 HS", 
+		"uri": "gYJdGyLBq+HHI8Q+WyNbZlAF0ECO5MbVCgZCJWhARTGgUWKB0lQYC0U1A/k+CX4/",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
+                "icono": "https://i.ibb.co/zW18QkWY/champions-league-logo-symbol-white-design-football-european-countries-football-teams-illustration-wi.jpg"
+            },
+	    {
+                "name": "BAYERN MUNICH vs CELTIC - 17 HS", 
+		"uri": "gYJdGyLBq+HHI8Q+WyNbZlAF0ECO5MbVCgZCJWhARTGgUWKB0lQYC0U1A/k+CX4/",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
+                "icono": "https://i.ibb.co/zW18QkWY/champions-league-logo-symbol-white-design-football-european-countries-football-teams-illustration-wi.jpg"
+            }
+    ]
+	},
 	  {
     "name": "🇵🇾CANALES DE PARAGUAY",
     "samples": [
