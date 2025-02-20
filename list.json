@@ -50,38 +50,10 @@
                 "name": "ÑANDEPORTETEPE RADIO",
                 "uri": "nAcIumOtBgpP7p7904QsBBpERSIRK3TYrWIze/5zCgH3QsrTWJ2wsD7KuX7HlCV+N40dkLL6U+qXCuVSgd/U41zHTZZlEAKxHwe6c42S69M=",
                 "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDIrwhNdaOJoX7bygWONAkRPIuEwrWOiFVzML9djQ7rqaDG+jCdUzdMWeDP5HbuvAVykMkCR2dphMy92bgCp+OcINh/wF15mhI4/JEKzKyHiSioUp22TUFxHelE2FrPB4Gw==",
-                "icono": "https://i.ibb.co/JkccFny/IMG-20250108-WA0051.jpg"
 	    }
     ]
-	},
-	{
-    "name": "⚽CHAMPIONS LEAGUE - PLAY OFF - VUELTA",
-    "samples": [
-           {
-                "name": "REAL MADRID vs MAN. CITY", 
-		"uri": "409o+Vetv8QGkL6/yUy7cmKw8yYj3eYzQH8mxr/oUt0sK/upLdPHi0FBBZgNCtFKIzkhN2/GHtWiTJ+d5fSSftAH9GtUAtDGJ4jkizc5wlg=",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
-                "icono": "https://i.ibb.co/zW18QkWY/champions-league-logo-symbol-white-design-football-european-countries-football-teams-illustration-wi.jpg"
-            },
-	     {
-                "name": "PSV vs JUVENTUS", 
-		"uri": "409o+Vetv8QGkL6/yUy7cmKw8yYj3eYzQH8mxr/oUt1hviE66/thjBDktc+9wEkgkr8oBtvt7SWAeAA3ke+CxkErqNF7Rf2zkwfEE/XBq8s=",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
-                "icono": "https://i.ibb.co/zW18QkWY/champions-league-logo-symbol-white-design-football-european-countries-football-teams-illustration-wi.jpg"
-            },
-	    {
-                "name": "PSG vs BREST", 
-		"uri": "409o+Vetv8QGkL6/yUy7cmKw8yYj3eYzQH8mxr/oUt0lJSXmIoLAC9AnZWoMvB4pkr8oBtvt7SWAeAA3ke+CxkErqNF7Rf2zkwfEE/XBq8s=",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
-                "icono": "https://i.ibb.co/zW18QkWY/champions-league-logo-symbol-white-design-football-european-countries-football-teams-illustration-wi.jpg"
-            }
-    ]
-	},
-	  {
+	 },
+   {
     "name": "🇵🇾CANALES DE PARAGUAY",
     "samples": [
 	  
