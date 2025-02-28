@@ -2676,13 +2676,6 @@
        "icono": "https://i.ibb.co/M5j7ZvBN/cf3b35181888595-Y3-Jvc-Cw5-OTIs-Nzc2-LDE1-NCwy-Mg.png"
 	   },
 	    {
-        "name": "TNT SPORTS",
-        "uri": "OcriGgK+cqHbcdzTYRsxVAxabVMuRTk85Y+kfRyFOE9BK6jRe0X9s5MHxBP1wavL",
-	 "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHLAshoAvjdKNyS/VzZCj2qYCj63VyB3Gk5T0eiRQURMK9bS8lOdtFHf9Gp6wBPYgOqCX2WqvXBl7eqvw5bN1EZkd/WQvJGZPS+m/KM0qIY5rTDtVBBbom5bGRvdQAQ8ayA==",
-       "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png"
-	   },
-	    {
         "name": "SPORT TV 1",
         "uri": "OcriGgK+cqHbcdzTYRsxVFgCJIkbH+0Wke9V69Dv1WEBNdjpdb5PAOrl3/WdCyBvSzJtGSQETHGAbxTHS7/xDw==",
 	 "drm_scheme": "clearkey",
@@ -2781,63 +2774,7 @@
 	"drm_scheme": "clearkey",
         "drm_license_uri": "L0H6bVIymxE/Ljo0epZawR26niTD+1522gqmn6LM/HChB/f2XeSMkgEynaHJGsyc/p1yrupx0WTV5pawpvz0OaVj6kriAYGdH1eDGZBYvNZlj7SwMGyB44R5+EV4yRwt+FQ22aLyTZWR/edq5WtKI3PAJe0BH0+ivjij6r2wINVt+79NRqhmAHMxLw7YhXrxb7K5cHupMh3IjGNyrSl6ow==",
        "icono": "https://i.ibb.co/jTYGFzt/nba-logo-nba-icon-transparent-free-png.webp"
-      },
-	 {
-        "name": "DISNEY+ BR (SOLO EVENTOS)",
-        "uri": "bgv9n4GygeRWduNbMmctW/7sNMMsb/n/Qj/OXXMaMhqWUD/s+flFNeNfX0IuvpOZnWWLlWc0h8v3cCJMCeAN2WOsVmseRy2+8t9a429ZGIw=",
-	"drm_scheme": "clearkey",
-        "drm_license_uri": "L0H6bVIymxE/Ljo0epZawR26niTD+1522gqmn6LM/HChB/f2XeSMkgEynaHJGsyc/p1yrupx0WTV5pawpvz0OaVj6kriAYGdH1eDGZBYvNZlj7SwMGyB44R5+EV4yRwt+FQ22aLyTZWR/edq5WtKI3PAJe0BH0+ivjij6r2wINVt+79NRqhmAHMxLw7YhXrxb7K5cHupMh3IjGNyrSl6ow==",
-       "icono": "https://i.ibb.co/zbstrWs/g4-Szi-FSS2x6-P4-RXRa-HRZV6.png"
-	    },
-	 {
-        "name": "DISNEY+ 2 BR (SOLO EVENTOS)",
-        "uri": "bgv9n4GygeRWduNbMmctW/7sNMMsb/n/Qj/OXXMaMhqWUD/s+flFNeNfX0IuvpOZu1kVTHS2C9L2H/LMPXKQ1mOsVmseRy2+8t9a429ZGIw=",
-	"drm_scheme": "clearkey",
-        "drm_license_uri": "L0H6bVIymxE/Ljo0epZawR26niTD+1522gqmn6LM/HChB/f2XeSMkgEynaHJGsyc/p1yrupx0WTV5pawpvz0OaVj6kriAYGdH1eDGZBYvNZlj7SwMGyB44R5+EV4yRwt+FQ22aLyTZWR/edq5WtKI3PAJe0BH0+ivjij6r2wINVt+79NRqhmAHMxLw7YhXrxb7K5cHupMh3IjGNyrSl6ow==",
-       "icono": "https://i.ibb.co/zbstrWs/g4-Szi-FSS2x6-P4-RXRa-HRZV6.png"
-	    },
-	 {
-        "name": "DISNEY+ 3 BR (SOLO EVENTOS)",
-        "uri": "bgv9n4GygeRWduNbMmctW/7sNMMsb/n/Qj/OXXMaMhqWUD/s+flFNeNfX0IuvpOZl8btNnoz1f91EqcW2GdGtmOsVmseRy2+8t9a429ZGIw=",
-	"drm_scheme": "clearkey",
-        "drm_license_uri": "L0H6bVIymxE/Ljo0epZawR26niTD+1522gqmn6LM/HChB/f2XeSMkgEynaHJGsyc/p1yrupx0WTV5pawpvz0OaVj6kriAYGdH1eDGZBYvNZlj7SwMGyB44R5+EV4yRwt+FQ22aLyTZWR/edq5WtKI3PAJe0BH0+ivjij6r2wINVt+79NRqhmAHMxLw7YhXrxb7K5cHupMh3IjGNyrSl6ow==",
-       "icono": "https://i.ibb.co/zbstrWs/g4-Szi-FSS2x6-P4-RXRa-HRZV6.png"
-	    },
-	    {
-        "name": "DISNEY+ 4 BR (SOLO EVENTOS)",
-        "uri": "bgv9n4GygeRWduNbMmctW/7sNMMsb/n/Qj/OXXMaMhqWUD/s+flFNeNfX0IuvpOZyk97hfFNk4zQo9EthAwn3GOsVmseRy2+8t9a429ZGIw=",
-	"drm_scheme": "clearkey",
-        "drm_license_uri": "L0H6bVIymxE/Ljo0epZawR26niTD+1522gqmn6LM/HChB/f2XeSMkgEynaHJGsyc/p1yrupx0WTV5pawpvz0OaVj6kriAYGdH1eDGZBYvNZlj7SwMGyB44R5+EV4yRwt+FQ22aLyTZWR/edq5WtKI3PAJe0BH0+ivjij6r2wINVt+79NRqhmAHMxLw7YhXrxb7K5cHupMh3IjGNyrSl6ow==",
-       "icono": "https://i.ibb.co/zbstrWs/g4-Szi-FSS2x6-P4-RXRa-HRZV6.png"
-	    },
-	    {
-                "name": "ESPN", 
-		"uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAbUeZ/yKjz13V7w2gg+XeLdqeHl2gBzF5+/8tOGP1ksng==",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
-                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
-            },
-	    {
-                "name": "ESPN 2", 
-		"uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAbUeZ/yKjz13V7w2gg+XeLdrokPm2k7mrOOEENYfSUnXg==",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
-                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
-            },
-	    {
-                "name": "ESPN 3", 
-		"uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAbUeZ/yKjz13V7w2gg+XeLdn2pf+BuY96RNX4ztS2kUDw==",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
-                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
-            },
-	    {
-                "name": "ESPN 4", 
-		"uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAbUeZ/yKjz13V7w2gg+XeLdfOIGBrurn0CaRj++jQcKbQ==",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
-                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
-            }
+      }
     ]
 	 },
 
