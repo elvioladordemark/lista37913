@@ -71,13 +71,20 @@
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
                 "icono": "https://i.ibb.co/zh9ztQLg/champions-league-logo-symbol-white-design-football-european-countries-football-teams-illustration-wi.jpg"
 	    },
-	    {
-                "name": "PSV vs ARSENAL - 17 HS",
-                "uri": "TIsSz8nq+Kc7FysqRrpSMpkbQLtlZ9X7fB7hq5CHl9hjmCQz+/nYaJQWm0dHpuXR4mxAzTeeJlX/UdWHCz8KXJUb2bRS2DzhxFfOHNJVsLG8I9LAKZ+DuGAuS48sBpZ8ClevNM5oWZsx3K0182Tnqg==",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
-                "icono": "https://i.ibb.co/zh9ztQLg/champions-league-logo-symbol-white-design-football-european-countries-football-teams-illustration-wi.jpg"
-	    },
+	           {
+        "name": "PSG VS ARSENAL",
+        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3o3h4R/C3YFqo37ZdNZ/ChVNyrZYEBOp2g7gQ00BzST+Uzb1VxYP4CyiUGJN8TcENjFCwt7LwNKS+tkzV01UREj",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDPU7Iz65hMJ/eU+U7caCDFG8Hf51do3bcjTN+p/gtNrd+uiDpuv4rtAZmcE39dCsxCnwgEwl+Z5MmHPeKDZgmChhLVqLXM8VpHXYRd9Qj1fzSbqWmYrtAtPLvGDeJzwKJg==",
+        "icono": "https://i.ibb.co/58JrpZF/Dise-o-sin-t-tulo-6.png"
+      },
+     {
+        "name": "PSG VS ARSENAL OPCIÓN 2",
+        "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAbPZcQ+qhtVIG8T46smmFyZ44UVgNSK7RNceE41SMOo2g==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDPU7Iz65hMJ/eU+U7caCDFG8Hf51do3bcjTN+p/gtNrd+uiDpuv4rtAZmcE39dCsxCnwgEwl+Z5MmHPeKDZgmChhLVqLXM8VpHXYRd9Qj1fzSbqWmYrtAtPLvGDeJzwKJg==",
+        "icono": "https://i.ibb.co/58JrpZF/Dise-o-sin-t-tulo-6.png"
+      },
 	    {
                 "name": "DORTMUND vs LILLE - 17 HS",
                 "uri": "TIsSz8nq+Kc7FysqRrpSMpkbQLtlZ9X7fB7hq5CHl9hjmCQz+/nYaJQWm0dHpuXR4mxAzTeeJlX/UdWHCz8KXJUb2bRS2DzhxFfOHNJVsLG8I9LAKZ+DuGAuS48sBpZ8ClevNM5oWZsx3K0182Tnqg==",
