@@ -934,6 +934,12 @@
 		 "uri": "NbbYeNq9FxMAfuvGY/p2imuW+PV7cqFqFtCxU6TTcNH+hLUXe1nvFBKsayRbgBTe",    "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDJAru96twQ97P4HqH+iSMJDGHdRy13NVhTxU8EshMuGUd0CmrAT4aqFp26Cijc0dMbCqsqTCrJwsytMcLj/SUORV1cyrCZh1lPXjladkRrgfHv5uzISyK6uNkYovxzXDw==",
                 "icono": "https://static.flow.com.ar/images/8897/CH_LOGO/60/40/0/0/5522598607348.png"
+            },
+	    {
+                "name": "ESPN 6 BR", 
+		"uri": "NbbYeNq9FxMAfuvGY/p2io8IVz8/gPOmX7fbJnl8J+P+hLUXe1nvFBKsayRbgBTe",     "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDP1771wFXtIEeRoaxJT+iY1ZCSR2EzRJSicfdZKDt/VU/YNZGwYJkT3HJTzfn++fq1CvhrUNDvaVBcvxTAkFiHVh1BHw2o57YJB8NQWpIRJsWsh+5KJuxeZy5FIcBp1atg==",
+                "icono": "https://static.flow.com.ar/images/9019/CH_LOGO/60/40/0/0/15905984073899.png"
             }
        ]
        },
