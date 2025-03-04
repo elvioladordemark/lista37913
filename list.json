@@ -60,17 +60,38 @@
     ]
 	},
 	{
-    "name": "🏆 EVENTOS DEPORTIVOS",
+    "name": "🏆 CHAMPIONS LEAGUE",
     "samples": [
 
 	
 	{
-                "name": "RAYO VALLECANO vs SEVILLA FC",
+                "name": "BRUDDGE vs ASTON VILLA - 14.45 HS",
                 "uri": "TIsSz8nq+Kc7FysqRrpSMpkbQLtlZ9X7fB7hq5CHl9hjmCQz+/nYaJQWm0dHpuXR4mxAzTeeJlX/UdWHCz8KXJUb2bRS2DzhxFfOHNJVsLG8I9LAKZ+DuGAuS48sBpZ8ClevNM5oWZsx3K0182Tnqg==",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
                 "icono": "https://i.ibb.co/spRctkdf/OIP.jpg"
-	}
+	},
+	    {
+                "name": "REAL MADRID vs ATL. MADRID - 17 HS",
+                "uri": "TIsSz8nq+Kc7FysqRrpSMpkbQLtlZ9X7fB7hq5CHl9hjmCQz+/nYaJQWm0dHpuXR4mxAzTeeJlX/UdWHCz8KXJUb2bRS2DzhxFfOHNJVsLG8I9LAKZ+DuGAuS48sBpZ8ClevNM5oWZsx3K0182Tnqg==",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
+                "icono": "https://i.ibb.co/spRctkdf/OIP.jpg"
+	    },
+	    {
+                "name": "PSV vs ARSENAL - 17 HS",
+                "uri": "TIsSz8nq+Kc7FysqRrpSMpkbQLtlZ9X7fB7hq5CHl9hjmCQz+/nYaJQWm0dHpuXR4mxAzTeeJlX/UdWHCz8KXJUb2bRS2DzhxFfOHNJVsLG8I9LAKZ+DuGAuS48sBpZ8ClevNM5oWZsx3K0182Tnqg==",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
+                "icono": "https://i.ibb.co/spRctkdf/OIP.jpg"
+	    },
+	    {
+                "name": "DORTMUND vs LILLE - 17 HS",
+                "uri": "TIsSz8nq+Kc7FysqRrpSMpkbQLtlZ9X7fB7hq5CHl9hjmCQz+/nYaJQWm0dHpuXR4mxAzTeeJlX/UdWHCz8KXJUb2bRS2DzhxFfOHNJVsLG8I9LAKZ+DuGAuS48sBpZ8ClevNM5oWZsx3K0182Tnqg==",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
+                "icono": "https://i.ibb.co/spRctkdf/OIP.jpg"
+	    }
     ]
 	    },
         {
