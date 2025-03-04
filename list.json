@@ -915,6 +915,13 @@
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHIoiGgUu175pJsLp8QhqIOIvCsFZu0s/2WB3s/rmtBlNzFoa/NBi+k6vc54Vy3HASeBtevFFoU2EwedR5P3eTseOyQLir1NA7JkhBATSjjauZKm3R4K2y9Tjm5DHXU1I4w==",
                 "icono": "https://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png"
+            },
+	    {
+                "name": "ESPN 3 BR", 
+		"uri": "NbbYeNq9FxMAfuvGY/p2iipnnjVNOiNJHswQT5LL/Jr+hLUXe1nvFBKsayRbgBTe", 
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDPY+lANW20AGG6O67jRSPhXZiHTZsOfwXks98+KL8zqUw1ClcfU9CZ5lnn+duxvsbPUTRsESUdUs8qHcExqDktwMsZE7BhdfEp5H01f9TWdrunViJ4x2z/v0rFfQA7Fsgw==",
+                "icono": "https://static.flow.com.ar/images/8817/CH_LOGO/60/40/0/0/29145259072020.png"
             }
        ]
        },
