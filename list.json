@@ -908,7 +908,14 @@
 	 "drm_scheme": "clearkey",
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHLAshoAvjdKNyS/VzZCj2qYCj63VyB3Gk5T0eiRQURMK9bS8lOdtFHf9Gp6wBPYgOqCX2WqvXBl7eqvw5bN1EZkd/WQvJGZPS+m/KM0qIY5rTDtVBBbom5bGRvdQAQ8ayA==",
        "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
-	   }
+	   },
+	    {
+                "name": "ESPN 2 BR",
+                "uri": "NbbYeNq9FxMAfuvGY/p2iiAwQmpcUFGc6LtlOy+gCMv+hLUXe1nvFBKsayRbgBTe",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHIoiGgUu175pJsLp8QhqIOIvCsFZu0s/2WB3s/rmtBlNzFoa/NBi+k6vc54Vy3HASeBtevFFoU2EwedR5P3eTseOyQLir1NA7JkhBATSjjauZKm3R4K2y9Tjm5DHXU1I4w==",
+                "icono": "https://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png"
+            }
        ]
        },
 	 {
