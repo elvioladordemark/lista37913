@@ -928,6 +928,12 @@
 		 "uri": "NbbYeNq9FxMAfuvGY/p2iiKKySHKJNy70TqBNgD5VjP+hLUXe1nvFBKsayRbgBTe",        "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDVhlejVg2RMFAXWbEdE2+uXhCd40mALf435hL5dhsHd1reJ+mnvqvVOK99SehCbvLgZXLmyCjdvzfwweQjYujIeWIpW8IxT1YpnxpTJ8ZytnTqXjHo8NNf/IStjdGh9jQ==",
                 "icono": "https://static.flow.com.ar/images/279/CH_LOGO/60/40/0/0/43362732071132.png"
+            },
+	    {
+                "name": "ESPN 5 BR", 
+		 "uri": "NbbYeNq9FxMAfuvGY/p2imuW+PV7cqFqFtCxU6TTcNH+hLUXe1nvFBKsayRbgBTe",    "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDJAru96twQ97P4HqH+iSMJDGHdRy13NVhTxU8EshMuGUd0CmrAT4aqFp26Cijc0dMbCqsqTCrJwsytMcLj/SUORV1cyrCZh1lPXjladkRrgfHv5uzISyK6uNkYovxzXDw==",
+                "icono": "https://static.flow.com.ar/images/8897/CH_LOGO/60/40/0/0/5522598607348.png"
             }
        ]
        },
