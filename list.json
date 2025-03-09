@@ -666,6 +666,13 @@
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDCmypJiydMAVcDyQkg8TQ1zT2dPgeX8mNbGCsw9w09Tjq2eldpnl5tYScpcYT+MY5H/B0Q303jK6P4BBRF6WZKuzvQLfOlvYCY9FZ02mDIsXGi4jyKs0TQJCjPQZ/aT7XA==",
                 "icono": "https://i.ibb.co/RgtSQhW/unnamed.jpg"
             },
+	    {
+                "name": "ESPN MEX", 
+		"uri": "GJh5vXGwWYwt3WUV8q+jt4n72T08n7CgTlHqWbYx1Akpr/4j2RXioLm5TTLvPZQ5Vih35BYarUlyWb8ul93hkA==",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDFsPe9RUELybP9lKrVgi6BeFcw60Xnlvymb8U9gcYHSmUMdsSa0V71mK2M9HorcoFmeyl2Z0jt8yBQksnC5U/ZsFzE47V74CDX0dXRpzdXHnSDmfm7y4yhhWWNuuUcHE9WEtg1cQLq9whKsBxgRAOV4=",
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
+            },
          {
         "name": "ESPN PREMIUM", 
 	"uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3r2ZDCNrHicsoabKSE3TyC4/QGVTzm+a8RmpCJ46X0d2f/3h0ua6QjIehBK3TBmkMwN5N6/Zjqu53o11/4bjgTnXsOP5zbi4mtVAJRejLh7Sg==",    "drm_scheme": "clearkey",
