@@ -970,7 +970,21 @@
 	 {
     "name": "⚽ DEPORTES TYC Y TNT SPORTS",
     "samples": [
-       {
+            {
+        "name": "TNT SPORT HD",
+        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3qA6L9xSBC6uMzTQuUGndJPW/SgLjNQM8rb/L9FxAPxbJgFScRbujSxW+PuiVxpkyjHLwIaXDCrBXRvLjbQkJmR",
+	 "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDHrYR4Cp8TxRvpY6HQd40g5UmiCf+bLutQttu0l8sUazj+q+0NOe1GlO035S7OFsgtUOQYuQR2kVXFvVf3uJz1xPcM3TvOoUBl/AuWCi6vhDdNnLYkTd4nkZmxg1QWpAn86DJEKeI1HmOKGcCHZwf7E=",
+        "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png"
+      },
+	    {
+        "name": "TNT SPORT HD OPC. 2",
+        "uri": "WOcrDWuqtQOmLkGppbrwdFPBP6ee4U+N2cQwLPnvN4MdG4RavaHtQgFziVAcsjWPeqaRPy1IIn7SI4O4C9Nnwz400856vSu/3WPKytvG5ZIZkfu0KHdX5Q4u8cmyVv5ALwSlELQDbc10ocjUIczQNWFuFjVU9hxo4niB3jBgcHKtPZKHf15E9ZEXmiEpKhzatj0VhoFjG61dLDlAvv98BA==",
+	 "drm_scheme": "clearkey",
+        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDHrYR4Cp8TxRvpY6HQd40g5UmiCf+bLutQttu0l8sUazj+q+0NOe1GlO035S7OFsgtUOQYuQR2kVXFvVf3uJz1xPcM3TvOoUBl/AuWCi6vhDdNnLYkTd4nkZmxg1QWpAn86DJEKeI1HmOKGcCHZwf7E=",
+        "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png"
+	    }
+	    {
         "name": "TYC SPORTS",
         "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAaCZYKFFkj9ASvMYPDtrJUCc1EV8kwPj29t78e2xF6B+Q==",
         "drm_scheme": "clearkey",
@@ -1011,21 +1025,8 @@
         "name": "TYC SPORT (PLAY 6)",
         "uri": "6lT2jWTyj/iq8AwRhBr0Sci3ngtO8JvXtJ1rG9XGpYfZ+Ict3Syc7MbrcQhzB6DfQsDvKtw7+ZIX5hSjDW138XD6jl2F83MQKcLKUsRHgmGIheRSlIA2n1vdwxCBXWsT",
         "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
-      }, 
-      {
-        "name": "TNT SPORT HD",
-        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3qA6L9xSBC6uMzTQuUGndJPW/SgLjNQM8rb/L9FxAPxbJgFScRbujSxW+PuiVxpkyjHLwIaXDCrBXRvLjbQkJmR",
-	 "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDHrYR4Cp8TxRvpY6HQd40g5UmiCf+bLutQttu0l8sUazj+q+0NOe1GlO035S7OFsgtUOQYuQR2kVXFvVf3uJz1xPcM3TvOoUBl/AuWCi6vhDdNnLYkTd4nkZmxg1QWpAn86DJEKeI1HmOKGcCHZwf7E=",
-        "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png"
-      },
-	    {
-        "name": "TNT SPORT HD OPC. 2",
-        "uri": "1HkjxNPVbgnsYUgGcQmuAFgPc+MUB9bMR0y+I861Z0SVihR39uj5Ftf0pLy+Tu3KfqHL4FVVrQVLzH9UKvJa+nqmkT8tSCJ+0iODuAvTZ8M+NNPOer0rv91jysrbxuWSGZH7tCh3V+UOLvHJslb+QC8EpRC0A23NdKHI1CHM0DVhbhY1VPYcaOJ4gd4wYHByrT2Sh39eRPWRF5ohKSoc2rY9FYaBYxutXSw5QL7/fAQ=",
-	 "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDHrYR4Cp8TxRvpY6HQd40g5UmiCf+bLutQttu0l8sUazj+q+0NOe1GlO035S7OFsgtUOQYuQR2kVXFvVf3uJz1xPcM3TvOoUBl/AuWCi6vhDdNnLYkTd4nkZmxg1QWpAn86DJEKeI1HmOKGcCHZwf7E=",
-        "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png"
-      }
+      } 
+
 	    	   ]
            },
 	 {
