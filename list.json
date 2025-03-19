@@ -301,6 +301,46 @@
 	    }
     ]
 	},
+	{
+    "name": "ELIMINATORIAS SUDAMERICANAS 2026",
+    "samples": [
+	{
+                "name": "PARAGUAY vs CHILE - JUE 20 HS",
+                "uri": "1HkjxNPVbgnsYUgGcQmuAFTPVVYz3umpnanQlsFFcYBXIJOV9KSv8r7x8TGgWKZbhjUG/M3RluqUPrxVCan4R4vzX9YeDEKGABTbATQHSv1ErUVsHuDaHAeV3P4qzDwIKWMk5AqTfoGNPEsv8g7w+urIc7QX/b3PIBxhJJiI5Ft1ZZUwh4WKLQ9zr+wP3aFA",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
+                "icono": "https://i.ibb.co/qM1r1CSg/OIP.jpg"
+	},
+	    {
+                "name": "BRASIL vs COLOMBIA - JUE 21:45 HS",
+                "uri": "1HkjxNPVbgnsYUgGcQmuAFTPVVYz3umpnanQlsFFcYBXIJOV9KSv8r7x8TGgWKZbhjUG/M3RluqUPrxVCan4R4vzX9YeDEKGABTbATQHSv1ErUVsHuDaHAeV3P4qzDwIKWMk5AqTfoGNPEsv8g7w+urIc7QX/b3PIBxhJJiI5Ft1ZZUwh4WKLQ9zr+wP3aFA",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
+                "icono": "https://i.ibb.co/qM1r1CSg/OIP.jpg"
+	},
+	    {
+                "name": "PERÚ vs BOLIVIA - JUE 22:30 HS",
+                "uri": "1HkjxNPVbgnsYUgGcQmuAFTPVVYz3umpnanQlsFFcYBXIJOV9KSv8r7x8TGgWKZbhjUG/M3RluqUPrxVCan4R4vzX9YeDEKGABTbATQHSv1ErUVsHuDaHAeV3P4qzDwIKWMk5AqTfoGNPEsv8g7w+urIc7QX/b3PIBxhJJiI5Ft1ZZUwh4WKLQ9zr+wP3aFA",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
+                "icono": "https://i.ibb.co/qM1r1CSg/OIP.jpg"
+	},
+	    {
+                "name": "ECUADOR vs VENEZUELA - VIE 18 HS",
+                "uri": "1HkjxNPVbgnsYUgGcQmuAFTPVVYz3umpnanQlsFFcYBXIJOV9KSv8r7x8TGgWKZbhjUG/M3RluqUPrxVCan4R4vzX9YeDEKGABTbATQHSv1ErUVsHuDaHAeV3P4qzDwIKWMk5AqTfoGNPEsv8g7w+urIc7QX/b3PIBxhJJiI5Ft1ZZUwh4WKLQ9zr+wP3aFA",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
+                "icono": "https://i.ibb.co/qM1r1CSg/OIP.jpg"
+	},
+	    {
+                "name": "URUGUAY vs ARGENTINA - VIE 20:30 HS",
+                "uri": "1HkjxNPVbgnsYUgGcQmuAFTPVVYz3umpnanQlsFFcYBXIJOV9KSv8r7x8TGgWKZbhjUG/M3RluqUPrxVCan4R4vzX9YeDEKGABTbATQHSv1ErUVsHuDaHAeV3P4qzDwIKWMk5AqTfoGNPEsv8g7w+urIc7QX/b3PIBxhJJiI5Ft1ZZUwh4WKLQ9zr+wP3aFA",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
+                "icono": "https://i.ibb.co/qM1r1CSg/OIP.jpg"
+	}
+    ]
+	    },
         {
     "name": "🇵🇾CANALES DE PARAGUAY",
     "samples": [
