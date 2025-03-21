@@ -302,41 +302,15 @@
 	{
     "name": "ELIMINATORIAS SUDAMERICANAS 2026",
     "samples": [
-	  {  
-	 "name": "PARAGUAY (1) vs CHILE (0) - FINALIZADO",
-                "uri": "WOcrDWuqtQOmLkGppbrwdFPBP6ee4U+N2cQwLPnvN4MdG4RavaHtQgFziVAcsjWPeqaRPy1IIn7SI4O4C9Nnwz400856vSu/3WPKytvG5ZK2HFyDfZaiupWWnezIcPU/noYhjtms9cDlLHQIDAqqOiC2EGWrZwb+8iNqTtyZrLMAqTuqjYpoxXoF8ItnLpoAtj0VhoFjG61dLDlAvv98BA==",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
-                "icono": "https://i.ibb.co/HfR5W0Wt/OIP-1.jpg"
-	},
 	    {
-                "name": "BRASIL vs COLOMBIA - EN VIVO",
-                "uri": "WOcrDWuqtQOmLkGppbrwdFPBP6ee4U+N2cQwLPnvN4MdG4RavaHtQgFziVAcsjWPeqaRPy1IIn7SI4O4C9Nnwz400856vSu/3WPKytvG5ZIfTAjIlXIBvq4FcP7Rx/RztJA1TYmmqRGg9XvxEqA0rmE+BxiJ8548U4VX0rzd/HMh/D8GYYHP3H/lZthqk6votj0VhoFjG61dLDlAvv98BA==",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
-                "icono": "https://i.ibb.co/DDq8PwrX/OIP-2.jpg"
-	},
-	    {
-   "name": "BRASIL vs COLOMBIA Op. 2", "uri": "svYnf1tOSNM7703YskeocNHzAxb3uL/VtFunT0kJGypt7ll8RX4UM7bNjncdCybZY31WQ1fbiF5Pm+RB+Uc6rTxRbl/ajoYrMsOBfKdHUvD9TPj2TZ4OF0aRRFeWPoJqS7gbZuK8gc2TnnCveF7zSpW/E/DcTi0O56at9kHOGtRVVi0AOGpXpEOzRya7WMB5idwlsdGDVpKUXlbQAhN8vj/bdoOv18zW6sPDRvqBuZ1+cSc9u/BrQmsrd5JCoNZS", "drm_scheme": "clearkey",
-        "drm_license_uri": "WOcrDWuqtQOmLkGppbrwdFPBP6ee4U+N2cQwLPnvN4MdG4RavaHtQgFziVAcsjWPeqaRPy1IIn7SI4O4C9Nnwz400856vSu/3WPKytvG5ZJb4tMu7y39DvmaOE8TnG879WklEkg8PWDvgKq6gkgMAMm9J22ILD06BrUlUF5MZi/EU8EyNnZoFXTzyMhn1MSFtj0VhoFjG61dLDlAvv98BA==",
-        "icono": "https://i.ibb.co/DDq8PwrX/OIP-2.jpg"
-      },
-	    {
-                "name": "PERÚ vs BOLIVIA - EN VIVO",
-                "uri": "+we77uu/wWrI1R7KFetrix/RCEyf7Zsg3KXRwyY/UP/5hrjH4kJjN+9rzJtHi22lRH4vFVT9QQqoHhEINCfEXA==",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
-                "icono": "https://i.ibb.co/kV9dRghq/OIP-3.jpg"
-	},
-	    {
-                "name": "ECUADOR vs VENEZUELA - VIE 18 HS",
+                "name": "ECUADOR vs VENEZUELA - 18 HS",
                 "uri": "wUxY6bwb/yeFONeUvGRvkQuVRxvkIhZKDVQU/csXROgnvfh3v7jRiB0dmPvDT0AwwmL2QwwFcWaI9vRakg4vWg==",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
                 "icono": "https://i.ibb.co/qM1r1CSg/OIP.jpg"
 	},
 	    {
-                "name": "URUGUAY vs ARGENTINA - VIE 20:30 HS",
+                "name": "URUGUAY vs ARGENTINA - 20:30 HS",
                 "uri": "wUxY6bwb/yeFONeUvGRvkQuVRxvkIhZKDVQU/csXROgnvfh3v7jRiB0dmPvDT0AwwmL2QwwFcWaI9vRakg4vWg==",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
