@@ -3,7 +3,13 @@
  {
     "name": "🏆 TIGO SPORTS SOLO EVENTOS",
     "samples": [
-
+ {
+                "name": "TIGO EN VIVO",
+                "uri": "WOcrDWuqtQOmLkGppbrwdFPBP6ee4U+N2cQwLPnvN4MdG4RavaHtQgFziVAcsjWPeqaRPy1IIn7SI4O4C9Nnwz400856vSu/3WPKytvG5ZIay/S7Qfrbw0aaq5KSvmQ1fb9Jhc2+LVj4TkAeYXiKzZADOd7HM7wbgXYkztdtGLoSlIFB3EhfIjMfWlLlGANltj0VhoFjG61dLDlAvv98BA==",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
+                "icono": "https://i.postimg.cc/gcK9ctZs/descarga-20.jpg"
+			},
 	
 	{
                 "name": "EVENTOS1 TIGO FULL HD",
@@ -342,13 +348,7 @@
         {
     "name": "🇵🇾CANALES DE PARAGUAY",
     "samples": [
-	   	        {
-                "name": "TIGO EN VIVO",
-                "uri": "WOcrDWuqtQOmLkGppbrwdFPBP6ee4U+N2cQwLPnvN4MdG4RavaHtQgFziVAcsjWPeqaRPy1IIn7SI4O4C9Nnwz400856vSu/3WPKytvG5ZIay/S7Qfrbw0aaq5KSvmQ1fb9Jhc2+LVj4TkAeYXiKzZADOd7HM7wbgXYkztdtGLoSlIFB3EhfIjMfWlLlGANltj0VhoFjG61dLDlAvv98BA==",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
-                "icono": "https://i.postimg.cc/gcK9ctZs/descarga-20.jpg"
-			},
+	   	       
 	        {
                 "name": "EVENTOS 4 TIGO PRUEBA",
                 "uri": "7ni5zojlfcN9u4+ZVssWNVBHADAtfX+kmTKKT540o0POL6cWnhQ+ZCNdi17Hu/TpoK5tBelqOOpVhygi7XXC8EbAdNArSouZciDhajG/tYQRAMWwWraRj72qgsxx6vT3",
