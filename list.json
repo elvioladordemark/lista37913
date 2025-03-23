@@ -289,55 +289,7 @@
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
                 "icono": "https://i.ibb.co/RTFGW000/nba-logo-nba-icon-transparent-free-png.webp"
-	},
-	    {
-                "name": "NBA 9",
-                "uri": "WOcrDWuqtQOmLkGppbrwdFPBP6ee4U+N2cQwLPnvN4MdG4RavaHtQgFziVAcsjWPeqaRPy1IIn7SI4O4C9Nnwz400856vSu/3WPKytvG5ZIJUskWuMFdMQRXh8Gtk5epUTf7gLizx875LM9wA78rzLPSfXixmHhxPJq3sg/bTAo74v/B+DYpeyULFOAl1yd9tj0VhoFjG61dLDlAvv98BA==",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
-                "icono": "https://i.ibb.co/RTFGW000/nba-logo-nba-icon-transparent-free-png.webp"
 	    }
-    ]
-	},
-	{
-    "name": "FORMULA 1 - GP DE CHINA",
-    "samples": [
-	    {
-                "name": "ECUADOR vs VENEZUELA - EN VIVO",
-                "uri": "WOcrDWuqtQOmLkGppbrwdFPBP6ee4U+N2cQwLPnvN4MdG4RavaHtQgFziVAcsjWPeqaRPy1IIn7SI4O4C9Nnwz400856vSu/3WPKytvG5ZK2HFyDfZaiupWWnezIcPU/noYhjtms9cDlLHQIDAqqOiC2EGWrZwb+8iNqTtyZrLMAqTuqjYpoxXoF8ItnLpoAtj0VhoFjG61dLDlAvv98BA==",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
-                "icono": "https://i.ibb.co/gZQBbdKD/IZSds-C7-B8-386x280-1.jpg"
-	},
-	        {
-                "name": "ECUADOR vs VENEZUELA OPC 2",
-                "uri": "+6gR63Qx7Ca9UxUObegqc8A1DvHphTPV5F4G7afDziKoY4nfRYMwLYxRdyalElV/3k/1RoSzMaYK2rFLKROMBFKXBAa1Whh1aZoYwZ2BuGziD/ssVEnB6D50/boknrXo",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
-                "icono": "https://i.ibb.co/gZQBbdKD/IZSds-C7-B8-386x280-1.jpg"
-	},
-	    {
-                "name": "ECUADOR vs VENEZUELA - Op. 2",
-                "uri": "WOcrDWuqtQOmLkGppbrwdFPBP6ee4U+N2cQwLPnvN4MdG4RavaHtQgFziVAcsjWPeqaRPy1IIn7SI4O4C9Nnwz400856vSu/3WPKytvG5ZJxrQFfubskeyXN/Naph6JP0JvNZQXZGVeBj/a99lo+kEI1ihWEKm6k7XTHYZ9QPJGbeh9mGzYEVXpZwKr7HYpEtj0VhoFjG61dLDlAvv98BA==",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
-                "icono": "https://i.ibb.co/gZQBbdKD/IZSds-C7-B8-386x280-1.jpg"
-	},
-	    {
-                "name": "URUGUAY vs ARGENTINA - 20:30 HS",
-                "uri": "WOcrDWuqtQOmLkGppbrwdFPBP6ee4U+N2cQwLPnvN4MdG4RavaHtQgFziVAcsjWPeqaRPy1IIn7SI4O4C9Nnwz400856vSu/3WPKytvG5ZK2HFyDfZaiupWWnezIcPU/noYhjtms9cDlLHQIDAqqOiC2EGWrZwb+8iNqTtyZrLMAqTuqjYpoxXoF8ItnLpoAtj0VhoFjG61dLDlAvv98BA==",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
-                "icono": "https://i.ibb.co/qM1r1CSg/OIP.jpg"
-	},
-	    
-	     {
-        "name": "URUGUAY vs ARGENTINA Op. 2",
-        "uri": "idbcQyPGSnG6aV0+DhKe2d9iCS1NYtL5DU/ACntMeK3QiWI3AvC9HiDUCVHqki7a",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5yZEjzmjag4nPn2dTcDk/NLUlpbtCDsWW2B1TUkz9FgHVd8XUy15SoSTxvjqLf9WRb46FzMRfkszIvnGOWZPt9KCjawTVWyaQsCj1dF3ueqw=",
-        "icono": "https://i.ibb.co/gj3D2b4/Telefe.png"
-    }
     ]
 	    },
 	{
