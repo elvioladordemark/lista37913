@@ -69,48 +69,7 @@
 	{
     "name": "ELIMINATORIAS SUDAMERICANAS 2026",
     "samples": [
-{
-                "name": "BOLIVIA vs URUGUAY - Unicanal",
-                "uri": "svYnf1tOSNM7703YskeocNHzAxb3uL/VtFunT0kJGyoyeopipe+YyAuIk/q4spbMSOGxcPBGOePJ+m5akSyjst1HZ8kTBVt7TY0IH8CDMTU=",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
-                "icono": "https://i.ibb.co/PsRPFmTN/Rh2n-o-HGN-1290x760-1.jpg"
-	},
-	{
-                "name": "BOLIVIA vs URUGUAY - Gen",
-                "uri": "WOcrDWuqtQOmLkGppbrwdFPBP6ee4U+N2cQwLPnvN4MdG4RavaHtQgFziVAcsjWPeqaRPy1IIn7SI4O4C9Nnwz400856vSu/3WPKytvG5ZK2HFyDfZaiupWWnezIcPU/noYhjtms9cDlLHQIDAqqOiC2EGWrZwb+8iNqTtyZrLMAqTuqjYpoxXoF8ItnLpoAtj0VhoFjG61dLDlAvv98BA==",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
-                "icono": "https://i.ibb.co/PsRPFmTN/Rh2n-o-HGN-1290x760-1.jpg"
-	},
-	{
-                "name": "BOLIVIA vs URUGUAY - TyC Sports",
-                "uri": "WOcrDWuqtQOmLkGppbrwdFPBP6ee4U+N2cQwLPnvN4MdG4RavaHtQgFziVAcsjWPeqaRPy1IIn7SI4O4C9Nnwz400856vSu/3WPKytvG5ZIrE+NjAM1t4iEOOaIfkXhrqwy/kYzAmlsa15eNc970FQulb1IdB8ulvm+9Gx5zV6zrTJuo6U1XbF7u3ueyfEVFtj0VhoFjG61dLDlAvv98BA==",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
-                "icono": "https://i.ibb.co/PsRPFmTN/Rh2n-o-HGN-1290x760-1.jpg"
-	},
-	    {
-                "name": "BOLIVIA vs URUGUAY - Caracol",
-                "uri": "sLCzZ+gK3g7xZspbfZ1pOC+e6dX90owoQtzpHstadbrHM+u2vVTnTNTn4/5ic6fW",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
-                "icono": "https://i.ibb.co/PsRPFmTN/Rh2n-o-HGN-1290x760-1.jpg"
-	},
-	    {
-                "name": "BOLIVIA vs URUGUAY - Latina",
-                "uri": "OIUpieJCXgJs4/KlnFdF9rrPyA7Mgq1ytTRAu8JRQIBvfH0acxj3+Tx0KRjB0bXO9FjVlJvXQycnsYzZ4EcE874vyKCXnFbK9hXnCxTNMy9aVnRWd862vCVDfsfPXBO0smz6N4WAbqV5nBd7o7PRrv6EtRd7We8UEqxrJFuAFN4=",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
-                "icono": "https://i.ibb.co/PsRPFmTN/Rh2n-o-HGN-1290x760-1.jpg"
-	},
-	     {
-                "name": "BOLIVIA vs URUGUAY - SportvBR (Portugués)",
-                "uri": "WOcrDWuqtQOmLkGppbrwdFPBP6ee4U+N2cQwLPnvN4MdG4RavaHtQgFziVAcsjWPeqaRPy1IIn7SI4O4C9Nnwz400856vSu/3WPKytvG5ZJvZwmX6BYagSjm5zUMHze0D1oKA0dsYD3VEI58yIie3Wt3db7r0RbpE3K9QtyhMRwvn7xoXOaX3Zi8WjFkQqrUtj0VhoFjG61dLDlAvv98BA==",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDNlFQ+0qaYacHoOPj6xEarFEfGfchy5b232YhNr545TuOZLVEDKcjXMsqPyerDS6VZOsQ2zmgNsU3K2z4rnXK3PrW1A2rMexZJCG8/Y+afr2P5qRb3mhYrV5keLQHjKGuQ==",
-                "icono": "https://i.ibb.co/PsRPFmTN/Rh2n-o-HGN-1290x760-1.jpg"
-	},
+
 	    {
                 "name": "VENEZUELA vs PERÚ - ATVPE",
                 "uri": "y/mYvJ5eMjCaDWCE225ytkvVgbdz0GGRb6sTx3sN/0NbL+fvIZef2rXt+tiVkFXwY6xWax5HLb7y31rjb1kYjA==",
