@@ -1098,6 +1098,14 @@
         "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg"
       },
 	    {
+        "name": "PREMIERE 5",
+        "uri": "WOcrDWuqtQOmLkGppbrwdFPBP6ee4U+N2cQwLPnvN4MdG4RavaHtQgFziVAcsjWPeqaRPy1IIn7SI4O4C9Nnwz400856vSu/3WPKytvG5ZLvepZe8Ar7FDqLkItiFRSo3XY8SkSaubQRAW2oHIXvwayIB0koL5wF2m7jfqwMsI79xHgiUR6chpiSlPFWBAPWtj0VhoFjG61dLDlAvv98BA==",
+	       "drm_scheme": "clearkey",
+        "drm_license_uri": "L0H6bVIymxE/Ljo0epZawR26niTD+1522gqmn6LM/HChB/f2XeSMkgEynaHJGsyc/p1yrupx0WTV5pawpvz0OaVj6kriAYGdH1eDGZBYvNZlj7SwMGyB44R5+EV4yRwt+FQ22aLyTZWR/edq5WtKI3PAJe0BH0+ivjij6r2wINVt+79NRqhmAHMxLw7YhXrxb7K5cHupMh3IjGNyrSl6ow==",
+       
+        "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg"
+      },
+	    {
         "name": "BANDSPORTS",
         "uri": "fK8jKzEvhnU0vkPVgkwNQpo3oqIl1k4uU1MwbYLw4rZa9AFAXd/x+iw/sfKHNeaU",
 	       "drm_scheme": "clearkey",
