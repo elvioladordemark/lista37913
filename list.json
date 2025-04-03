@@ -1950,14 +1950,10 @@
         "uri": "eY3svJeGqqRmOmuwy2DhJagCCB1bIkOsoG1zGOH5GC1SOkkmp+GUATrwxXnIvgrU0Af0a1QC0MYniOSLNznCWA==",
         "icono": "https://i.ibb.co/j80Rjhd/MJzuRAN.png"
       },
-	    {
-      "name": "RCN2",
-        "uri": "skURtWRTgIKDCG5SM6v/3x0kIA5YnrDWVgivoAB56OgviDARJ57nk0YUd2zK7wa+",
-        "icono": "https://i.ibb.co/ZzJZHbnH/SrMPTfc.png"
-      },
+	
  {
         "name": "RCN NOVELAS",
-        "uri": "SPZcwoDQvkyhYkK9hJnZ4KXWcfgFtqO0cK27qlHfMAbYAlu7OWgAzSZDEYGQyJSEDIhonpwueawlJZghT9f0Rw==",
+        "uri": "84nswe3x86B5pQ2W7354bPfE7Q02wNzlgk+MxC87FFzZA7jdDBacFpVUqXtKpMyT",
         "icono": "http://static.tvar.io/imagenes/rcnovelas.png"
       },
 	    {
@@ -1984,13 +1980,7 @@
         "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5Vi2fB/jh+mdAv4zkP4ZTJKt+iDBSxXZs3rVPwcqyZOfuLIvVfZZVMUvmdPdbGw9DwAiitp8G7IllWuxbyHZX02OVQ5aDFeqWMiE9QTMc2bs=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
     },
-	      {
-        "name": "LAS ESTRELLAS MX OPC.2",
-        "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLaId9YzID8bXEKlUdFsN5k2tj0VhoFjG61dLDlAvv98BA==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "vYfcFq8IZDpPY58GvPpH4ekp2nhBmoIFEPas5PivksNpmCrdvpTZx5w4WvnxhlL5Vi2fB/jh+mdAv4zkP4ZTJKt+iDBSxXZs3rVPwcqyZOfuLIvVfZZVMUvmdPdbGw9DwAiitp8G7IllWuxbyHZX02OVQ5aDFeqWMiE9QTMc2bs=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
-    },
+	
     {
         "name": "PASIONES",
         "uri": "x3y2YNSPEXbtB8TtUO0W3b4yn0Q2abletwHUZ1Or6J1pNfXZyLGw7ht4fGXHzaoZfqGwAPDjKF7KgZU7rjNKV8q/vXL3d03Gq8Ui0GWs4mg=",
