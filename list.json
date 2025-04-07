@@ -68,13 +68,7 @@
 	{
     "name": "🏆EVENTO - COPA DEL REY",
     "samples": [
- {
-                "name": "At. Madrid vs Barcelona",
-                "uri": "WOcrDWuqtQOmLkGppbrwdFPBP6ee4U+N2cQwLPnvN4MdG4RavaHtQgFziVAcsjWPeqaRPy1IIn7SI4O4C9Nnwz400856vSu/3WPKytvG5ZKiMzeV9knT81kzDqZ3PT2cd5YASgyM3F2O+97dN+gFxzwUXiGaMWco+pnHLQTsoywyGzj1e1GIWWGcR7Bqnl3Ytj0VhoFjG61dLDlAvv98BA==",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
-                "icono": "https://i.postimg.cc/gcK9ctZs/descarga-20.jpg"
-			}
+ 
     ]
 	},
 	{
@@ -1440,6 +1434,13 @@
                 "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHDnuHFrmukKs6mMX0YzZpjktDvMQ8Ac3kUDk8mxmS4ZrK/jBD8zgdo5skNOE38sUJ2sF8S2gEhpBOHNQNosMh+dUhr+EpUAC1y2/Fl1Ot2O9",
                 "icono": "https://i.ibb.co/k31DCf4/Do0-qz-Jj-Xw-GBUbh-K7n-CQi-Vro2-YT51-DHh-Bw7-On-Tv-Jr35-PEACSqaqhxf-Hdmed-SZr-Ei-LTiuq-ERb-s900-c-k.webp"
 	    },
+	    {
+                "name": "SKY SPORTS",
+                "uri": "WOcrDWuqtQOmLkGppbrwdFPBP6ee4U+N2cQwLPnvN4MdG4RavaHtQgFziVAcsjWPeqaRPy1IIn7SI4O4C9Nnwz400856vSu/3WPKytvG5ZKiMzeV9knT81kzDqZ3PT2cd5YASgyM3F2O+97dN+gFxzwUXiGaMWco+pnHLQTsoywyGzj1e1GIWWGcR7Bqnl3Ytj0VhoFjG61dLDlAvv98BA==",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDDm8kM5SiAbb1P1N8BArw0uVPKw1eMtb5g+mPUgmJukMF2K/Lgexw0UjqEG6zL+wou5yRZqDO/MpIF2nW6i5umRGEMv4T+oyr/wG+1YjVFvL3XlKEbBz8i5MiiBJmxv4Jw==",
+                "icono": "https://i.ibb.co/wFbZfmDT/2560px-Sky-Sport-Logo-2020-svg.png"
+			},
 		{
                 "name": "EVENTO MLS 1",
                 "uri": "WOcrDWuqtQOmLkGppbrwdFPBP6ee4U+N2cQwLPnvN4MdG4RavaHtQgFziVAcsjWPeqaRPy1IIn7SI4O4C9Nnwz400856vSu/3WPKytvG5ZJvonEp0dNbItkechGmqeiSchZavChmXmFj3wc4UOG67upTURSofmQuIhZ3bq2imfcOhNIwUWujJwvpwbajMYNNtj0VhoFjG61dLDlAvv98BA==",
