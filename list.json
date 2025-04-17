@@ -1,1 +1,12 @@
-ACTUALIZAR LA NUEVA VERSIÓN CON SUS VENDEDORES
+[
+   
+
+    {
+    "name": " ACTUALIZAR A LA NUEVA VERSIÓN CON SUS VENDEDORED",
+    "samples": [
+
+           {
+        "name": "ACTUALIZACIÓN OBLIGATORIA",
+        "url": "https://sam-py-edge05.tigo.com.py/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+        "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
+    }
